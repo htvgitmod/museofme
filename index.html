@@ -13,7 +13,8 @@
   header h1 { font-family: 'Caveat', cursive; font-size: 44px; margin: 0; line-height: 1.1; }
   header p { color: #6f6555; margin: 6px 0 0; line-height: 1.6; }
   .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; }
-  .card { display: block; background: #fff; border-radius: 14px; padding: 16px; border-top: 6px solid #888; box-shadow: 0 2px 8px rgba(0,0,0,.08); }
+  .card { display: block; text-decoration: none; color: inherit; }
+  a.card:hover { transform: translateY(-2px); box-shadow: 0 6px 16px rgba(0,0,0,.12); } background: #fff; border-radius: 14px; padding: 16px; border-top: 6px solid #888; box-shadow: 0 2px 8px rgba(0,0,0,.08); }
   .card.game { border-top-color: #e4572e; }
   .card.substack { border-top-color: #d81159; }
   .card.distill { border-top-color: #0d9488; }
@@ -32,7 +33,7 @@
 <div class="wrap">
   <header>
     <h1>Kho Tổng</h1>
-    <p>Bản đồ các lịch nghiên cứu hằng ngày.<br>Trong app này, file HTML không mở được file HTML khác bằng link, nên mỗi trang mở từ file đính kèm trong tin nhắn (các chat vẫn gửi file mới mỗi ngày) — trang này chỉ để nhìn tổng quan.</p>
+    <p>Bản đồ các lịch nghiên cứu hằng ngày.<br>Bấm vào một thẻ để mở dashboard tương ứng — các trang tự cập nhật sau mỗi lượt quét.</p>
   </header>
 
   <div class="grid">
@@ -42,30 +43,27 @@
       <div class="meta"><span>19:00 hằng ngày</span><span>Tab: Chờ duyệt / Đã duyệt / Quan tâm / Đã làm</span></div>
     </div>
 
-    <div class="card substack">
+    <a class="card substack" href="substack-iamhtv.html">
       <h2>📝 Nguyên liệu Substack iamHTV</h2>
       <p>Note viết sẵn + câu hỏi thảo luận theo 5 trụ: tâm lý, năng suất, phát triển bản thân, luyện viết, AI/Marketing.</p>
       <div class="meta"><span>06:17 hằng ngày</span><span>6 gói · 58 mục</span></div>
-    </div>
-
-    <div class="card distill">
+    </a>
+    <a class="card distill" href="web-distill.html">
       <h2>📚 Kho Web Distill</h2>
       <p>Ý tưởng chưng cất sách/tác phẩm thành web — kèm mức tự động hoá, cách ra tiền, lưu ý bản quyền.</p>
       <div class="meta"><span>19:00 hằng ngày</span><span>31 thẻ</span></div>
-    </div>
-
-    <div class="card facebook">
+    </a>
+    <a class="card facebook" href="quet-facebook.html">
       <h2>📘 Quét vấn đề Facebook</h2>
       <p>Vấn đề thật người dùng đang than + ý tưởng kiếm tiền tương ứng, gom theo từng ngày.</p>
       <div class="meta"><span>20:17 hằng ngày</span><span>7 ngày · 35 vấn đề · 27 ý tưởng</span></div>
-    </div>
-
-    <div class="card webapp">
+    </a>
+    <a class="card webapp" href="webapp-ai.html">
       <h2>💡 Kho Webapp/AI</h2>
       <p>Ý tưởng webapp/AI cho người không rành công nghệ, xếp hạng theo điểm + tệp người dùng.</p>
       <div class="meta"><span>21:17 hằng ngày</span><span>32 thẻ</span></div>
+    </a>
     </div>
-  </div>
 
   <div class="note">
     <b>Cách dùng tab mới:</b> trong mỗi trang, trên đầu lưới thẻ có 3 tab
@@ -76,7 +74,7 @@
     (không đồng bộ sang máy khác).
   </div>
 
-  <footer>Số lượng thẻ tính đến 24/10/2026 — các lượt quét sau sẽ tự tăng lên.</footer>
+  <footer>Các dashboard tự cập nhật sau mỗi lượt quét hằng ngày.</footer>
 </div>
 </body>
 </html>
