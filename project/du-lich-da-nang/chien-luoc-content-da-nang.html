@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chiến lược content web Thổ Địa Đà Nẵng — Toàn bộ kế hoạch</title>
+<style>
+  :root{--ink:#1a2332;--muted:#5b6b82;--accent:#0e7a5f;--accent2:#b3540e;--bg:#f7f5f0;--card:#ffffff;--line:#e3ded2;}
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.65;font-size:16.5px}
+  .wrap{max-width:900px;margin:0 auto;padding:28px 20px 80px}
+  header{border-bottom:3px solid var(--accent);padding-bottom:18px;margin-bottom:26px}
+  header h1{font-size:30px;line-height:1.25;margin:0 0 8px}
+  header .sub{color:var(--muted);font-size:15px}
+  h2{font-size:23px;margin:42px 0 12px;padding-top:10px;border-top:2px solid var(--line)}
+  h2:first-of-type{border-top:none}
+  h3{font-size:18.5px;margin:26px 0 8px;color:var(--accent)}
+  h4{font-size:16.5px;margin:20px 0 6px}
+  p{margin:8px 0}
+  ul,ol{margin:8px 0 8px 22px;padding:0}
+  li{margin:5px 0}
+  table{border-collapse:collapse;width:100%;margin:14px 0;font-size:14.5px;background:var(--card)}
+  th,td{border:1px solid var(--line);padding:7px 9px;text-align:left;vertical-align:top}
+  th{background:#eef4f1}
+  .callout{background:#fff8ec;border-left:4px solid var(--accent2);padding:12px 16px;margin:16px 0;border-radius:4px}
+  .good{background:#eefaf4;border-left:4px solid var(--accent);padding:12px 16px;margin:16px 0;border-radius:4px}
+  .tag{display:inline-block;background:var(--accent);color:#fff;border-radius:10px;padding:0 9px;font-size:12.5px;margin-right:4px}
+  .tag.warn{background:var(--accent2)}
+  .tag.grey{background:#8a97a8}
+  .small{font-size:14px;color:var(--muted)}
+  code{background:#eceae2;padding:1px 5px;border-radius:3px;font-size:14px}
+  .kpi{display:flex;gap:12px;flex-wrap:wrap;margin:14px 0}
+  .kpi div{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px 16px;flex:1;min-width:180px}
+  .kpi b{font-size:20px;display:block;color:var(--accent)}
+  footer{margin-top:50px;border-top:2px solid var(--line);padding-top:14px;color:var(--muted);font-size:14px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>Chiến lược content web "Thổ Địa Đà Nẵng"</h1>
+  <div class="sub">Clone mô hình thodiacaobang.com cho Đà Nẵng — toàn bộ chiến lược nội dung, lịch trình, tuyến bài và hệ thống cập nhật tự động / bán tự động. Nghiên cứu ngày 20/10/2026.</div>
+</header>
+
+<h2>1. Kết luận thẳng thắn trước khi bắt đầu</h2>
+<p><b>Đà Nẵng không phải Cao Bằng thứ hai.</b> Đây là thị trường du lịch top đầu cả nước: các từ khoá lớn ("kinh nghiệm du lịch Đà Nẵng", "lịch trình Đà Nẵng 3 ngày 2 đêm") đã bị khoá chặt bởi OTA (Traveloka, Agoda, Vietnam Booking) và các domain lâu năm như danangbest.com. Một web mới đốt 6 tháng viết bài tổng quát gần như chắc chắn không có traffic.</p>
+<p><b>Nhưng khoảng trống là có thật:</b> đến nay <b>chưa có ai làm trọn mô hình "thổ địa + dữ liệu giá cập nhật hằng ngày + booking trực tiếp" cho Đà Nẵng</b>. Các mảnh ghép đang rời rạc — chudu24 có giá + booking nhưng không có chất thổ địa; khamphadanang.vn có chất thổ địa nhưng làm thủ công, giá ước lượng; dananghotelguide.com làm ngách chuyên sâu nhưng chỉ tiếng Anh và không có dữ liệu giá.</p>
+<div class="good"><b>Lợi thế riêng của bạn:</b> bạn sống và làm marketing tại Đà Nẵng — bạn là "thổ địa" thật, kiểm chứng được mọi thông tin tại chỗ, tự chụp được ảnh thật. Đây là thứ đối thủ ở xa không copy được. Cộng với quỹ thời gian ~30 phút/ngày, toàn bộ chiến lược dưới đây được thiết kế để <b>máy làm 80–90%, người chỉ duyệt</b>.</div>
+<div class="callout"><b>Lưu ý thương hiệu:</b> tên "Thổ Địa Đà Nẵng" đã có một kênh TikTok ẩm thực (@thodiadanang) dùng. Trước khi mua domain cần kiểm tra kỹ domain .vn/.com và tính khả thi đăng ký nhãn hiệu — cân nhắc biến thể tên nếu bị chặn.</div>
+<p><b>Thời điểm bắt đầu gần như hoàn hảo:</b> tháng 10–12 là đáy mùa du lịch Đà Nẵng (mưa bão) — đây là lúc để xây web và sản xuất content. Content lên sóng từ tháng 12/2026–1/2027 sẽ kịp index để đón Tết Nguyên đán 2027, mùa đẹp tháng 3–5/2027 và đỉnh năm là Lễ hội pháo hoa DIFF (tháng 5–7/2027).</p>
+
+<h2>2. Năm ngách tấn công — xếp theo độ khả thi</h2>
+<table>
+<tr><th style="width:34%">Ngách</th><th style="width:44%">Vì sao thắng được</th><th>Giai đoạn</th></tr>
+<tr><td><b>1. Money page dữ liệu giá theo khu vực / nhu cầu</b></td><td>Chưa ai ở mảng tiếng Việt làm lớp giá cập nhật hằng ngày gắn vào trang "phòng gần X". Listicle đối thủ để giá tĩnh chết theo năm. Đặc biệt trống: phòng xem pháo hoa, gần sân bay, theo tên đường.</td><td>Ngay từ đầu</td></tr>
+<tr><td><b>2. Lịch trình theo đối tượng + series tháng gắn dữ liệu</b></td><td>Lịch trình "chuẩn" đã bão hoà, nhưng lịch trình cho gia đình có trẻ &lt;5 tuổi, người lớn tuổi, cặp đôi, solo, trời mưa… gần như trống. Series "Đà Nẵng tháng X" của đối thủ mới nói thời tiết — chưa ai gắn giá phòng + sự kiện của tháng đó.</td><td>Ngay từ đầu</td></tr>
+<tr><td><b>3. Villa / nhóm đông / gia đình nhiều thế hệ</b></td><td>SERP hiện do listing Airbnb chiếm, thiếu hẳn lớp hướng dẫn chọn villa theo khu vực kèm giá tham khảo.</td><td>Tháng 2–3</td></tr>
+<tr><td><b>4. Tuyến "Đà Nẵng mới" sau sáp nhập</b></td><td>Từ 1/7/2025 Quảng Nam sáp nhập vào Đà Nẵng — Hội An, Cù Lao Chàm, Mỹ Sơn nay là "nội tỉnh". Rất ít người làm lại hệ thống nội dung dưới thương hiệu Đà Nẵng cho các điểm này. Gap thời sự, có hạn dùng — phải khai thác sớm.</td><td>Ngay từ đầu</td></tr>
+<tr><td><b>5. Tiếng Anh / tiếng Hàn</b></td><td>Khách Hàn là thị trường quốc tế số 1 của Đà Nẵng nhưng chưa có "thổ địa" tiếng Hàn; tiếng Anh có dananghotelguide.com nhưng mỏng về dữ liệu giá. Rào cản: cần người bản ngữ/đối tác thật, AI dịch suông sẽ lộ.</td><td>Phase sau (tháng 6+)</td></tr>
+</table>
+<p class="small">Nguyên tắc xuyên suốt: <b>không đánh head keyword</b>. Chỉ làm 1 bài pillar "kinh nghiệm du lịch Đà Nẵng" để neo internal link, còn lại toàn lực cho long-tail có dữ liệu.</p>
+
+<h2>3. Kiến trúc nội dung — kế thừa bản vẽ thodiacaobang</h2>
+<p>Web là <b>database-driven</b>: mọi thứ là dữ liệu có cấu trúc (custom post type), không phải bài viết rời rạc. Năm entity chính: <b>Điểm đến</b> (gom theo cụm) · <b>Chỗ nghỉ</b> (theo khu vực, mang dữ liệu giá) · <b>Trải nghiệm</b> · <b>Lịch trình</b> · <b>Dịch vụ</b>. Một chỗ nghỉ nhập 1 lần, xuất hiện đồng thời ở trang chủ, money page, trang ưu đãi và trong bài blog.</p>
+
+<h3>3.1. Mười một cụm điểm đến</h3>
+<table>
+<tr><th style="width:26%">Cụm</th><th>Điểm thành phần chính</th></tr>
+<tr><td><b>1. Trung tâm – Sông Hàn</b></td><td>Cầu Rồng (phun lửa 21h T7+CN), cầu sông Hàn, cầu Tình Yêu + Cá chép hoá Rồng, phố đi bộ Bạch Đằng, công viên APEC, Bảo tàng Chăm, Bảo tàng Đà Nẵng/Thành Điện Hải, nhà thờ Con Gà, chợ Hàn, chợ Cồn</td></tr>
+<tr><td><b>2. Biển Mỹ Khê – An Thượng</b></td><td>Biển Mỹ Khê, bãi Phạm Văn Đồng + công viên Biển Đông, phố Tây An Thượng, chợ đêm Sơn Trà, bãi Mỹ An, bãi T20</td></tr>
+<tr><td><b>3. Bán đảo Sơn Trà</b></td><td>Chùa Linh Ứng Bãi Bụt (tượng Phật Bà 67m), đỉnh Bàn Cờ, Bãi Bụt, Bãi Nam/Bãi Bắc/Hòn Sụp, Ghềnh Bàng, Bãi Đá Đen, Mũi Nghê, Bãi Tiên Sa, voọc chà vá chân nâu</td></tr>
+<tr><td><b>4. Ngũ Hành Sơn – Non Nước</b></td><td>Thuỷ Sơn (động Huyền Không, Âm Phủ), chùa Linh Ứng Non Nước, làng đá mỹ nghệ Non Nước, biển Non Nước</td></tr>
+<tr><td><b>5. Hải Vân – Nam Ô</b></td><td>Đèo Hải Vân + Hải Vân Quan, rạn Nam Ô + làng chài Nam Ô (gỏi cá), Làng Vân, biển Xuân Thiểu, Mikazuki Water Park</td></tr>
+<tr><td><b>6. Bà Nà – Hoà Vang</b></td><td>Bà Nà Hills + Cầu Vàng, chùa Linh Ứng Bà Nà, suối khoáng nóng Núi Thần Tài, trượt thác Hoà Phú Thành, Suối Mơ, Suối Lương</td></tr>
+<tr><td><b>7. Phố cổ Hội An</b></td><td>Chùa Cầu, nhà cổ, hội quán, sông Hoài (hoa đăng), rừng dừa Bảy Mẫu, làng gốm Thanh Hà, làng rau Trà Quế, biển An Bàng/Cửa Đại, VinWonders Nam Hội An, show Ký Ức Hội An</td></tr>
+<tr><td><b>8. Cù Lao Chàm</b></td><td>Bãi Làng, khu bảo tồn biển, chùa Hải Tạng, chợ Tân Hiệp, Bãi Chồng, Bãi Ông</td></tr>
+<tr><td><b>9. Mỹ Sơn</b></td><td>Thánh địa Mỹ Sơn (thường ghép tuyến Hội An)</td></tr>
+<tr><td><b>10. Huế – Lăng Cô</b></td><td>Đèo Hải Vân, vịnh Lăng Cô, đầm Lập An, Đại Nội, chùa Thiên Mụ, lăng Khải Định/Minh Mạng/Tự Đức (cụm day-trip)</td></tr>
+<tr><td><b>11. Bạch Mã</b> <span class="tag grey">ưu tiên thấp</span></td><td>VQG Bạch Mã: thác Đỗ Quyên, Ngũ Hồ, Hải Vọng Đài</td></tr>
+</table>
+<p class="small">Các pillar lớn cần trang riêng: Bà Nà Hills, Hội An, Cù Lao Chàm, Huế, Mỹ Sơn, biển Mỹ Khê, chùa Linh Ứng Sơn Trà, Ngũ Hành Sơn, đèo Hải Vân, cầu Rồng. Trục nội dung phụ rất mạnh riêng của Đà Nẵng: <b>"tam Linh Ứng"</b> (3 chùa Linh Ứng: Sơn Trà – Non Nước – Bà Nà), lịch phun lửa cầu Rồng, và tuyến <b>3 di sản UNESCO trong bán kính ~100km</b> (Hội An – Mỹ Sơn – Huế).</p>
+
+<h3>3.2. Mười hai money page "phòng gần X" — theo thứ tự làm</h3>
+<table>
+<tr><th style="width:30%">Trang</th><th style="width:24%">Slug</th><th>Lý do / nhu cầu</th><th style="width:12%">Ưu tiên</th></tr>
+<tr><td>Phòng gần biển Mỹ Khê</td><td><code>/phong-gan-bien-my-khe/</code></td><td>Money page số 1: lượng tìm kiếm + nguồn phòng lớn nhất (gia đình, cặp đôi, khách quốc tế)</td><td><span class="tag">Cao</span></td></tr>
+<tr><td>Phòng gần Bà Nà Hills</td><td><code>/phong-gan-ba-na-hills/</code></td><td>Khách tìm chỗ ở chân núi / cân nhắc ngủ lại (trên đỉnh chỉ có 1 khách sạn)</td><td><span class="tag">Cao</span></td></tr>
+<tr><td>Phòng gần Cầu Rồng / sông Hàn</td><td><code>/phong-gan-cau-rong/</code></td><td>Xem phun lửa cuối tuần; cũng là trang hứng traffic DIFF (view pháo hoa)</td><td><span class="tag">Cao</span></td></tr>
+<tr><td>Phòng gần phố cổ Hội An</td><td><code>/phong-gan-hoi-an/</code></td><td>Hứng cả 2 tệp tìm kiếm "ở Đà Nẵng hay Hội An"; theo tuyến Đà Nẵng mới</td><td><span class="tag">Cao</span></td></tr>
+<tr><td>Phòng gần sân bay Đà Nẵng</td><td><code>/phong-gan-san-bay-da-nang/</code></td><td>Nhu cầu transit thật, tỉ lệ chuyển đổi cao, đối thủ chưa làm chuyên sâu</td><td><span class="tag">Cao</span></td></tr>
+<tr><td>Phòng ở phố An Thượng</td><td><code>/phong-o-an-thuong/</code></td><td>Boutique/homestay/căn hộ giá mềm cho khách Tây, nomad, ở dài hạn — khu đang lên</td><td><span class="tag">Cao</span></td></tr>
+<tr><td>Phòng gần chợ Hàn (trung tâm)</td><td><code>/phong-gan-cho-han/</code></td><td>Ăn uống, mua đặc sản, gần mọi điểm trung tâm; khách công tác</td><td>Trung</td></tr>
+<tr><td>Phòng gần Ngũ Hành Sơn</td><td><code>/phong-gan-ngu-hanh-son/</code></td><td>Ghép dải resort Non Nước + khách đi Hội An</td><td>Trung</td></tr>
+<tr><td>Phòng gần Sơn Trà / chùa Linh Ứng</td><td><code>/phong-gan-son-tra/</code></td><td>Resort + khách sạn phía Thọ Quang, tệp thích yên tĩnh</td><td>Trung</td></tr>
+<tr><td>Phòng gần Cù Lao Chàm</td><td><code>/phong-gan-cu-lao-cham/</code></td><td>Homestay trên đảo — nguồn phòng ít nhưng gần như không cạnh tranh</td><td>Trung</td></tr>
+<tr><td>Phòng gần Asia Park / chợ đêm Helio</td><td><code>/phong-gan-asia-park/</code></td><td>Gia đình có trẻ em</td><td>Thấp–Trung</td></tr>
+<tr><td>Phòng gần Núi Thần Tài</td><td><code>/phong-gan-nui-than-tai/</code></td><td>Nhu cầu ở lại 1 đêm tại khu suối khoáng</td><td>Thấp–Trung</td></tr>
+</table>
+<p class="small">Khu vực lưu trú bổ sung cho các bài "ở khu nào": dải resort Trường Sa – Non Nước (gia đình cao cấp, golf, MICE), bán đảo Sơn Trà (luxury biệt lập), gần sân bay/Nguyễn Văn Linh (transit), Liên Chiểu phía bắc (ngân sách thấp, đi Hải Vân–Huế).</p>
+
+<h2>4. Hệ thống tuyến bài — 6 tuyến</h2>
+
+<h3>Tuyến 1 — Review chỗ nghỉ (theo template bản gốc)</h3>
+<p>Khung cố định: <i>1. Thông tin chung (tên, đánh giá, địa chỉ, SĐT, link đặt phòng) → 2. Ưu điểm &amp; điểm nổi bật → 3. Phù hợp với ai?</i> Mỗi bài review nuôi ngược money page của khu vực đó bằng internal link. Ưu tiên review các chỗ nghỉ ở Mỹ Khê, An Thượng, ven sông Hàn trước.</p>
+
+<h3>Tuyến 2 — Money guide "Phòng gần X – giá tốt, view đẹp"</h3>
+<p>Một bài cho mỗi money page ở mục 3.2, nhúng card giá thật ngay đầu bài. Đây là tuyến chuyển đổi trực tiếp ra đơn affiliate.</p>
+
+<h3>Tuyến 3 — Lịch trình theo đối tượng (ngách trống nhất)</h3>
+<p>Ma trận: <b>số ngày</b> (1 ngày, 2N1Đ, 3N2Đ, 4N3Đ, 5N4Đ) × <b>combo</b> (ĐN đơn, ĐN–Hội An, ĐN–Huế, ĐN–Bà Nà–Hội An, ĐN–Hội An–Cù Lao Chàm, ĐN–Mỹ Sơn–Hội An) × <b>đối tượng</b>. Khung chuẩn 3N2Đ để neo link; bản theo đối tượng mới là nơi lấy traffic:</p>
+<ul>
+<li><b>Gia đình có trẻ dưới 5 tuổi:</b> nhịp chậm, 1 điểm lớn/ngày (Bà Nà, Asia Park, Núi Thần Tài), ở resort biển, tránh Cù Lao Chàm nếu bé say sóng, xe 7 chỗ có tài xế.</li>
+<li><b>Người lớn tuổi:</b> ô tô có tài xế, điểm tâm linh (Linh Ứng Sơn Trà, Ngũ Hành Sơn có thang máy), Huế di sản, tránh Bà Nà ngày đông.</li>
+<li><b>Cặp đôi:</b> Sơn Trà hoàng hôn, Cầu Vàng sáng sớm, Hội An tối hoa đăng, du thuyền sông Hàn, Sun Wheel đêm.</li>
+<li><b>Nhóm bạn trẻ / phượt:</b> check-in dày (Cầu Vàng, đỉnh Bàn Cờ, Hải Vân, Rạn Nam Ô), lặn Cù Lao Chàm, thuê xe máy tự lái, cung đường + chi phí xăng xe.</li>
+<li><b>Khách công tác tranh thủ 1 ngày</b> và <b>lịch trình khi trời mưa</b> — hai bài gần như không có đối thủ tiếng Việt.</li>
+</ul>
+
+<h3>Tuyến 4 — Series "Đà Nẵng tháng X" gắn dữ liệu (format thắng của bản gốc, nâng cấp)</h3>
+<p>Mỗi tháng 1 bài, cấu trúc cố định: <i>thời tiết tháng này → sự kiện đang diễn ra → biển/đảo có đi được không → giá phòng &amp; vé tháng này biến động ra sao → nên đi đâu, ở khu nào</i>. Đối thủ mới chỉ làm phần thời tiết; phần <b>giá + sự kiện</b> là khác biệt của mình. 12 bài = 12 cửa vào SEO chạy quanh năm.</p>
+
+<h3>Tuyến 5 — Listicle kinh nghiệm &amp; ẩm thực</h3>
+<ul>
+<li>Kinh nghiệm: "{N} lưu ý khi đi {điểm}", "Đi Bà Nà mặc gì", "Xem cầu Rồng phun lửa ở đâu đẹp nhất", "Đi Cù Lao Chàm cần biết gì về tàu và sóng"...</li>
+<li>Ẩm thực có dữ liệu (thay list địa chỉ tĩnh): mì Quảng, bánh tráng cuốn thịt heo, bún chả cá, bánh xèo – nem lụi, gỏi cá Nam Ô, bê thui Cầu Mống, hải sản "không bị chặt chém" — kèm giá món cập nhật, quán mở khuya, quán gần từng khu lưu trú. Các "điểm ẩm thực" có entry riêng: chợ Cồn, chợ Hàn, chợ đêm Helio, chợ đêm Sơn Trà, phố Phan Tứ, phố Huỳnh Thúc Kháng.</li>
+</ul>
+
+<h3>Tuyến 6 — Hub sự kiện &amp; giá vé (trang dữ liệu, cập nhật theo năm)</h3>
+<ul>
+<li><b>Hub DIFF:</b> lịch thi từng đêm, giá vé khán đài (2026: 1–4 triệu/ghế tuỳ đêm), điểm xem miễn phí, khách sạn view pháo hoa, combo vé. Cập nhật mỗi năm khi BTC công bố (thường tháng 1–3).</li>
+<li><b>Trang giá vé:</b> Bà Nà (2026: người lớn ngoại tỉnh 1.000.000đ; dân Đà Nẵng 650.000đ; combo buffet 1.300.000đ; từ 1/1/2026 vé hiệu lực 3 ngày), Cù Lao Chàm (tour ghép 550–650k; cano lẻ khứ hồi ~470k), Núi Thần Tài (gói phổ thông 480k), Asia Park (vào cổng miễn phí, Sun Wheel ~100k, trọn gói ~200k), thuê xe máy (90–180k/ngày), thuê ô tô có lái (sân bay ~150k; ĐN–Hội An 2 chiều 600–800k; ĐN–Bà Nà 700–900k; ĐN–Huế 1 ngày 1,5–1,8 triệu).</li>
+</ul>
+
+<h3>4.1. Danh sách seed — ~40 bài/trang đầu tiên, theo thứ tự làm</h3>
+<table>
+<tr><th style="width:8%">Đợt</th><th>Nội dung</th><th style="width:20%">Mục đích</th></tr>
+<tr><td><b>Đợt 1</b><br>(tháng 1)</td><td>6 money page ưu tiên cao (Mỹ Khê, Bà Nà, Cầu Rồng, Hội An, sân bay, An Thượng) + 6 bài money guide tương ứng + bài pillar "kinh nghiệm du lịch Đà Nẵng" (chỉ để neo link) + hub giá vé Bà Nà</td><td>Dựng khung chuyển đổi</td></tr>
+<tr><td><b>Đợt 2</b><br>(tháng 2)</td><td>5 bài lịch trình theo đối tượng (gia đình trẻ nhỏ, lớn tuổi, cặp đôi, nhóm trẻ, trời mưa) + 3 lịch trình chuẩn (2N1Đ, 3N2Đ, 4N3Đ) + series tháng 1, 2, 3 (đón Tết + mùa đẹp)</td><td>Đánh ngách trống</td></tr>
+<tr><td><b>Đợt 3</b><br>(tháng 3)</td><td>6 money page còn lại + 10 bài review chỗ nghỉ đầu tiên + hub DIFF 2027 (lên trước đỉnh search 6–10 tuần) + bài "ở khu nào khi đến Đà Nẵng" + tuyến villa/nhóm đông (3 bài)</td><td>Đón mùa cao điểm</td></tr>
+<tr><td><b>Duy trì</b></td><td>Mỗi tháng: 1 bài series tháng + 2–4 bài review/listicle + cập nhật hub sự kiện. Nhịp này khớp ngân sách ~30 phút duyệt/ngày.</td><td>Vận hành bền</td></tr>
+</table>
+
+<h2>5. Content calendar 12 tháng — theo mùa vụ Đà Nẵng</h2>
+<p class="small">Nguyên tắc: nội dung sự kiện phải lên sóng <b>trước đỉnh tìm kiếm 6–10 tuần</b> mới kịp index. Khung mùa: khô tháng 1–8 (đẹp nhất 2–8, biển tắm an toàn 4–8), mưa tháng 9–12 (bão mạnh nhất 10–11), mùa Cù Lao Chàm tháng 3–8.</p>
+<table>
+<tr><th style="width:9%">Tháng</th><th style="width:41%">Sự kiện / mùa</th><th>Content cần có sẵn</th></tr>
+<tr><td><b>1</b></td><td>Đầu mùa khô, mát 19–25°C; không khí Tết, đường hoa xuân</td><td>"Đà Nẵng tháng 1", lịch trình Tết, cảnh báo giá phòng/vé Tết tăng</td></tr>
+<tr><td><b>2</b></td><td>Tết Nguyên đán (2027: đầu–giữa tháng 2); lễ hội Cầu Ngư tháng Giêng; cuối tháng là "điểm ngọt": đẹp + vắng + rẻ</td><td>Du xuân tâm linh (3 chùa Linh Ứng), content sau Tết né đông</td></tr>
+<tr><td><b>3</b></td><td>Marathon Quốc tế Đà Nẵng (2026: 21–22/3); biển bắt đầu đẹp; Cù Lao Chàm mở mùa ổn định</td><td>Du lịch thể thao/chạy bộ, "mùa Cù Lao Chàm bắt đầu", lịch trình mùa xuân</td></tr>
+<tr><td><b>4</b></td><td>Lễ hội Quán Thế Âm Ngũ Hành Sơn (2026: 4–7/4); golf championship; mở màn cao điểm; search đặt phòng DIFF bắt đầu</td><td>Tâm linh/văn hoá, du lịch golf, <b>hub DIFF phải live từ tháng này</b></td></tr>
+<tr><td><b>5</b></td><td>IRONMAN Vietnam (2026: 10/5); khai mạc DIFF (2026: 30/5); Đà Nẵng Food Tour (2026: 20–24/5)</td><td>Series DIFF: đặt phòng view sông Hàn, vé khán đài, điểm xem miễn phí</td></tr>
+<tr><td><b>6</b></td><td>DIFF thi các tối thứ Bảy; đỉnh hè, biển đẹp nhất năm</td><td>Lịch thi từng đêm, khách sạn view pháo hoa, combo ĐN–Hội An–Cù Lao Chàm</td></tr>
+<tr><td><b>7</b></td><td>Chung kết DIFF (2026: 11/7); đỉnh cao điểm, nóng 33–35°C</td><td>Tuần chung kết, kinh nghiệm né đông/nắng ở Bà Nà, đặt sớm</td></tr>
+<tr><td><b>8</b></td><td>Cuối mùa khô; cuối tháng giá mềm dần</td><td>"Đi tháng 8 né đông", deal cuối hè; gieo content mùa thu</td></tr>
+<tr><td><b>9</b></td><td>Bắt đầu mưa; Cù Lao Chàm chạy thất thường; khách Hàn đi dịp Chuseok</td><td>Content mưa: bảo tàng, ẩm thực, Núi Thần Tài; cảnh báo theo dõi thời tiết</td></tr>
+<tr><td><b>10</b></td><td>Đỉnh mưa bão; tàu Cù Lao Chàm thường bị cấm</td><td>"Có nên đi tháng 10?", chính sách đổi/huỷ, điểm trong nhà. Tháng nuôi SEO, không kỳ vọng doanh thu</td></tr>
+<tr><td><b>11</b></td><td>Mưa giảm dần cuối tháng; thấp điểm sâu, giá rẻ nhất</td><td>Săn deal thấp điểm, khách công tác/MICE; chuẩn bị series Tết + năm mới</td></tr>
+<tr><td><b>12</b></td><td>Mát 18–24°C; Giáng sinh, countdown năm mới bên sông Hàn</td><td>Countdown, khách sạn view sông Hàn, bài hub "lịch sự kiện Đà Nẵng năm sau"</td></tr>
+</table>
+
+<h2>6. Hệ thống cập nhật nội dung tự động / bán tự động</h2>
+<div class="good"><b>Nguyên tắc kiến trúc (bài học cốt lõi từ bản gốc):</b> mọi con số biến động — giá, giờ mở cửa, lịch sự kiện — phải nằm trong <b>database có cấu trúc</b>, bài viết chỉ "nhúng" dữ liệu vào. Sửa 1 chỗ → toàn site cập nhật. Không bao giờ hard-code giá vào thân bài viết.</div>
+<table>
+<tr><th style="width:22%">Loại dữ liệu</th><th style="width:26%">Nguồn</th><th style="width:12%">Tần suất</th><th style="width:13%">Mức tự động</th><th>Cách làm</th></tr>
+<tr><td>Giá phòng + tình trạng phòng</td><td>Affiliate API/feed (Agoda, Travelpayouts) — <b>không cào HTML</b> (chặn bot, vi phạm ToS)</td><td>Hằng ngày</td><td><span class="tag">Tự động</span></td><td>Cron gọi API → ghi DB → render card kèm timestamp "cập nhật lúc…". Giai đoạn đầu chưa được cấp API: hiển thị "giá từ" nhập tay + link affiliate.</td></tr>
+<tr><td>Thời tiết / tình trạng biển</td><td>OpenWeather hoặc Open-Meteo (API chính thức, miễn phí)</td><td>6 giờ</td><td><span class="tag">Tự động</span></td><td>Widget dự báo 5 ngày ở trang chủ + trang điểm đến; block "tháng này biển có đẹp không" theo rule mùa (rà soát 1 lần/năm).</td></tr>
+<tr><td>Sự kiện sắp diễn ra</td><td>RSS danangfantasticity.com, Sở Du lịch, báo địa phương</td><td>Hằng tuần</td><td><span class="tag warn">Bán tự động</span></td><td>RSS → AI tóm tắt thành bản nháp (tên, ngày, địa điểm) → bạn duyệt 1 click → đăng; tự ẩn khi qua ngày kết thúc.</td></tr>
+<tr><td>Giá vé Bà Nà / Núi Thần Tài / Asia Park / VinWonders</td><td>Trang giá chính thức của khu + thông báo đại lý</td><td>Quét hằng tuần</td><td><span class="tag warn">Bán tự động</span></td><td>Scraper + so sánh chênh lệch (diff-check): phát hiện giá đổi → tạo nháp thay đổi để duyệt. Giá vé sai 1 số là mất uy tín nên <b>không</b> tự publish.</td></tr>
+<tr><td>Ưu đãi / mã giảm giá</td><td>Feed khuyến mãi Klook, Traveloka, Agoda (qua Involve Asia / Travelpayouts)</td><td>Hằng ngày – tuần</td><td><span class="tag warn">Bán tự động</span></td><td>Kéo feed → lọc từ khoá "Đà Nẵng / Bà Nà" → hiện mục "Ưu đãi đang chạy"; kênh nào không có feed thì nhập tay theo đợt.</td></tr>
+<tr><td>Cảnh báo tàu Cù Lao Chàm</td><td>Suy luận từ dự báo sóng/gió (Open-Meteo Marine); thông báo cấm tàu chính thức: nhập tay</td><td>Hằng ngày (mùa 3–8)</td><td><span class="tag warn">Bán tự động</span></td><td>Vượt ngưỡng sóng → tự hiện cảnh báo mềm "tàu có thể hoãn, kiểm tra trước khi đi".</td></tr>
+<tr><td>Giờ mở cửa, lịch show (cầu Rồng phun lửa, giờ cáp Bà Nà...)</td><td>Trang chính thức</td><td>Rà soát hằng tháng</td><td>Tay có nhắc lịch</td><td>Lưu dạng trường dữ liệu cấu trúc; cron nhắc rà soát định kỳ.</td></tr>
+<tr><td>Giá vé &amp; lịch DIFF</td><td>BTC DIFF / UBND TP công bố</td><td>Theo năm (~tháng 1–3)</td><td>Tay có nhắc lịch</td><td>Dữ kiện ít, giá trị cao — nhập tay có kiểm chứng vào trang hub.</td></tr>
+<tr><td>Giá dịch vụ đối tác (thuê xe, đưa đón)</td><td>Đối tác địa phương báo giá</td><td>Hằng quý</td><td>Tay có nhắc lịch</td><td>Bảng giá trong DB; lịch nhắc gọi đối tác xác nhận mỗi quý.</td></tr>
+<tr><td>Điểm đánh giá / số review</td><td>Google Places API (trả phí theo lượt) hoặc điểm Agoda từ feed</td><td>Tuần – tháng</td><td><span class="tag">Tự động</span></td><td>Chỉ gọi cho top 30–50 điểm/khách sạn chủ lực, cache 7 ngày.</td></tr>
+<tr><td>Nội dung evergreen</td><td>Viết 1 lần (AI hỗ trợ + biên tập)</td><td>Rà soát 6 tháng/lần</td><td><span class="tag warn">Bán tự động</span></td><td>Mỗi bài có trường "ngày rà soát gần nhất"; hệ thống tự liệt kê bài quá hạn để xử lý dần. Đây là lớp bán tự động quan trọng nhất cho SEO dài hạn.</td></tr>
+<tr><td>Ảnh / video mới</td><td>Tự chụp (lợi thế ở tại chỗ), đối tác</td><td>Theo đợt</td><td>Tay</td><td>Không tự động hoá; checklist bản quyền.</td></tr>
+</table>
+
+<h3>6.1. Quy trình sản xuất bài mới (bán tự động, khớp 30 phút/ngày)</h3>
+<ol>
+<li><b>Máy chuẩn bị (0 phút của bạn):</b> hệ thống duy trì hàng đợi chủ đề theo calendar mục 5; đến lịch, AI viết bản nháp theo đúng template của tuyến (đã nhúng sẵn dữ liệu giá/sự kiện mới nhất từ DB), kèm gợi ý internal link và ảnh cần chụp/bổ sung.</li>
+<li><b>Bạn duyệt (~10–15 phút/bài):</b> đọc lướt, sửa giọng văn cho có chất thổ địa (thêm 2–3 chi tiết chỉ người ở Đà Nẵng mới biết — đây là phần AI không thay được và là lý do Google/khách tin bạn hơn đối thủ), bấm đăng hoặc hẹn giờ.</li>
+<li><b>Máy phân phối:</b> bài đăng → tự đẩy bản tóm tắt sang fanpage Facebook + Threads kèm link (nối với mục tiêu tự động hoá page 90% của bạn), tự cập nhật sitemap và ping Search Console.</li>
+<li><b>Máy trông nhà:</b> báo cáo tuần tự tổng hợp: bài nào lên hạng, giá nào thay đổi, bài nào quá hạn rà soát — bạn chỉ xử lý ngoại lệ.</li>
+</ol>
+
+<h2>7. Các kênh doanh thu gắn với content (đủ để biết, cắm sau)</h2>
+<ul>
+<li><b>Khách sạn:</b> Agoda affiliate (như bản gốc) + Travelpayouts (gộp Agoda/Booking/vé máy bay, có API thuận cho tự động hoá).</li>
+<li><b>Vé &amp; tour:</b> Klook qua <b>Involve Asia</b> (kênh chính cho publisher VN: tour ~5–6,5%, vé tham quan ~5%, khách sạn ~6,5%; cookie 30 ngày), KKday (KKpartners ~5%, cookie 30 ngày), Traveloka qua Involve Asia/ACCESSTRADE VN. Đây là nơi bán vé Bà Nà, Cù Lao Chàm, Núi Thần Tài, đưa đón sân bay.</li>
+<li><b>Đại lý vé nội địa cấp 1</b> (Bà Nà, DIFF, Núi Thần Tài): ăn chênh lệch giá thay vì hoa hồng affiliate — cần vốn ôm vé và đối soát, chỉ làm ở phase sau khi đã có lượng.</li>
+<li><b>Dịch vụ địa phương</b> (thuê xe máy/ô tô, đưa đón): không có mạng affiliate chuẩn — làm như bản gốc: hợp tác trực tiếp 2–3 đơn vị tại Đà Nẵng, hoa hồng 10–20%/đơn qua form + tracking Zalo. Đà Nẵng có rất nhiều đơn vị, dễ đàm phán hơn Cao Bằng.</li>
+</ul>
+<p class="small">Lưu ý: với affiliate, tất cả link khách sạn nên đi qua redirect nội bộ cloak như bản gốc (<code>/go/{doi-tac}/{id}</code>), để đếm click theo nguồn và đổi mạng affiliate mà không sửa từng bài.</p>
+
+<h2>8. Roadmap 90 ngày (tháng 10 → 12/2026: xây trong mùa đáy, đón Tết + mùa đẹp)</h2>
+<div class="kpi">
+<div><b>Tháng 1 — Nền móng</b>Domain, hosting, WordPress + custom post types (điểm đến, chỗ nghỉ, trải nghiệm, lịch trình), component card giá (nhập tay), 6 money page ưu tiên cao, 1 bài pillar neo link.</div>
+<div><b>Tháng 2 — Content ngách</b>8 bài lịch trình theo đối tượng + chuẩn, series tháng 1–3, hub giá vé, 6 money page còn lại, pipeline giá phòng (API nếu được duyệt), lịch phun lửa/DIFF gắn theo sự kiện.</div>
+<div><b>Tháng 3 — Đón sóng</b>10 bài review chỗ nghỉ, tuyến villa/nhóm đông, hub DIFF 2027 live, series tháng 4–5, pipeline sự kiện bán tự động, kết nối Klook/Involve Asia, đàm phán đối tác thuê xe đầu tiên.</div>
+</div>
+<p>Tháng 10–11 (đỉnh mưa) là lúc <b>xây không áp lực doanh thu</b>; content cho Tết và mùa đẹp 2027 lên sóng từ tháng 12 — kịp 6–10 tuần index trước các đỉnh tìm kiếm.</p>
+
+<h2>9. Đo lường &amp; rủi ro</h2>
+<h3>KPI theo dõi hằng tuần (tự tổng hợp 1 email)</h3>
+<ul>
+<li>Search Console: impression &amp; click theo cụm (money page / lịch trình / tháng / DIFF).</li>
+<li>Click affiliate theo nguồn (cloak redirect cho biết trang nào convert).</li>
+<li>Mốc: 1.000 click/tháng từ Google trong 6 tháng đầu → bắt đầu tối ưu chuyển đổi, không phải mở rộng bài.</li>
+</ul>
+<h3>Rủi ro cần nhớ</h3>
+<ul>
+<li>Cạnh tranh Đà Nẵng cao hơn Cao Bằng một bậc — thắng bằng dữ liệu và long-tail, không bằng content tổng quát.</li>
+<li>Ba đối thủ cần theo dõi: danangbest.com, dananghotelguide.com, chudu24.com — nếu bên nào bổ sung lớp giá cập nhật hằng ngày, khoảng trống hẹp lại nhanh.</li>
+<li>Giá vé/giá phòng là thông tin nhạy cảm: <b>không bao giờ tự publish dữ liệu giá cào được mà chưa duyệt</b>.</li>
+<li>Khách Hàn cần người tiếng Hàn thật — không dùng AI dịch suông.</li>
+<li>Tuân thủ ToS của Agoda: dùng affiliate API/feed, không cào HTML; và luôn để disclaimer "giá tham khảo, có thể thay đổi".</li>
+</ul>
+
+<footer>
+Chiến lược được tổng hợp ngày 20/10/2026 từ: teardown chi tiết thodiacaobang.com, nghiên cứu SERP &amp; đối thủ du lịch Đà Nẵng, giá vé/sự kiện Đà Nẵng kiểm chứng cùng ngày, và mô hình dữ liệu + tự động hoá của bản gốc. Số liệu giá vé, sự kiện cần đối chiếu lại trước khi xuất bản (giá thay đổi theo mùa/kênh bán).
+</footer>
+</div>
+</body>
+</html>
