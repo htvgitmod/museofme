@@ -4,76 +4,89 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Kho Tổng — Các lịch nghiên cứu</title>
-<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Caveat:wght@600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&family=Caveat:wght@600;700&display=swap" rel="stylesheet">
 <style>
   * { box-sizing: border-box; }
-  body { margin: 0; background: #f4f1ea; color: #23221f; font-family: 'Be Vietnam Pro', system-ui, sans-serif; font-size: 14px; min-height: 100vh; }
-  .wrap { max-width: 900px; margin: 0 auto; padding: 18px 14px 40px; }
-  header { text-align: center; margin-bottom: 18px; }
-  header h1 { font-family: 'Caveat', cursive; font-size: 44px; margin: 0; line-height: 1.1; }
-  header p { color: #6f6555; margin: 6px 0 0; line-height: 1.6; }
-  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; }
-  .card { display: block; text-decoration: none; color: inherit; }
-  a.card:hover { transform: translateY(-2px); box-shadow: 0 6px 16px rgba(0,0,0,.12); } background: #fff; border-radius: 14px; padding: 16px; border-top: 6px solid #888; box-shadow: 0 2px 8px rgba(0,0,0,.08); }
-  .card.game { border-top-color: #e4572e; }
-  .card.substack { border-top-color: #d81159; }
-  .card.distill { border-top-color: #0d9488; }
-  .card.facebook { border-top-color: #1877F2; }
-  .card.webapp { border-top-color: #7c3aed; }
-  .card h2 { font-size: 17px; margin: 0 0 6px; line-height: 1.35; }
-  .card p { margin: 0 0 8px; color: #555; line-height: 1.55; font-size: 13px; }
-  .meta { display: flex; flex-wrap: wrap; gap: 6px; }
-  .meta span { font-size: 12px; font-weight: 600; background: #f1e7da; border-radius: 999px; padding: 3px 10px; }
-  .note { background: #fff9f4; border: 1.5px solid #e3d6c1; border-radius: 12px; padding: 14px 16px; margin-top: 18px; line-height: 1.7; font-size: 13px; color: #4a4238; }
-  .note b { color: #23221f; }
-  footer { text-align: center; color: #8a8175; font-size: 12px; margin-top: 18px; }
+  body { margin: 0; background: #f3efe7; color: #26241f; font-family: 'Be Vietnam Pro', system-ui, sans-serif; font-size: 15px; min-height: 100vh; }
+  .hero { background: linear-gradient(135deg, #2b2620 0%, #4a3f30 60%, #6b543a 100%); color: #fdfaf5; padding: 44px 20px 36px; text-align: center; }
+  .hero h1 { font-family: 'Caveat', cursive; font-size: 58px; margin: 0; line-height: 1; letter-spacing: .5px; }
+  .hero p { margin: 12px auto 0; max-width: 560px; line-height: 1.7; color: #e8ddcb; font-size: 14.5px; }
+  .wrap { max-width: 980px; margin: 0 auto; padding: 26px 16px 44px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 18px; }
+  .card { display: flex; flex-direction: column; background: #fff; border-radius: 20px; padding: 22px 22px 18px; text-decoration: none; color: inherit; box-shadow: 0 2px 10px rgba(0,0,0,.07); border: 1px solid #eee7d8; transition: transform .15s ease, box-shadow .15s ease; }
+  a.card:hover { transform: translateY(-4px); box-shadow: 0 14px 30px rgba(0,0,0,.13); }
+  .icon { width: 48px; height: 48px; border-radius: 14px; display: flex; align-items: center; justify-content: center; font-size: 24px; margin-bottom: 14px; }
+  .card.game .icon { background: #fdeee7; }
+  .card.substack .icon { background: #fde7ef; }
+  .card.distill .icon { background: #e2f4f1; }
+  .card.facebook .icon { background: #e4eefc; }
+  .card.webapp .icon { background: #efe8fd; }
+  .card h2 { font-size: 18px; margin: 0 0 8px; line-height: 1.35; }
+  .card p { margin: 0 0 16px; color: #5c554a; line-height: 1.65; font-size: 13.5px; flex: 1; }
+  .meta { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
+  .meta span { font-size: 12px; font-weight: 600; background: #f4efe5; border-radius: 999px; padding: 4px 11px; color: #5c554a; }
+  .open { font-weight: 700; font-size: 14px; }
+  .card.game .open { color: #e4572e; }
+  .card.substack .open { color: #d81159; }
+  .card.distill .open { color: #0d9488; }
+  .card.facebook .open { color: #1877F2; }
+  .card.webapp .open { color: #7c3aed; }
+  .note { background: #fffdf8; border: 1.5px solid #e6dcc4; border-radius: 16px; padding: 18px 20px; margin-top: 24px; line-height: 1.8; font-size: 13.5px; color: #4a4238; }
+  .note b { color: #26241f; }
+  footer { text-align: center; color: #97897a; font-size: 12.5px; margin-top: 22px; }
 </style>
 </head>
 <body>
+<div class="hero">
+  <h1>Kho Tổng</h1>
+  <p>Bản đồ các lịch nghiên cứu hằng ngày. Bấm vào một thẻ để mở dashboard tương ứng — nội dung tự cập nhật sau mỗi lượt quét.</p>
+</div>
 <div class="wrap">
-  <header>
-    <h1>Kho Tổng</h1>
-    <p>Bản đồ các lịch nghiên cứu hằng ngày.<br>Bấm vào một thẻ để mở dashboard tương ứng — các trang tự cập nhật sau mỗi lượt quét.</p>
-  </header>
-
   <div class="grid">
-    <div class="card game">
-      <h2>🎮 Kho Game Xàm &amp; Độc Lạ</h2>
-      <p>Game đã crawl + idea chờ duyệt, và kho game bạn đã duyệt hoặc tự nghĩ ra.</p>
-      <div class="meta"><span>19:00 hằng ngày</span><span>Tab: Chờ duyệt / Đã duyệt / Quan tâm / Đã làm</span></div>
-    </div>
-
+    <a class="card game" href="game.html">
+      <div class="icon">🎮</div>
+      <h2>Kho Game Xàm &amp; Độc Lạ</h2>
+      <p>Game đã crawl, idea chờ duyệt, và kho game bạn đã duyệt hoặc tự nghĩ ra.</p>
+      <div class="meta"><span>19:00 hằng ngày</span><span>Chờ duyệt / Đã duyệt</span></div>
+      <div class="open">Mở kho game →</div>
+    </a>
     <a class="card substack" href="substack-iamhtv.html">
-      <h2>📝 Nguyên liệu Substack iamHTV</h2>
+      <div class="icon">📝</div>
+      <h2>Nguyên liệu Substack iamHTV</h2>
       <p>Note viết sẵn + câu hỏi thảo luận theo 5 trụ: tâm lý, năng suất, phát triển bản thân, luyện viết, AI/Marketing.</p>
-      <div class="meta"><span>06:17 hằng ngày</span><span>6 gói · 58 mục</span></div>
+      <div class="meta"><span>06:17 hằng ngày</span><span>Note viết sẵn</span></div>
+      <div class="open">Mở Substack →</div>
     </a>
     <a class="card distill" href="web-distill.html">
-      <h2>📚 Kho Web Distill</h2>
+      <div class="icon">📚</div>
+      <h2>Kho Web Distill</h2>
       <p>Ý tưởng chưng cất sách/tác phẩm thành web — kèm mức tự động hoá, cách ra tiền, lưu ý bản quyền.</p>
-      <div class="meta"><span>19:00 hằng ngày</span><span>31 thẻ</span></div>
+      <div class="meta"><span>19:00 hằng ngày</span><span>Xếp hạng thú vị</span></div>
+      <div class="open">Mở Web Distill →</div>
     </a>
     <a class="card facebook" href="quet-facebook.html">
-      <h2>📘 Quét vấn đề Facebook</h2>
+      <div class="icon">📘</div>
+      <h2>Quét vấn đề Facebook</h2>
       <p>Vấn đề thật người dùng đang than + ý tưởng kiếm tiền tương ứng, gom theo từng ngày.</p>
-      <div class="meta"><span>20:17 hằng ngày</span><span>7 ngày · 35 vấn đề · 27 ý tưởng</span></div>
+      <div class="meta"><span>20:17 hằng ngày</span><span>Theo ngày</span></div>
+      <div class="open">Mở quét Facebook →</div>
     </a>
     <a class="card webapp" href="webapp-ai.html">
-      <h2>💡 Kho Webapp/AI</h2>
+      <div class="icon">💡</div>
+      <h2>Kho Webapp/AI</h2>
       <p>Ý tưởng webapp/AI cho người không rành công nghệ, xếp hạng theo điểm + tệp người dùng.</p>
-      <div class="meta"><span>21:17 hằng ngày</span><span>32 thẻ</span></div>
+      <div class="meta"><span>21:17 hằng ngày</span><span>Chấm điểm /10</span></div>
+      <div class="open">Mở Webapp AI →</div>
     </a>
-    </div>
-
+  </div>
   <div class="note">
     <b>Cách dùng tab mới:</b> trong mỗi trang, trên đầu lưới thẻ có 3 tab
     <b>Tất cả</b> / <b>⭐ Quan tâm</b> / <b>✅ Đã làm</b> (trang game có thêm 2 tab cũ Chờ duyệt / Đã duyệt).
     Mỗi thẻ có 2 nút <b>Quan tâm</b> và <b>Đã làm</b> — bấm là thẻ nhảy sang tab đó, bấm lại nút đó để bỏ đánh dấu.
     Thẻ mới mỗi ngày luôn rơi vào tab <b>Tất cả</b>.<br>
-    <b>Lưu ý:</b> trạng thái Quan tâm/Đã làm lưu trên trình duyệt/thiết bị bạn mở file
+    <b>Lưu ý:</b> trạng thái Quan tâm/Đã làm lưu trên trình duyệt/thiết bị bạn mở trang
     (không đồng bộ sang máy khác).
   </div>
-
   <footer>Các dashboard tự cập nhật sau mỗi lượt quét hằng ngày.</footer>
 </div>
 </body>
