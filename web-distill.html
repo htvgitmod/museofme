@@ -1,0 +1,868 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Web Distill — Kho ý tưởng</title>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Caveat:wght@600;700&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; background: linear-gradient(180deg, #c9f5ea 0, #e7fbf4 220px, #eefcf7 100%); color: #0b2e2a; font-family: 'Be Vietnam Pro', system-ui, sans-serif; font-size: 13px; min-height: 100vh; }
+  .wrap { max-width: 1280px; margin: 0 auto; padding: 14px 12px 40px; }
+  header.top { background: linear-gradient(120deg, #0b6e63, #0d9488 45%, #059669 80%, #10b981); border-radius: 16px; padding: 14px 18px 13px; box-shadow: 0 6px 18px rgba(13,148,136,.35); }
+  header.top h1 { font-family: 'Caveat', cursive; font-size: 36px; font-weight: 700; margin: 0; line-height: 1.05; color: #ffffff; text-shadow: 0 2px 6px rgba(4,47,46,.35); }
+  header.top .stats { color: #c9f7ec; font-size: 12.5px; margin-top: 3px; }
+  header.top .stats b { color: #ffffff; }
+  .toolbar { position: sticky; top: 0; z-index: 5; background: rgba(231,251,244,.92); backdrop-filter: blur(4px); padding: 8px 0; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .toolbar input[type="search"] { flex: 1 1 220px; padding: 8px 11px; border: 1.5px solid #2dd4bf; border-radius: 999px; font: inherit; background: #fff; }
+  .toolbar input[type="search"]:focus { outline: 2px solid #059669; outline-offset: 0; border-color: transparent; }
+  .toolbar select { padding: 8px 10px; border: 1.5px solid #2dd4bf; border-radius: 999px; font: inherit; background: #fff; color: #065f46; cursor: pointer; font-weight: 600; }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chip { border: 1.5px solid #14b8a6; background: #ffffff; color: #0f766e; border-radius: 999px; padding: 4px 11px; font: inherit; font-size: 12px; font-weight: 600; cursor: pointer; }
+  .chip:hover { background: #ccfbf1; }
+  .chip.on { background: linear-gradient(120deg, #0d9488, #059669); color: #fff; border-color: #0f766e; box-shadow: 0 2px 6px rgba(5,150,105,.35); }
+  .tabs { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 2px; }
+  .tab { border: 1.5px solid #14b8a6; background: #ffffff; color: #0f766e; border-radius: 999px; padding: 6px 14px; font: inherit; font-size: 12.5px; font-weight: 700; cursor: pointer; }
+  .tab:hover { background: #ccfbf1; }
+  .tab.on { background: linear-gradient(120deg, #0d9488, #059669); color: #fff; border-color: #0f766e; box-shadow: 0 2px 6px rgba(5,150,105,.35); }
+  .card-foot { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+  .markbtn { border: 1.5px solid #14b8a6; background: #ffffff; color: #0f766e; border-radius: 999px; padding: 2px 9px; font: inherit; font-size: 11px; font-weight: 700; cursor: pointer; }
+  .markbtn:hover { background: #ccfbf1; }
+  .markbtn.on { background: linear-gradient(120deg, #0d9488, #059669); color: #fff; border-color: #0f766e; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 10px; align-items: start; }
+  .card { background: #fff; border: 1.5px solid #5eead4; border-top: 5px solid #0d9488; border-radius: 12px; box-shadow: 0 2px 6px rgba(13,148,136,.14); padding: 10px 11px; display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+  .card.hidden { display: none; }
+  .card-top { display: flex; align-items: center; gap: 6px; }
+  .rank { display: inline-block; min-width: 28px; text-align: center; background: #ccfbf1; color: #0f766e; border: 1px solid #5eead4; border-radius: 6px; padding: 1px 6px; font-size: 11.5px; font-weight: 700; }
+  .rank.r1 { background: linear-gradient(120deg, #f59e0b, #f97316); color: #fff; border-color: #ea580c; }
+  .num { color: #0d9488; font-size: 11.5px; font-weight: 700; }
+  .stars { margin-left: auto; color: #f59e0b; font-size: 11px; letter-spacing: 1px; white-space: nowrap; }
+  .name { font-size: 13.5px; font-weight: 700; line-height: 1.35; margin: 0; color: #064e45; }
+  .sub { color: #40655e; font-size: 12px; line-height: 1.45; margin: 0; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .detail { margin: 0; }
+  .detail > summary { list-style: none; display: inline-flex; align-items: center; gap: 4px; background: #d1fae5; color: #047857; border: 1.5px solid #34d399; border-radius: 999px; padding: 3px 11px; font-size: 12px; font-weight: 700; cursor: pointer; user-select: none; }
+  .detail > summary::-webkit-details-marker { display: none; }
+  .detail > summary::before { content: "\25B8"; font-size: 11px; }
+  .detail[open ] > summary::before { content: "\25BE"; }
+  .detail > summary:hover { background: #a7f3d0; }
+  .meta { margin: 8px 0 2px; display: flex; flex-direction: column; gap: 5px; background: #f0fdf9; border: 1px dashed #6ee7b7; border-radius: 8px; padding: 8px; }
+  .meta dt { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: #059669; }
+  .meta dd { margin: 0; font-size: 12px; line-height: 1.45; color: #134e4a; }
+  .card-foot { margin-top: auto; }
+  .badge { display: inline-block; background: linear-gradient(120deg, #0d9488, #059669); color: #fff; border-radius: 999px; padding: 2px 9px; font-size: 11px; font-weight: 700; white-space: nowrap; box-shadow: 0 1px 3px rgba(5,150,105,.3); }
+  .empty { grid-column: 1 / -1; padding: 28px; text-align: center; color: #0f766e; display: none; background: #f0fdf9; border: 1.5px dashed #2dd4bf; border-radius: 12px; }
+  footer { color: #3f7a70; font-size: 12px; margin-top: 16px; line-height: 1.6; }
+  @media (max-width: 480px) {
+    .grid { grid-template-columns: repeat(2, 1fr); }
+    header.top h1 { font-size: 30px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <h1>Web Distill — Kho ý tưởng</h1>
+    <div class="stats" id="stats">Đang tải…</div>
+  </header>
+
+  <div class="toolbar">
+    <input type="search" id="q" placeholder="Tìm kiếm: tên idea, tác phẩm, format, cách ra tiền…">
+    <div class="chips" id="chips"></div>
+    <select id="sort" title="Sắp xếp">
+      <option value="default">Mới nhất trước</option>
+      <option value="stars">Tự động hoá: cao → thấp</option>
+      <option value="num">Số thứ tự: tăng dần</option>
+    </select>
+  </div>
+
+  <div class="tabs" id="tabs">
+    <button class="tab on" data-tab="all">Tất cả (31)</button>
+    <button class="tab" data-tab="interested">⭐ Quan tâm (0)</button>
+    <button class="tab" data-tab="done">✅ Đã làm (0)</button>
+  </div>
+
+  <main class="grid" id="grid">
+    <!-- BATCH_MOI: cac luot sau chen 5 THE idea cua batch moi nhat ngay duoi dong nay. Cau truc the GON moi: <article class="card" data-batch="N" data-date="DD/MM/YYYY" data-stars="S"> gom: card-top (span.rank + span.num + span.stars), h3.name, p.sub (dong tom tat, CSS tu cat 3 dong), details.detail > summary "Chi tiet" + dl.meta (3 muc: Nguon goc - Ban quyen / Format chinh / Ra tien) - phan meta PHAI nam trong details de mat the gon, va card-foot chua span.badge batch. Batch moi nhat luon o dau luoi. Khong can sua thong ke hay chip loc - trang tu dem va tu sinh chip tu data-batch. The moi PHAI co data-id (so thu tu tiep noi) va 2 nut .markbtn trong card-foot; trang thai luu localStorage key kho-distill-state-v1. -->
+    <article class="card" data-batch="8" data-date="25/10/2026" data-stars="4" data-id="37">
+      <div class="card-top">
+        <span class="rank r1">#1</span>
+        <span class="num">#37</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Sách của Người Chết Ai Cập — hành trình qua cõi chết tương tác</h3>
+      <p class="sub">"Linh hồn bạn nặng bao nhiêu?": đi qua 12 cổng địa ngục, trả lời 42 lời thú tội, cuối cùng cân tim với lông vũ — game nhập vai 3.000 năm tuổi.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Book of the Dead cổ Ai Cập · PD; dùng bản dịch Budge 1895, tránh Faulkner/bản hiện đại còn hạn</dd></div>
+        <div><dt>Format chính</dt><dd>Bản đồ hành trình 12 cổng + quiz cân tim + DB thần/quái cõi chết</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate sách Ai Cập · POD poster hành trình</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B8 · 25/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="8" data-date="25/10/2026" data-stars="4" data-id="38">
+      <div class="card-top">
+        <span class="rank">#2</span>
+        <span class="num">#38</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Lịch sử cờ vua — 100 ván cờ kinh điển chơi lại được</h3>
+      <p class="sub">Từ Ấn Độ thế kỷ 6 đến Carlsen: mỗi ván cờ kinh điển chơi lại từng nước trên bàn cờ tương tác, kèm "sai lầm chết người" — cộng đồng cờ vua hàng trăm triệu người sẵn sàng chia sẻ.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Chủ đề lịch sử · nước cờ là facts không bản quyền; cấm copy bình luận sách cờ hiện đại</dd></div>
+        <div><dt>Format chính</dt><dd>Bàn cờ tương tác chơi lại ván + timeline 1.500 năm + quiz chiến thuật</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate sách/bàn cờ · khoá học cờ vua</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B8 · 25/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="8" data-date="25/10/2026" data-stars="5" data-id="39">
+      <div class="card-top">
+        <span class="rank">#3</span>
+        <span class="num">#39</span>
+        <span class="stars" title="Tự động hoá: 5/5">★★★★★</span>
+      </div>
+      <h3 class="name">Kiêu hãnh &amp; Định kiến × luật hẹn hò 2026</h3>
+      <p class="sub">Austen viết về "dating app" từ 1813: ai cũng swipe nhầm Darcy — đối chiếu từng chiêu tán tỉnh thời xưa với tin nhắn, ghosting, red flag hôm nay, đúng gu BookTok.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Jane Austen 1813 · PD tuyệt đối</dd></div>
+        <div><dt>Format chính</dt><dd>DB nhân vật + cột đối chiếu tán tỉnh xưa ↔ nay + quiz "bạn là ai trong Austen"</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate sách · POD quote/tranh Austen</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B8 · 25/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="8" data-date="25/10/2026" data-stars="5" data-id="40">
+      <div class="card-top">
+        <span class="rank">#4</span>
+        <span class="num">#40</span>
+        <span class="stars" title="Tự động hoá: 5/5">★★★★★</span>
+      </div>
+      <h3 class="name">Ngũ Luân Thư của Musashi × kỹ năng esport &amp; creator</h3>
+      <p class="sub">Samurai bất bại 61 trận dạy game thủ: 5 quyển Đất–Nước–Lửa–Gió–Không = 5 kỹ năng leo rank, đọc đối thủ, giữ bình tĩnh khi thua chuỗi.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Miyamoto Musashi ~1645 · PD; tránh bản dịch Cleary/hiện đại còn hạn, viết lại bằng lời mình</dd></div>
+        <div><dt>Format chính</dt><dd>5 quyển → 5 kỹ năng + case trận đấu/game + quiz phong cách chiến đấu</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads gaming · affiliate sách/gear · playbook PDF</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B8 · 25/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="8" data-date="25/10/2026" data-stars="5" data-id="41">
+      <div class="card-top">
+        <span class="rank">#5</span>
+        <span class="num">#41</span>
+        <span class="stars" title="Tự động hoá: 5/5">★★★★★</span>
+      </div>
+      <h3 class="name">Ngụ ngôn Aesop — tra cứu theo tình huống công sở</h3>
+      <p class="sub">Gõ "sếp cướp công", "đồng nghiệp đâm sau lưng" → nhận đúng con ngụ ngôn nói hộ: 300 truyện cổ thành "từ điển xử thế" tra cứu trong 10 giây.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Aesop cổ đại · PD tuyệt đối; tránh bản kể hiện đại còn hạn</dd></div>
+        <div><dt>Format chính</dt><dd>Tra cứu theo tình huống + 300 trang template + flashcards + thẻ quote</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate sách thiếu nhi/kỹ năng · deck thẻ ngụ ngôn</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B8 · 25/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+
+    <article class="card" data-batch="7" data-date="24/10/2026" data-stars="4" data-id="32">
+      <div class="card-top">
+        <span class="rank r1">#1</span>
+        <span class="num">#32</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Truyện cổ Grimm bản gốc đen tối ↔ Disney</h3>
+      <p class="sub">"Hoá ra bản gốc còn rùng rợn hơn": mỗi truyện một cột đối chiếu gốc ↔ Disney — fan Disney nào cũng muốn click xem truyện mình thích bị sửa ra sao.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Anh em Grimm 1812 · PD; chỉ tóm tắt bằng lời mình, cấm dùng hình/clip Disney còn bản quyền</dd></div>
+        <div><dt>Format chính</dt><dd>DB truyện hai cột gốc ↔ chuyển thể + mức độ "đen tối" + quiz "bạn chịu nổi bản gốc không"</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate sách/truyện · POD poster truyện cổ</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B7 · 24/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="7" data-date="24/10/2026" data-stars="4" data-id="33">
+      <div class="card-top">
+        <span class="rank">#2</span>
+        <span class="num">#33</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Odyssey — bản đồ 10 năm lạc đường của Odysseus</h3>
+      <p class="sub">Mỗi hòn đảo là một cạm bẫy: nàng tiên, quái vật, quên đường về — đọc như chơi game roguelike, mỗi chặng một "boss" cám dỗ.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Homer · PD; dùng bản dịch cũ (Butler 1900), tránh Fagles 1996 còn hạn</dd></div>
+        <div><dt>Format chính</dt><dd>Bản đồ hành trình tương tác + DB đảo/quái + quiz "bạn sẽ sa ngã ở đảo nào"</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate sách/game thần thoại · POD bản đồ</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B7 · 24/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="7" data-date="24/10/2026" data-stars="5" data-id="34">
+      <div class="card-top">
+        <span class="rank">#3</span>
+        <span class="num">#34</span>
+        <span class="stars" title="Tự động hoá: 5/5">★★★★★</span>
+      </div>
+      <h3 class="name">Hang động Plato × bong bóng thuật toán 2026</h3>
+      <p class="sub">2.400 năm trước Plato đã mô tả newsfeed: người trong hang chỉ thấy bóng trên tường và tưởng đó là sự thật — chẩn đoán "bạn đang ở hang nào".</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Plato, Cộng hoà quyển VII · PD; bản dịch Jowett 1881 PD</dd></div>
+        <div><dt>Format chính</dt><dd>Quiz chẩn đoán hang thuật toán + 10 quyển chưng cất + đối chiếu bóng ↔ feed 2026</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads tech/AI · affiliate sách triết/AI · workbook PDF</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B7 · 24/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="7" data-date="24/10/2026" data-stars="4" data-id="35">
+      <div class="card-top">
+        <span class="rank">#4</span>
+        <span class="num">#35</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Truyện Kiều — tra cứu 3.254 câu theo tâm trạng</h3>
+      <p class="sub">Gõ "thất tình", "bị phản bội", "nhớ nhà" → nhận đúng câu Kiều nói hộ lòng mình — Kiều thành "từ điển cảm xúc" của người Việt.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Nguyễn Du (mất 1820) · PD tuyệt đối; tránh copy bản chú giải hiện đại còn hạn</dd></div>
+        <div><dt>Format chính</dt><dd>Tra cứu theo cảm xúc/tình huống + 3.254 câu có chú giải + flashcards + thẻ quote</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads VN · affiliate sách · POD tranh/thẻ quote Kiều</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B7 · 24/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="7" data-date="24/10/2026" data-stars="4" data-id="36">
+      <div class="card-top">
+        <span class="rank">#5</span>
+        <span class="num">#36</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Lịch sử LEGO — từ xưởng gỗ cháy rụi đến đế chế sáng tạo</h3>
+      <p class="sub">Xưởng mộc Đan Mạch cháy 2 lần, suýt phá sản 2003 rồi hồi sinh nhờ fan người lớn — câu chuyện pivot mà cộng đồng AFOL kể lại không chán.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Chủ đề lịch sử · facts nguồn mở; chỉ dùng tên LEGO theo kiểu nominative, cấm logo/hình minifig chính hãng</dd></div>
+        <div><dt>Format chính</dt><dd>Timeline theo kỷ nguyên + DB dòng sản phẩm/bộ kinh điển + mục "suýt chết 2003"</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate sách/LEGO qua retailer · POD poster timeline</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B7 · 24/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="user" data-date="23/10/2026" data-stars="4" data-id="31">
+      <div class="card-top">
+        <span class="rank r1">★</span>
+        <span class="num">#31</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Mental Models của Munger — thư viện đầy đủ + 4 lớp unique value</h3>
+      <p class="sub">User tự đề xuất (mẫu mungermodels.com). Spec đã chốt: ĐỦ ~223 mô hình/12 môn làm nền, phủ case stacks + tra cứu tình huống + lab tương tác + lớp luyện tập — tất cả sinh từ 1 database mô hình. Đã có bản vẽ chi tiết riêng.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Hệ tri thức Munger · Poor Charlie's Almanack còn bản quyền → chỉ chưng cất ý tưởng, trích ngắn ghi nguồn</dd></div>
+        <div><dt>Format chính</dt><dd>1 database mô hình → 5 bề mặt: trang mô hình / case stack / tra cứu tình huống / lab / flashcard</dd></div>
+        <div><dt>Ra tiền</dt><dd>Affiliate sách · ads finance/business · practice kit số</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">★ User · 23/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="6" data-date="23/10/2026" data-stars="5" data-id="27">
+      <div class="card-top">
+        <span class="rank r1">#1</span>
+        <span class="num">#27</span>
+        <span class="stars" title="Tự động hoá: 5/5">★★★★★</span>
+      </div>
+      <h3 class="name">Bhagavad Gita — 700 câu tra cứu theo tình huống</h3>
+      <p class="sub">"Chatbot giải quyết nỗi lo" 2.500 năm tuổi: gõ "tôi sợ thất bại" → nhận đúng câu Gita liên quan.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Bhagavad Gita · bản dịch Arnold 1885 · PD toàn cầu</dd></div>
+        <div><dt>Format chính</dt><dd>Tìm kiếm theo tình huống (tag) + 18 chương + flashcards + thẻ quote</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate sách/khoá meditation · bán deck flashcards</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B6 · 23/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="6" data-date="23/10/2026" data-stars="4" data-id="26">
+      <div class="card-top">
+        <span class="rank">#2</span>
+        <span class="num">#26</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Sử thi Ramayana — database nhân vật đối chiếu game/phim</h3>
+      <p class="sub">Mỗi nhân vật một cú "hoá ra bản gốc còn ngầu hơn": gốc ↔ bản chuyển thể SMITE, Raji…</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Valmiki · bản dịch Griffith 1870–74 · PD</dd></div>
+        <div><dt>Format chính</dt><dd>Database nhân vật/quái + timeline 6 kanda + cây gia phả + quiz</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate sách/merch · POD poster</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B6 · 23/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="6" data-date="23/10/2026" data-stars="5" data-id="30">
+      <div class="card-top">
+        <span class="rank">#3</span>
+        <span class="num">#30</span>
+        <span class="stars" title="Tự động hoá: 5/5">★★★★★</span>
+      </div>
+      <h3 class="name">Lịch sử cà phê — 1.200 năm từ Ethiopia đến ly latte</h3>
+      <p class="sub">Buôn lậu hạt giống, nhà thờ cấm, đế chế sụp đổ — drama của thức uống được uống nhiều nhất hành tinh.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Chủ đề lịch sử · facts nguồn mở, ghi nguồn</dd></div>
+        <div><dt>Format chính</dt><dd>Timeline tương tác + bản đồ vùng cà phê + DB cách pha</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate hạt/dụng cụ (mua lặp lại) · ebook · POD</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B6 · 23/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="6" data-date="23/10/2026" data-stars="4" data-id="28">
+      <div class="card-top">
+        <span class="rank">#4</span>
+        <span class="num">#28</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Đôn Kihôtê × ảo tưởng startup/creator 2026</h3>
+      <p class="sub">"Bách khoa toàn thư các ảo tưởng": đánh cối xay gió 1605 ↔ đuổi thị trường tưởng tượng 2026.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Cervantes 1605/1615 · PD tuyệt đối</dd></div>
+        <div><dt>Format chính</dt><dd>DB tra cứu theo ảo tưởng + quiz + timeline song song</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate sách/khoá học startup · POD</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B6 · 23/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="6" data-date="23/10/2026" data-stars="4" data-id="29">
+      <div class="card-top">
+        <span class="rank">#5</span>
+        <span class="num">#29</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Nguồn gốc các loài × tiến hoá thương hiệu</h3>
+      <p class="sub">12 quy luật Darwin ↔ case tuyệt chủng/thích nghi: Nokia, Kodak, Netflix…</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Darwin 1859 · PD tuyệt đối</dd></div>
+        <div><dt>Format chính</dt><dd>DB hai chiều quy luật ↔ case + cây phả hệ sản phẩm + quiz</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads business · affiliate sách/khoá học · ebook</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B6 · 23/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="5" data-date="22/10/2026" data-stars="4" data-id="21">
+      <div class="card-top">
+        <span class="rank r1">#1</span>
+        <span class="num">#21</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Tây Du Ký — 81 kiếp nạn × hành trình founder</h3>
+      <p class="sub">81 kiếp nạn = bản đồ hành trình startup; yêu quái = cạm bẫy kinh doanh; thầy trò Đường Tăng = team startup.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Ngô Thừa Ân TK16 · PD (tránh copy bản dịch hiện đại)</dd></div>
+        <div><dt>Format chính</dt><dd>Bản đồ tương tác 81 kiếp nạn + DB yêu quái + quiz</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate sách/khoá học · POD bản đồ</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B5 · 22/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="5" data-date="22/10/2026" data-stars="4" data-id="22">
+      <div class="card-top">
+        <span class="rank">#2</span>
+        <span class="num">#22</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Dracula × lịch sử thật + du lịch ma quái</h3>
+      <p class="sub">Huyền thoại ↔ sự thật: Vlad xiên người có thật; theo dấu Harker trên bản đồ Romania. Bùng mùa Halloween.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Bram Stoker 1897 · PD toàn cầu</dd></div>
+        <div><dt>Format chính</dt><dd>DB nhân vật/địa điểm hai cột + bản đồ hành trình + timeline</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate sách/tour Transylvania · POD</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B5 · 22/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="5" data-date="22/10/2026" data-stars="4" data-id="25">
+      <div class="card-top">
+        <span class="rank">#3</span>
+        <span class="num">#25</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Lịch sử tiền tệ 5.000 năm → Bitcoin</h3>
+      <p class="sub">Vỏ sò → vàng → giấy → Bitcoin: mỗi lần tiền đổi hình là một cú sốc giống hệt nhau. Ngách finance RPM cao nhất.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Chủ đề lịch sử · facts nguồn mở, ghi nguồn</dd></div>
+        <div><dt>Format chính</dt><dd>Timeline tương tác + DB các loại tiền + mục "chu kỳ lặp lại"</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads finance · affiliate sàn/app tài chính · POD</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B5 · 22/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="5" data-date="22/10/2026" data-stars="5" data-id="24">
+      <div class="card-top">
+        <span class="rank">#4</span>
+        <span class="num">#24</span>
+        <span class="stars" title="Tự động hoá: 5/5">★★★★★</span>
+      </div>
+      <h3 class="name">Walden × digital minimalism 2026</h3>
+      <p class="sub">Thử thách 30 ngày cai nghiện màn hình theo 18 chương Walden — "khu rừng" 2026 là tắt điện thoại.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Thoreau 1854 · PD tuyệt đối</dd></div>
+        <div><dt>Format chính</dt><dd>Thử thách 30 ngày (streak + email) + bộ đếm giờ không màn hình + quiz</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate sách · planner PDF</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B5 · 22/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="5" data-date="22/10/2026" data-stars="4" data-id="23">
+      <div class="card-top">
+        <span class="rank">#5</span>
+        <span class="num">#23</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Kafka — Hóa thân × burnout người đi làm 2026</h3>
+      <p class="sub">3 phần truyện = 3 giai đoạn kiệt sức + bài tập phục hồi. Cần disclaimer "không thay thế tư vấn y tế".</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Kafka 1915 · PD (tránh bản dịch Muir 1937 ở Mỹ)</dd></div>
+        <div><dt>Format chính</dt><dd>Quiz giai đoạn burnout + 3 trang template + nhật ký năng lượng</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate sách · workbook PDF</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B5 · 22/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="4" data-date="21/10/2026" data-stars="5" data-id="18">
+      <div class="card-top">
+        <span class="rank r1">#1</span>
+        <span class="num">#18</span>
+        <span class="stars" title="Tự động hoá: 5/5">★★★★★</span>
+      </div>
+      <h3 class="name">Kinh Dịch — cỗ máy ra quyết định 3.000 năm tuổi</h3>
+      <p class="sub">Công cụ gieo quẻ tương tác: 64 quẻ = 64 tình huống ra quyết định (nghỉ việc, đầu tư, hôn nhân…).</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Kinh Dịch · PD (tránh Wilhelm/Baynes; dùng Legge 1882)</dd></div>
+        <div><dt>Format chính</dt><dd>Tool gieo quẻ + 64 trang quẻ + tra cứu theo tình huống</dd></div>
+        <div><dt>Ra tiền</dt><dd>Affiliate sách/tarot · ads · bộ thẻ 64 quẻ POD</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B4 · 21/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="4" data-date="21/10/2026" data-stars="3" data-id="20">
+      <div class="card-top">
+        <span class="rank">#2</span>
+        <span class="num">#20</span>
+        <span class="stars" title="Tự động hoá: 3/5">★★★☆☆</span>
+      </div>
+      <h3 class="name">1984 — từ điển Newspeak đối chiếu giám sát AI 2026</h3>
+      <p class="sub">Mỗi khái niệm Orwell có "bản đời thực 2026": camera AI, deepfake, kiểm duyệt thuật toán — newsjacking theo tin tức.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Orwell 1949 · VN/EU hết hạn, Mỹ đến 2045 → chỉ chưng cất ý tưởng</dd></div>
+        <div><dt>Format chính</dt><dd>Từ điển khái niệm tra cứu + timeline "dự báo thành sự thật"</dd></div>
+        <div><dt>Ra tiền</dt><dd>Affiliate sách privacy/AI · ads tech</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B4 · 21/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="4" data-date="21/10/2026" data-stars="4" data-id="16">
+      <div class="card-top">
+        <span class="rank">#3</span>
+        <span class="num">#16</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Frankenstein — tiểu thuyết AI alignment đầu tiên (1818)</h3>
+      <p class="sub">Đọc song song: chương truyện ↔ debate AI 2026 (safety, alignment, trách nhiệm người tạo). Đúng niche AI.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Mary Shelley 1818 · PD toàn cầu</dd></div>
+        <div><dt>Format chính</dt><dd>24 chương song song + timeline 1818→2026 + quiz</dd></div>
+        <div><dt>Ra tiền</dt><dd>Affiliate sách AI ethics · ads tech · poster</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B4 · 21/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="4" data-date="21/10/2026" data-stars="4" data-id="17">
+      <div class="card-top">
+        <span class="rank">#4</span>
+        <span class="num">#17</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Sherlock Holmes — database vụ án dạy kỹ năng suy luận</h3>
+      <p class="sub">60 vụ án → 60 kỹ thuật quan sát/suy luận áp cho nghề 2026: chẩn đoán, phỏng vấn, kiểm toán, đọc insight.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Doyle · PD (Mỹ đủ từ 1/1/2023)</dd></div>
+        <div><dt>Format chính</dt><dd>DB case-file + tra cứu theo nghề + quiz quan sát</dd></div>
+        <div><dt>Ra tiền</dt><dd>Affiliate box set · ads · bộ thẻ kỹ năng</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B4 · 21/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="4" data-date="21/10/2026" data-stars="5" data-id="19">
+      <div class="card-top">
+        <span class="rank">#5</span>
+        <span class="num">#19</span>
+        <span class="stars" title="Tự động hoá: 5/5">★★★★★</span>
+      </div>
+      <h3 class="name">Quân Vương (Machiavelli) — cẩm nang sinh tồn công sở</h3>
+      <p class="sub">26 chương → 26 tình huống chính trị công sở, tra cứu kiểu "tôi bị cướp công → chương 7".</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>1532 · bản dịch Marriott 1908 · PD</dd></div>
+        <div><dt>Format chính</dt><dd>Tra cứu theo tình huống + checklist + quiz mẫu lãnh đạo</dd></div>
+        <div><dt>Ra tiền</dt><dd>Affiliate sách quản trị · ads · PDF playbook</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B4 · 21/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="3" data-date="21/10/2026" data-stars="4" data-id="11">
+      <div class="card-top">
+        <span class="rank r1">#1</span>
+        <span class="num">#11</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Thần thoại Bắc Âu "bản gốc" đối chiếu Marvel &amp; game</h3>
+      <p class="sub">Loki gốc sinh ra ngựa 8 chân, Thor gốc tóc đỏ — mỗi trang là cú "hoá ra phim sửa sạch" cho fan Marvel/God of War.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Poetic/Prose Edda · bản dịch 1916/1923 · PD</dd></div>
+        <div><dt>Format chính</dt><dd>DB thần/quái vật + cột đối chiếu gốc ↔ chuyển thể + phả hệ tương tác</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate sách · merch tranh cổ (Rackham)</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B3 · 21/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="3" data-date="21/10/2026" data-stars="5" data-id="12">
+      <div class="card-top">
+        <span class="rank">#2</span>
+        <span class="num">#12</span>
+        <span class="stars" title="Tự động hoá: 5/5">★★★★★</span>
+      </div>
+      <h3 class="name">Nghìn lẻ một đêm — thử thách đọc hết trong 1001 ngày</h3>
+      <p class="sub">Nghi thức streak kiểu Duolingo: mỗi ngày mở đúng 1 đêm. Hào sâu 1001 trang SEO không ai copy nhanh được.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Bản dịch Burton 1885 · PD (cần lọc truyện nhạy cảm)</dd></div>
+        <div><dt>Format chính</dt><dd>1001 trang truyện + trang streak/tiến độ + email mỗi sáng</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate sách · gói EPUB/PDF đọc trước</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B3 · 21/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="3" data-date="21/10/2026" data-stars="4" data-id="13">
+      <div class="card-top">
+        <span class="rank">#3</span>
+        <span class="num">#13</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Dante — bản đồ 9 tầng địa ngục tương tác</h3>
+      <p class="sub">"Bản đồ game" có sẵn từ thế kỷ 14: cuộn dọc xuống 9 tầng tội + quiz "tội của bạn ở tầng nào".</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Thần Khúc · dịch Longfellow 1867 · PD; tranh Doré PD</dd></div>
+        <div><dt>Format chính</dt><dd>Bản đồ dọc tương tác + 34 canto chưng cất + thư viện tranh</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate sách · poster POD tranh Doré</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B3 · 21/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="3" data-date="21/10/2026" data-stars="4" data-id="14">
+      <div class="card-top">
+        <span class="rank">#4</span>
+        <span class="num">#14</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Dictionnaire Infernal — từ điển quỷ học 1863</h3>
+      <p class="sub">69 tranh khắc quỷ kỳ dị thành meme; nguồn thiết kế quỷ cho SMT/Persona. Tiền chính từ merch, không phải ads.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Collin de Plancy 1863 + tranh Breton · PD</dd></div>
+        <div><dt>Format chính</dt><dd>DB hồ sơ quỷ (tranh, cấp bậc, quyền năng) + tra cứu</dd></div>
+        <div><dt>Ra tiền</dt><dd>Merch POD (poster, áo, thẻ tarot) · ads phụ</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B3 · 21/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="3" data-date="21/10/2026" data-stars="4" data-id="15">
+      <div class="card-top">
+        <span class="rank">#5</span>
+        <span class="num">#15</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Sử thi Gilgamesh — cuốn sách cổ nhất của loài người</h3>
+      <p class="sub">~4.000 năm tuổi mà hỏi đúng 3 câu hiện đại vẫn mất ngủ: mất bạn, sợ chết, tìm bất tử. Đại hồng thuỷ có ở đây trước Kinh Thánh 1.000+ năm.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Sử thi Akkad · bản dịch đầu TK20 · PD (ghi rõ đoạn khuyết)</dd></div>
+        <div><dt>Format chính</dt><dd>12 tấm bảng → 12 chương + timeline Lưỡng Hà + đối chiếu motif</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate sách/khoá học cổ đại</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B3 · 21/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="2" data-date="20/10/2026" data-stars="5" data-id="9">
+      <div class="card-top">
+        <span class="rank r1">#1</span>
+        <span class="num">#9</span>
+        <span class="stars" title="Tự động hoá: 5/5">★★★★★</span>
+      </div>
+      <h3 class="name">Người giàu nhất Babylon — 7 phương thuốc tài chính</h3>
+      <p class="sub">Tài chính cá nhân dạng ngụ ngôn + máy tính lãi kép tương tác. Ngách finance RPM ads cao nhất.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Clason 1926 · đã xác minh PD</dd></div>
+        <div><dt>Format chính</dt><dd>7 trang nguyên tắc + tool tính tài chính (lãi kép, 10%, 50/30/20)</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads finance · affiliate sách/app tài chính · tracker bán số</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B2 · 20/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="2" data-date="20/10/2026" data-stars="5" data-id="6">
+      <div class="card-top">
+        <span class="rank">#2</span>
+        <span class="num">#6</span>
+        <span class="stars" title="Tự động hoá: 5/5">★★★★★</span>
+      </div>
+      <h3 class="name">Meditations — Khắc kỷ thực hành mỗi ngày</h3>
+      <p class="sub">Mỗi đoạn nhật ký của Marcus Aurelius → 1 bài tập thực hành cho người đi làm.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Marcus Aurelius · dịch Long 1862 PD (tránh Hays 2002)</dd></div>
+        <div><dt>Format chính</dt><dd>Trang theo trích đoạn + quote of the day + email 30 ngày + flashcards</dd></div>
+        <div><dt>Ra tiền</dt><dd>Affiliate sách · ads · PDF/Notion "365 ngày Khắc kỷ"</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B2 · 20/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="2" data-date="20/10/2026" data-stars="4" data-id="7">
+      <div class="card-top">
+        <span class="rank">#3</span>
+        <span class="num">#7</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Tự truyện Franklin — thử thách 13 đức tính / 13 tuần</h3>
+      <p class="sub">Hệ thống tự rèn của Franklin thành thử thách có lịch trình và checklist theo dõi.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Benjamin Franklin 1793 · PD tuyệt đối</dd></div>
+        <div><dt>Format chính</dt><dd>13 trang đức tính + lịch 13 tuần tự động + checklist</dd></div>
+        <div><dt>Ra tiền</dt><dd>Affiliate sách productivity · ads · planner PDF</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B2 · 20/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="2" data-date="20/10/2026" data-stars="4" data-id="10">
+      <div class="card-top">
+        <span class="rank">#4</span>
+        <span class="num">#10</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Lịch sử Nintendo — từ bài lá đến đế chế game</h3>
+      <p class="sub">130+ năm pivot kinh doanh qua từng thế hệ console. Cấm dùng artwork/logo Nintendo.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Chủ đề lịch sử · facts nguồn mở</dd></div>
+        <div><dt>Format chính</dt><dd>Timeline theo thế hệ console + bảng so sánh + "ngày này năm xưa"</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate sách · poster timeline POD</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B2 · 20/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="2" data-date="20/10/2026" data-stars="4" data-id="8">
+      <div class="card-top">
+        <span class="rank">#5</span>
+        <span class="num">#8</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Lịch sử Đế chế La Mã — 100 mốc + bài học lãnh đạo</h3>
+      <p class="sub">Mỗi mốc lịch sử → 1 bài học quản trị. AI hay bịa số liệu — bắt buộc duyệt kỹ từng mốc.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Chủ đề lịch sử · facts nguồn mở, ghi nguồn</dd></div>
+        <div><dt>Format chính</dt><dd>Timeline tương tác 100 mốc + bản đồ lãnh thổ + quiz</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads lịch sử EN · affiliate sách · poster POD</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B2 · 20/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="1" data-date="20/10/2026" data-stars="5" data-id="1">
+      <div class="card-top">
+        <span class="rank r1">#1</span>
+        <span class="num">#1</span>
+        <span class="stars" title="Tự động hoá: 5/5">★★★★★</span>
+      </div>
+      <h3 class="name">Đạo Đức Kinh — 81 chương cho đời sống hiện đại</h3>
+      <p class="sub">Mỗi chương → 1 nguyên lý sống/lãnh đạo hiện đại, song ngữ EN/VI ăn cả hai thị trường.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Lão Tử · PD tuyệt đối (không copy bản dịch còn hạn)</dd></div>
+        <div><dt>Format chính</dt><dd>81 trang template + "chương của ngày" + email 81 ngày + flashcards</dd></div>
+        <div><dt>Ra tiền</dt><dd>Affiliate sách · ads · gói Notion/PDF "81 ngày học Đạo"</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B1 · 20/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="1" data-date="20/10/2026" data-stars="4" data-id="2">
+      <div class="card-top">
+        <span class="rank">#2</span>
+        <span class="num">#2</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Binh pháp Tôn Tử cho marketer &amp; founder</h3>
+      <p class="sub">Binh pháp 2.500 năm dịch sang chiến lược marketing — đúng niche "AI cho marketer", nuôi personal brand.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Tôn Tử · PD tuyệt đối</dd></div>
+        <div><dt>Format chính</dt><dd>13 chương → trang chiến thuật + case hãng hiện đại + glossary</dd></div>
+        <div><dt>Ra tiền</dt><dd>Affiliate tool marketing (Systeme.io 60% trọn đời) · sách · ads</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B1 · 20/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="1" data-date="20/10/2026" data-stars="4" data-id="3">
+      <div class="card-top">
+        <span class="rank">#3</span>
+        <span class="num">#3</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Tam Quốc Diễn Nghĩa — database nhân vật &amp; mưu kế (EN)</h3>
+      <p class="sub">Tiểu thuyết thành cơ sở dữ liệu tra cứu cho fan game — dạng các site Trung Quốc chưa làm bằng tiếng Anh.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>La Quán Trung · PD; dịch Anh 1925 PD (Gutenberg)</dd></div>
+        <div><dt>Format chính</dt><dd>DB 300+ nhân vật + timeline + bản đồ thế lực + quiz (bản đầu: top 30)</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads EN · affiliate sách · POD · Notion DB</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B1 · 20/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="1" data-date="20/10/2026" data-stars="4" data-id="4">
+      <div class="card-top">
+        <span class="rank">#4</span>
+        <span class="num">#4</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Lịch sử loài người — big history trong 40 mốc</h3>
+      <p class="sub">Chỉ chưng cất 40 bước ngoặt (lửa, nông nghiệp, chữ viết, tiền, in ấn, internet) — mỗi mốc 1 hệ quả dài hạn.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Chủ đề · nguồn mở + tài liệu PD</dd></div>
+        <div><dt>Format chính</dt><dd>Timeline dọc tương tác + bản đồ lan toả + flashcards</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate sách (Sapiens…) · khoá học · poster</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B1 · 20/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <article class="card" data-batch="1" data-date="20/10/2026" data-stars="4" data-id="5">
+      <div class="card-top">
+        <span class="rank">#5</span>
+        <span class="num">#5</span>
+        <span class="stars" title="Tự động hoá: 4/5">★★★★☆</span>
+      </div>
+      <h3 class="name">Lịch sử MacBook — chưng cất lịch sử sản phẩm Apple</h3>
+      <p class="sub">Mỗi đời máy → quyết định thiết kế/marketing → bài học. Bắt buộc duyệt số liệu ngày/giá/cấu hình.</p>
+      <details class="detail"><summary>Chi tiết</summary><dl class="meta">
+        <div><dt>Nguồn gốc · Bản quyền</dt><dd>Chủ đề · facts (Wikipedia CC BY-SA, ghi nguồn)</dd></div>
+        <div><dt>Format chính</dt><dd>Timeline theo năm + trang từng model + so sánh + "ngày này năm xưa"</dd></div>
+        <div><dt>Ra tiền</dt><dd>Ads · affiliate sách · eBay đồ cũ sưu tầm · poster</dd></div>
+      </dl></details>
+      <div class="card-foot"><span class="badge">B1 · 20/10/2026</span><button class="markbtn" data-mark="interested">Quan tâm</button><button class="markbtn" data-mark="done">Đã làm</button></div>
+    </article>
+    <div class="empty" id="empty">Không có idea nào khớp bộ lọc.</div>
+  </main>
+
+  <footer>
+    Kho sống — cộng dồn sau mỗi lượt quét idea lúc ~19:00 hằng ngày trong chat "Nghiên cứu Web Distill". Batch mới nhất luôn ở đầu lưới.<br>
+    Nguyên tắc bản quyền dùng chung: cổ thư hết bản quyền an toàn nhất · bản dịch hiện đại còn hạn thì cấm copy · sách hiện đại chỉ chưng cất ý tưởng bằng lời mình.
+  </footer>
+</div>
+
+<script>
+(function () {
+  var grid = document.getElementById('grid');
+  var cards = Array.prototype.slice.call(grid.querySelectorAll('.card'));
+  var q = document.getElementById('q');
+  var chipsBox = document.getElementById('chips');
+  var stats = document.getElementById('stats');
+  var empty = document.getElementById('empty');
+  var sortSel = document.getElementById('sort');
+  var activeBatch = 'all';
+  var activeTab = 'all';
+
+  // Trạng thái Quan tâm / Đã làm — lưu localStorage, 1 thẻ chỉ ở 1 trạng thái
+  var LS_KEY = 'kho-distill-state-v1';
+  var state = {};
+  try { state = JSON.parse(localStorage.getItem(LS_KEY) || '{}') || {}; } catch (e) { state = {}; }
+  function saveState() { try { localStorage.setItem(LS_KEY, JSON.stringify(state)); } catch (e) {} }
+
+  // Phòng hờ thẻ mới thiếu data-id hoặc thiếu nút: suy data-id từ span.num, bổ sung nút
+  cards.forEach(function (c) {
+    if (!c.dataset.id) {
+      var numEl = c.querySelector('.num');
+      if (numEl) c.dataset.id = numEl.textContent.replace('#', '').trim();
+    }
+    var foot = c.querySelector('.card-foot');
+    if (foot && !foot.querySelector('.markbtn')) {
+      var b1 = document.createElement('button');
+      b1.className = 'markbtn'; b1.dataset.mark = 'interested'; b1.textContent = 'Quan tâm';
+      var b2 = document.createElement('button');
+      b2.className = 'markbtn'; b2.dataset.mark = 'done'; b2.textContent = 'Đã làm';
+      foot.appendChild(b1); foot.appendChild(b2);
+    }
+  });
+
+  // Văn bản tìm kiếm của thẻ (loại trừ nhãn nút để tìm "quan tâm"/"đã làm" không khớp mọi thẻ)
+  var searchText = {};
+  cards.forEach(function (c) {
+    var clone = c.cloneNode(true);
+    Array.prototype.forEach.call(clone.querySelectorAll('.markbtn'), function (b) { b.remove(); });
+    searchText[c.dataset.id] = clone.textContent.toLowerCase();
+  });
+
+  function refreshCardButtons(c) {
+    var st = state[c.dataset.id];
+    Array.prototype.forEach.call(c.querySelectorAll('.markbtn'), function (b) {
+      var active = st === b.dataset.mark;
+      b.classList.toggle('on', active);
+      b.textContent = active ? 'Bỏ đánh dấu' : (b.dataset.mark === 'interested' ? 'Quan tâm' : 'Đã làm');
+    });
+  }
+  function tabLabel(v) {
+    return v === 'all' ? 'Tất cả' : (v === 'interested' ? '⭐ Quan tâm' : '✅ Đã làm');
+  }
+  function updateTabCounts() {
+    var counts = { all: cards.length, interested: 0, done: 0 };
+    cards.forEach(function (c) {
+      if (state[c.dataset.id] === 'interested') counts.interested++;
+      else if (state[c.dataset.id] === 'done') counts.done++;
+    });
+    Array.prototype.forEach.call(document.querySelectorAll('.tab'), function (t) {
+      t.textContent = tabLabel(t.dataset.tab) + ' (' + counts[t.dataset.tab] + ')';
+    });
+  }
+  Array.prototype.forEach.call(document.querySelectorAll('.tab'), function (t) {
+    t.addEventListener('click', function () {
+      activeTab = t.dataset.tab;
+      Array.prototype.forEach.call(document.querySelectorAll('.tab'), function (x) { x.classList.toggle('on', x === t); });
+      apply();
+    });
+  });
+  cards.forEach(refreshCardButtons);
+  updateTabCounts();
+
+  // Thống kê tự động từ dữ liệu thẻ
+  var batches = {};
+  cards.forEach(function (c) { batches[c.dataset.batch] = c.dataset.date; });
+  var batchKeys = Object.keys(batches);
+  var batchNums = batchKeys.filter(function (k) { return !isNaN(+k); }).map(Number).sort(function (a, b) { return b - a; });
+  var specials = batchKeys.filter(function (k) { return isNaN(+k); });
+  var newest = batchNums[0];
+  stats.innerHTML = '<b>' + cards.length + '</b> idea · <b>' + batchNums.length + '</b> batch' + (specials.length ? ' + <b>' + specials.length + '</b> mục đặc biệt' : '') + ' · mới nhất: <b>' + batches[newest] + '</b>';
+
+  // Chip lọc theo batch (tự sinh)
+  function makeChip(label, value) {
+    var b = document.createElement('button');
+    b.className = 'chip' + (value === 'all' ? ' on' : '');
+    b.textContent = label;
+    b.onclick = function () {
+      activeBatch = value;
+      Array.prototype.forEach.call(chipsBox.children, function (c) { c.classList.remove('on'); });
+      b.classList.add('on');
+      apply();
+    };
+    chipsBox.appendChild(b);
+  }
+  makeChip('Tất cả (' + cards.length + ')', 'all');
+  specials.forEach(function (k) {
+    var count = cards.filter(function (c) { return c.dataset.batch === k; }).length;
+    makeChip('★ User đề xuất (' + count + ')', k);
+  });
+  batchNums.forEach(function (n) {
+    var count = cards.filter(function (c) { return c.dataset.batch == n; }).length;
+    makeChip('Batch ' + n + ' · ' + batches[n] + ' (' + count + ')', String(n));
+  });
+
+  function apply() {
+    var term = (q.value || '').toLowerCase().trim();
+    var visible = 0;
+    cards.forEach(function (c) {
+      var okBatch = activeBatch === 'all' || c.dataset.batch === activeBatch;
+      var okTab = activeTab === 'all' || state[c.dataset.id] === activeTab;
+      var okText = !term || (searchText[c.dataset.id] || '').indexOf(term) !== -1;
+      var show = okBatch && okTab && okText;
+      c.classList.toggle('hidden', !show);
+      if (show) visible++;
+    });
+    empty.style.display = visible ? 'none' : 'block';
+  }
+  q.addEventListener('input', apply);
+
+  // Bấm nút đánh dấu: cùng nút bấm lại thì bỏ đánh dấu; bấm nút còn lại thì đổi trạng thái
+  grid.addEventListener('click', function (ev) {
+    var b = ev.target.closest ? ev.target.closest('.markbtn') : null;
+    if (!b) return;
+    var card = b.closest('.card');
+    if (!card || !card.dataset.id) return;
+    var mark = b.dataset.mark;
+    if (state[card.dataset.id] === mark) delete state[card.dataset.id];
+    else state[card.dataset.id] = mark;
+    saveState();
+    refreshCardButtons(card);
+    updateTabCounts();
+    apply();
+  });
+
+  // Sắp xếp thẻ
+  var originalOrder = cards.slice();
+  sortSel.addEventListener('change', function () {
+    var mode = sortSel.value;
+    var sorted = cards.slice();
+    if (mode === 'stars') {
+      sorted.sort(function (a, b) { return (+b.dataset.stars) - (+a.dataset.stars); });
+    } else if (mode === 'num') {
+      sorted.sort(function (a, b) {
+        var na = parseInt(a.querySelector('.num').textContent.replace('#', ''), 10);
+        var nb = parseInt(b.querySelector('.num').textContent.replace('#', ''), 10);
+        return na - nb;
+      });
+    } else {
+      sorted = originalOrder.slice();
+    }
+    sorted.forEach(function (c) { grid.appendChild(c); });
+    grid.appendChild(empty);
+  });
+})();
+</script>
+</body>
+</html>
