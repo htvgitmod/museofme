@@ -1,0 +1,856 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" href="data:," />
+    <title>Kho Game Xàm & Độc Lạ</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800;900&family=Caveat:wght@600;700&display=swap" rel="stylesheet" />
+    <style>
+      :root{
+        --bg:#fdeede;
+        --bg-soft:#fff3e0;
+        --card:#fffcf6;
+        --ink:#262019;
+        --ink-soft:#5d5344;
+        --line:#eec39c;
+        --accent:#e4572e;
+        --accent-dark:#c7431f;
+        --teal:#177e6c;
+        --amber:#b07d10;
+        --red:#b3372a;
+        --green:#2e7d32;
+        --chip:#ffe3cb;
+        --shadow:0 2px 0 rgba(38,32,25,.9);
+        --shadow-card:0 10px 24px rgba(93,74,44,.10);
+      }
+      @media (prefers-color-scheme: dark){
+        :root{
+          --bg:#171410;
+          --bg-soft:#1f1a14;
+          --card:#221d16;
+          --ink:#f2ead9;
+          --ink-soft:#c4b79e;
+          --line:#3a3226;
+          --accent:#ff7a4d;
+          --accent-dark:#ff7a4d;
+          --teal:#4cc3ad;
+          --amber:#e0aa3e;
+          --red:#ff8a75;
+          --green:#7fc98a;
+          --chip:#2b241a;
+          --shadow:0 2px 0 rgba(0,0,0,.6);
+          --shadow-card:0 10px 24px rgba(0,0,0,.35);
+        }
+      }
+      *{box-sizing:border-box}
+      html{scroll-behavior:smooth}
+      body{
+        margin:0;
+        font-family:"Be Vietnam Pro",system-ui,sans-serif;
+        background:
+          radial-gradient(1100px 520px at 85% -80px, rgba(228,87,46,.30), transparent 62%),
+          radial-gradient(820px 430px at -10% 200px, rgba(255,166,47,.22), transparent 60%),
+          radial-gradient(700px 380px at 110% 480px, rgba(23,126,108,.10), transparent 60%),
+          var(--bg);
+        color:var(--ink);
+        line-height:1.55;
+      }
+      .wrap{max-width:1240px;margin:0 auto;padding:18px 14px 48px}
+
+      /* ---------- Header ---------- */
+      .kicker{
+        font-family:"Caveat",cursive;font-size:1.25rem;font-weight:700;color:var(--accent);
+        transform:rotate(-1.5deg);display:inline-block;margin-bottom:0;
+      }
+      h1{font-size:clamp(1.5rem,4vw,2.1rem);font-weight:900;letter-spacing:-.02em;line-height:1.12;margin:0 0 6px}
+      h1 .hl{color:var(--accent);background:linear-gradient(transparent 64%, rgba(255,166,88,.55) 64%);padding:0 2px}
+      .lede{color:var(--ink-soft);max-width:640px;margin:0 0 12px;font-size:.9rem}
+      .stats{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}
+      .stat{
+        background:var(--card);border:1.5px solid var(--ink);border-radius:10px;
+        padding:5px 11px;box-shadow:var(--shadow);font-size:.8rem;font-weight:600;
+        display:flex;align-items:center;gap:6px;
+      }
+      .stat b{font-size:1rem;font-weight:900;color:var(--accent)}
+      .stat.teal b{color:var(--teal)}
+
+      /* ---------- Tabs ---------- */
+      .tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
+      .tab-btn{
+        appearance:none;cursor:pointer;font:inherit;font-weight:800;font-size:.87rem;
+        background:var(--card);color:var(--ink);
+        border:2px solid var(--ink);border-radius:999px;padding:8px 15px;
+        box-shadow:var(--shadow);transition:transform .12s ease, background .12s ease, color .12s ease;
+      }
+      .tab-btn .count{
+        display:inline-block;background:var(--chip);border-radius:999px;padding:0 8px;margin-left:6px;
+        font-size:.72rem;font-weight:800;
+      }
+      .tab-btn:hover{transform:translateY(-1px)}
+      .tab-btn.active{background:var(--accent);border-color:var(--accent-dark);color:#fff}
+      .tab-btn.active .count{background:rgba(255,255,255,.25);color:#fff}
+      .tab-panel{display:none}
+      .tab-panel.active{display:block}
+
+      /* ---------- Toolbar ---------- */
+      .toolbar{
+        display:flex;flex-wrap:wrap;gap:9px;align-items:center;
+        background:var(--bg-soft);border:1.5px dashed var(--line);border-radius:12px;
+        padding:9px;margin-bottom:6px;
+      }
+      .search{flex:1 1 200px;position:relative}
+      .search input{
+        width:100%;font:inherit;font-size:.85rem;color:var(--ink);
+        background:var(--card);border:1.5px solid var(--line);border-radius:9px;
+        padding:8px 12px 8px 34px;outline:none;
+      }
+      .search input:focus{border-color:var(--accent)}
+      .search svg{position:absolute;left:10px;top:50%;transform:translateY(-50%);width:16px;height:16px;stroke:var(--ink-soft);fill:none;stroke-width:2;stroke-linecap:round}
+      .filters{display:flex;flex-wrap:wrap;gap:5px;align-items:center}
+      .filters .flabel{font-size:.75rem;font-weight:700;color:var(--ink-soft);margin-right:2px}
+      .chip{
+        appearance:none;cursor:pointer;font:inherit;font-size:.76rem;font-weight:700;
+        background:var(--chip);color:var(--ink);border:1.5px solid transparent;border-radius:999px;padding:4px 10px;
+        transition:background .12s ease,border-color .12s ease;
+      }
+      .chip:hover{border-color:var(--ink-soft)}
+      .chip.active{background:var(--accent);color:#fff;border-color:var(--accent-dark)}
+      .shown{font-size:.78rem;color:var(--ink-soft);margin:7px 2px 0}
+
+      /* ---------- Sections ---------- */
+      .sec-head{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;margin:22px 0 4px}
+      .sec-head h2{font-size:1.18rem;font-weight:900;letter-spacing:-.01em;margin:0}
+      .sec-head .hand{font-family:"Caveat",cursive;font-size:1.1rem;font-weight:700;color:var(--teal)}
+      .sec-sub{color:var(--ink-soft);margin:0 0 12px;max-width:720px;font-size:.84rem}
+
+      /* ---------- Cards ---------- */
+      .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px}
+      .gcard{
+        background:var(--card);border:1.5px solid var(--line);border-radius:12px;
+        padding:11px;box-shadow:var(--shadow-card);display:flex;flex-direction:column;gap:6px;
+      }
+      .gcard .top{display:flex;justify-content:space-between;align-items:flex-start;gap:7px}
+      .gcard h3{font-size:.94rem;font-weight:800;margin:0;line-height:1.3}
+      .num{
+        font-family:"Caveat",cursive;font-weight:700;font-size:1.05rem;color:var(--accent);
+        line-height:1;white-space:nowrap;padding-top:1px;
+      }
+      .mech{
+        align-self:flex-start;font-size:.62rem;font-weight:800;letter-spacing:.04em;text-transform:uppercase;
+        background:linear-gradient(135deg,#ff8438,#e4572e);border-radius:5px;padding:3px 8px;color:#fff;
+        box-shadow:0 2px 6px rgba(228,87,46,.35);
+      }
+      .gcard p{margin:0;font-size:.8rem;line-height:1.5}
+      .gcard .desc{color:var(--ink)}
+      .why{
+        font-size:.78rem;color:var(--ink-soft);
+        border-top:1px dashed var(--line);padding-top:6px;
+      }
+      .why b{color:var(--ink)}
+
+      /* ---------- Xem trước cắt dòng + vùng chi tiết thu gọn ---------- */
+      .preview{
+        display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;
+      }
+      .gcard.open .preview{display:none}
+      .detail{display:flex;flex-direction:column;gap:6px}
+      .detail[hidden]{display:none}
+      .detail-btn{
+        appearance:none;cursor:pointer;font:inherit;font-size:.76rem;font-weight:800;
+        display:flex;align-items:center;justify-content:center;gap:6px;width:100%;
+        background:#ffe9d6;color:var(--accent-dark);
+        border:1.5px solid var(--accent);border-radius:8px;padding:5px 10px;
+        transition:background .12s ease;
+      }
+      .detail-btn:hover{background:#ffdcc0}
+      .detail-btn:focus-visible{outline:2px solid var(--accent-dark);outline-offset:2px}
+      .detail-btn .chev{display:inline-block;transition:transform .15s ease;font-size:.7rem}
+      .detail-btn[aria-expanded="true"] .chev{transform:rotate(180deg)}
+      @media (prefers-color-scheme: dark){
+        .detail-btn{background:rgba(228,87,46,.18);color:var(--accent)}
+        .detail-btn:hover{background:rgba(228,87,46,.32)}
+      }
+      .own-card .detail-btn{width:auto;margin:2px 0 10px}
+      .meta-row{display:flex;flex-wrap:wrap;gap:5px;align-items:center;margin-top:auto;padding-top:4px}
+      .badge{
+        font-size:.68rem;font-weight:800;border-radius:999px;padding:2px 8px;border:1.5px solid;
+      }
+      .badge.d-vlow{color:var(--green);border-color:var(--green);background:#dbf4df}
+      .badge.d-low{color:var(--green);border-color:var(--green);background:#dbf4df}
+      .badge.d-mid{color:var(--amber);border-color:var(--amber);background:#fdf0c2}
+      .badge.d-high{color:var(--red);border-color:var(--red);background:#ffdbd2}
+      .badge.time{color:var(--ink-soft);border-color:var(--line);background:var(--bg-soft)}
+      .badge.status-wait{color:var(--amber);border-color:var(--amber);background:#fdf0c2}
+      .badge.status-new{color:#fff;background:linear-gradient(135deg,#ff8438,#e4572e);border-color:var(--accent-dark)}
+      .badge.source{color:var(--teal);border-color:var(--teal);background:#d3f0e8}
+      @media (prefers-color-scheme: dark){
+        .badge.d-vlow,.badge.d-low{background:rgba(90,200,110,.16)}
+        .badge.d-mid,.badge.status-wait{background:rgba(230,170,50,.16)}
+        .badge.d-high{background:rgba(255,110,90,.16)}
+        .badge.source{background:rgba(70,190,165,.16)}
+      }
+      .remix{font-size:.76rem;color:var(--teal);font-weight:600}
+      .remix::before{content:"↳ Remix: ";font-weight:800}
+      .from{font-size:.75rem;color:var(--ink-soft)}
+      .from b{color:var(--ink)}
+      .hidden-card{display:none !important}
+      .empty-note{
+        display:none;border:1.5px dashed var(--line);border-radius:14px;padding:26px;text-align:center;
+        color:var(--ink-soft);background:var(--bg-soft);font-weight:600;
+      }
+      .empty-note.show{display:block}
+
+      /* ---------- Tab 2 : idea của bạn ---------- */
+      .own-card{
+        background:var(--card);border:2px solid var(--ink);border-radius:14px;
+        box-shadow:5px 5px 0 rgba(228,87,46,.35), var(--shadow-card);
+        padding:18px;max-width:860px;
+      }
+      @media (prefers-color-scheme: dark){ .own-card{box-shadow:5px 5px 0 rgba(255,122,77,.25), var(--shadow-card)} }
+      .own-card h3{font-size:1.25rem;font-weight:900;margin:0 0 4px;line-height:1.25}
+      .own-card .origin{color:var(--ink-soft);font-size:.84rem;margin:0 0 12px}
+      .own-card .origin b{color:var(--ink)}
+      .own-card h4{
+        font-size:.72rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;
+        color:var(--accent);margin:14px 0 5px;
+      }
+      .own-card h4:first-of-type{margin-top:2px}
+      .own-card p{margin:0 0 8px;font-size:.88rem}
+      .own-card ul{margin:0;padding-left:18px}
+      .own-card li{margin-bottom:4px;font-size:.87rem}
+      .own-meta{display:flex;flex-wrap:wrap;gap:5px;margin-top:14px;padding-top:12px;border-top:1.5px dashed var(--line)}
+      .next-box{
+        margin-top:18px;max-width:860px;background:var(--bg-soft);border:1.5px dashed var(--line);
+        border-radius:12px;padding:13px 15px;color:var(--ink-soft);font-size:.85rem;
+      }
+      .next-box b{color:var(--ink)}
+      .next-box .hand{font-family:"Caveat",cursive;font-size:1.1rem;font-weight:700;color:var(--accent)}
+
+      /* ---------- Nút đánh dấu Quan tâm / Đã làm ---------- */
+      .mark-row{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+      .mark-btn{
+        appearance:none;cursor:pointer;font:inherit;font-size:.72rem;font-weight:800;
+        background:var(--bg-soft);color:var(--ink-soft);
+        border:1.5px solid var(--line);border-radius:999px;padding:4px 10px;
+        transition:background .12s ease,color .12s ease,border-color .12s ease;
+      }
+      .mark-btn:hover{border-color:var(--ink-soft)}
+      .mark-btn:focus-visible{outline:2px solid var(--accent-dark);outline-offset:2px}
+      .mark-btn.on-care{background:#fdf0c2;color:var(--amber);border-color:var(--amber)}
+      .mark-btn.on-done{background:#dbf4df;color:var(--green);border-color:var(--green)}
+      @media (prefers-color-scheme: dark){
+        .mark-btn.on-care{background:rgba(230,170,50,.16)}
+        .mark-btn.on-done{background:rgba(90,200,110,.16)}
+      }
+      .own-card .mark-row{margin-top:12px}
+      .marked-own{margin-top:10px}
+
+      footer{margin-top:36px;padding-top:13px;border-top:1.5px dashed var(--line);color:var(--ink-soft);font-size:.78rem}
+      @media (max-width:560px){
+        .grid{grid-template-columns:repeat(2,1fr);gap:8px}
+        .own-card{padding:14px}
+        .tab-btn{flex:1 1 auto;text-align:center}
+      }
+      @media (prefers-reduced-motion: reduce){
+        html{scroll-behavior:auto}
+        .tab-btn{transition:none}
+        .detail-btn,.detail-btn .chev{transition:none}
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <span class="kicker">sổ tay ý tưởng, đừng để trôi mất con nào nữa</span>
+      <h1>Kho Game <span class="hl">Xàm &amp; Độc Lạ</span></h1>
+      <p class="lede">Nơi lưu mọi game viral đã nghiên cứu và các idea remix từ chúng — một bên là hàng Muse crawl về chờ bạn duyệt, một bên là kho riêng của những con bạn đã chốt hoặc tự nghĩ ra.</p>
+
+      <div class="stats">
+        <div class="stat"><b>34</b> game gốc đã viral</div>
+        <div class="stat"><b>37</b> idea chờ duyệt</div>
+        <div class="stat teal"><b>1</b> idea của chính bạn</div>
+      </div>
+
+      <div class="tabs" role="tablist" aria-label="Các kho game">
+        <button class="tab-btn active" id="btn-tab1" role="tab" aria-selected="true" aria-controls="tab1">Game đã crawl &amp; idea chờ duyệt <span class="count">71</span></button>
+        <button class="tab-btn" id="btn-tab2" role="tab" aria-selected="false" aria-controls="tab2">Game bạn duyệt / tự nghĩ ra <span class="count">1</span></button>
+        <button class="tab-btn" id="btn-tab3" role="tab" aria-selected="false" aria-controls="tab3">⭐ Quan tâm <span class="count" id="countCare">0</span></button>
+        <button class="tab-btn" id="btn-tab4" role="tab" aria-selected="false" aria-controls="tab4">✅ Đã làm <span class="count" id="countDone">0</span></button>
+      </div>
+
+      <!-- ================= TAB 1 ================= -->
+      <section class="tab-panel active" id="tab1" role="tabpanel" aria-labelledby="btn-tab1">
+        <div class="toolbar">
+          <div class="search">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+            <input type="search" id="searchInput" placeholder="Tìm game hoặc idea… (ví dụ: phở, mật khẩu, wiki)" aria-label="Tìm kiếm game và idea" />
+          </div>
+          <div class="filters" aria-label="Lọc game gốc theo độ khó clone">
+            <span class="flabel">Độ khó clone:</span>
+            <button class="chip active" data-diff="all">Tất cả</button>
+            <button class="chip" data-diff="vlow">Rất thấp</button>
+            <button class="chip" data-diff="low">Thấp</button>
+            <button class="chip" data-diff="mid">Trung bình</button>
+            <button class="chip" data-diff="high">Cao</button>
+          </div>
+        </div>
+        <p class="shown" id="shownText"></p>
+
+        <div class="sec-head">
+          <h2>A · Game gốc đã viral</h2>
+          <span class="hand">hàng Muse crawl &amp; mổ xẻ</span>
+        </div>
+        <p class="sec-sub">34 con game trình duyệt đã chứng minh được sức hút thật. Mỗi thẻ ghi rõ mechanic, lý do viral, độ khó nếu bạn clone lại — và một gợi ý remix sang chất Việt.</p>
+        <div class="grid" id="gridA"></div>
+        <div class="empty-note" id="emptyA">Không có game gốc nào khớp bộ lọc. Thử nới tìm kiếm xem sao.</div>
+
+        <div class="sec-head">
+          <h2>B · Idea Muse đã đề xuất</h2>
+          <span class="hand">chờ bạn gật đầu</span>
+        </div>
+        <p class="sec-sub">37 idea remix từ các game gốc bên trên, gồm đợt nền 20/10, lượt tối 20/10, lượt 21/10, lượt 22/10, lượt 23/10, lượt 24/10 và lượt 25/10. Tất cả đang ở trạng thái chờ duyệt — con nào ưng, chỉ cần hô số là bắt tay thiết kế chi tiết theo từng buổi 30 phút.</p>
+        <div class="grid" id="gridB"></div>
+        <div class="empty-note" id="emptyB">Không có idea nào khớp từ khóa tìm kiếm.</div>
+      </section>
+
+      <!-- ================= TAB 2 ================= -->
+      <section class="tab-panel" id="tab2" role="tabpanel" aria-labelledby="btn-tab2">
+        <div class="sec-head" style="margin-top:6px">
+          <h2>Kho riêng của bạn</h2>
+          <span class="hand">đã duyệt hoặc tự nghĩ ra — không lẫn hàng chờ</span>
+        </div>
+        <p class="sec-sub">Idea nào bạn gật đầu ở tab 1, hoặc tự nghĩ ra như con dưới đây, sẽ nằm ở đây kèm phác thảo gameplay đầy đủ.</p>
+
+        <article class="own-card" data-mark-id="own-0">
+          <div class="meta-row" style="margin:0 0 12px;padding:0">
+            <span class="badge source">Bạn tự nghĩ ra</span>
+            <span class="badge time">21/10/2026</span>
+            <span class="badge status-new">Mới nghĩ ra — chưa chốt làm</span>
+          </div>
+          <h3>Vệ Sĩ Cho Idol — Cho Qua Hay Chặn Lại?</h3>
+          <p class="origin">Phát triển từ idea <b>“Bảo vệ chung cư: Duyệt hay Đuổi?”</b> của Muse — cùng họ gameplay <b>Papers, Please</b>: soi xét từng người, quyết cho qua hay chặn lại theo luật đổi mỗi ngày.</p>
+
+          <button type="button" class="detail-btn" aria-expanded="false" aria-controls="own-detail"><span class="dt-label">Chi tiết</span><span class="chev" aria-hidden="true">▾</span></button>
+          <div class="detail" id="own-detail" hidden>
+          <h4>Vai của người chơi</h4>
+          <p>Bạn là vệ sĩ gác cổng hậu trường cho một ca sĩ nổi tiếng <b>hư cấu</b>. Mỗi ca trực, một hàng người xếp hàng xin vào — và không phải ai trông cũng giống như họ tự xưng.</p>
+
+          <h4>Ai sẽ đến gõ cửa?</h4>
+          <ul>
+            <li><b>Người thật việc thật:</b> fan có vé, staff, thợ make-up, nhà tài trợ VIP, phóng viên.</li>
+            <li><b>Hàng giả trà trộn:</b> stalker, paparazzi giả dạng shipper giao hoa, anti-fan mang quà lạ, fan cuồng thuộc lòng toàn bộ lịch trình của ca sĩ.</li>
+          </ul>
+
+          <h4>Luật chơi mỗi ngày một khác</h4>
+          <ul>
+            <li>Mỗi sáng, quản lý ban hành luật mới: <i>“Hôm nay ca sĩ mệt — không nhận quà trực tiếp”</i>, <i>“Có thư đe dọa — soi kỹ người đội mũ trùm”</i>…</li>
+            <li>Danh sách đen kèm ảnh được cập nhật liên tục — nhớ mặt là kỹ năng sống còn.</li>
+            <li>Người chơi soi giấy tờ / vé / món quà rồi quyết: <b>Cho qua</b> · <b>Chặn lại</b> · <b>Kiểm tra kỹ</b>.</li>
+          </ul>
+
+          <h4>Thắng thua tính thế nào?</h4>
+          <ul>
+            <li>Cho stalker lọt vào → hôm sau lên mặt báo scandal, chỉ số an toàn tụt thảm.</li>
+            <li>Chặn nhầm VIP / nhà tài trợ → bị quản lý mắng, trừ lương.</li>
+            <li>Sống sót qua càng nhiều show, ca sĩ càng nổi — và đám đông ngoài cổng càng điên.</li>
+          </ul>
+
+          <h4>Điểm độc</h4>
+          <p>Drama showbiz + fan cuồng là mỏ meme vô tận. Cuối mỗi ca, game sinh một <b>“tít báo”</b> dựa trên chính lỗi của người chơi — kiểu: <i>“Vệ sĩ cho stalker vào vì ‘trông hiền’”</i> — sinh ra để chụp màn hình khoe. Lưu ý thiết kế: dùng ca sĩ hư cấu để tránh đụng người thật.</p>
+          </div>
+
+          <div class="own-meta">
+            <span class="badge d-low">Độ khó: Thấp – Trung bình</span>
+            <span class="badge time">Ước tính: 4–6 buổi × 30 phút</span>
+            <span class="badge time">Data tĩnh: luật + nhân vật + thoại</span>
+            <span class="badge time">Tiền: yếu (ads) — mạnh ở clip TikTok</span>
+          </div>
+          <div class="mark-row">
+            <button type="button" class="mark-btn" data-mark="care" aria-pressed="false">⭐ Quan tâm</button>
+            <button type="button" class="mark-btn" data-mark="done" aria-pressed="false">✅ Đã làm</button>
+          </div>
+        </article>
+        <div class="empty-note" id="ownMovedNote" style="margin-top:12px"></div>
+
+        <div class="next-box">
+          <span class="hand">muốn thêm con nữa vào kho này?</span><br />
+          Cứ nghĩ ra hoặc gật đầu với bất kỳ idea nào ở tab 1 rồi nói với Muse — thẻ sẽ được chuyển sang đây kèm phác thảo gameplay chi tiết như con Vệ Sĩ Cho Idol ở trên. <b>Hiện kho riêng đang có đúng 1 con — chờ bạn nạp thêm.</b>
+        </div>
+      </section>
+
+      <!-- ================= TAB 3: QUAN TÂM ================= -->
+      <section class="tab-panel" id="tab3" role="tabpanel" aria-labelledby="btn-tab3">
+        <div class="sec-head" style="margin-top:6px">
+          <h2>⭐ Quan tâm</h2>
+          <span class="hand">những con đang để mắt tới</span>
+        </div>
+        <p class="sec-sub">Thẻ nào bạn bấm nút “⭐ Quan tâm” sẽ nằm ở đây. Bấm lại chính nút đó — ở bất kỳ tab nào — để bỏ đánh dấu và đưa thẻ về chỗ cũ.</p>
+        <div class="grid" id="gridCare"></div>
+        <div class="marked-own" id="careOwn"></div>
+        <div class="empty-note" id="emptyCare">Chưa có thẻ nào được đánh dấu Quan tâm. Bấm nút “⭐ Quan tâm” trên bất kỳ thẻ game/idea nào để đưa nó vào đây.</div>
+      </section>
+
+      <!-- ================= TAB 4: ĐÃ LÀM ================= -->
+      <section class="tab-panel" id="tab4" role="tabpanel" aria-labelledby="btn-tab4">
+        <div class="sec-head" style="margin-top:6px">
+          <h2>✅ Đã làm</h2>
+          <span class="hand">những con đã bắt tay làm rồi</span>
+        </div>
+        <p class="sec-sub">Thẻ nào bạn bấm nút “✅ Đã làm” sẽ nằm ở đây. Bấm lại chính nút đó — ở bất kỳ tab nào — để bỏ đánh dấu và đưa thẻ về chỗ cũ.</p>
+        <div class="grid" id="gridDone"></div>
+        <div class="marked-own" id="doneOwn"></div>
+        <div class="empty-note" id="emptyDone">Chưa có thẻ nào được đánh dấu Đã làm. Bấm nút “✅ Đã làm” trên bất kỳ thẻ game/idea nào để đưa nó vào đây.</div>
+      </section>
+
+      <footer>
+        Số liệu viral (lượt chơi, doanh thu, mốc thời gian) lấy từ các lượt nghiên cứu trong chat “Nghiên cứu Game xàm &amp; độc lạ” — đợt nền, lượt tối 20/10, lượt 21/10, lượt 22/10, lượt 23/10, lượt 24/10 và lượt 25/10/2026.
+      </footer>
+    </div>
+
+    <script>
+      /* ============ DỮ LIỆU — NHÓM A: GAME GỐC ============ */
+      var GAMES = [
+        { name:"1 in 8 Billion", mech:"Giả lập đời người · Random có trọng số", diff:"low", diffLabel:"Thấp",
+          desc:"Bạn bị “quăng” sinh ra ngẫu nhiên ở 1 trong 172 nước theo đúng trọng số dân số/sinh sản thật, rồi sống trọn một đời — học hành, việc làm, yêu đương, bệnh tật — dựa trên dữ liệu UN, WHO, World Bank.",
+          why:"Mỗi ván là một “kiếp khác” khiến người ta khóc/cười rồi lập tức chơi lại và khoe kết quả. Tác giả Jin Hwi-eus làm bằng AI tạo sinh trong khoảng 4 giờ (10/2026) — chính chuyện “làm trong 4 giờ” cũng là một nửa cú viral.",
+          remix:"Thu hẹp về Việt Nam: sinh ở 1 tỉnh/thành, sự kiện đời người thuần Việt — chính là idea “Kiếp nữa bạn sinh ở tỉnh nào?”." },
+        { name:"The Password Game", mech:"Puzzle · Luật vô lý leo thang", diff:"low", diffLabel:"Thấp", tag:"neal.fun",
+          desc:"Bắt đầu chỉ là “tạo mật khẩu có chữ hoa”, rồi luật sau đẻ luật trước: tổng chữ số phải bằng 25, phải chứa tên một quốc gia, phải nuôi một con gà emoji ngay trong mật khẩu…",
+          why:"Được chơi hơn 10 triệu lần, thuộc nhóm game trình duyệt được chia sẻ nhiều nhất. Gây nghiện kiểu ức chế vui: người ta quay clip chửi game, clip đó lại kéo người khác vào chịu khổ cùng.",
+          remix:"Bản Việt “mật khẩu phải qua ải sếp”: thêm luật tên tỉnh, ngày âm lịch, cho gà ăn bằng ký tự *." },
+        { name:"Infinite Craft", mech:"Ghép đồ bằng AI · Sáng tạo vô hạn", diff:"mid", diffLabel:"Trung bình", tag:"neal.fun",
+          desc:"Kéo 2 nguyên tố ghép vào nhau, AI nghĩ ra thứ mới: Nước + Lửa = Hơi nước, cứ thế tới Godzilla, Ohio, “nỗi sầu hiện sinh”… không có điểm dừng.",
+          why:"Bùng nổ đầu 2024, là game được tìm kiếm nhiều thứ 3 trong năm; cộng đồng tự lập wiki ghi lại các công thức quái nhất từng ghép ra.",
+          remix:"Bản không AI với bảng ~200 công thức meme Việt viết sẵn — tránh được chi phí API và kết quả bậy/lặp." },
+        { name:"Little Alchemy", mech:"Ghép đồ khám phá · Không thua", diff:"low", diffLabel:"Thấp",
+          desc:"Tiền thân của Infinite Craft: bắt đầu với 4 nguyên tố cơ bản, ghép dần ra 560+ khám phá. Không thua, không bấm giờ, chơi thong thả.",
+          why:"Chứng minh ghép-đồ thuần túy (không cần AI) vẫn gây nghiện nhờ cảm giác “ghép nữa xem ra gì” và bộ đếm khám phá tăng dần.",
+          remix:"Đổi kho nguyên tố sang đồ Việt: Cơm, Nước Mắm, Mẹ, Internet…" },
+        { name:"One Million Checkboxes", mech:"Tương tác dùng chung toàn cầu", diff:"high", diffLabel:"Cao",
+          desc:"Đúng nghĩa đen: một trang có 1 triệu ô checkbox, bạn tick ô nào là mọi người trên thế giới cùng thấy ngay lập tức.",
+          why:"Hơn 650 triệu lượt tick/bỏ tick chỉ trong 2 tuần. “Vô dụng + dùng chung” tự nó là gameplay: người tốt đi tick, kẻ ác đi phá, hai phe tự tạo nội dung. Cuối cùng phải đóng vì bot/script tràn vào.",
+          remix:"Bài học rút ra: giao diện thì dễ, nhưng cần backend realtime + chống bot — con duy nhất trong kho vượt ngân sách vận hành 30 phút/ngày." },
+        { name:"Slow Roads", mech:"Lái xe 3D khám phá · Không mục tiêu", diff:"mid", diffLabel:"Trung bình – Cao",
+          desc:"Lái xe vô tận trên đường sinh ngẫu nhiên (procedural), đổi thời tiết/mùa, không đua, không đích, không thua; có cả chế độ tự lái để treo máy ngắm cảnh. Thế giới tự sinh ngay trên máy người chơi theo seed.",
+          why:"Solo dev Anslo làm như một thí nghiệm 3D nhẹ; hơn 1 triệu người chơi trong 2 tuần đầu, ~75.000 người/ngày, và tháng 9/2026 vừa lên Steam.",
+          remix:"Bản rút gọn 2.5D chạy dọc bờ biển Việt Nam qua đèo Hải Vân — giữ 80% cảm giác chill với sức làm thấp hơn nhiều." },
+        { name:"Raindrop Sprinters", mech:"Né vật rơi · Arcade 1 màn hình", diff:"low", diffLabel:"Thấp",
+          desc:"Chạy qua một hành lang trên màn hình cố định, né từng hạt mưa, có nút slow-motion; rủi ro càng cao điểm càng lớn — và có chế độ ngược đời là… hứng mưa.",
+          why:"Báo EDGE chấm 8/10, gọi là arcade thuần khiết kiểu “chơi thêm một lượt nữa thôi”. Mưa rơi theo hạt nhìn thấy trước được, nên thua là do mình, không phải game gian — đó là thứ làm người ta cay và chơi lại.",
+          remix:"Đổi hạt mưa thành deadline, tin nhắn sếp, hóa đơn điện — bối cảnh đi làm Việt Nam." },
+        { name:"Universal Paperclips", mech:"Clicker · Twist đen tối", diff:"low", diffLabel:"Thấp",
+          desc:"Bạn là một AI chỉ biết sản xuất kẹp giấy. Số kẹp tăng theo cấp số nhân cho tới khi… toàn bộ vật chất vũ trụ bị biến thành kẹp giấy.",
+          why:"450.000 người chơi trong 11 ngày đầu, đa số chơi tới tận kết thúc. Clicker thắng không nhờ số đẹp mà nhờ cốt truyện leo thang có hồn.",
+          remix:"Thay kẹp giấy bằng tô phở: nhiệm vụ bí mật cuối game là phở hóa toàn bộ ẩm thực thế giới." },
+        { name:"BLOODMONEY!", mech:"Clicker đen tối", diff:"low", diffLabel:"Thấp", tag:"itch.io · 2025",
+          desc:"Click để “đánh” một người qua màn hình, đổi lấy tiền chữa bệnh $25K. Mua “vũ khí” mạnh hơn thì tiền nhiều hơn, nhưng khung cảnh càng lúc càng ghê.",
+          why:"Thành bão mạng nhờ streamer quay phản ứng khi chơi. Cùng họ Paperclips: code rẻ, đắt ở khâu viết twist leo thang.",
+          remix:"Giữ khung clicker + nâng cấp leo thang, thay twist sang tông hài đen nhẹ nhàng hơn cho hợp khán giả Việt." },
+        { name:"Wordle", mech:"Đoán từ · 1 ván/ngày", diff:"low", diffLabel:"Thấp",
+          desc:"Mỗi ngày đúng 1 ván đoán từ, tất cả người chơi cùng một đề. Kết quả share ra dưới dạng lưới ô vuông màu — không lộ đáp án.",
+          why:"Thắng nhờ 3 thứ: khan hiếm (không chơi cố được), đề chung toàn cầu, và nút share không spoil. Được New York Times mua lại với giá 7 chữ số thấp.",
+          remix:"Công thức “1 ván/ngày + share không lộ đáp án” áp cho bất kỳ chủ đề nào — ví dụ đoán từ mở bài Wiki tiếng Việt." },
+        { name:"Draw a Perfect Circle", mech:"Vẽ & chấm điểm", diff:"vlow", diffLabel:"Rất thấp", tag:"neal.fun",
+          desc:"Vẽ một vòng tròn bằng chuột hoặc ngón tay; game tính tâm, đo độ lệch bán kính và chấm % độ tròn, kèm danh hiệu trêu ngươi.",
+          why:"Chứng minh một nét vẽ duy nhất cũng thành game: ảnh kết quả “97,3%” tự nó đã là một lời thách đấu gửi vào group chat.",
+          remix:"Thêm danh hiệu kiểu Việt: “tròn như bánh tráng trộn”, “méo như ngân sách cuối tháng”." },
+        { name:"Spend Bill Gates' Money", mech:"Tiêu tiền giả lập", diff:"vlow", diffLabel:"Rất thấp", tag:"neal.fun",
+          desc:"Game của neal.fun: cho bạn $100 tỷ của Bill Gates, mua sắm thả ga từ list đồ có giá thật — từ món vài đô tới du thuyền, đội bóng — cuối game in ra tổng bill.",
+          why:"Ai cũng khoái tiêu tiền của người khác; thỏa mãn trí tò mò phổ quát “có 100 tỷ thì tiêu sao cho hết”, và tấm bill cuối ván sinh ra để chụp màn hình khoe thành content.",
+          remix:"“Trúng Vietlott tiêu gì” — trúng số 100 tỷ, mua đồ kiểu VN (đã đề xuất 22/10, xem nhóm B)." },
+        { name:"Chimp Test", mech:"Test trí nhớ ngắn hạn", diff:"low", diffLabel:"Thấp", tag:"Human Benchmark",
+          desc:"Các con số hiện lên rồi bị che đi sau tích tắc; bạn phải bấm lại theo thứ tự từ nhỏ đến lớn. Qua mỗi màn, số lượng lại tăng thêm.",
+          why:"Dựa trên thí nghiệm thật của ĐH Kyoto: khỉ Ayumu nhớ 9 số sau 0,2 giây với độ chính xác ~80%, người trưởng thành chỉ ~40%. Khoa học thật chống lưng + kết quả “thua khỉ” khiến ai cũng muốn khoe hoặc gỡ gạc.",
+          remix:"Trả kết quả dạng thẻ “Trí nhớ của bạn = 62% khỉ Ayumu” — câu khoe tự chửi mình, sinh ra để share." },
+        { name:"Redactle", mech:"Đoán từ · Mở bài bị bôi đen", diff:"low", diffLabel:"Thấp",
+          desc:"Một bài Wikipedia bị bôi đen gần như toàn bộ; bạn đoán từng từ để mở dần nội dung. Các từ chức năng (của, và, là, trong…) được hiện sẵn.",
+          why:"Median toàn cầu là 129 lượt đoán cho một bài. Cảm giác “thám tử” khi từng mảng đen bật sáng là thứ kéo người chơi tới cuối ván.",
+          remix:"Dùng kho 200–300 bài Wikipedia tiếng Việt phổ biến (Sơn Tùng M-TP, phở, Đà Nẵng…) và khóa 1 ván/ngày kiểu Wordle." },
+        { name:"Papers, Please", mech:"Kiểm tra giấy tờ · Duyệt hay đuổi", diff:"mid", diffLabel:"Trung bình",
+          desc:"Bạn là nhân viên cửa khẩu: kiểm tra giấy tờ của từng người theo bộ luật thay đổi mỗi ngày, đóng dấu duyệt hoặc từ chối; sai nhiều bị phạt trừ lương.",
+          why:"Là mẫu gốc của mọi game “duyệt hay đuổi”: quyết định nhanh dưới áp lực + luật đổi liên tục + hệ quả dây chuyền khiến mỗi ca trực là một câu chuyện kể lại được.",
+          remix:"Vặn thành bảo vệ chung cư Việt Nam soát shipper/khách — và xa hơn: vệ sĩ hậu trường cho ca sĩ nổi tiếng (đã nằm ở tab 2!)." },
+        { name:"Suika Game", mech:"Ghép vật lý · Physics", diff:"mid", diffLabel:"Trung bình",
+          desc:"Thả trái cây vào một cái hộp; 2 quả giống nhau chạm vào nhau sẽ hợp thành quả lớn hơn. Hộp đầy tràn là thua.",
+          why:"11 triệu+ lượt tải, viral toàn cầu nhờ streamer/VTuber. Nhìn 2 quả nhỏ “bụp” thành quả lớn cho cảm giác đã lạ kỳ, screenshot ván đấu tự nó đã vui.",
+          remix:"Chuỗi trái cây → chuỗi đồ ăn Việt: gói mì → tô mì → bánh mì → tô phở → … → mâm cỗ Tết." },
+        { name:"Tiệm Phở của Anh Hai", mech:"Game bản sắc Việt Nam", diff:"none", diffLabel:"",
+          desc:"Game của một sinh viên Bách Khoa, trở thành hiện tượng mạng xã hội lớn nhất Việt Nam năm 2025 nhờ bản sắc văn hóa Việt đậm đặc trong từng chi tiết.",
+          why:"Minh chứng quan trọng nhất trong kho: meme và bản sắc địa phương là một đường viral riêng, không cần đua đồ họa với thế giới — đối trọng thú vị với Flappy Bird ngày xưa.",
+          remix:"Mọi remix trong kho này đều đang mượn bài học của nó: chất Việt càng đậm, càng có đường viral riêng." },
+        { name:"A Game About Digging A Hole", mech:"Clicker đào đất · Incremental", diff:"low", diffLabel:"Thấp",
+          desc:"Game incremental đào hố của solo dev DoubleBee, làm trong vài tuần như một side project. Loop cực đơn giản đến mức ngờ nghệch: đào – bán đất – nâng cấp xẻng – đào sâu hơn nữa, hết.",
+          why:"Leo Steam top 30, bán hơn 1 triệu bản với giá $4.99 — bằng chứng là loop càng đơn giản càng dễ gây nghiện khi nhịp nâng cấp gõ đúng cơn tò mò “sâu nữa thì có gì”. Bản co-op “A Game About Digging A Hole Together” ra mắt 4/12/2026 trên PC/PS5/Xbox/Switch 2 và Game Pass.",
+          remix:"Đào giếng bản Việt với sự kiện xàm chèn giữa: đào trúng hóa thạch, rương ông cố để lại, đào đứt cáp quang AAG — chính là idea “Đào giếng trúng cáp quang” ở nhóm B." },
+        { name:"2048", mech:"Puzzle trượt số · Gộp ô", diff:"vlow", diffLabel:"Rất thấp", tag:"Gabriele Cirulli · 2014",
+          desc:"Trượt các ô số trên lưới 4×4; hai ô giống nhau chạm nhau sẽ gộp đôi, mục tiêu tạo ra ô 2048.",
+          why:"Luật gói gọn trong 1 câu, cảm giác “chỉ 1 ván nữa” gây nghiện kinh điển, chạy được trên mọi thiết bị — và là game web bị clone nhiều nhất lịch sử. Clone rất dễ: JS thuần, tutorial đầy trên mạng.",
+          remix:"“Gộp nhà đất” — ô số hóa thành BĐS Việt Nam (đã đề xuất 22/10, xem nhóm B)." },
+        { name:"Doodle Jump", mech:"Nhảy bục vô tận · Platformer dọc", diff:"low", diffLabel:"Thấp", tag:"Lima Sky · 2009",
+          desc:"Chú bọt nhảy bục vô tận lên cao, nghiêng máy để lái sang trái phải; rơi khỏi màn hình là thua. Clone ở mức thấp: platformer dọc bằng canvas là đủ.",
+          why:"Chơi 1 tay được mọi lúc mọi nơi, kỷ lục cá nhân khiến người ta bấm “chơi lại” vô hạn; từng là vua mobile với hàng chục triệu lượt tải.",
+          remix:"“Nhảy việc” — mỗi bục là một công ty với bảng lương tăng dần (đã đề xuất 22/10, xem nhóm B)." },
+        { name:"Plinko", mech:"Thả bi may rủi · Suspense", diff:"low", diffLabel:"Thấp", tag:"The Price Is Right · 1983",
+          desc:"Thả bi từ đỉnh, bi nảy qua hàng đinh rồi rơi vào ô hệ số thưởng ở đáy. Gốc là gameshow The Price Is Right (1983); bản online bùng nổ 2025–2026 nhờ streamer Twitch/Kick/YouTube. Clone ở mức thấp: vật lý nảy đơn giản hoặc random có trọng số.",
+          why:"Luật không cần giải thích, mỗi lượt tạo suspense vài giây khi bi nảy — clip 10–30 giây lan tự nhiên trên short-form.",
+          remix:"“Thả bi săn voucher” — bản không cá cược, ô thưởng là voucher sale VN (đã đề xuất 22/10, xem nhóm B)." },
+        { name:"The Deep Sea", mech:"Cuộn lặn khám phá · Scroll toy", diff:"low", diffLabel:"Thấp", tag:"neal.fun · 2019",
+          desc:"Cuộn chuột lặn từ mặt biển xuống 11.000m: màn hình hiện độ sâu, vùng biển và sinh vật sống đúng ở độ sâu thật đó — cá voi beluga ở vùng nông, tàu Titanic nằm ở gần 4.000m…",
+          why:"Chill, đẹp, và học được thứ thật lúc nào không hay — một trong những toy web được chia sẻ nhiều nhất của neal.fun của Neal Agarwal. Clone thấp: 1 trang scroll + JS là đủ.",
+          remix:"“Lặn xuống giếng làng” — đổi đại dương thành cái giếng làng Việt Nam (đã đề xuất 23/10, xem nhóm B)." },
+        { name:"Buckshot Roulette", mech:"Roulette shotgun · May rủi đấu AI", diff:"mid", diffLabel:"Trung bình",
+          desc:"Roulette Nga bằng shotgun, đấu với The Dealer: đạn thật và đạn giả nạp lẫn nhau, vật phẩm lật kèo (kính lúp soi đạn, cưa nòng…), chơi 3 round căng não.",
+          why:"Hơn 4 triệu bản bán ra (itch.io 12/2023 → Steam 4/2024), bão Twitch/TikTok/YouTube nhờ clip reaction của người chơi; vừa công bố lên PS5/Switch tháng 10/2026. Clone trung bình: logic xác suất + AI đối thủ.",
+          remix:"“Rút thăm rửa bát” — giữ nhịp tim đập của roulette nhưng bỏ súng, đổi sang rút thăm lành mạnh (đã đề xuất 23/10, xem nhóm B)." },
+        { name:"Heardle", mech:"Đoán nhạc · Nghe 1 giây", diff:"low", diffLabel:"Thấp – Trung bình", tag:"2022 · Spotify mua lại",
+          desc:"Nghe đúng 1 giây đầu của một bài hát rồi đoán tên; sai thì được nghe thêm dần, tối đa 6 lượt. Đúng 1 ván mỗi ngày, kiểu Wordle.",
+          why:"Ăn theo công thức Wordle nhưng đánh vào thứ ai cũng tưởng mình giỏi: nghe nhạc. Ra mắt 2022 và được Spotify mua lại. Clone thấp–trung bình: phần nặng là kho audio, không phải code.",
+          remix:"“Nghe 1 giây đoán quảng cáo” — đổi bài hát thành jingle quảng cáo Việt (đã đề xuất 23/10, xem nhóm B)." },
+        { name:"Cookie Clicker", mech:"Idle clicker · Số leo thang", diff:"low", diffLabel:"Thấp", tag:"Orteil · 2013",
+          desc:"Click để ra bánh cookie, lấy cookie mua nâng cấp và con trỏ auto-click, rồi nhìn con số leo thang vô cực — không thắng, không thua, chỉ có số to dần.",
+          why:"Ông tổ của dòng idle game (2013): gây nghiện thuần túy nhờ con số nhảy và cảm giác “để máy tự chạy cũng ra tiền”. Clone thấp: JS thuần là đủ.",
+          remix:"“Bấm còi xe máy” — đổi cookie thành tiếng còi xe Việt Nam (đã đề xuất 23/10, xem nhóm B)." },
+        { name:"Draw Logos From Memory", mech:"Vẽ lại từ trí nhớ · Tự chấm độ méo", diff:"low", diffLabel:"Thấp", tag:"neal.fun",
+          desc:"Game của neal.fun: bạn phải vẽ lại những logo nổi tiếng — Apple, Starbucks, Pepsi… — hoàn toàn từ trí nhớ, không được nhìn mẫu. Vẽ xong mới thấy mình nhớ sai tới mức nào khi bản vẽ được đặt cạnh logo thật.",
+          why:"Ai cũng tưởng mình thuộc logo đến mức nhắm mắt cũng vẽ được, và cú “té ngửa” khi thấy bản vẽ méo mó của chính mình là thứ sinh ra để chụp màn hình khoe và thách bạn bè vẽ thử.",
+          remix:"Vặn sang logo thương hiệu Việt: Vinamilk, Viettel, Highlands, Biti's… — chính là idea “Vẽ logo từ trí nhớ, chấm điểm nhục nhã” ở nhóm B (đề xuất 24/10)." },
+        { name:"Worldle", mech:"Đoán quốc gia qua hình dáng · 1 ván/ngày", diff:"low", diffLabel:"Thấp",
+          desc:"Mỗi ngày một quốc gia, game chỉ hiện hình dáng bản đồ của nước đó. Bạn có 6 lượt đoán; mỗi lần đoán sai, game gợi ý khoảng cách và hướng từ nước bạn đoán tới đáp án đúng.",
+          why:"Ăn theo công thức Wordle — đề chung mỗi ngày, share kết quả không lộ đáp án — nhưng đánh vào dân mê địa lý và bản đồ: nhìn hình dáng mà đoán trúng nước là một dạng khoe kiến thức rất “đã”.",
+          remix:"Vặn sang 63 tỉnh Việt Nam — chính là idea “Đoán tỉnh qua hình dáng” ở nhóm B (đề xuất 24/10)." },
+        { name:"Absurd Trolley Problems", mech:"Dilemma đạo đức · Chọn 1 trong 2", diff:"vlow", diffLabel:"Rất thấp", tag:"neal.fun",
+          desc:"Game của neal.fun: bài toán xe đẩy (trolley problem) kinh điển bị vặn tới mức vô lý leo thang — kéo cần gạt hay không, cứu bên này hay bên kia. Sau mỗi lựa chọn, bạn thấy bao nhiêu % người chơi trên thế giới chọn giống mình.",
+          why:"Điểm hút là tranh cãi: mỗi tình huống là một cái cớ hoàn hảo để cãi nhau trong group chat, và con số % “người giống tôi” khiến ai cũng muốn khoe hoặc phản đối ầm ĩ.",
+          remix:"Vặn sang dilemma đời thường Việt Nam — chính là idea “Xe đẩy chợ: chọn bên nào cũng sai” ở nhóm B (đề xuất 24/10)." },
+        { name:"Life Stats", mech:"Nhập ngày sinh · Thống kê đời người", diff:"vlow", diffLabel:"Rất thấp", tag:"neal.fun",
+          desc:"Game của neal.fun: nhập ngày sinh của bạn, nhận ngay một bảng thống kê đời mình bằng số — đã sống bao nhiêu ngày, đã ngủ mất bao nhiêu ngày, tim đã đập bao nhiêu lần, đã hít thở bao nhiêu hơi…",
+          why:"Con số cá nhân hóa về chính mình luôn khiến người ta khựng lại: “tôi đã ngủ mất từng này năm đời” là dạng câu sinh ra để chụp màn hình khoe, và mỗi người một bảng số khác nhau nên ai cũng muốn tự tra của mình.",
+          remix:"Vặn sang đời sống công sở Việt Nam: ly cà phê sữa đá, giờ chờ thang máy, ngày OT… — chính là idea “Đời bạn bằng số” ở nhóm B (đề xuất 24/10)." },
+        { name:"One Million Checkboxes", mech:"Tích ô chung toàn cầu · Realtime", diff:"high", diffLabel:"Cao", tag:"eieio.games · 2024",
+          desc:"Cả internet cùng tích chung một lưới một triệu ô checkbox (eieio.games, 2024): bạn tick hay bỏ tick ô nào là tất cả mọi người đang mở trang cùng thấy đổi theo ngay lập tức.",
+          why:"Đáng tham khảo vì nó vô dụng một cách hoàn hảo mà vẫn gây nghiện: sức hút không nằm ở thắng thua mà ở cảm giác “mình là một phần của cái gì đó to đùng” — hàng triệu người lạ cùng nghịch chung một thứ, kẻ tick người phá tự tạo ra câu chuyện.",
+          remix:"Vặn sang bản solo văn phòng không cần server chung — chính là idea “Tích cho hết giờ làm” ở nhóm B (đề xuất 25/10)." },
+        { name:"Wordle", mech:"Đoán từ 5 chữ · 1 ván/ngày", diff:"low", diffLabel:"Thấp", tag:"New York Times",
+          desc:"Mỗi ngày đúng 1 ván: đoán một từ 5 chữ trong tối đa 6 lượt, ô màu xanh/vàng/xám gợi ý chữ đúng và đúng vị trí. Kết quả share ra dưới dạng lưới ô màu — khoe được mà không lộ đáp án.",
+          why:"Đáng tham khảo vì bộ ba khan hiếm (1 ván/ngày, không chơi cố được) + đề chung cho tất cả mọi người + share không spoil khiến nó thành thói quen buổi sáng của cả thế giới — format đáng mượn nguyên xi cho mọi chủ đề.",
+          remix:"Vặn sang tên món ăn Việt không dấu 5 ký tự — chính là idea “Đoán món 5 chữ” ở nhóm B (đề xuất 25/10)." },
+        { name:"Sai no Kawara", mech:"Idle xếp đá · Folklore Nhật", diff:"low", diffLabel:"Thấp", tag:"oka-project · itch.io 25/10/2026",
+          desc:"Idle game xếp đá bên bờ sông theo folklore Nhật (oka-project, lên itch.io 25/10/2026): bạn chạm để chất đá thành tháp, quỷ định kỳ tới phá tháp, đá rơi xuống lại thành tài nguyên để xếp tiếp. Chơi không cần tài khoản, tiến độ lưu ngay ở trình duyệt.",
+          why:"Đáng tham khảo vì nó chứng minh idle tối giản vẫn có hồn: vòng lặp “xây — bị phá — xây lại cao hơn” gắn với một tích truyện dân gian buồn đẹp, và rào cản vào game bằng không (mở là chơi, không đăng ký).",
+          remix:"Vặn sang bờ sông Việt mùa lũ — chính là idea “Xếp đá chặn lũ” ở nhóm B (đề xuất 25/10)." },
+        { name:"QWOP", mech:"Điều khiển vụng về cố tình · 4 phím", diff:"low", diffLabel:"Thấp", tag:"Bennett Foddy · 2008",
+          desc:"Game của Bennett Foddy (2008): chỉ 4 phím Q-W-O-P điều khiển riêng đùi và bắp chân của một vận động viên chạy 100m — bấm đúng nhịp mới chạy được, sai nhịp là ngã sấp mặt theo đủ tư thế không tưởng.",
+          why:"Đáng tham khảo vì nó biến “khó điều khiển một cách cố tình” thành toàn bộ trò vui: ngã là thường, chạy được 5 mét đã đáng khoe, và mỗi cú ngã là một clip gây cười tự nhiên — tổ tiên của cả dòng game rage vật lý.",
+          remix:"Vặn sang gánh hàng rong lên dốc chợ Việt — chính là idea “Gánh hàng không đổ” ở nhóm B (đề xuất 25/10)." },
+        { name:"Packet Adventure", mech:"Phiêu lưu giáo dục · Chuỗi mini-game", diff:"low", diffLabel:"Thấp", tag:"gattenshochi · itch.io 24/10/2026",
+          desc:"Game trình duyệt miễn phí (gattenshochi, itch.io 24/10/2026): bạn hộ tống một tấm ảnh ngớ ngẩn đi qua hành trình thật của dữ liệu trên internet — tra DNS, bắt tay TCP, lặn cáp biển, chui qua tường lửa — mỗi chặng đường là một mini-game ngắn khác nhau.",
+          why:"Đáng tham khảo vì nó nhét kiến thức mạng khô khan vào một chuyến phiêu lưu có nhân vật chính để thương: học mà không thấy đang học, và mỗi chặng mini-game là một “màn” vừa sức làm trong vài buổi.",
+          remix:"Vặn hành trình sang hạ tầng mạng kiểu Việt: ảnh đi từ điện thoại qua trạm 4G, cáp quang AAG đứt giữa đường phải vòng qua tuyến đất liền…" }
+      ];
+
+      /* ============ DỮ LIỆU — NHÓM B: IDEA CHỜ DUYỆT ============ */
+      var IDEAS = [
+        { name:"Mật khẩu phải qua ải sếp", from:"The Password Game", round:"Đợt nền 20/10", time:"2–3 buổi",
+          play:"Đặt mật khẩu cho hệ thống một công ty hư cấu, luật leo thang kiểu Việt: phải có số chẵn, chứa tên 1 tỉnh, có ngày âm lịch hôm nay, phải “đút” một con gà emoji và cho nó ăn bằng ký tự *. Điểm xàm: luật sau phá luật trước, càng sửa càng sai — người chơi chụp màn hình luật 17 để chửi chung." },
+        { name:"Kiếp nữa bạn sinh ở tỉnh nào?", from:"1 in 8 Billion — dữ liệu Việt Nam", round:"Đợt nền 20/10", time:"4–6 buổi",
+          play:"Bấm một nút, bạn sinh ra ngẫu nhiên theo trọng số dân số ở 1 tỉnh/thành, gia đình giàu/nghèo theo thống kê; đời chạy tự động bằng thẻ sự kiện thuần Việt: học trường làng, đi nghĩa vụ, trúng số hụt, lấy vợ huyện bên… Kết thúc ra “thẻ kiếp” để share. Trần viral cao nhất trong đợt nền." },
+        { name:"Né mưa Đà Nẵng", from:"Raindrop Sprinters — dodge Canvas 2D", round:"Đợt nền 20/10", time:"2–4 buổi",
+          play:"Nhân vật chạy đi làm dưới cơn mưa không phải nước: deadline, tin nhắn “em ơi gấp”, hóa đơn điện, cuộc gọi của mẹ hỏi bao giờ lấy vợ — chạm vào mỗi thứ trừ điểm vì một lý do nhảm khác nhau. Có slow-motion giữ phím cách, điểm tính theo giây sống sót, hợp thách đấu trong group chat." },
+        { name:"Vẽ vòng tròn 99%", from:"Draw a Perfect Circle", round:"Đợt nền 20/10", time:"1–2 buổi",
+          play:"Vẽ một vòng tròn bằng chuột/ngón tay, game chấm % tròn theo độ lệch bán kính kèm danh hiệu trêu ngươi (“tròn như bánh tráng trộn”, “méo như ngân sách cuối tháng”). Nhanh nhất nhì kho — ảnh kết quả tự nó là lời thách đấu." },
+        { name:"Mọi thứ đều thành phở", from:"Universal Paperclips × Tiệm Phở của Anh Hai", round:"Đợt nền 20/10", time:"5–7 buổi",
+          play:"Clicker đen tối: click nấu từng tô phở, mua nồi tự động, thuê nhân viên, mở chuỗi, xuất khẩu phở — cuối cùng nhiệm vụ bí mật hiện ra: phở hóa toàn bộ ẩm thực thế giới. Phần tốn sức là viết nội dung nâng cấp leo thang cho có hồn, không phải code." },
+        { name:"Lái xe đi đâu cũng được", from:"Slow Roads — bản 2.5D Việt Nam", round:"Đợt nền 20/10", time:"8–12 buổi",
+          play:"Không đua, không đích: lái dọc bờ biển sinh ngẫu nhiên, qua đèo Hải Vân lúc hoàng hôn, mưa phùn, sương mù; đổi góc nhìn, bật tự lái để treo máy ngắm. Đẹp nhưng tốn sức nhất kho — để dành khi đã có 1–2 game nhỏ thắng trước." },
+        { name:"Ghép đồ ra meme", from:"Infinite Craft — bản không AI", round:"Đợt nền 20/10", time:"4–5 buổi",
+          play:"Bắt đầu với Cơm, Nước Mắm, Mẹ, Internet. Ghép Mẹ + Internet = “mẹ gửi link Facebook”, Cơm + Deadline = “cơm hộp văn phòng”… Bảng ~200 công thức viết sẵn, bộ đếm khám phá lưu bằng localStorage. Trần nội dung dừng ở số công thức viết được, nhưng mỗi công thức là một câu đùa có thể viral lẻ." },
+        { name:"ĐỪNG BẤM CÁI NÚT ĐỎ", from:"Toy tự nghĩ — nhịn bấm nút", round:"Lượt tối 20/10", time:"1 buổi", star:true,
+          play:"Một màn hình, một nút đỏ to, luật duy nhất là đừng bấm. Nhịn càng lâu điểm càng cao, còn nút thì cà khịa leo thang: “bấm đi, không ai biết đâu”, “sếp bạn vừa bấm đấy”, rung lắc, nhảy né chuột. Bấm một cái là thua + bị máy chê một câu xàm ngẫu nhiên. Được chấm là con đáng làm nhất lượt tối 20/10." },
+        { name:"Trí nhớ thua khỉ", from:"Chimp Test — Human Benchmark", round:"Lượt tối 20/10", time:"1–2 buổi",
+          play:"Các số hiện rồi che đi sau tích tắc, bấm theo thứ tự từ nhỏ đến lớn; qua màn tăng số lượng. Cuối ván trả thẻ kết quả: “Trí nhớ của bạn = 62% khỉ Ayumu” — dựa trên thí nghiệm thật của ĐH Kyoto. Câu khoe tự chửi mình, đất diễn là Threads và group học sinh sinh viên." },
+        { name:"Bài Wiki bị bôi đen", from:"Redactle × Wikipedia tiếng Việt", round:"Lượt tối 20/10", time:"3–5 buổi",
+          play:"Lấy format Redactle vặn sang kho ~200–300 bài Wikipedia tiếng Việt phổ biến: Sơn Tùng M-TP, phở, Đà Nẵng, Quang Trung… Từ chức năng hiện sẵn, đoán từng từ để mở dần bài. Khóa 1 ván/ngày kiểu Wordle để tạo thói quen quay lại." },
+        { name:"Bảo vệ chung cư: Duyệt hay Đuổi?", from:"Papers, Please × bảo vệ chung cư VN", round:"Lượt tối 20/10", time:"4–6 buổi",
+          play:"Bạn là bảo vệ tòa nhà kiểm tra shipper/khách: mỗi ca một lượt người đến, luật đổi theo ngày (“hôm nay cư dân báo mất đồ — soi kỹ shipper lạ”, “sau 22h không cho đồ ăn lên”), bấm Cho qua / Từ chối. Sai nhiều bị trừ lương, cư dân chửi, rồi bị đuổi việc. — Chính từ con này mà bạn đã nghĩ ra “Vệ Sĩ Cho Idol” ở tab 2." },
+        { name:"Ghép mì thành phở", from:"Suika Game × đồ ăn Việt", round:"Lượt tối 20/10", time:"6–10 buổi",
+          play:"Thả món ăn vào hộp bằng vật lý thật (matter.js), 2 món giống nhau chạm nhau hợp thành món lớn hơn: gói mì → tô mì → bánh mì → tô phở → … → “mâm cỗ Tết”. Đầy hộp là thua. Nặng nhất lượt tối 20/10, nhưng là con có đường ra tiền khả thi nhất nếu hit (bản mobile/Steam như Suika gốc)." },
+        { name:"BÁN TUỔI TRẺ LẤY TIỀN", from:"BLOODMONEY! — clicker twist đen tối", round:"Lượt 21/10", time:"2–3 buổi",
+          play:"Mỗi click là bán đi 1 ngày tuổi trẻ để lấy tiền. Mua “cà phê” thì click nhanh gấp đôi nhưng cũng già nhanh gấp đôi. Cuối game hiện thẻ tổng kết: “Bạn đã bán 3,2 năm thanh xuân được 47 triệu. Đáng không?” Điểm share: meme “bán mình cho tư bản” có sẵn, câu khoe “tao bán 3 năm được 47 triệu” và clip reaction TikTok. Độ khó thấp; kênh TikTok/Threads; tiền yếu trực tiếp, hợp gắn donate." },
+        { name:"NUÔI CON DEADLINE", from:"Tự nghĩ — virtual pet", round:"Lượt 21/10", time:"2–3 buổi",
+          play:"Virtual pet của bạn là một cục deadline sống: tick xong việc thật trong ngày là “cho ăn”, bỏ đói thì nó phình to dần chiếm màn hình, bỏ đói đủ 1 tuần thì game over — “deadline không chờ ai”. Điểm share: biến nỗi ám ảnh dân văn phòng thành pet cưng để khoe “deadline của tao nặng 12kg”. Độ khó thấp; kênh group công sở/Threads; tiền yếu, nhưng giữ chân người chơi hằng ngày rất tốt." },
+        { name:"CÀY THUÊ ĐÌNH CÔNG", from:"Progress Quest — game tự chơi zero-player", round:"Lượt 21/10", time:"3–4 buổi",
+          play:"Bạn là “chủ acc”, thuê một anh cày thuê cày level hộ trong lúc bạn đi làm thật. Nhưng anh ta không ngoan ngoãn cày mãi: đòi tăng lương, AFK, và đỉnh điểm là đình công treo acc. Điểm share nằm ở câu khoe: “cày thuê của tao đình công sau 2 ngày”. Độ khó thấp; kênh group game/Threads; tiền yếu, mạnh ở khả năng share." },
+        { name:"ĐÀO GIẾNG TRÚNG CÁP QUANG", from:"A Game About Digging A Hole", round:"Lượt 21/10", time:"3–4 buổi",
+          play:"Click đào giếng sâu từng mét, bán đất lấy tiền, nâng cấp từ xẻng lên máy xúc. Xen giữa là sự kiện random xàm: đào trúng hóa thạch, rương ông cố để lại, và đào đứt cáp quang AAG bị phạt 50 triệu. Điểm share: khoe kỷ lục độ sâu kiểu “tao đào tới 847m”. Độ khó thấp; kênh TikTok/Threads; nếu hit thì có đường ra bản mở rộng/Steam như bản gốc." },
+        { name:"VUỐT ĐỂ LÀM SẾP", from:"Reigns — swipe quyết định + 4 thanh", round:"Lượt 21/10", time:"4–6 buổi",
+          play:"Mỗi thẻ là một tình huống công sở Việt, vuốt trái/phải để quyết, phải giữ cân bằng 4 thanh: tiền công ty, lòng nhân viên, niềm tin của sếp lớn, sức khỏe tinh thần — thanh nào cạn là toang theo đúng kiểu đó. Điểm share: khoe số ngày trụ được, kiểu “trụ 47 ngày thì bị đuổi”. Độ khó thấp–trung bình (phần nặng là viết ~60 tình huống); kênh Threads/group công sở; tiền yếu đến trung bình nếu traffic đều." },
+        { name:"TRÚNG VIETLOTT TIÊU GÌ", from:"Spend Bill Gates' Money — trúng số VN", round:"Lượt 22/10", time:"1–2 buổi",
+          play:"Bạn trúng Vietlott 100 tỷ, mua sắm thả ga từ list đồ kiểu VN: nhà mặt phố, xe VinFast, “cho họ hàng vay” là mất luôn, all-in coin bay 50%… Cuối game in bill “tiêu hết 100 tỷ trong 4 phút”. Điểm độc: trúng số là giấc mơ quốc dân, tấm bill tự nó lan trên Threads/TikTok. Độ khó rất thấp (1 trang danh sách + cộng tiền)." },
+        { name:"GỘP NHÀ ĐẤT", from:"2048 — BĐS Việt Nam", round:"Lượt 22/10", time:"1–2 buổi",
+          play:"2048 nhưng ô số là nhà đất: 2 ô “phòng trọ 500tr” gộp thành “nhà cấp 4 1 tỷ”, cứ thế leo tới “biệt thự biển”, “tòa Landmark”. Điểm độc: gameplay 2048 gây nghiện đã được chứng minh + insight đất đai của người Việt; khoe screenshot ván leo giá. Độ khó rất thấp (JS thuần)." },
+        { name:"THẢ BI SĂN VOUCHER", from:"Plinko — săn sale VN (nghiên cứu web)", round:"Lượt 22/10", time:"1–2 buổi",
+          play:"Thả bi miễn phí mỗi ngày 3 lượt, hàng ô dưới là voucher: “freeship”, “giảm 50%”, “chúc bạn may mắn lần sau”. Điểm độc: visual bi nảy đã mắt + săn sale là môn quốc dân; khoe “thả trúng voucher 500k”. Độ khó thấp (vật lý nảy đơn giản)." },
+        { name:"NHẢY VIỆC", from:"Doodle Jump — nhảy việc tăng lương", round:"Lượt 22/10", time:"2–3 buổi",
+          play:"Nhảy bục lên cao, mỗi bục là một công ty với bảng lương 8tr → 12tr → 20tr…; bục “công ty ma” chạm là sập, lò xo “headhunter” bật vọt 3 nấc lương. Điểm độc: chuyện thật của dân văn phòng; khoe “nhảy tới 60tr/tháng”. Độ khó thấp (platformer dọc bằng canvas)." },
+        { name:"BẮN MUỖI GIỜ OT", from:"Tự nghĩ — arcade 30 giây", round:"Lượt 22/10", time:"1 buổi",
+          play:"30 giây đập muỗi trong văn phòng đêm OT: muỗi thường 10đ, muỗi “sếp” béo ú 50đ, đập nhầm đồng nghiệp trừ 20đ. Điểm độc: gọn trong đúng 1 buổi làm, ai từng OT đều thấy mình trong đó; điểm 30 giây thành challenge khoe nhau. Độ khó rất thấp." },
+        { name:"Lặn xuống giếng làng", from:"The Deep Sea — giếng làng Việt Nam", round:"Lượt 23/10", time:"1–2 buổi",
+          play:"Remix The Deep Sea: cuộn chuột lặn xuống cái giếng làng, càng sâu càng tối, gặp đồ xàm Việt theo từng tầng — 5m cá trê, 12m dép lào, 20m xe đạp Thống Nhất, 35m Nokia rơi từ 2009, 50m nồi cơm điện… Điểm độc: scroll chill mà đồ càng sâu càng cười; khoe “tao lặn tới 87m gặp xe đạp”. Độ khó thấp, 1 trang scroll JS thuần, không backend; kênh TikTok/Threads; tiền yếu, mạnh ở share." },
+        { name:"Nghe 1 giây đoán quảng cáo", from:"Heardle — jingle quảng cáo VN", round:"Lượt 23/10", time:"2–3 buổi",
+          play:"Nghe 1 giây nhạc hiệu quảng cáo rồi đoán: trà xanh không độ, Closeup, X-Men, Vinamilk… 6 lượt nghe mở dần, đoán càng ít giây điểm càng cao. Điểm độc: hoài niệm 8x–9x đánh thẳng vào ký ức; khoe “tao nghe 1 giây đã biết là Closeup”. Việc tay duy nhất là cắt sẵn ~30 clip nhạc hiệu; kênh group hoài niệm/Facebook; tiền yếu, mạnh ở share." },
+        { name:"Rút thăm rửa bát", from:"Buckshot Roulette — rút thăm may rủi lành mạnh", round:"Lượt 23/10", time:"3–4 buổi",
+          play:"Đấu với máy (bạn cùng phòng AI): 6 lá thăm, trong đó 1 lá “rửa bát cả tuần”. Vật phẩm lật kèo: nhìn trộm 1 lá, đổi lượt rút, xé bỏ 1 lá an toàn… Điểm độc: tim đập thình thịch mỗi lần rút như bản gốc, sinh clip reaction; khoe “tao sống sót 5 vòng”. Độ khó trung bình, không backend; kênh TikTok; tiền yếu trực tiếp — nhưng nếu hit thì bản mobile/party là đường có thật." },
+        { name:"Chờ lương về", from:"Tự nghĩ — đếm ngược ngày lương", round:"Lượt 23/10", time:"1 buổi",
+          play:"Game đếm ngược tới ngày lương: nhập ngày nhận lương, mỗi ngày mở 1 lần thấy số ngày còn lại + 1 sự kiện xàm random (“ngày 17: ví còn 200k, mì tôm cấp độ 3”); tới ngày lương thì pháo giấy ăn mừng. Điểm độc: nỗi đau chung của dân đi làm, mở hằng ngày thành thói quen. Độ khó rất thấp, 1 màn hình + localStorage; kênh Threads/group công sở; tiền yếu hẳn — để giữ chân + làm content." },
+        { name:"Bấm còi xe máy", from:"Cookie Clicker — còi xe Việt Nam", round:"Lượt 23/10", time:"1–2 buổi",
+          play:"Idle clicker bản Việt: mỗi click là 1 tiếng còi “bíp!”. Nâng cấp dần: còi hơi xe tải, còi ô tô, loa phường, dàn karaoke xóm. Twist: bấm quá 1.000 còi/ngày bị “dân mạng chửi”, phải mua “bịt tai chống chửi” mới bấm tiếp được. Điểm độc: bấm còi là quốc hồn quốc túy giao thông Việt; khoe số còi/ngày. Độ khó thấp, JS thuần; kênh TikTok/Threads; tiền yếu, mạnh ở share." },
+        { name:"Sếp tới kìa!", from:"Tự nghĩ — game phản xạ giả vờ bận", round:"Lượt 24/10", time:"5–7 buổi",
+          play:"Một màn hình: bạn gõ phím linh tinh giả vờ đang làm việc; sếp bất chợt đi ngang qua, phải bấm đúng phím chuyển sang bảng tính trước khi sếp nhìn thấy màn hình. Càng trụ lâu, sếp đi ngang càng nhanh và bất ngờ. Điểm xàm: khoe “Tôi giả vờ bận được 4 phút 32 giây trước khi sếp bắt gặp” — quay màn hình là có clip TikTok ngay. Độ khó dễ, một màn hình, không tài khoản, không backend; kênh TikTok/Threads/group dân văn phòng; tiền yếu, chủ yếu ads — không tô hồng." },
+        { name:"Xe đẩy chợ: chọn bên nào cũng sai", from:"Absurd Trolley Problems — dilemma đời thường VN", round:"Lượt 24/10", time:"3–5 buổi",
+          play:"Mỗi lượt một tình huống vô lý kiểu Việt Nam — cứu 5 người đang chen mua hàng sale hay 1 người đang giữ nồi phở, cứu thang máy chung cư hay cứu xe máy khỏi ngập — chọn một bên rồi xem tỉ lệ người chọn giống mình. Điểm xàm: cãi nhau là chính, khoe “82% giống tôi”. Tỉ lệ dùng số liệu có sẵn, không cần server vote realtime. Độ khó rất dễ, trang tĩnh; kênh Threads/group Facebook/TikTok dạng ảnh chụp dilemma; tiền yếu, chỉ ads." },
+        { name:"Vẽ logo từ trí nhớ, chấm điểm nhục nhã", from:"Draw Logos From Memory — logo thương hiệu Việt", round:"Lượt 24/10", time:"7–10 buổi",
+          play:"Game đưa tên thương hiệu Việt (Vinamilk, Viettel, Highlands, Biti's…), bạn vẽ lại logo bằng chuột/ngón tay trong 30 giây, game chấm % giống bằng cách so sánh nét vẽ với mẫu. Điểm xàm: ảnh vẽ méo mó của bạn đặt cạnh logo thật là thứ người ta khoe ngay. Độ khó trung bình — phần chấm điểm so sánh nét vẽ là phần khó nhất; bản đầu với 10 logo; kênh TikTok/Threads/group Facebook (ảnh trước/sau); tiền trung bình yếu, ads + donate mở thêm gói logo." },
+        { name:"Đời bạn bằng số", from:"Life Stats — đời sống công sở VN", round:"Lượt 24/10", time:"2–3 buổi",
+          play:"Nhập ngày sinh (không tài khoản), nhận ngay một tấm thẻ số: bạn đã ngủ bao nhiêu năm, tim đập bao nhiêu lần, đã uống bao nhiêu ly cà phê sữa đá, đã chờ thang máy bao nhiêu giờ, đã OT ước tính bao nhiêu ngày. Điểm xàm: tấm thẻ số cá nhân hóa — khoe “Tôi đã chờ thang máy 11 ngày đời”. Độ khó dễ, tính toán tĩnh; kênh Threads/Facebook/Zalo (ảnh thẻ số); tiền yếu, ads; có thể bán mẫu thẻ đẹp." },
+        { name:"Đoán tỉnh qua hình dáng", from:"Worldle — 63 tỉnh Việt Nam", round:"Lượt 24/10", time:"2 tuần",
+          play:"Mỗi ngày một hình dáng tỉnh, 6 lượt đoán; mỗi lượt sai game gợi ý khoảng cách và hướng tới tỉnh đúng; kết quả chia sẻ dạng lưới ô màu kiểu Wordle nhưng không lộ đáp án. Điểm xàm: khoe lưới đoán tỉnh, thách đấu bạn bè cùng quê. Khác hẳn idea cũ “Kiếp nữa bạn sinh ở tỉnh nào” (đó là random, đây là đoán hình). Độ khó trung bình–khó, phần nặng nhất là chuẩn bị dữ liệu hình dáng 63 tỉnh; kênh SEO “đoán tỉnh hôm nay”/Threads/group Facebook địa phương; tiền yếu–trung bình, ads nhờ traffic tìm kiếm hằng ngày." },
+        { name:"Canh nồi cơm điện", from:"Tự nghĩ — game canh thời điểm 1 màn hình", round:"Lượt 25/10/2026", time:"Dễ · bản đầu 2–3 buổi",
+          play:"Một màn hình duy nhất: nồi cơm đang nấu, việc của bạn là bấm đúng khoảnh khắc cơm vừa chín tới — bấm sớm thì cơm sống, bấm muộn thì khê/cháy. Càng trụ lâu độ khó càng tăng: hơi nước bốc lên che màn hình, mèo nhảy lên bàn chắn tầm nhìn, mất điện chớp tắt. Điểm xàm/chia sẻ: khoe tấm thẻ “cơm ngon 99%” hoặc clip nồi cơm khê đen thui. Kênh lan truyền: TikTok/Threads dạng clip fail; tiền yếu, chỉ ads." },
+        { name:"Tích cho hết giờ làm", from:"One Million Checkboxes — bản solo văn phòng", round:"Lượt 25/10/2026", time:"Dễ · bản đầu 3–5 buổi",
+          play:"Remix One Million Checkboxes thành bản solo văn phòng, không cần server chung: một lưới ô vuông, tích hết mọi ô thì được tan làm. Nhưng lưới có ô troll: ô tự bỏ tích khi bạn quay đi, ô kéo cả hàng bỏ tích theo, ô chỉ tích được khi bấm đúng nhịp. Điểm xàm/chia sẻ: khoe thời gian tan làm kỷ lục kèm số ô bị troll phá. Kênh lan truyền: Threads, group dân văn phòng; tiền yếu, chỉ ads." },
+        { name:"Đoán món 5 chữ", from:"Wordle — tên món ăn Việt", round:"Lượt 25/10/2026", time:"Dễ · bản đầu 3–4 buổi",
+          play:"Remix Wordle: mỗi ngày một món ăn Việt viết không dấu đúng 5 ký tự, 6 lượt đoán, gợi ý màu theo từng chữ đúng/sai vị trí hệt bản gốc. Soạn sẵn kho ~100 món là đủ chạy bản đầu. Điểm xàm/chia sẻ: khoe lưới đoán món không lộ đáp án, tag bạn bè thách đoán cùng — thói quen mở game mỗi sáng như Wordle. Kênh lan truyền: SEO “đoán món hôm nay”, Threads, Facebook; tiền yếu–trung bình nhờ traffic quay lại hằng ngày." },
+        { name:"Gánh hàng không đổ", from:"QWOP — gánh hàng rong Việt Nam", round:"Lượt 25/10/2026", time:"Trung bình–khó · bản đầu 7–10 buổi",
+          play:"Remix QWOP: 4 phím điều khiển 2 chân + giữ thăng bằng đòn gánh, gánh hàng rong lên dốc chợ Việt — đi càng xa hàng càng nặng, dọc đường gặp ổ gà, xe máy tạt ngang, chó đuổi theo sủa. Điểm xàm/chia sẻ: khoe quãng đường gánh được và clip ngã đổ tung tóe cả gánh hàng. Phần nặng nhất là vật lý giữ thăng bằng đòn gánh. Kênh lan truyền: TikTok clip ngã; tiền yếu, chỉ ads/donate." },
+        { name:"Xếp đá chặn lũ", from:"Sai no Kawara — bờ sông Việt mùa lũ", round:"Lượt 25/10/2026", time:"Dễ–trung bình · bản đầu 5–7 buổi",
+          play:"Remix Sai no Kawara sang bờ sông Việt mùa lũ: chạm để xếp đá thành tháp bờ kè, sóng lũ định kỳ ập tới phá tháp, đá rơi xuống thành điểm để gọi thêm người dân và bờ kè tự xếp hộ (idle), tiến độ chơi tiếp bằng localStorage, không cần tài khoản. Điểm xàm/chia sẻ: khoe tháp cao nhất sống sót qua được mấy đợt lũ. Kênh lan truyền: TikTok, Facebook; tiền yếu, chỉ ads." }
+      ];
+
+      /* ============ RENDER ============ */
+      function esc(s){ return s.replace(/&/g,"&amp;").replace(/</g,"&lt;"); }
+
+      var MARK_ROW = '<div class="mark-row">' +
+        '<button type="button" class="mark-btn" data-mark="care" aria-pressed="false">⭐ Quan tâm</button>' +
+        '<button type="button" class="mark-btn" data-mark="done" aria-pressed="false">✅ Đã làm</button>' +
+      '</div>';
+
+      var gridA = document.getElementById("gridA");
+      gridA.innerHTML = GAMES.map(function(g, i){
+        var diffBadge = g.diff === "none" ? "" :
+          '<span class="badge d-' + (g.diff === "vlow" ? "vlow" : g.diff) + '">Clone: ' + esc(g.diffLabel) + '</span>';
+        var tagBadge = g.tag ? '<span class="badge time">' + esc(g.tag) + '</span>' : "";
+        return '<article class="gcard" data-mark-id="g-' + i + '" data-diff="' + g.diff + '" data-text="' + esc((g.name + " " + g.mech + " " + g.desc + " " + g.why + " " + g.remix).toLowerCase()) + '">' +
+          '<div class="top"><h3>' + esc(g.name) + '</h3><span class="num">#' + (i + 1) + '</span></div>' +
+          '<span class="mech">' + esc(g.mech) + '</span>' +
+          '<p class="desc preview">' + esc(g.desc) + '</p>' +
+          '<div class="detail" id="gd-' + i + '" hidden>' +
+            '<p class="desc">' + esc(g.desc) + '</p>' +
+            '<p class="why"><b>Vì sao viral:</b> ' + esc(g.why) + '</p>' +
+            '<p class="remix">' + esc(g.remix) + '</p>' +
+          '</div>' +
+          '<div class="meta-row">' + diffBadge + tagBadge + '</div>' +
+          '<button type="button" class="detail-btn" aria-expanded="false" aria-controls="gd-' + i + '"><span class="dt-label">Chi tiết</span><span class="chev" aria-hidden="true">▾</span></button>' +
+          MARK_ROW +
+        '</article>';
+      }).join("");
+
+      var gridB = document.getElementById("gridB");
+      gridB.innerHTML = IDEAS.map(function(it, i){
+        return '<article class="gcard" data-mark-id="i-' + i + '" data-text="' + esc((it.name + " " + it.from + " " + it.play).toLowerCase()) + '">' +
+          '<div class="top"><h3>' + esc(it.name) + (it.star ? ' <span title="Đáng làm nhất lượt đó" aria-label="Đáng làm nhất">★</span>' : '') + '</h3><span class="num">#' + (i + 1) + '</span></div>' +
+          '<p class="from">Format gốc: <b>' + esc(it.from) + '</b></p>' +
+          '<p class="desc preview">' + esc(it.play) + '</p>' +
+          '<div class="detail" id="ib-' + i + '" hidden>' +
+            '<p class="desc">' + esc(it.play) + '</p>' +
+          '</div>' +
+          '<div class="meta-row">' +
+            '<span class="badge status-wait">Chờ duyệt</span>' +
+            '<span class="badge time">Làm: ' + esc(it.time) + '</span>' +
+            '<span class="badge time">' + esc(it.round) + '</span>' +
+          '</div>' +
+          '<button type="button" class="detail-btn" aria-expanded="false" aria-controls="ib-' + i + '"><span class="dt-label">Chi tiết</span><span class="chev" aria-hidden="true">▾</span></button>' +
+          MARK_ROW +
+        '</article>';
+      }).join("");
+
+      /* ============ ĐÁNH DẤU QUAN TÂM / ĐÃ LÀM — lưu localStorage ============ */
+      var MARKS_KEY = "kho-game-marks";
+      var marks = {};
+      try { marks = JSON.parse(localStorage.getItem(MARKS_KEY) || "{}") || {}; } catch (e) { marks = {}; }
+      function saveMarks(){ try { localStorage.setItem(MARKS_KEY, JSON.stringify(marks)); } catch (e) {} }
+
+      var gridCare = document.getElementById("gridCare");
+      var gridDone = document.getElementById("gridDone");
+      var careOwn = document.getElementById("careOwn");
+      var doneOwn = document.getElementById("doneOwn");
+      var emptyCare = document.getElementById("emptyCare");
+      var emptyDone = document.getElementById("emptyDone");
+      var countCare = document.getElementById("countCare");
+      var countDone = document.getElementById("countDone");
+      var ownCard = document.querySelector(".own-card");
+      var ownMovedNote = document.getElementById("ownMovedNote");
+
+      function sourceCards(){
+        var list = [];
+        Array.prototype.forEach.call(gridA.children, function(c){ list.push(c); });
+        Array.prototype.forEach.call(gridB.children, function(c){ list.push(c); });
+        if (ownCard) list.push(ownCard);
+        return list;
+      }
+
+      function makeClone(card, suffix){
+        var c = card.cloneNode(true);
+        c.classList.remove("hidden-card");
+        c.classList.remove("open");
+        c.style.display = "";
+        var region = c.querySelector(".detail");
+        if (region){ region.id = region.id + suffix; region.hidden = true; }
+        var dbtn = c.querySelector(".detail-btn");
+        if (dbtn){
+          dbtn.setAttribute("aria-expanded", "false");
+          if (region) dbtn.setAttribute("aria-controls", region.id);
+          var l = dbtn.querySelector(".dt-label");
+          if (l) l.textContent = "Chi tiết";
+        }
+        return c;
+      }
+
+      function refreshMarkButtons(){
+        Array.prototype.forEach.call(document.querySelectorAll(".gcard, .own-card"), function(card){
+          var id = card.getAttribute("data-mark-id");
+          var st = id ? marks[id] : null;
+          Array.prototype.forEach.call(card.querySelectorAll(".mark-btn"), function(b){
+            var on = st === b.getAttribute("data-mark");
+            b.classList.toggle("on-care", on && st === "care");
+            b.classList.toggle("on-done", on && st === "done");
+            b.setAttribute("aria-pressed", on ? "true" : "false");
+          });
+        });
+      }
+
+      function syncMarkedTabs(){
+        gridCare.innerHTML = ""; gridDone.innerHTML = "";
+        careOwn.innerHTML = ""; doneOwn.innerHTML = "";
+        var nCare = 0, nDone = 0;
+        sourceCards().forEach(function(card){
+          var id = card.getAttribute("data-mark-id");
+          var st = id ? marks[id] : null;
+          if (!st) return;
+          var isOwn = card.classList.contains("own-card");
+          var clone = makeClone(card, st === "care" ? "-c" : "-d");
+          if (st === "care"){ (isOwn ? careOwn : gridCare).appendChild(clone); nCare++; }
+          else { (isOwn ? doneOwn : gridDone).appendChild(clone); nDone++; }
+        });
+        emptyCare.classList.toggle("show", nCare === 0);
+        emptyDone.classList.toggle("show", nDone === 0);
+        countCare.textContent = nCare;
+        countDone.textContent = nDone;
+        if (ownCard){
+          var ost = marks[ownCard.getAttribute("data-mark-id")];
+          ownCard.style.display = ost ? "none" : "";
+          if (ost){
+            ownMovedNote.textContent = "Thẻ “Vệ Sĩ Cho Idol” đang nằm ở tab " + (ost === "care" ? "⭐ Quan tâm" : "✅ Đã làm") + " — bấm lại nút đánh dấu ở đó để đưa thẻ về đây.";
+            ownMovedNote.classList.add("show");
+          } else {
+            ownMovedNote.classList.remove("show");
+          }
+        }
+        refreshMarkButtons();
+      }
+
+      function refreshAll(){
+        syncMarkedTabs();
+        applyFilters();
+      }
+
+      document.addEventListener("click", function(e){
+        var btn = e.target;
+        while (btn && !(btn.classList && btn.classList.contains("mark-btn"))) btn = btn.parentNode;
+        if (!btn) return;
+        var card = btn.closest ? btn.closest("[data-mark-id]") : null;
+        if (!card) return;
+        var id = card.getAttribute("data-mark-id");
+        var kind = btn.getAttribute("data-mark");
+        if (marks[id] === kind) delete marks[id]; else marks[id] = kind;
+        saveMarks();
+        refreshAll();
+      });
+
+      /* ============ TABS ============ */
+      var btns = { tab1: document.getElementById("btn-tab1"), tab2: document.getElementById("btn-tab2"), tab3: document.getElementById("btn-tab3"), tab4: document.getElementById("btn-tab4") };
+      var panels = { tab1: document.getElementById("tab1"), tab2: document.getElementById("tab2"), tab3: document.getElementById("tab3"), tab4: document.getElementById("tab4") };
+      function switchTab(key){
+        Object.keys(btns).forEach(function(k){
+          var on = k === key;
+          btns[k].classList.toggle("active", on);
+          btns[k].setAttribute("aria-selected", on ? "true" : "false");
+          panels[k].classList.toggle("active", on);
+        });
+      }
+      btns.tab1.addEventListener("click", function(){ switchTab("tab1"); });
+      btns.tab2.addEventListener("click", function(){ switchTab("tab2"); });
+      btns.tab3.addEventListener("click", function(){ switchTab("tab3"); });
+      btns.tab4.addEventListener("click", function(){ switchTab("tab4"); });
+
+      /* ============ NÚT "CHI TIẾT" — MỞ / THU VÙNG CHI TIẾT TRONG THẺ ============ */
+      document.addEventListener("click", function(e){
+        var btn = e.target;
+        while (btn && !(btn.classList && btn.classList.contains("detail-btn"))) btn = btn.parentNode;
+        if (!btn) return;
+        var region = document.getElementById(btn.getAttribute("aria-controls"));
+        var card = btn.closest ? btn.closest(".gcard, .own-card") : null;
+        var open = btn.getAttribute("aria-expanded") === "true";
+        btn.setAttribute("aria-expanded", open ? "false" : "true");
+        if (region) region.hidden = open;
+        if (card) card.classList.toggle("open", !open);
+        var label = btn.querySelector(".dt-label");
+        if (label) label.textContent = open ? "Chi tiết" : "Thu gọn";
+      });
+
+      /* ============ TÌM KIẾM + LỌC ĐỘ KHÓ ============ */
+      var searchInput = document.getElementById("searchInput");
+      var chips = Array.prototype.slice.call(document.querySelectorAll(".chip"));
+      var shownText = document.getElementById("shownText");
+      var emptyA = document.getElementById("emptyA");
+      var emptyB = document.getElementById("emptyB");
+      var activeDiff = "all";
+
+      function applyFilters(){
+        var q = searchInput.value.trim().toLowerCase();
+        var visA = 0, visB = 0;
+        Array.prototype.forEach.call(gridA.children, function(card){
+          var okText = !q || card.getAttribute("data-text").indexOf(q) !== -1;
+          var okDiff = activeDiff === "all" || card.getAttribute("data-diff") === activeDiff ||
+                       (activeDiff === "mid" && card.getAttribute("data-diff") === "mid");
+          var show = okText && okDiff && !marks[card.getAttribute("data-mark-id")];
+          card.classList.toggle("hidden-card", !show);
+          if (show) visA++;
+        });
+        Array.prototype.forEach.call(gridB.children, function(card){
+          var okText = !q || card.getAttribute("data-text").indexOf(q) !== -1;
+          var showB = okText && !marks[card.getAttribute("data-mark-id")];
+          card.classList.toggle("hidden-card", !showB);
+          if (showB) visB++;
+        });
+        emptyA.classList.toggle("show", visA === 0);
+        emptyB.classList.toggle("show", visB === 0);
+        shownText.textContent = "Đang hiển thị " + visA + "/" + GAMES.length + " game gốc và " + visB + "/" + IDEAS.length + " idea chờ duyệt." +
+          (activeDiff !== "all" ? " (Bộ lọc độ khó chỉ áp cho nhóm game gốc.)" : "");
+      }
+      searchInput.addEventListener("input", applyFilters);
+      chips.forEach(function(chip){
+        chip.addEventListener("click", function(){
+          chips.forEach(function(c){ c.classList.remove("active"); });
+          chip.classList.add("active");
+          activeDiff = chip.getAttribute("data-diff");
+          applyFilters();
+        });
+      });
+      applyFilters();
+      refreshAll();
+    </script>
+  </body>
+</html>
