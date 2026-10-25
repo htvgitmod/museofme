@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kho thẻ ý tưởng Webapp/AI — người không rành công nghệ</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&family=Caveat:wght@600;700&display=swap" rel="stylesheet">
+<style>
+  :root{--line:#ddd0fa;--ink:#241b38;--mut:#6d6486;--acc:#7c3aed;--acc2:#c026d3;--bg:#fff;--chip:#f1eafd;--shadow:0 3px 14px rgba(124,58,237,.16)}
+  *{box-sizing:border-box}
+  body{margin:0;background:#e8e2fc;color:var(--ink);font-family:'Be Vietnam Pro',-apple-system,'Segoe UI',Roboto,Arial,sans-serif;font-size:14px}
+  .wrap{max-width:1240px;margin:0 auto;padding:18px 14px 46px}
+  header.top{background:linear-gradient(120deg,#6d28d9 0%,#8b5cf6 55%,#c026d3 135%);border:1px solid #6d28d9;border-radius:16px;padding:16px 18px 14px;margin-bottom:10px;box-shadow:0 8px 24px rgba(109,40,217,.35);color:#fff}
+  h1{font-family:'Caveat',cursive;font-size:38px;line-height:1;margin:0 0 5px;font-weight:700;color:#fff}
+  .sub{color:#e9e2ff;font-size:13px;line-height:1.55;margin:0;max-width:900px}
+  .stats{display:flex;gap:18px;flex-wrap:wrap;margin-top:11px;font-size:13px;color:#e9e2ff}
+  .stats b{color:#fff;font-size:16px}
+  .bar{background:#faf8ff;border:1px solid var(--line);border-radius:16px;padding:11px 12px;margin-bottom:10px;position:sticky;top:8px;z-index:5;box-shadow:var(--shadow)}
+  .bar-main{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  .bar input[type=search]{flex:1;min-width:190px;padding:9px 11px;border:1px solid var(--line);border-radius:10px;font:inherit;font-size:13.5px;background:#fbfcfd;color:var(--ink)}
+  .bar select{padding:9px;border:1px solid var(--line);border-radius:10px;font:inherit;font-size:13px;background:#fff;color:var(--ink)}
+  .bar label{font-size:13px;color:var(--mut)}
+  .filter-block{display:flex;gap:8px;align-items:flex-start;margin-top:10px}
+  .filter-label{flex:0 0 92px;padding-top:5px;font-size:12px;font-weight:700;color:#6d28d9;text-transform:uppercase;letter-spacing:.03em}
+  .chip-row{display:flex;gap:6px;flex-wrap:wrap}
+  .filter-chip{appearance:none;border:1px solid var(--line);background:#f4efff;color:#4c1d95;border-radius:999px;padding:5px 9px;font:inherit;font-size:12px;font-weight:600;cursor:pointer}
+  .filter-chip:hover{border-color:#8b5cf6;background:#ede9fe}
+  .filter-chip.active{background:var(--acc);border-color:var(--acc);color:#fff}
+  .count{font-size:13px;color:var(--mut);margin:9px 2px}
+  .state-tabs{display:flex;gap:6px;flex-wrap:wrap;margin:0 2px 10px}
+  .state-tab{appearance:none;border:1px solid var(--line);background:#f4efff;color:#4c1d95;border-radius:999px;padding:6px 12px;font:inherit;font-size:13px;font-weight:700;cursor:pointer}
+  .state-tab:hover{border-color:#8b5cf6;background:#ede9fe}
+  .state-tab.active{background:var(--acc);border-color:var(--acc);color:#fff}
+  .state-tab .tab-count{opacity:.85;font-weight:800}
+  .state-btns{display:flex;gap:6px;flex-wrap:wrap;margin-top:7px}
+  .state-btn{appearance:none;border:1px solid var(--line);background:#f4efff;color:#4c1d95;border-radius:999px;padding:3px 9px;font:inherit;font-size:11.5px;font-weight:700;cursor:pointer}
+  .state-btn:hover{border-color:#8b5cf6;background:#ede9fe}
+  .state-btn.on{background:var(--acc);border-color:var(--acc);color:#fff}
+  .idea-card.marked-interested{border-top-color:#c026d3}
+  .idea-card.marked-done{border-top-color:#6d28d9}
+  .idea-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;align-items:start}
+  .idea-card{background:var(--bg);border:1px solid var(--line);border-top:3px solid #a78bfa;border-radius:14px;padding:11px;box-shadow:var(--shadow);min-width:0}
+  .card-top{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:8px}
+  .idea-num{font-family:'Caveat',cursive;font-size:21px;font-weight:700;color:#7c3aed;line-height:1}
+  .idea-card h2{font-size:14.5px;line-height:1.38;margin:0 0 9px;font-weight:700;overflow-wrap:anywhere;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+  .score{display:inline-block;min-width:43px;text-align:center;font-weight:800;border-radius:7px;padding:3px 7px;font-variant-numeric:tabular-nums;font-size:13px}
+  .s9{background:#059669;color:#fff}.s8{background:#7c3aed;color:#fff}.s7{background:#f59e0b;color:#fff}.s6{background:#e11d48;color:#fff}
+  .tag-row{display:flex;gap:5px;flex-wrap:wrap;margin-bottom:9px}
+  .chip{display:inline-block;background:var(--chip);border:1px solid #c4b5fd;color:#5b21b6;border-radius:999px;padding:1px 7px;font-size:11.5px;font-weight:700;white-space:nowrap}
+  .meta{display:grid;gap:6px;margin:0}
+  .meta div{display:grid;grid-template-columns:64px 1fr;gap:6px}
+  .meta dt{color:var(--mut);font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.02em;padding-top:1px}
+  .meta dd{margin:0;font-size:12.5px;line-height:1.4;overflow-wrap:anywhere;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .card-foot{margin-top:9px}
+  .batch-chip{display:inline-block;border-radius:999px;background:#fdf4ff;border:1px solid #f0abfc;color:#a21caf;padding:2px 8px;font-size:11.5px;font-weight:700}
+  .idea-details{border-top:1px solid var(--line);margin-top:10px;padding-top:8px}
+  .idea-details summary{cursor:pointer;color:var(--acc);font-size:12.5px;font-weight:700}
+  .detail-body{font-size:12.5px;line-height:1.55;color:#3d3552;padding-top:8px;overflow-wrap:anywhere}
+  .detail-body b{color:var(--ink)}
+  .empty{display:none;background:#fff;border:1px dashed var(--line);border-radius:14px;padding:22px;text-align:center;color:var(--mut)}
+  .foot{color:var(--mut);font-size:12.5px;line-height:1.55;margin-top:14px}
+  @media (max-width:700px){.filter-block{flex-direction:column;gap:5px}.filter-label{flex-basis:auto;padding-top:0}}
+  @media (max-width:560px){.wrap{padding:12px 9px 36px}h1{font-size:33px}.idea-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.idea-card{padding:9px}.idea-card h2{font-size:13.5px}.meta div{grid-template-columns:1fr;gap:1px}.bar input[type=search]{min-width:150px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+  <h1>💡 Kho thẻ ý tưởng Webapp/AI — người không rành công nghệ</h1>
+  <p class="sub">Kho thẻ tích luỹ từ các lượt quét hằng ngày. Mở mục “Chi tiết” trong từng thẻ để xem nỗi đau, sản phẩm và bằng chứng. Dùng ô tìm kiếm và các chip lọc để tra cứu nhanh.</p>
+  <div class="stats">
+    <span>Tổng ý tưởng: <b id="total-ideas">42</b></span>
+    <span>Số lượt quét: <b id="total-batches">6 + báo cáo nền</b></span>
+    <span>Cập nhật lần cuối: <b id="last-updated">25/10/2026</b></span>
+  </div>
+</header>
+
+<div class="bar">
+  <div class="bar-main">
+    <input type="search" id="q" placeholder="🔎 Tìm theo tên ý tưởng, tệp, từ khoá...">
+    <label>Sắp xếp: <select id="f-sort"><option value="stt">Theo STT</option><option value="diem-desc">Điểm cao → thấp</option><option value="diem-asc">Điểm thấp → cao</option></select></label>
+  </div>
+  <div class="filter-block"><span class="filter-label">Tệp</span><div class="chip-row" id="tep-chips" aria-label="Lọc theo tệp người dùng"></div></div>
+  <div class="filter-block"><span class="filter-label">Lượt</span><div class="chip-row" id="luot-chips" aria-label="Lọc theo lượt"></div></div>
+</div>
+
+<p class="count" id="visible-count"></p>
+
+<div class="state-tabs" role="tablist" aria-label="Trạng thái ý tưởng">
+  <button type="button" class="state-tab active" data-tab="all">Tất cả <span class="tab-count" id="count-all"></span></button>
+  <button type="button" class="state-tab" data-tab="interested">⭐ Quan tâm <span class="tab-count" id="count-interested"></span></button>
+  <button type="button" class="state-tab" data-tab="done">✅ Đã làm <span class="tab-count" id="count-done"></span></button>
+</div>
+
+<main class="idea-grid" id="idea-grid">
+<article class="idea-card" data-tep="Giáo viên" data-luot="Nền" data-diem="9.5" data-stt="1">
+  <div class="card-top"><span class="idea-num">#1</span><span class="score s9">9,5</span></div>
+  <h2>Nhận xét học sinh hàng loạt từ file điểm (TT27/22)</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Giáo viên</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Dễ–TB</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Thấp</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>99–149k/gói cuối kỳ; 299k/năm học</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Nền</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> 95,2% GV (khảo sát 630 người) nói vất vả hơn nhiều kể từ TT27/22; có GV nhận xét 789 học sinh; đang dùng prompt copy-paste và add-in Excel rườm rà. <b>Sản phẩm:</b> upload file Excel từ vnEdu/SMAS → AI viết nhận xét cá nhân hoá theo cấu trúc phẩm chất/năng lực, chống trùng lặp → xuất file nhập ngược hệ thống. 3 bước: tải lên – bấm tạo – tải xuống. Doanh thu theo mùa vụ, ít support.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Giáo viên" data-luot="Nền" data-diem="9.3" data-stt="2">
+  <div class="card-top"><span class="idea-num">#2</span><span class="score s9">9,3</span></div>
+  <h2>Bộ ba chuẩn VN: KHBD 5512 + Đề/Ma trận/Đặc tả 7991 + Trộn mã đề</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Giáo viên</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Trung bình</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Thấp–TB</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>49–99k/tháng; 199–299k/học kỳ</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Nền</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> mỗi kỳ kiểm tra phải làm trọn bộ ma trận → đặc tả → đề → đáp án → trộn 4–8 mã đề → xuất Word đúng mẫu. Tool quốc tế không biết CV 7991; đối thủ VN chỉ là Blogspot/Excel chia sẻ tay. <b>Sản phẩm:</b> chọn môn/lớp/bộ SGK → AI sinh đề theo ma trận GV duyệt → tự trộn mã (kể cả câu đúng/sai nhiều ý) → xuất 1 file Word đủ 4 tài liệu. Điền form, không viết prompt. Moat quy định lâu dài nhất.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Văn phòng" data-luot="Nền" data-diem="8.8" data-stt="3">
+  <div class="card-top"><span class="idea-num">#3</span><span class="score s8">8,8</span></div>
+  <h2>Email công sở song ngữ: ý tiếng Việt → email chuẩn quốc tế</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Văn phòng</span> <span class="chip">Quốc tế</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Dễ</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Cao (toàn cầu)</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>59–119k/tháng VN; $5–9/tháng quốc tế</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Nền</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> có ý nhưng sợ sai tông; giao tiếp viết kém tốn ~7,5 giờ/tuần/người (Grammarly/Harris Poll). <b>Sản phẩm:</b> gõ ý thô → email lịch sự theo 5 tông sẵn (nhắc nợ, xin lỗi trễ, từ chối khéo...); chiều ngược: email dài → 3 dòng "họ muốn gì + việc của tôi + hạn". Menu 20 tình huống, không prompt. Build dễ nhất danh sách; quốc tế hoá mạnh nhất.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Giáo viên" data-luot="Nền" data-diem="8.5" data-stt="4">
+  <div class="card-top"><span class="idea-num">#4</span><span class="score s8">8,5</span></div>
+  <h2>Trợ lý giao tiếp phụ huynh qua Zalo</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Giáo viên</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Dễ</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Thấp</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>29–49k/tháng; gói năm học</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Nền</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> trả lời phụ huynh khó tính lúc 9 giờ tối, bản tin lớp cuối tuần, nhắc đóng phí/họp sao cho khéo. <b>Sản phẩm:</b> gạch đầu dòng thô → tin nhắn Zalo hoàn chỉnh đúng giọng + thư viện mẫu tình huống khó + lịch gửi nhắc. Copy 1 chạm. Cross-sell với ý tưởng #1.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Văn phòng" data-luot="Nền" data-diem="8.2" data-stt="5">
+  <div class="card-top"><span class="idea-num">#5</span><span class="score s8">8,2</span></div>
+  <h2>Biên bản họp tiếng Việt theo mẫu hành chính + nhắc việc</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Văn phòng</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Trung bình</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Thấp–TB</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>149–299k/tháng theo gói phút</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Nền</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> tool quốc tế cho tóm tắt "kiểu Tây"; sếp VN cần biên bản Word đúng mẫu để ký/lưu hồ sơ. Làm tay 3–4 giờ/cuộc họp, AI còn 10–15 phút. <b>Sản phẩm:</b> upload file ghi âm (kể cả họp trực tiếp) → biên bản đúng mẫu + bảng phân công → 1 nút gửi nhắc việc, tự nhắc khi tới hạn.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Bất động sản" data-luot="Nền" data-diem="8.0" data-stt="6">
+  <div class="card-top"><span class="idea-num">#6</span><span class="score s8">8,0</span></div>
+  <h2>Bộ kit BĐS cho môi giới cá nhân: 1 căn → đăng mọi kênh</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Bất động sản</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Dễ</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Thấp</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>99–199k/tháng; 10–20k/căn</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Nền</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> viết tin 20–30 phút/căn, đăng lặp 4–5 kênh, trả lời chậm mất khách. Môi giới Mỹ đã trả $19–25/tháng chỉ cho việc viết tin (ListingCopy.ai). <b>Sản phẩm:</b> thông số thô + ảnh → tin đăng 3 phiên bản (Batdongsan/Facebook/Zalo) + dọn đồ ảo phong cách VN + mẫu trả lời 15 câu khách hay hỏi + nhắc follow-up.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Giáo viên" data-luot="Nền" data-diem="7.8" data-stt="7">
+  <div class="card-top"><span class="idea-num">#7</span><span class="score s7">7,8</span></div>
+  <h2>Tool cho GV tiếng Anh / IELTS tại VN</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Giáo viên</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Trung bình</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Trung bình</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>79–129k/tháng</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Nền</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> Twee giỏi CEFR nhưng không ra đề đúng format THPT/ĐGNL VN; chấm IELTS Writing tốn hàng giờ. <b>Sản phẩm:</b> tạo đề bám SGK VN + format thi thật (đáp án, giải thích tiếng Việt) + chấm IELTS Writing theo band descriptor, GV duyệt. Có cửa quốc tế hoá qua IELTS toàn cầu.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Nhân sự" data-luot="Nền" data-diem="7.6" data-stt="8">
+  <div class="card-top"><span class="idea-num">#8</span><span class="score s7">7,6</span></div>
+  <h2>HR mini cho SME: JD + lọc CV + thư theo luật VN</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Nhân sự</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Trung bình</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Thấp</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>99–199k/tin tuyển; 199k/tháng</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Nền</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> ATS tử tế từ $299/tháng quá sức SME; dán CV vào ChatGPT thì không nhất quán. <b>Sản phẩm:</b> 3 dòng mô tả → JD + tiêu chí chấm cố định → thả tối đa 50 CV → bảng xếp hạng kèm lý do + câu hỏi phỏng vấn theo điểm yếu + thư mời/từ chối khéo.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Văn phòng" data-luot="Nền" data-diem="7.4" data-stt="9">
+  <div class="card-top"><span class="idea-num">#9</span><span class="score s7">7,4</span></div>
+  <h2>Slide đúng template công ty từ tài liệu tiếng Việt</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Văn phòng</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Trung bình</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Thấp</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>149k/tháng</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Nền</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> "báo cáo 30 trang, sếp cần 10 slide chiều nay" — Gamma đẹp nhưng sai brand, xuất PPTX vỡ font tiếng Việt. <b>Sản phẩm:</b> upload template 1 lần → dán báo cáo → AI điền vào đúng các ô template gốc, xuất .pptx sửa được 100%.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Shop online" data-luot="Nền" data-diem="7.2" data-stt="10">
+  <div class="card-top"><span class="idea-num">#10</span><span class="score s7">7,2</span></div>
+  <h2>Trợ lý inbox "nháp-duyệt" cho shop 1 người</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Shop online</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>TB–Khó</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Trung bình</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>99–249k/tháng theo số hội thoại</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Nền</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> 30–50 câu lặp lại nuốt hết thời gian; sợ bot tự trả lời sai mất khách. <b>Sản phẩm:</b> học từ lịch sử chat 3 tháng → soạn nháp sẵn, chủ shop bấm Duyệt/Sửa 1 chạm; chỉ tự gửi ngoài giờ cho câu an toàn; khiếu nại chuyển người. Kèm ảnh sản phẩm → bài đăng + caption. Tích hợp Zalo OA là phần khó nhất — làm Facebook trước.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Giáo viên" data-luot="Nền" data-diem="7.0" data-stt="11">
+  <div class="card-top"><span class="idea-num">#11</span><span class="score s7">7,0</span></div>
+  <h2>Pack template/prompt bán 1 lần (bước validate 0 đồng)</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Giáo viên</span> <span class="chip">Văn phòng</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Rất dễ</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Trung bình</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>$7–49/pack (Gumroad/Etsy)</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Nền</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Vai trò:</b> không phải webapp — là cách validate nhanh nhất trong 2–4 tuần với chi phí vận hành = 0. Pack nào bán chạy → chuyển đúng nhu cầu đó thành webapp. Nhược điểm: không có MRR, dễ bị copy.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Giáo viên" data-luot="Nền" data-diem="6.5" data-stt="12">
+  <div class="card-top"><span class="idea-num">#12</span><span class="score s6">6,5</span></div>
+  <h2>Chấm bài tự luận tiếng Việt + OCR chữ viết tay</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Giáo viên</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Khó</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Thấp</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>149k/tháng/500 bài</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Nền</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> việc tốn giờ nhất và "AI chưa giúp được" — tool quốc tế chỉ chấm tiếng Anh theo rubric Mỹ. <b>Vì sao xếp thấp:</b> OCR chữ viết tay tiếng Việt là nút thắt kỹ thuật thật, cần kiểm chứng độ chính xác trước khi bán. Nhu cầu cực lớn nhưng nên để làm phiên bản 2.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Y tế nhỏ" data-luot="Lượt 1" data-diem="9.0" data-stt="13">
+  <div class="card-top"><span class="idea-num">#13</span><span class="score s9">9,0</span></div>
+  <h2>Gọi thoại nhắc uống thuốc cho người cao tuổi</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Y tế nhỏ</span> <span class="chip">Người cao tuổi</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>—</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>—</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>—</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 1</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Sản phẩm:</b> con/cháu setup lịch thuốc 1 lần → hệ thống tự gọi thoại nhắc đúng giờ uống thuốc. Người dùng cuối không cần smartphone hay biết gì về công nghệ — chỉ cần nghe điện thoại. Người trả tiền là con/cháu. Đứng đầu lượt quét #1 (20/10).</div></details>
+</article>
+
+<article class="idea-card" data-tep="Kế toán/thuế" data-luot="Lượt 1" data-diem="8.5" data-stt="14">
+  <div class="card-top"><span class="idea-num">#14</span><span class="score s8">8,5</span></div>
+  <h2>Sổ tay hoá đơn cho kế toán dịch vụ solo</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Kế toán/thuế</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>—</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>—</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>—</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 1</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Sản phẩm:</b> chụp/gom hoá đơn → AI trích xuất dữ liệu (số hoá đơn, MST, số tiền, thuế) thay cho nhập tay, xuất bảng tổng hợp cho từng khách hàng của kế toán dịch vụ.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Spa/làm đẹp" data-luot="Lượt 1" data-diem="8.5" data-stt="15">
+  <div class="card-top"><span class="idea-num">#15</span><span class="score s8">8,5</span></div>
+  <h2>Nhắc lịch chống no-show + mở slot tự động cho spa nhỏ</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Spa/làm đẹp</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>—</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>—</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>—</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 1</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Sản phẩm:</b> tự nhắc khách trước giờ hẹn; khách huỷ thì tự mở slot trống và gợi ý khách trong danh sách chờ — giải quyết bài toán khách đặt rồi không đến.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Kế toán/thuế" data-luot="Lượt 1" data-diem="8.0" data-stt="16">
+  <div class="card-top"><span class="idea-num">#16</span><span class="score s8">8,0</span></div>
+  <h2>Lịch thuế nhắc việc cho hộ kinh doanh/SME tự nộp thuế</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Kế toán/thuế</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>—</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>—</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>—</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 1</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Sản phẩm:</b> lịch hạn nộp thuế/báo cáo theo đúng loại hình → nhắc trước hạn, đánh vào nỗi đau sợ trễ hạn và tiền phạt.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Y tế nhỏ" data-luot="Lượt 1" data-diem="7.5" data-stt="17">
+  <div class="card-top"><span class="idea-num">#17</span><span class="score s7">7,5</span></div>
+  <h2>Tra cứu thuốc nhanh cho dược sĩ quầy</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Y tế nhỏ</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>—</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>—</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>—</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 1</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Sản phẩm:</b> chụp vỏ hộp → tra cứu nhanh + cảnh báo tương tác thuốc. Ranh giới rõ: hỗ trợ tra cứu, không chẩn đoán.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Sửa chữa &amp; tại nhà" data-luot="Lượt 2" data-diem="8.5" data-stt="18">
+  <div class="card-top"><span class="idea-num">#18</span><span class="score s8">8,5</span></div>
+  <h2>Báo giá 1 phút + chốt văn bản cho thợ điện lạnh</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Sửa chữa &amp; tại nhà</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>—</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>—</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>—</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 2</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Sản phẩm:</b> nhập vài dòng → ra báo giá gọn đẹp dạng văn bản gửi khách ngay, thay báo giá miệng dễ quên, dễ tranh cãi. Bằng chứng: thợ VN đang báo giá miệng qua điện thoại (TikTok thợ điện lạnh HN).</div></details>
+</article>
+
+<article class="idea-card" data-tep="Sale &amp; CSKH" data-luot="Lượt 2" data-diem="8.5" data-stt="19">
+  <div class="card-top"><span class="idea-num">#19</span><span class="score s8">8,5</span></div>
+  <h2>Trợ lý nhắc follow-up cho sale cá nhân</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Sale &amp; CSKH</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>—</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>—</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>—</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 2</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Sản phẩm:</b> nhắc follow-up đúng hẹn, chống bỏ sót lead. Bằng chứng: tỷ lệ bỏ sót lead 38–50% khi không dùng CRM (JetpackCRM); nhân viên VN không dùng CRM vì quá phức tạp (bizfly.vn).</div></details>
+</article>
+
+<article class="idea-card" data-tep="Nông nghiệp" data-luot="Lượt 2" data-diem="8.0" data-stt="20">
+  <div class="card-top"><span class="idea-num">#20</span><span class="score s8">8,0</span></div>
+  <h2>Máy tính lãi/lỗ 1 trang cho hộ nông dân</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Nông nghiệp</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>—</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>—</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>—</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 2</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Sản phẩm:</b> nhập chi phí/vụ → biết lãi thật, có cơ sở thương lượng tránh bị ép giá. Tín hiệu: vụ lúa lãi 35k Đắk Lắk đạt 2,5M view TikTok; báo chí phản ánh nạn ép giá nông sản.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Sale &amp; CSKH" data-luot="Lượt 2" data-diem="7.5" data-stt="21">
+  <div class="card-top"><span class="idea-num">#21</span><span class="score s7">7,5</span></div>
+  <h2>Báo cáo telesale 1-click cuối ngày</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Sale &amp; CSKH</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>—</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>—</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>—</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 2</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Sản phẩm:</b> gom log cuộc gọi → báo cáo cuối ngày tự động thay soạn tay cuối giờ.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Sửa chữa &amp; tại nhà" data-luot="Lượt 2" data-diem="7.5" data-stt="22">
+  <div class="card-top"><span class="idea-num">#22</span><span class="score s7">7,5</span></div>
+  <h2>Xin review Google Maps tự động cho thợ</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Sửa chữa &amp; tại nhà</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>—</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>—</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>—</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 2</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Sản phẩm:</b> tự gợi nhắc khách để lại review sau khi làm xong việc — review địa phương là kênh uy tín số 1 của thợ làm việc theo địa bàn.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Luật sư" data-luot="Lượt 3" data-diem="9.0" data-stt="23">
+  <div class="card-top"><span class="idea-num">#23</span><span class="score s9">9,0</span></div>
+  <h2>Lịch hạn tố tụng cho luật sư solo</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Luật sư</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Trung bình</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Thấp</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>149k/tháng; 1,49tr/năm</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 3</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> lỡ một hạn tố tụng là mất vụ án, có thể bị khiếu nại/bồi thường — nỗi sợ lớn nhất của nghề. Tool VN toàn "đo ni đóng giày": CIT Software 100–500 triệu, triển khai vài tuần–vài tháng (citgroup.vn); Clio $39–129/user/tháng nhưng không có deadline theo luật VN. <b>Sản phẩm:</b> chọn loại thủ tục → tự sinh toàn bộ lịch deadline theo luật VN → nhắc qua Zalo/email/SMS trước hạn 7/3/1 ngày. Data tĩnh, tra cứu 1 lần, làm 1 lần bán hoài. ~200 văn phòng đăng ký là đủ mốc 3–10tr.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Freelancer" data-luot="Lượt 3" data-diem="8.5" data-stt="24">
+  <div class="card-top"><span class="idea-num">#24</span><span class="score s8">8,5</span></div>
+  <h2>Báo giá + hợp đồng freelancer 5 phút</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Freelancer</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Dễ</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Thấp–TB</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>Freemium → 79k/tháng; 499k/năm</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 3</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> "không có hợp đồng rõ ràng và báo giá không chính thức, người mới dễ bị quỵt tiền do không có bằng chứng" (vietmoz.edu.vn); "khách đầu tiên trễ thanh toán 3 tuần và mình không biết đòi ai" (mona.media). <b>Sản phẩm:</b> form 6–8 ô → 5 phút ra PDF báo giá + hợp đồng có sẵn điều khoản cọc 30–50%, thanh toán theo milestone, phạt chậm thanh toán chuẩn VN.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Nhà hàng/café" data-luot="Lượt 3" data-diem="8.5" data-stt="25">
+  <div class="card-top"><span class="idea-num">#25</span><span class="score s8">8,5</span></div>
+  <h2>Báo cáo đóng ca cho chủ quán vắng mặt</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Nhà hàng/café</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Dễ</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Thấp</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>99k/quán/tháng</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 3</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> thất thoát từ quy trình hở — món ra khỏi bếp không có trên hoá đơn, huỷ món không ai duyệt, tiền mặt/chuyển khoản lẫn lộn (hoangminhhoa.com). Case thật: quán lẩu 18 nhân sự lệch kho 7–9%/tuần, bịt 3 lỗ hổng còn ~1,8% ≈ 14 triệu/tháng không còn "rơi ra ngoài". <b>Sản phẩm:</b> cuối ca nhân viên nhập 5 con số → chủ nhận báo cáo qua Zalo + cảnh báo đỏ khi chênh lệch bất thường. Form 1 phút trên điện thoại, không cần học POS.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Luật sư" data-luot="Lượt 3" data-diem="8.0" data-stt="26">
+  <div class="card-top"><span class="idea-num">#26</span><span class="score s8">8,0</span></div>
+  <h2>Kho mẫu văn bản pháp lý chuẩn luật VN</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Luật sư</span> <span class="chip">SME</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Dễ–TB</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Thấp–TB</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>99k/tháng; 899k/năm</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 3</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> soạn hợp đồng/đơn từ đầu tốn hàng giờ; mẫu trôi nổi trên mạng cũ, sai luật hiện hành, không ai chịu trách nhiệm cập nhật. <b>Sản phẩm:</b> kho ~50 mẫu đúng form luật VN mới nhất (HĐLĐ, HĐ thuê nhà, NDA, đơn khởi kiện...) → điền form → xuất Word/PDF; mỗi mẫu ghi căn cứ luật và ngày cập nhật.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Nhà hàng/café" data-luot="Lượt 3" data-diem="8.0" data-stt="27">
+  <div class="card-top"><span class="idea-num">#27</span><span class="score s8">8,0</span></div>
+  <h2>Food cost theo ca cho quán nhỏ</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Nhà hàng/café</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Dễ</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Trung bình</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>79k/quán/tháng</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 3</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> "theo dõi food cost theo tháng nhưng không biết rò rỉ ở ca nào, thời điểm nào" (vmass.vn); Excel không gửi cảnh báo khi vượt ngưỡng. <b>Sản phẩm:</b> nhập 1 lần định lượng + giá nhập nguyên liệu → mỗi ca chỉ nhập số món đã bán → tự tính food cost thực tế vs chuẩn, cảnh báo khi vượt ngưỡng (vd &gt;35%).</div></details>
+</article>
+
+
+
+<article class="idea-card" data-tep="Xây dựng" data-luot="Lượt 4" data-diem="8.5" data-stt="28">
+  <div class="card-top"><span class="idea-num">#28</span><span class="score s8">8,5</span></div>
+  <h2>Nhật ký công trình bằng ảnh cho chủ nhà vắng mặt</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Xây dựng</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Dễ–TB</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Thấp</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>99k/công trình/tháng; 499k trọn gói</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 4</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> "Dù thuê nhà thầu chuyên nghiệp, nếu chủ nhà thiếu theo dõi, giám sát quá trình thi công sẽ dễ dẫn đến làm sai bản vẽ, cắt giảm vật tư, làm ẩu" (xaydungancu.com). "Do bận rộn, nhiều gia chủ giao toàn bộ cho nhà thầu mà không có sự giám sát nào... Dễ bị bớt xén vật tư, làm ẩu, sai thiết kế" (xaynhaviet.com); rất nhiều chủ nhà "bận công việc, ở xa công trình, không thể theo sát tiến độ hàng ngày" (phamgiacons.com). <b>Sản phẩm:</b> thợ chụp ảnh mỗi ngày → web tự gom theo ngày + hạng mục (móng, điện nước, hoàn thiện) thành timeline → chủ nhà xem qua link/Zalo, bình luận, đánh dấu đạt/không đạt. <b>Dễ dùng:</b> thợ chỉ chụp ảnh như gửi Zalo; chủ nhà chỉ bấm xem.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Xây dựng" data-luot="Lượt 4" data-diem="8.0" data-stt="29">
+  <div class="card-top"><span class="idea-num">#29</span><span class="score s8">8,0</span></div>
+  <h2>Checklist nghiệm thu nhà khi nhận bàn giao</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Xây dựng</span> <span class="chip">Người mua nhà</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Dễ</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Thấp–TB</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>149k/lần dùng (tính theo căn)</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 4</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> nhận nhà mà không ghi lỗi vào biên bản = "không có cơ sở pháp lý để yêu cầu sửa lỗi; khó chứng minh tình trạng căn hộ ban đầu; mất quyền lợi bảo hành" (happynest.vn). Cần "dành ít nhất 1-2 giờ kiểm tra kỹ từng chi tiết: tường/trần nứt thấm, sàn phồng lệch gạch, cửa, điện, nước" + đo lại diện tích so với hợp đồng (phedecor.com) — người không rành xây dựng không biết bắt đầu từ đâu. <b>Sản phẩm:</b> chọn loại nhà → checklist ~100 mục theo chuẩn VN, mỗi mục có hướng dẫn cách kiểm tra (gõ tường, thử áp lực nước...) → tick trên điện thoại → xuất biên bản nghiệm thu PDF kèm ảnh lỗi. <b>Dễ dùng:</b> tick từng mục như đi chợ, không cần biết gì về xây dựng.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Vận tải" data-luot="Lượt 4" data-diem="8.5" data-stt="30">
+  <div class="card-top"><span class="idea-num">#30</span><span class="score s8">8,5</span></div>
+  <h2>Sổ xe tải: lãi/lỗ từng chuyến cho chủ xe cá nhân</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Vận tải</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Dễ</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Thấp</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>59k/tháng; 499k/năm</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 4</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> tài xế Nguyễn Thành Phương: "nhận chở hàng, tiền công chưa đến 1 triệu đồng nhưng tiền dầu đã chiếm quá nửa. Nếu cộng thêm chi phí cầu đường thì coi như không còn lãi" (news.daisan.vn). Tuổi Trẻ 2026: "Chủ xe container điên đầu: chạy 150km giá 3,8 triệu, chi phí 4 triệu" — chạy mà vẫn lỗ. Xăng dầu chiếm 40–45% chi phí vận hành (vnbiznews.com) nhưng chủ xe cá nhân không có sổ theo dõi. <b>Sản phẩm:</b> mỗi chuyến nhập 5 số (cước thu, tiền dầu, cầu đường, bốc xếp, ăn uống) → tự tính lãi/chuyến, tổng lãi/tháng, xếp hạng tuyến lãi nhất/lỗ nhất → biết chuyến nào nên từ chối. <b>Dễ dùng:</b> form 1 phút sau mỗi chuyến, giao diện như cuốn sổ tay.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Vận tải" data-luot="Lượt 4" data-diem="8.0" data-stt="31">
+  <div class="card-top"><span class="idea-num">#31</span><span class="score s8">8,0</span></div>
+  <h2>Nhắc đăng kiểm + bảo dưỡng cho đội xe nhỏ</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Vận tải</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Dễ</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Thấp</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>Freemium 2 xe → 49k/tháng/đội ≤10 xe</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 4</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> quá hạn đăng kiểm dưới 1 tháng: phạt 3–4 triệu + tước GPLX 1–3 tháng; từ 1 tháng trở lên: phạt 4–6 triệu + tạm giữ xe 7 ngày; chủ doanh nghiệp giao xe cho người khác: phạt 12–16 triệu (NĐ 100/2019, NĐ 123/2021 — accgroup.vn). Xe tải kinh doanh đăng kiểm định kỳ 6–12 tháng/lần, quản lý nhiều xe rất dễ quên. <b>Sản phẩm:</b> nhập biển số + ngày đăng kiểm + km → tự nhắc qua Zalo/SMS trước hạn 30/7/1 ngày; nhắc bảo dưỡng theo km (thay dầu, lốp). <b>Dễ dùng:</b> nhập 1 lần duy nhất, sau đó chỉ việc nhận nhắc.</div></details>
+</article>
+
+<article class="idea-card" data-tep="SME" data-luot="Lượt 4" data-diem="8.0" data-stt="32">
+  <div class="card-top"><span class="idea-num">#32</span><span class="score s8">8,0</span></div>
+  <h2>Checklist mở thêm điểm bán cho chủ SME</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">SME</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Dễ</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Thấp</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>199k/pack một lần (theo loại hình)</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 4</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> chuỗi Monde Cà phê (TP.HCM) ngừng hoạt động vì "mở rộng chuỗi mà thiếu quy trình kiểm soát" — "đóng gói tất cả quy trình từ bán hàng, nhập xuất, nguyên liệu, thu chi đến đào tạo nhân sự đều rất cần thiết" (vietstock.vn). Anh Khoa đóng 2 quán cà phê vì "sao chép mô hình sang mặt bằng mới mà không xét đặc thù" + thiếu giấy phép phải tháo dỡ, "gây tổn thất đáng kể" (vietstock.vn). <b>Sản phẩm:</b> chọn loại hình (quán ăn, café, shop, spa...) → checklist ~120 việc theo giai đoạn (T-60: mặt bằng, pháp lý; T-30: setup, tuyển người; khai trương; T+30: rà soát) + ước tính ngân sách mẫu → tick tiến độ, xuất báo cáo. <b>Dễ dùng:</b> tick như todo list, không cần học quản trị.</div></details>
+</article>
+
+
+
+<article class="idea-card" data-tep="Bảo hiểm" data-luot="Lượt 5" data-diem="8.5" data-stt="33">
+  <div class="card-top"><span class="idea-num">#33</span><span class="score s8">8,5</span></div>
+  <h2>Sổ tái tục bảo hiểm cho đại lý cá nhân</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Bảo hiểm</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Trung bình</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Thấp</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>Freemium 20 HĐ → 99k/tháng; 990k/năm</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 5</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> khách quên đóng phí thì sau 60 ngày gia hạn hợp đồng có thể bị đình chỉ, mất quyền lợi (ibaohiem.vn; luatduonggia.vn). Case thật: khách đóng 3 năm tổng 300.000 NDT (khoảng 1 tỷ đồng) rồi mất hiệu lực chỉ vì không còn ai nhắc phí (cafebiz.vn) — đại lý mất hoa hồng tái tục và mất luôn khách. <b>Sản phẩm:</b> đại lý nhập 1 lần mỗi hợp đồng (khách, hãng, kỳ phí, ngày hết hạn) → tự nhắc khách qua Zalo mẫu sẵn trước hạn 30/7/1 ngày → bảng hoa hồng dự kiến theo tháng + cảnh báo đỏ hợp đồng sắp quá 60 ngày gia hạn. <b>Dễ dùng:</b> nhập như ghi sổ tay, không cần CRM; nhắc tự chạy, đại lý chỉ xem bảng tổng.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Tài chính cá nhân" data-luot="Lượt 5" data-diem="8.5" data-stt="34">
+  <div class="card-top"><span class="idea-num">#34</span><span class="score s8">8,5</span></div>
+  <h2>Nhắc trả nợ thẻ và khoản vay cho người dùng nhiều thẻ</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Tài chính cá nhân</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Dễ</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Trung bình</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>Freemium 2 thẻ → 29k/tháng; 290k/năm</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 5</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> trễ hạn dù 1 ngày cũng bị phí phạt 4–6% dư nợ quá hạn cộng lãi quá hạn 20–40%/năm, và trễ trên 90 ngày thành nợ xấu lưu vết CIC 3–5 năm (homecredit.vn; rabbitcare.vn). Nhiều người mở thẻ rồi quên khoản chi tiêu, tới lúc phát hiện thì lãi đã phình to (luatduonggia.vn). <b>Sản phẩm:</b> nhập tay từng thẻ/khoản vay (hạn trả, số tối thiểu, dư nợ) — KHÔNG kết nối ngân hàng nên không lo bảo mật — → nhắc qua Zalo/email trước hạn 7/3/1 ngày + màn hình “giá của việc quên”: phí và lãi sẽ mất nếu trễ hạn này. <b>Dễ dùng:</b> nhập 1 lần mỗi kỳ sao kê, sau đó chỉ nhận nhắc; không cần học quản lý tài chính.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Tổ chức sự kiện" data-luot="Lượt 5" data-diem="8.5" data-stt="35">
+  <div class="card-top"><span class="idea-num">#35</span><span class="score s8">8,5</span></div>
+  <h2>Kế hoạch cưới 1 trang cho cặp đôi tự tổ chức</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Tổ chức sự kiện</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Dễ</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Trung bình</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>199k/đám cưới (bán 1 lần)</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 5</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> đám cưới có hàng chục hạng mục phải lo theo mốc thời gian (7799wedding.vn); riêng ví dụ ngân sách mẫu đã 127–186 triệu đồng với hơn 15 khoản từ chụp ảnh, váy cưới tới tiệc 40–50 triệu cho 100 khách (vuanem.com) — cặp đôi tự tổ chức dễ sót việc, vượt ngân sách, lệch số bàn vì danh sách khách lộn xộn. <b>Sản phẩm:</b> 1 trang duy nhất: timeline từ 12 tháng tới ngày cưới, ngân sách theo hạng mục chuẩn VN (tiệc, trang phục, quay chụp, thiệp, xe...), danh sách khách tách nhà trai/nhà gái/cặp đôi + chốt số bàn, nhắc lịch cọc từng nhà cung cấp. <b>Dễ dùng:</b> tick từng việc như todo list, nhập số tiền là tự cộng tổng; không cần thuê wedding planner.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Tổ chức sự kiện" data-luot="Lượt 5" data-diem="8.0" data-stt="36">
+  <div class="card-top"><span class="idea-num">#36</span><span class="score s8">8,0</span></div>
+  <h2>Đăng ký + điểm danh QR cho sự kiện nhỏ</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Tổ chức sự kiện</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Trung bình</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Trung bình</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>Miễn phí ≤50 khách → 149k/sự kiện ≤300 khách</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 5</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> ở team building hay đại hội, gọi tên từng đội trên xe thì chậm, danh sách giấy theo đội dễ lệch khi có người đổi đội phút chót (tickmi.com); check-in QR chuyên nghiệp hiện là quy trình 6 bước qua phần mềm trọn gói (thegioimavach.com) — quá nặng cho workshop, họp lớp, sinh hoạt CLB chỉ vài chục tới vài trăm người. <b>Sản phẩm:</b> tạo form đăng ký 2 phút → mỗi khách nhận QR riêng tự động → BTC quét bằng điện thoại ngay tại cửa, không cần app riêng → báo cáo trực tiếp ai đã đến, ai vắng, đội nào còn thiếu. <b>Dễ dùng:</b> BTC chỉ gửi 1 link đăng ký và cầm điện thoại quét; khách chỉ mở QR trong email/Zalo.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Hành chính &amp; dịch vụ công" data-luot="Lượt 5" data-diem="8.0" data-stt="37">
+  <div class="card-top"><span class="idea-num">#37</span><span class="score s8">8,0</span></div>
+  <h2>Checklist hồ sơ 1 lần trúng cho dân làm giấy tờ ở phường/xã</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Hành chính &amp; dịch vụ công</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Trung bình</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Thấp</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>Miễn phí checklist → 49k/bộ hồ sơ có mẫu đơn điền sẵn</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 5</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> tháng 9/2025, TP.HCM ghi nhận hơn 13.400 phản ánh, trong đó thủ tục hành chính là lĩnh vực bị phản ánh nhiều nhất (hơn 6.400 trường hợp), nguyên nhân chính là người dân phải gửi lại hồ sơ nhiều lần (danviet.vn); cử tri nhiều phường phản ánh “doanh nghiệp và người dân phải đi lại nhiều lần do hướng dẫn thiếu rõ ràng”, có hồ sơ đăng ký cư trú trực tuyến kéo dài tới 30 ngày (danviet.vn). <b>Sản phẩm:</b> chọn thủ tục + địa phương → checklist giấy tờ cần mang (bản chính hay bản sao, mấy bản), mẫu đơn điền sẵn thông tin cá nhân, nhắc lịch hẹn và nơi lưu biên nhận; mở đầu với 20 thủ tục phổ biến nhất, kèm lưu ý “đối chiếu văn bản chính thức tại địa phương”. <b>Dễ dùng:</b> trả lời 3–4 câu hỏi là ra danh sách tick được trên điện thoại, mang đi nộp là xong.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Khách sạn nhỏ &amp; homestay" data-luot="Lượt 6" data-diem="8.5" data-stt="38">
+  <div class="card-top"><span class="idea-num">#38</span><span class="score s8">8,5</span></div>
+  <h2>Sổ phòng chống trùng lịch cho homestay nhỏ</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Khách sạn nhỏ &amp; homestay</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Dễ</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Trung bình</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>79k/tháng cho 5 phòng hoặc 790k/năm</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 6</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> chủ homestay 1–5 phòng bán cùng lúc trên Airbnb, Agoda, Booking.com và Zalo, nhưng “keeping two extranets in agreement by hand is where double bookings come from” (frontdesko.app); hướng dẫn của Agoda cũng chỉ khuyên cập nhật thủ công theo thời gian thực và đồng bộ lịch — đúng việc gây lỗi. Channel manager hiện có quá đắt/nặng cho nhà nhỏ: gói rẻ nhất khoảng $42–80/tháng, Cloudbeds $100–150/tháng (frontdesko.app). <b>Sản phẩm:</b> 1 lịch duy nhất cho mọi phòng: nhập tay booking từ kênh nào cũng được (không cần kết nối API OTA), hệ thống tô đỏ ngay khi trùng ngày/phòng, nhắc dọn phòng và giờ check-in/check-out, báo cáo cuối tháng phòng nào trống nhiều nhất. <b>Dễ dùng:</b> chủ nhà chỉ nhập ngày + tên khách như ghi sổ giấy, còn lại máy tự cảnh báo; không cần học PMS.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Học sinh &amp; sinh viên" data-luot="Lượt 6" data-diem="8.5" data-stt="39">
+  <div class="card-top"><span class="idea-num">#39</span><span class="score s8">8,5</span></div>
+  <h2>Tính GPA + săn học bổng cho sinh viên VN</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Học sinh &amp; sinh viên</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Dễ</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Thấp</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>Miễn phí tính GPA → 49k/học kỳ mở dự đoán + checklist học bổng</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 6</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> sinh viên VN rối giữa thang 10, thang chữ và thang 4: theo Thông tư 08/2021/TT-BGDĐT, điểm 8,5–10 là A = 4 điểm, 7,0–8,4 là B = 3 điểm, 5,5–6,9 là C = 2 điểm (idp.com); nhiều bạn tính trung bình cộng đơn giản nên ra GPA sai, tới lúc xét học bổng mới biết thiếu. Muốn săn học bổng cạnh tranh cần GPA từ 3,5 trở lên, tương đương khoảng 8,0–8,5/10 (idp.com). <b>Sản phẩm:</b> nhập điểm + tín chỉ từng môn → GPA học kỳ và tích lũy cả thang 10 lẫn thang 4, tính ngược “môn còn lại cần bao nhiêu điểm để đạt mốc 3,2 / 3,5”, kèm checklist học bổng theo từng mốc GPA và nhắc hạn nộp hồ sơ. <b>Dễ dùng:</b> chỉ nhập điểm như bảng điểm, không cần biết công thức; kết quả hiện ngay bằng số và mốc màu.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Học sinh &amp; sinh viên" data-luot="Lượt 6" data-diem="8.0" data-stt="40">
+  <div class="card-top"><span class="idea-num">#40</span><span class="score s8">8,0</span></div>
+  <h2>Lịch ôn thi tự động từ lịch thi cho sinh viên</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Học sinh &amp; sinh viên</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Trung bình</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Trung bình</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>29k/tháng mùa thi hoặc 99k/học kỳ</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 6</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> sinh viên quen học dồn đêm trước ngày thi, trong khi bằng chứng cho thấy học rải ra hiệu quả hơn hẳn: tổng quan 242 nghiên cứu với hơn 169.000 người tham gia khẳng định distributed practice là một trong những kỹ thuật hiệu quả nhất; một tổng hợp khác ghi nhận nhóm dùng spaced repetition giữ được 82% kiến thức sau 150 tuần, so với 27% ở nhóm học dồn (mintdeck.app). Vấn đề là sinh viên không tự chia được đề cương thành lịch ôn. <b>Sản phẩm:</b> nhập ngày thi + môn + số chương/tài liệu → web tự chia thành nhiệm vụ ôn mỗi ngày 30–45 phút theo nguyên tắc spaced repetition (ôn lại đúng lúc sắp quên), nhắc qua Zalo/email, tick xong là xong. <b>Dễ dùng:</b> không cần biết spaced repetition là gì; chỉ làm theo 1 việc mỗi ngày mà app giao.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Marketer &amp; content creator" data-luot="Lượt 6" data-diem="8.0" data-stt="41">
+  <div class="card-top"><span class="idea-num">#41</span><span class="score s8">8,0</span></div>
+  <h2>Lịch nội dung mùa vụ VN cho creator/shop solo</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Marketer &amp; content creator</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Dễ</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Trung bình</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>59k/tháng hoặc 590k/năm</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 6</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> creator/shop solo chết ở khâu đều đặn: muốn giữ chân khán giả phải đăng đều, mà nghĩ ý tưởng mỗi ngày là việc ngốn thời gian nhất; các lời khuyên chung đều dừng ở “hãy lập content calendar” và “batch content” mà không nói tuần này đăng gì (tanog.co). Thị trường freelance VN cũng đầy tin tuyển người làm “weekly content calendar” cho founder — tức nhu cầu có thật nhưng creator solo không thuê nổi người. <b>Sản phẩm:</b> chọn ngách → nhận lịch 30 ngày gợi ý chủ đề gắn đúng mùa vụ VN (Tết, tựu trường, 9.9/11.11, mùa cưới, mùa du lịch hè…), mỗi ngày 1 chủ đề + khung caption theo format Facebook/TikTok, tick là xong. <b>Dễ dùng:</b> không cần brainstorm; mở lịch, lấy chủ đề, viết theo khung 3 dòng.</div></details>
+</article>
+
+<article class="idea-card" data-tep="Marketer &amp; content creator" data-luot="Lượt 6" data-diem="7.5" data-stt="42">
+  <div class="card-top"><span class="idea-num">#42</span><span class="score s7">7,5</span></div>
+  <h2>Bản tin đối thủ 1 trang mỗi tuần cho marketer/shop nhỏ</h2>
+  <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Marketer &amp; content creator</span></div>
+  <dl class="meta">
+    <div><dt>Độ khó</dt><dd>Trung bình</dd></div>
+    <div><dt>Cạnh tranh</dt><dd>Trung bình</dd></div>
+    <div class="money"><dt>Ra tiền</dt><dd>99k/tháng theo dõi 5 đối thủ</dd></div>
+  </dl>
+  <div class="card-foot"><span class="batch-chip">Lượt 6</span><div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div></div>
+  <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body"><b>Nỗi đau:</b> marketer/shop nhỏ muốn biết đối thủ làm gì nhưng chỉ có cách thủ công: tự vào từng page xem tần suất đăng, loại nội dung và quảng cáo đang chạy — các hướng dẫn đều khuyên “scan your competitors’ Facebook pages” theo cách này. Tool theo dõi đối thủ hiện có (như Sotrender, so sánh tới 8 profile, xem bài nào tương tác cao nhất) làm cho doanh nghiệp lớn, giá và độ phức tạp vượt tầm shop nhỏ. <b>Sản phẩm:</b> nhập 5 page Facebook/TikTok đối thủ → mỗi sáng thứ 2 nhận đúng 1 trang: tuần qua họ đăng gì, bài nào tương tác cao nhất, có quảng cáo mới nào (dữ liệu công khai), kèm 3 gợi ý “tuần này mình làm theo hướng nào”. <b>Dễ dùng:</b> không cần tự lướt, không cần đọc dashboard; đọc 1 trang là biết mình nên đăng gì.</div></details>
+</article>
+
+<!-- CARD_APPEND_MARKER: CƠ CHẾ CHÈN THẺ MỚI — chèn mỗi ý tưởng mới thành ĐÚNG 1 thẻ <article class="idea-card" ...>...</article> ngay TRÊN dòng marker này và vẫn nằm trong <main id="idea-grid">. Mẫu thẻ bắt buộc: <article class="idea-card" data-tep="Tên tệp chính" data-luot="Lượt N" data-diem="X.X" data-stt="STT"> <div class="card-top"><span class="idea-num">#STT</span><span class="score s9/s8/s7/s6">điểm hiển thị bằng dấu phẩy</span></div> <h2>Tên ý tưởng</h2> <div class="tag-row" aria-label="Tệp người dùng"><span class="chip">Tên tệp</span></div> <dl class="meta"><div><dt>Độ khó</dt><dd>...</dd></div><div><dt>Cạnh tranh</dt><dd>...</dd></div><div class="money"><dt>Ra tiền</dt><dd>...</dd></div></dl> <div class="card-foot"><span class="batch-chip">Lượt N</span></div> <details class="idea-details"><summary>Chi tiết</summary><div class="detail-body">...nỗi đau + bằng chứng/nguồn, sản phẩm, vì sao dễ dùng...</div></details> </article>. Class điểm: s9 nếu ≥9, s8 nếu ≥8, s7 nếu ≥7, còn lại s6; data-diem dùng dấu chấm thập phân. Đồng thời cập nhật #total-ideas, #total-batches, #last-updated. Chip lọc tệp/lượt được JS tự sinh từ data-tep/data-luot của các thẻ nên không cần thêm option hay chip thủ công. Thẻ mới BẮT BUỘC có thêm trong card-foot, ngay sau <span class="batch-chip">: <div class="state-btns"><button type="button" class="state-btn" data-state="interested">Quan tâm</button><button type="button" class="state-btn" data-state="done">Đã làm</button></div> — JS tự gắn trạng thái theo data-stt; không sửa tab trạng thái/JS/CSS, không viết lại file. -->
+</main>
+<div class="empty" id="empty-state">Không có ý tưởng nào khớp bộ lọc hiện tại.</div>
+
+<p class="foot">Công thức triển khai chung (báo cáo nền): dạng app Form → AI → Xuất file (MVP 8–20 giờ tập trung) + Freemium/Credit $9/tháng hoặc $79–99/năm + SEO lập trình &amp; affiliate đối tác. Mục tiêu 3–10 triệu/tháng ≈ 20–60 khách trả $9/tháng. Cập nhật tự động sau mỗi lượt quét hằng ngày (~21:17).</p>
+</div>
+
+<script>
+(function(){
+  var grid=document.getElementById('idea-grid');
+  var selectedTep='';
+  var selectedLuot='';
+  var activeTab='all';
+  var STATE_KEY='kho-webapp-state-v1';
+  var state={};
+  try{state=JSON.parse(localStorage.getItem(STATE_KEY)||'{}')||{};}catch(e){state={};}
+  function saveState(){try{localStorage.setItem(STATE_KEY,JSON.stringify(state));}catch(e){}}
+  function cards(){return Array.prototype.slice.call(grid.querySelectorAll('.idea-card'));}
+  function cardState(card){var s=state[card.getAttribute('data-stt')]; return (s==='interested'||s==='done')?s:'';}
+  function renderButtons(){
+    cards().forEach(function(card){
+      var st=cardState(card);
+      card.classList.toggle('marked-interested',st==='interested');
+      card.classList.toggle('marked-done',st==='done');
+      Array.prototype.forEach.call(card.querySelectorAll('.state-btn'),function(btn){
+        var mine=btn.getAttribute('data-state')===st;
+        btn.classList.toggle('on',mine);
+        btn.textContent=mine?'Bỏ đánh dấu':(btn.getAttribute('data-state')==='interested'?'Quan tâm':'Đã làm');
+      });
+    });
+  }
+  function updateCounts(){
+    var all=cards().length, nI=0, nD=0;
+    cards().forEach(function(card){var s=cardState(card); if(s==='interested')nI++; else if(s==='done')nD++;});
+    document.getElementById('count-all').textContent='('+all+')';
+    document.getElementById('count-interested').textContent='('+nI+')';
+    document.getElementById('count-done').textContent='('+nD+')';
+  }
+  function buildChips(containerId, attr, onSelect){
+    var container=document.getElementById(containerId);
+    var seen={}; var values=[];
+    cards().forEach(function(card){var v=card.getAttribute(attr); if(v&&!seen[v]){seen[v]=1;values.push(v);}});
+    function addChip(label,value){
+      var b=document.createElement('button'); b.type='button'; b.className='filter-chip'+(value===''?' active':''); b.textContent=label; b.setAttribute('data-value',value);
+      b.addEventListener('click',function(){Array.prototype.forEach.call(container.querySelectorAll('.filter-chip'),function(x){x.classList.remove('active');}); b.classList.add('active'); onSelect(value); apply();});
+      container.appendChild(b);
+    }
+    addChip('Tất cả',''); values.forEach(function(v){addChip(v,v);});
+  }
+  buildChips('tep-chips','data-tep',function(v){selectedTep=v;});
+  buildChips('luot-chips','data-luot',function(v){selectedLuot=v;});
+  function apply(){
+    var q=document.getElementById('q').value.trim().toLowerCase();
+    var sort=document.getElementById('f-sort').value;
+    var list=cards();
+    list.sort(function(a,b){
+      if(sort==='diem-desc') return parseFloat(b.getAttribute('data-diem'))-parseFloat(a.getAttribute('data-diem'));
+      if(sort==='diem-asc') return parseFloat(a.getAttribute('data-diem'))-parseFloat(b.getAttribute('data-diem'));
+      return parseInt(a.getAttribute('data-stt'),10)-parseInt(b.getAttribute('data-stt'),10);
+    });
+    list.forEach(function(card){grid.appendChild(card);});
+    var n=0;
+    cards().forEach(function(card){
+      var okT=!selectedTep||card.getAttribute('data-tep')===selectedTep;
+      var okL=!selectedLuot||card.getAttribute('data-luot')===selectedLuot;
+      var okQ=!q||card.textContent.toLowerCase().indexOf(q)>-1;
+      var okS=activeTab==='all'||cardState(card)===activeTab;
+      var ok=okT&&okL&&okQ&&okS;
+      card.style.display=ok?'':'none';
+      if(ok) n++;
+    });
+    document.getElementById('visible-count').textContent='Đang hiển thị '+n+' / '+cards().length+' ý tưởng';
+    document.getElementById('empty-state').style.display=n?'none':'block';
+  }
+  grid.addEventListener('click',function(ev){
+    var t=ev.target;
+    var btn=(t&&t.closest)?t.closest('.state-btn'):null;
+    if(!btn||!grid.contains(btn)) return;
+    var card=btn.closest('.idea-card'); if(!card) return;
+    var stt=card.getAttribute('data-stt');
+    var want=btn.getAttribute('data-state');
+    if(state[stt]===want){delete state[stt];} else {state[stt]=want;}
+    saveState(); renderButtons(); updateCounts(); apply();
+  });
+  Array.prototype.forEach.call(document.querySelectorAll('.state-tab'),function(tab){
+    tab.addEventListener('click',function(){
+      Array.prototype.forEach.call(document.querySelectorAll('.state-tab'),function(x){x.classList.remove('active');});
+      tab.classList.add('active');
+      activeTab=tab.getAttribute('data-tab');
+      apply();
+    });
+  });
+  document.getElementById('q').addEventListener('input',apply);
+  document.getElementById('f-sort').addEventListener('change',apply);
+  renderButtons(); updateCounts(); apply();
+})();
+</script>
+</body>
+</html>
