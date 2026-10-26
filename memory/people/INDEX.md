@@ -10,7 +10,6 @@ Every page under `~/memory/people/`, closest to the user first. Rendered by the 
 - **Anne-Laure Le Cunff** — `~/memory/people/anne-laure-le-cunff.md` — Creator the user studies as a standing writing model — one finding plus one tiny experiment — for their Substack.
 - **Ethan Mollick** — `~/memory/people/ethan-mollick.md` — Creator the user studies as a standing writing model — test for real, then conclude — for their Substack.
 - **Austin Kleon** — `~/memory/people/austin-kleon.md` — Creator the user studies as a standing writing model — show your work — for their Substack.
-- **Tâm Lý Học Thành Công ("tamlyhocthanhcong")** — `~/memory/people/tam-ly-hoc-thanh-cong.md` — TikTok channel (@tamlyhocthanhcong) the user studied as the format model for their planned book-affiliate pictogram video channel.
 - **Mark Manson** — `~/memory/people/mark-manson.md` — Newsletter author (Your Next Breakthrough) on the user's fixed Substack scan list; a deliberately followed study source for the productivity/self-development pillar of iamHTV.
 - **Shane Parrish** — `~/memory/people/shane-parrish.md` — Author of Farnam Street's Brain Food on the user's fixed Substack scan list; the mental-models source the user studies for the productivity pillar of iamHTV.
 - **Maria Popova** — `~/memory/people/maria-popova.md` — Author of The Marginalian on the user's fixed Substack scan list; the writing-craft source the user studies for the Luyện viết pillar of iamHTV.
