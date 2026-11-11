@@ -7,3 +7,5 @@ Quy tắc: chỉ lưu file đã chốt/bảo lưu; file nháp ở lại workspac
 - `blog-template/` — Blog template v9 (HTML + ảnh)
 - `blog-image-prompts/` — Prompt tạo ảnh kiểu blog template
 - `pinterest-strategy/` — Chiến lược Pinterest 12 tháng (11/2026–10/2027)
+
+- `track5-directory-glossary/` — Track 5 Directory & Glossary (960 idea cards, clusters a–j)
