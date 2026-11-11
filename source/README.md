@@ -1,0 +1,3 @@
+# Source
+Folder lưu mọi file John bảo lưu: file HTML, markdown, tài liệu...
+Quy tắc: chỉ lưu file đã chốt/bảo lưu; file nháp ở lại workspace/chat, không đưa vào đây.
