@@ -1,0 +1,387 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
+<meta name="color-scheme" content="light"/>
+<link rel="icon" href="data:,"/>
+<title>Phố vàng, đèn cam và một chiếc xe đạp cũ</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Itim&family=Meow+Script&family=Ms+Madi&family=Qwigley&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#523414;
+  --ink-soft:#6b4423;
+  --muted:#8a6238;
+  --orange:#bf660f;
+  --orange-soft:#d9822b;
+  --orange-bg:#fdeeda;
+  --orange-border:#efcf9e;
+  --paper:#fffefa;
+  --frame-line:#d3a860;
+  --bg:#fef9ef;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0;
+  color:var(--ink);
+  font-family:"Itim","Segoe UI",system-ui,sans-serif;
+  background:var(--bg);
+  min-height:100vh;
+  -webkit-font-smoothing:antialiased;
+}
+article{
+  max-width:700px;
+  margin:0 auto;
+  padding:48px 22px 72px;
+}
+/* ——— Phân cấp: script rất lớn / meta rất nhỏ / nội dung vừa ——— */
+h1{
+  font-family:"Dancing Script","Ms Madi","Meow Script",cursive;
+  font-weight:600;
+  font-size:clamp(40px,7vw,56px);
+  line-height:1.25;
+  text-align:center;
+  margin:0 0 8px;
+  color:var(--orange);
+  letter-spacing:.01em;
+  display:-webkit-box;
+  -webkit-line-clamp:2;
+  line-clamp:2;
+  -webkit-box-orient:vertical;
+  overflow:hidden;
+}
+.subtitle{
+  font-family:"Itim","Segoe UI",system-ui,sans-serif;
+  font-weight:400;
+  text-align:center;
+  font-size:14px;
+  line-height:1.4;
+  letter-spacing:.02em;
+  text-transform:none;
+  color:#9a5408;
+  background:var(--orange-bg);
+  border:1px solid var(--orange-border);
+  border-radius:999px;
+  padding:6px 16px;
+  width:fit-content;
+  max-width:100%;
+  margin:0 auto 16px;
+}
+.meta{
+  text-align:center;
+  font-family:"Itim",sans-serif;
+  font-size:13.5px;
+  letter-spacing:.06em;
+  color:var(--muted);
+  background:transparent;
+  border:none;
+  padding:2px 0;
+  width:fit-content;
+  max-width:100%;
+  margin:0 auto 34px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  gap:8px;
+  flex-wrap:wrap;
+}
+.meta svg{width:14px; height:14px; stroke:var(--orange-soft); fill:none; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; vertical-align:-2px}
+.meta .dot{color:var(--orange-soft); padding:0 2px}
+.lead{
+  font-size:18px;
+  line-height:1.75;
+  color:var(--ink-soft);
+  text-align:center;
+  max-width:54ch;
+  margin:0 auto 38px;
+}
+/* ——— Ảnh: khung vẽ tay thật nhạt, ảnh phai mạnh cùng tông nền ——— */
+figure.frame{
+  position:relative;
+  margin:0 0 44px;
+  background:var(--paper);
+  border:1.5px solid var(--frame-line);
+  border-radius:14px 3px 16px 4px / 4px 16px 3px 14px;
+  padding:14px 14px 14px;
+  box-shadow:2px 3px 0 rgba(191,102,15,.22);
+  transform:rotate(-.8deg);
+}
+figure.frame::before{
+  content:"";
+  position:absolute;
+  top:-12px; left:50%;
+  width:110px; height:25px;
+  transform:translateX(-50%) rotate(-2.5deg);
+  background:rgba(240,180,100,.6);
+  border-left:2px dashed rgba(255,255,255,.6);
+  border-right:2px dashed rgba(255,255,255,.6);
+}
+figure.frame img{
+  width:100%;
+  aspect-ratio:4/3;
+  object-fit:cover;
+  display:block;
+  border:1px solid rgba(82,52,20,.28);
+  border-radius:5px 12px 6px 10px / 10px 6px 12px 5px;
+  filter:saturate(.6) brightness(1.12) contrast(.94);
+  opacity:1;
+}
+.body p{
+  font-size:18px;
+  line-height:1.85;
+  margin:0 0 22px;
+  color:var(--ink);
+}
+.body p:first-of-type::first-letter{
+  font-family:"Dancing Script","Ms Madi","Meow Script",cursive;
+  font-size:46px;
+  font-weight:700;
+  color:var(--orange);
+  line-height:.9;
+  padding-right:6px;
+}
+.body h2{
+  font-family:"Dancing Script","Ms Madi","Meow Script",cursive;
+  font-weight:700;
+  font-size:clamp(30px,5.4vw,38px);
+  line-height:1.25;
+  margin:42px 0 12px;
+  color:var(--ink);
+}
+.body h2 svg{
+  width:26px; height:26px;
+  stroke:var(--orange); fill:none;
+  stroke-width:1.8; stroke-linecap:round; stroke-linejoin:round;
+  vertical-align:-3px; margin-right:8px;
+}
+blockquote{
+  margin:32px 0;
+  padding:2px 0 2px 18px;
+  border-left:2px solid var(--orange);
+  font-family:"Itim","Segoe UI",system-ui,sans-serif;
+  font-weight:400;
+  font-style:italic;
+  font-size:16.5px;
+  line-height:1.65;
+  color:var(--ink-soft);
+}
+/* ——— Sơ đồ: KHÔNG khung — chỉ đường đứt nét + icon trôi nổi trên nền ——— */
+.route-card{
+  margin:48px 0 6px;
+  background:transparent;
+  border:none;
+  box-shadow:none;
+  padding:6px 2px 0;
+}
+.route-card h3{
+  font-family:"Dancing Script","Ms Madi","Meow Script",cursive;
+  font-weight:700;
+  font-size:clamp(26px,4.8vw,31px);
+  text-align:center;
+  margin:0 0 28px;
+  color:var(--ink);
+}
+.route-card h3 .sun{
+  width:22px; height:22px;
+  stroke:var(--orange); fill:none;
+  stroke-width:1.8; stroke-linecap:round;
+  vertical-align:-3px; margin-right:7px;
+}
+.route{
+  position:relative;
+  display:flex;
+  justify-content:space-between;
+  gap:6px;
+}
+.route-line{
+  position:absolute;
+  top:15px; left:9%; width:82%; height:22px;
+  z-index:0;
+}
+.route-line path{
+  stroke:var(--orange-soft);
+  stroke-width:2.5;
+  fill:none;
+  stroke-linecap:round;
+  stroke-dasharray:8 8;
+}
+.stop{
+  position:relative;
+  z-index:1;
+  flex:1 1 0;
+  text-align:center;
+}
+.stop .badge{
+  width:54px; height:54px;
+  margin:0 auto 8px;
+  background:transparent;
+  border:none;
+  display:grid;
+  place-items:center;
+}
+.stop .badge svg{
+  width:30px; height:30px;
+  stroke:var(--ink-soft); fill:none;
+  stroke-width:1.7; stroke-linecap:round; stroke-linejoin:round;
+}
+.stop .place{
+  font-size:15.5px;
+  line-height:1.35;
+  color:var(--ink);
+  margin:0;
+}
+.stop .time{
+  font-family:"Dancing Script","Ms Madi",cursive;
+  font-weight:700;
+  font-size:20px;
+  line-height:1.2;
+  color:var(--orange);
+  margin:3px 0 0;
+}
+.divider{
+  display:block;
+  width:140px;
+  height:10px;
+  margin:44px auto 6px;
+}
+.divider path{stroke:var(--orange-soft); stroke-width:2.5; fill:none; stroke-linecap:round}
+/* ——— Chữ ký script lớn, bay bướm ——— */
+.sign{
+  display:flex;
+  flex-direction:column;
+  align-items:flex-end;
+  text-align:right;
+  margin-top:64px;
+}
+.sign .label{
+  display:block;
+  font-size:13.5px;
+  letter-spacing:.06em;
+  color:#9a5408;
+  background:var(--orange-bg);
+  border:1px solid var(--orange-border);
+  border-radius:999px;
+  padding:4px 12px;
+  margin:0 0 10px;
+}
+.sign .name{
+  display:block;
+  font-family:"Ms Madi","Qwigley","Dancing Script",cursive;
+  font-weight:400;
+  font-size:clamp(54px,8.5vw,68px);
+  line-height:1.2;
+  color:var(--ink-soft);
+  margin:0;
+  padding-right:.35em;
+  transform:rotate(-3.5deg);
+  transform-origin:right center;
+}
+.sign .flourish{
+  display:block;
+  width:200px;
+  height:14px;
+  margin:0 0 0 auto;
+}
+.sign .flourish path{
+  stroke:var(--ink-soft);
+  stroke-width:2.2;
+  fill:none;
+  stroke-linecap:round;
+  opacity:.6;
+}
+@media(max-width:560px){
+  article{padding:34px 18px 56px}
+  .body p{font-size:17.5px}
+  figure.frame{padding:11px 11px 11px}
+  .route-card{padding:4px 0 0}
+  .stop .badge{width:46px; height:46px}
+  .stop .badge svg{width:26px; height:26px}
+  .stop .place{font-size:13.5px}
+  .stop .time{font-size:17px}
+  .route-line{top:12px}
+}
+@media (prefers-reduced-motion: reduce){ html{scroll-behavior:auto} }
+</style>
+</head>
+<body>
+
+<article>
+  <h1>Phố vàng, đèn cam và một chiếc xe đạp cũ</h1>
+
+  <p class="subtitle">Du ký · buổi sáng ở phố cổ</p>
+
+  <p class="meta">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4"/></svg>
+    8 THÁNG 11, 2026
+    <span class="dot">·</span>
+    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg>
+    5 PHÚT ĐỌC
+  </p>
+
+  <p class="lead">Sáng đó mình dậy sớm hơn thường lệ, xỏ đôi giày vải và đi bộ vào khu phố cũ khi đèn lồng còn chưa tắt — và con phố đã giữ chân mình lại lâu hơn dự định rất nhiều.</p>
+
+  <figure class="frame">
+    <img src="assets/travel.webp" alt="">
+  </figure>
+
+  <div class="body">
+    <p>Sáng đó mình dậy sớm hơn thường lệ, xỏ đôi giày vải và đi bộ vào khu phố cũ khi đèn lồng còn chưa tắt. Tường nhà vàng như màu nắng để lâu ngày, và cả con phố im ắng đến mức nghe rõ tiếng chổi của cô lao công ở đầu ngõ.</p>
+
+    <p>Đèn lồng treo thành từng dây dài, quả cam, quả đỏ, đung đưa rất khẽ. Buổi tối chắc chúng rực rỡ lắm, nhưng mình lại thích chúng vào lúc này hơn: khi ánh sáng đã nhạt đi, chỉ còn lại màu cam ấm nằm yên trên nền tường vàng, như một vệt màu nước chưa kịp khô.</p>
+
+    <h2><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="5.5" cy="16.5" r="3.6"/><circle cx="18.5" cy="16.5" r="3.6"/><path d="M5.5 16.5 9.8 9h5.4M9.8 9 13 16.5h5.5M15.2 9l3.3 7.5M13.4 6.2h2.4l1 2.8"/></svg>Chiếc xe đạp ở góc đường</h2>
+
+    <p>Một chiếc xe đạp cũ dựng ở góc đường, giỏ xe cắm mấy bông hoa nhỏ. Mình đứng nhìn nó lâu đến mức cô bán cà phê ở cửa sổ bên cạnh phải hỏi: “Cháu tìm nhà ai à?” — “Dạ không, cháu tìm… một góc để nhớ.”</p>
+
+    <blockquote>Có những buổi sáng không có gì đặc biệt xảy ra cả, vậy mà nhớ mãi — chỉ vì nắng đẹp và lòng mình vừa đủ chậm.</blockquote>
+
+    <p>Đi hết con phố, mình ghé vào quán nhỏ ở cuối đường, gọi một ly cà phê và ngồi nhìn người ta mở cửa hàng: kéo cánh cửa gỗ, quét bậc thềm, treo lại dây đèn. Phố cổ thức dậy chậm rãi như thế, không vội vàng, không ồn ào.</p>
+
+    <p>Về đến nhà, mình vẫn còn nghe tiếng buổi sáng hôm đó trong đầu. Có lẽ vậy là đủ cho một ngày rồi: một con phố vàng, vài quả đèn cam, và một chiếc xe đạp cũ đứng đợi nắng lên.</p>
+  </div>
+
+  <section class="route-card" aria-label="Sơ đồ buổi sáng hôm đó">
+    <h3><svg class="sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.8v2.6M12 18.6v2.6M2.8 12h2.6M18.6 12h2.6M5.2 5.2l1.8 1.8M17 17l1.8 1.8M18.8 5.2 17 7M7 17l-1.8 1.8"/></svg>Sơ đồ buổi sáng hôm đó</h3>
+    <div class="route">
+      <svg class="route-line" viewBox="0 0 600 22" preserveAspectRatio="none" aria-hidden="true"><path d="M2 11 C 100 3, 200 19, 300 10 S 500 4, 598 11"/></svg>
+
+      <div class="stop">
+        <div class="badge"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 11.5 12 4l8 7.5"/><path d="M6.5 10v9h11v-9"/><path d="M10.2 19v-4.6h3.6V19"/></svg></div>
+        <p class="place">Ra khỏi nhà</p>
+        <p class="time">6:45</p>
+      </div>
+
+      <div class="stop">
+        <div class="badge"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.8v2.4"/><path d="M8.6 5.2h6.8"/><ellipse cx="12" cy="13.4" rx="5.6" ry="7"/><path d="M6.9 10.2h10.2M6.9 16.6h10.2M12 20.4v1.6"/></svg></div>
+        <p class="place">Phố đèn lồng</p>
+        <p class="time">7:00</p>
+      </div>
+
+      <div class="stop">
+        <div class="badge"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="5.5" cy="16.5" r="3.6"/><circle cx="18.5" cy="16.5" r="3.6"/><path d="M5.5 16.5 9.8 9h5.4M9.8 9 13 16.5h5.5M15.2 9l3.3 7.5M13.4 6.2h2.4l1 2.8"/></svg></div>
+        <p class="place">Góc xe đạp cũ</p>
+        <p class="time">7:20</p>
+      </div>
+
+      <div class="stop">
+        <div class="badge"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4.5 10h13v5.2a5 5 0 0 1 -5 5h-3a5 5 0 0 1 -5-5z"/><path d="M17.5 11.2h1.2a2.9 2.9 0 0 1 0 5.8h-1.4"/><path d="M8 3.4c-.9 1.2.9 1.8 0 3M12.4 3.4c-.9 1.2.9 1.8 0 3"/></svg></div>
+        <p class="place">Quán cà phê cuối phố</p>
+        <p class="time">7:40</p>
+      </div>
+    </div>
+  </section>
+
+  <svg class="divider" viewBox="0 0 150 10" preserveAspectRatio="none" aria-hidden="true"><path d="M2 5 Q 12 0, 24 5 T 48 5 T 72 5 T 96 5 T 120 5 T 148 5"/></svg>
+
+  <div class="sign">
+    <p class="label">người viết</p>
+    <p class="name">Mùa Cam</p>
+    <svg class="flourish" viewBox="0 0 190 14" preserveAspectRatio="none" aria-hidden="true"><path d="M3 9 C 50 3, 95 12, 140 7 S 178 5, 187 8"/></svg>
+  </div>
+</article>
+
+</body>
+</html>
