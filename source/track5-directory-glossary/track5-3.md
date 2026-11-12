@@ -2,7 +2,7 @@
 
 Ngày bắt đầu: 12/11/2026. Làm lại từ 1.000 thẻ Track 5 cũ theo hướng CHẤT LƯỢNG — John chê bản cũ làm cho có: nhiều thẻ chia ngách quá mỏng, nhiều thẻ trùng nhau. Quy tắc: Directory ≥30 mục seed thật (lý tưởng 100+), Glossary ≥50 thuật ngữ thật, có bằng chứng số mục; thẻ mỏng thì GỘP lên ngách cha đủ dày, giữ ngách hẹp làm bộ lọc/mục; SCAMPER/TRIZ chỉ là phương pháp, không phải mục tiêu đẻ số lượng. 4 agent nghiên cứu sâu song song, không deadline, không quota — thẻ nào không đạt chuẩn thì bỏ. Track5-1.html và track5-2.html cũ giữ nguyên, không đụng.
 
-Count: 44 thẻ (Phần 1: 23 + Phần 2: 21) — đang điền dần theo từng phần xong.
+Count: 64 thẻ (Phần 1: 23 + Phần 2: 21 + Phần 3: 20) — đang điền dần theo từng phần xong.
 
 ---
 # Track 5-3 — Phần 1: Công cụ & Nghề nghiệp (cụm A + cụm H)
@@ -595,3 +595,265 @@ Phạm vi: cụm B (Học tập/khóa học/sách), cụm F (Văn hóa/nghệ th
 - B3-D8 (vị trí PhD & học bổng nghiên cứu STEM): thẻ đơn lẻ, dạng tra cứu học bổng — nhóm học bổng đã bị đánh giá yếu trong đợt refilter T3; cần có cụm để gộp, không có trong phạm vi này nên để lại.
 - F3-G13 (glossary visual novel / trò chơi kể chuyện): ngách hẹp, không có thẻ trùng để gộp trong phạm vi này; giữ nguyên trong file cũ.
 - Các directory lịch sử thế giới còn lại trong G4 (trận chiến, đế chế...): chưa đối chiếu nguồn trong đợt này (cần tra Wikipedia List of battles...); không gộp bừa.
+# Track 5-3 — Phần 3: Tiền, sống & nhà (cụm C, D, I)
+
+Count: 20 / ~20 (chất lượng, không quota)
+
+Ngày: 12/11/2026. Nghiên cứu sâu, gộp thẻ cũ mỏng/trùng trong cụm C (Tiền/tài chính/kinh doanh/startup), cụm D (Sức khỏe/Ăn uống/Đời sống), cụm I (Nhà cửa/Gia đình/Con cái/Thú cưng/Hobby) thành ngách cha đủ dày. Mỗi thẻ có gốc nước ngoài đã kiểm chứng bằng browser.search ngày 12/11/2026, số liệu kèm link. Thẻ sức khỏe chỉ định nghĩa + thông tin tham khảo, ghi rõ "thông tin tham khảo, không thay tư vấn bác sĩ/dinh dưỡng". Thẻ tiền không máy tính thuế/phí, không lookup phí cố định. Số nào ghi "chưa kiểm chứng" là chưa xác minh độc lập được, không bịa.
+
+---
+
+### T53-P3-01. Vốn khởi nghiệp Việt — startup nào đã gọi vốn, quỹ nào rót tiền, vòng nào, bao nhiêu — ★5 — Chờ duyệt
+- Loại: Directory
+- Mô tả chi tiết: Tra cứu startup Việt đã gọi vốn: mỗi startup có vòng gọi vốn (pre-seed/seed/Series A+), số tiền, nhà đầu tư tham gia, ngày gọi vốn, ngành, trụ sở; lọc theo vòng, ngành, nhà đầu tư, khoảng tiền, năm. Thêm mục "nhà đầu tư": mỗi quỹ/angel có danh mục startup đã rót, vòng hay tham gia, ticket size thường rót. Seed ban đầu: 100 startup Việt + 40 nhà đầu tư (từ báo chí VN + trang công khai của Crunchbase).
+- Phục vụ ai: Founder Việt chuẩn bị gọi vốn — đau nhất là không biết quỹ nào đã rót vào startup giống mình để gõ cửa đúng chỗ; sinh viên/nhà đầu tư nhỏ muốn theo dõi thị trường VN đang lên/xuống ra sao.
+- Vì sao đủ dày: Crunchbase có 4 triệu+ công ty, 808.000+ vòng gọi vốn, 340.000+ nhà đầu tư (theo hướng dẫn dữ liệu VC của cdp.center 2026; báo cáo OECD độc lập cũng ghi ~4 triệu thực thể, ~300.000 nhà đầu tư, 700.000+ vòng). Chỉ riêng Việt Nam đã có hàng trăm startup gọi vốn có dữ liệu công khai trên báo chí.
+- Gốc: Crunchbase — Link: https://www.crunchbase.com (số liệu: https://www.cdp.center/post/venture-capital-data-sources)
+- Trục đổi: thu hẹp toàn cầu → chỉ startup & nhà đầu tư liên quan Việt Nam + thêm cột "đọc được gì từ vòng này" / SCAMPER: Adapt (thêm ngữ cảnh VN, nguồn báo chí VN) + Eliminate (bỏ công ty không liên quan VN) / TRIZ: phân đoạn theo vòng gọi vốn.
+- Tiền: Listing trả phí cho quỹ/startup muốn nổi bật + bản Pro tra cứu sâu (thẻ cũ ghi 99k/tháng) + ads + affiliate sách/khóa học gọi vốn.
+- Làm: 3 buổi (seed 100 startup + 40 nhà đầu tư từ báo + trang công khai Crunchbase; cập nhật theo tin gọi vốn mới).
+- Rủi ro: Số tiền vòng gọi vốn ở VN nhiều khi không công bố, hoặc báo chí đưa số khác nhau — phải ghi rõ nguồn từng con số; Crunchbase bản miễn phí giới hạn tra cứu sâu, dữ liệu đầy đủ nằm sau paywall.
+- Gộp từ: C-D01, C-D02, C-D08, C-D47
+
+### T53-P3-02. Business thật đã có doanh thu — lọc theo tiền/tháng, vốn ban đầu, thời gian hòa vốn — ★5 — Chờ duyệt
+- Loại: Directory
+- Mô tả chi tiết: Mỗi business có doanh thu/tháng thật, vốn ban đầu, thời gian hòa vốn, mô hình kiếm tiền, ngành, kênh bán; lọc theo doanh thu/tháng, vốn ban đầu, ngành, mô hình (SaaS, content, e-commerce, dịch vụ, newsletter...). Thêm mục "bản Việt": 30 case business Việt tương tự (từ báo/phỏng vấn công khai) để người đọc thấy mô hình đó làm được ở VN không. Seed ban đầu: 150 case (tóm tắt từ Starter Story + 30 case VN).
+- Phục vụ ai: Người muốn bắt đầu business nhỏ nhưng ngán ý tưởng trên trời — họ cần thấy người thật kiếm tiền thật bằng mô hình nào, vốn bao nhiêu, bao lâu hòa vốn, rồi mới chọn.
+- Vì sao đủ dày: Starter Story có 3.581+ dự án có doanh thu thật (đếm tháng 10/2026), 39 database lọc theo ngành, tổng doanh thu $4 tỷ+/tháng (số này do founder tự báo — chưa kiểm chứng độc lập).
+- Gốc: Starter Story — Link: https://www.starterstory.com/data/plugins (số liệu: https://getlaunchlist.com/directories/forums/starterstory)
+- Trục đổi: đổi ngách (case toàn cầu → thêm bản Việt đối chiếu) + đổi cách hiển thị (bài phỏng vấn dài → bảng lọc theo doanh thu/vốn/hòa vốn) / SCAMPER: Adapt (thêm case VN, đổi USD sang VND) + Eliminate (bỏ case vốn triệu đô không hợp người Việt làm nhỏ) / TRIZ: phân đoạn theo mô hình kiếm tiền.
+- Tiền: Affiliate tool/khóa học theo từng mô hình + membership xem case chi tiết + ads.
+- Làm: 2–3 buổi (seed 150 case: tóm tắt từ Starter Story + 30 case VN).
+- Rủi ro: Số doanh thu do founder tự báo, chưa kiểm chứng độc lập — phải ghi rõ nguồn và "chưa kiểm chứng" từng case; bản quyền: chỉ tóm tắt số liệu + viết lại bằng lời mình, không copy nguyên bài phỏng vấn.
+- Gộp từ: C-D03, C-D04, C-D33, C-D35
+
+### T53-P3-03. Tìm người trong giới startup — co-founder, mentor, cộng đồng founder — ★4 — Chờ duyệt
+- Loại: Directory
+- Mô tả chi tiết: Hồ sơ từng người: giỏi gì (kỹ thuật/kinh doanh/thiết kế...), đang tìm ai (co-founder, mentor theo lĩnh vực, cộng đồng founder), startup đang ở giai đoạn nào, gặp được ở đâu (online/offline, thành phố). Lọc theo kỹ năng cần, giai đoạn startup, lĩnh vực, hình thức gặp. Thêm mục cộng đồng founder Việt (seed 30 cộng đồng/group công khai). Seed ban đầu: 100 hồ sơ mẫu.
+- Phục vụ ai: Founder solo đang tìm co-founder bù kỹ năng; founder mới cần mentor hỏi 30 phút theo lĩnh vực; người mới vào giới cần biết cộng đồng nào đáng vào.
+- Vì sao đủ dày: Y Combinator Co-Founder Matching đã tạo 100.000+ lượt kết nối (theo YC, qua trang tổng hợp — chưa kiểm chứng độc lập); số hồ sơ đang hoạt động theo thành phố: San Francisco 3.200, New York 3.000, London 2.900, Bangalore 1.900 (chưa kiểm chứng độc lập).
+- Gốc: Y Combinator Co-Founder Matching — Link: https://www.roundfunded.com/en/blogs/yc-cofounder-matching-guide-2026
+- Trục đổi: đổi ngách (matching toàn cầu → thêm cộng đồng + mentor VN) + đổi cách hiển thị (hồ sơ lẻ → lọc theo kỹ năng cần bù + giai đoạn) / SCAMPER: Combine (tìm co-founder + tìm mentor + tìm cộng đồng trong 1 chỗ) / TRIZ: phân đoạn theo kỹ năng.
+- Tiền: Phí đăng hồ sơ nổi bật + phí tham gia nhóm kết nối có kiểm duyệt + affiliate khóa học/khóa mentor.
+- Làm: 2–3 buổi (seed 100 hồ sơ mẫu từ YC Matching công khai + cộng đồng VN).
+- Rủi ro: Matching cần đủ người dùng mới có giá trị (cold start); hồ sơ VN trên YC Matching ít (chưa kiểm chứng số lượng) — phải ghi rõ; rủi ro spam/lừa đảo nên cần kiểm duyệt hồ sơ trước khi đăng.
+- Gộp từ: C-D10, C-D17, C-D18
+- Khác thẻ cũ: khác B4-G6 (glossary thuật ngữ khởi nghiệp, gốc YC Startup Library) — B4-G6 là tra từ, đây là directory tìm người.
+
+### T53-P3-04. Chợ mua bán tài sản số — website, app, newsletter, template — ★4 — Chờ duyệt
+- Loại: Directory
+- Mô tả chi tiết: Mỗi tài sản đang bán có: loại (website/app/newsletter/template/domain), doanh thu/tháng, lợi nhuận/tháng, tuổi đời, traffic, giá chào, lý do bán; lọc theo loại tài sản, doanh thu, khoảng giá, ngành. Thêm mục tài sản số của người Việt (seed 30). Seed ban đầu: 100 listing mẫu (từ trang công khai của Flippa) + 30 tài sản VN.
+- Phục vụ ai: Người có tiền nhàn rỗi muốn mua business nhỏ có sẵn doanh thu thay vì làm từ 0; chủ business nhỏ muốn bán web/newsletter/template mình đã làm.
+- Vì sao đủ dày: Flippa có 5.000+ listing đang hoạt động trên site; 30.000+ tài sản on/off-market (số do bên bán công bố — chưa kiểm chứng độc lập).
+- Gốc: Flippa — Link: https://flippa.com (số liệu: https://cllimber.com/flippa-a-marketplace-for-buying-and-selling-online-businesses/)
+- Trục đổi: đổi ngách (chợ toàn cầu → thêm tài sản số VN + hướng dẫn mua bán cho người Việt) + đổi cách hiển thị (listing lẻ → lọc theo doanh thu/giá + checklist thẩm định trước khi mua) / SCAMPER: Adapt (thêm tài sản VN, giá VND) + Combine (chợ + checklist thẩm định) / TRIZ: tách ra (chỉ tài sản số nhỏ, bỏ thương vụ lớn).
+- Tiền: Phí đăng bán + phí thành công theo % giá trị giao dịch (theo mô hình Flippa) + listing nổi bật + affiliate dịch vụ thẩm định/mua bán.
+- Làm: 2 buổi (seed 100 listing mẫu + 30 tài sản VN).
+- Rủi ro: Lừa đảo/giả doanh thu là rủi ro lớn nhất — phải có cảnh báo + checklist thẩm định rõ ràng; thị trường VN mua bán tài sản số còn nhỏ, thanh khoản thấp.
+- Gộp từ: C-D38, C-D39, C-D49
+
+### T53-P3-05. Nguồn hàng & xưởng cho shop — sỉ, dropship, in POD — ★4 — Chờ duyệt
+- Loại: Directory
+- Mô tả chi tiết: Mỗi nhà cung cấp có: loại (bán sỉ/dropship/xưởng in POD), mặt hàng, đơn tối thiểu (MOQ), giao đến Việt Nam được không, thời gian giao, đánh giá; lọc theo mặt hàng, loại hình, có giao VN không, MOQ. Thêm mục xưởng in POD Việt + nguồn sỉ Việt (seed 50 xưởng/nguồn VN từ chợ + group công khai). Seed ban đầu: 100 nhà cung cấp (từ SaleHoo công khai + 50 nguồn VN).
+- Phục vụ ai: Chủ shop nhỏ/mới bán online đang đau đầu tìm nguồn hàng tin được — sợ đặt cọc xong mất tiền, sợ hàng về chậm, không biết xưởng in POD nào làm được ở VN.
+- Vì sao đủ dày: SaleHoo có 8.000+ nhà cung cấp đã kiểm tra lý lịch, 2,5 triệu sản phẩm; ~70% nhà cung cấp không yêu cầu đơn tối thiểu hay phí setup (theo đánh giá 2026).
+- Gốc: SaleHoo — Link: https://ecommerceparadise.com/salehoo-review-2026-is-it-worth-it-for-dropshipping-and-wholesale-supplier-sourcing/ (tổng hợp: https://www.sourcelow.com/best-dropshipping-directories/)
+- Trục đổi: đổi ngách (nhà cung cấp toàn cầu → thêm xưởng/nguồn VN, lọc "giao được về VN") + đổi cách hiển thị (danh sách nhà cung cấp → lọc theo MOQ + giao VN) / SCAMPER: Adapt (thêm nguồn VN) + Eliminate (bỏ nhà cung cấp không giao quốc tế) / TRIZ: phân đoạn theo loại hình cung cấp.
+- Tiền: Membership tra cứu sâu + phí đăng nổi bật cho nhà cung cấp + affiliate sàn thương mại điện tử.
+- Làm: 2–3 buổi (seed 100 nhà cung cấp + 50 nguồn VN).
+- Rủi ro: Nhà cung cấp nước ngoài giao về VN chậm/đắt; rủi ro lừa đảo đặt cọc — cần cảnh báo rõ; dữ liệu đầy đủ của SaleHoo là dịch vụ trả phí ($9/tháng) nên chỉ dùng được phần công khai.
+- Gộp từ: C-D24, C-D25
+
+### T53-P3-06. Việc remote lương USD cho người Việt — công ty nào tuyển, làm gì, múi giờ nào — ★4 — Chờ duyệt
+- Loại: Directory
+- Mô tả chi tiết: Mỗi việc có: công ty, vị trí, lương (USD), yêu cầu, múi giờ làm việc, có tuyển người ở Việt Nam không; lọc theo nghề, mức lương, múi giờ hợp với VN, loại hình (full-time/contract). Thêm mục công ty remote-first có tuyển người Việt (seed 50 công ty). Seed ban đầu: 100 việc đang tuyển (từ trang công khai Remote OK) + 50 công ty tuyển VN.
+- Phục vụ ai: Người Việt muốn làm remote lương USD nhưng mệt vì nộp đơn vào việc ghi "remote" rồi mới biết chỉ tuyển US/EU; cần biết ngay việc nào tuyển được người ở VN và làm múi giờ nào.
+- Vì sao đủ dày: Remote OK có 100.000+ việc remote đã đăng (theo Relomote đọc từ site Remote OK ngày 21/10/2026 — chưa kiểm chứng độc lập).
+- Gốc: Remote OK — Link: https://relomote.com/blog/best-remote-job-boards
+- Trục đổi: đổi ngách (việc remote toàn cầu → lọc "tuyển được người VN + múi giờ hợp VN") + đổi cách hiển thị (list việc → lọc theo lương/múi giờ/nghề) / SCAMPER: Adapt (thêm bộ lọc tuyển VN) + Eliminate (bỏ việc chỉ tuyển US/EU) / TRIZ: phân đoạn theo múi giờ.
+- Tiền: Phí đăng tuyển cho công ty + affiliate khóa học/kỹ năng + ads.
+- Làm: 2 buổi (seed 100 việc đang tuyển + 50 công ty tuyển VN).
+- Rủi ro: Tin tuyển dụng hết hạn nhanh, cần cập nhật liên tục; nhiều việc ghi "remote" nhưng chỉ tuyển US/EU — phải lọc kỹ "tuyển VN được"; cạnh tranh trực tiếp với LinkedIn/Indeed.
+- Gộp từ: C-D30, C-D31
+
+### T53-P3-07. Từ điển thuật ngữ tiền & khởi nghiệp A–Z — đọc báo tài chính không cần tra Google từng từ — ★5 — Chờ duyệt
+- Loại: Glossary
+- Mô tả chi tiết: Mỗi thuật ngữ có: định nghĩa 2 dòng bằng tiếng Việt dễ hiểu + ví dụ bằng tiền VND/tình huống Việt Nam + phân biệt với thuật ngữ gần giống. Tra cứu theo tên + lọc theo 12 nhóm: gọi vốn, SaaS, FIRE/tự do tài chính, chứng khoán, DeFi, marketing tăng trưởng, định giá, M&A, kế toán shop, bất động sản, ngân hàng số, bảo hiểm, vay & tín dụng, tiết kiệm & lãi kép, kinh doanh online, thương hiệu, lương & cổ phần, quản trị, phân tích tài chính, thị trường vốn, ngoại hối, ESG, AI trong kinh doanh, pháp lý startup, crowdfunding, nhượng quyền, thương mại điện tử, logistics, quảng cáo, B2B, sản phẩm, UX checkout, tâm lý tiền bạc, đầu tư giá trị, đầu tư thụ động, hưu trí, kinh tế vĩ mô, lean startup, định giá doanh nghiệp, thuê người, bán lẻ, F&B, dịch vụ, nợ, exit, CBDC, rủi ro, tiền của creator. Seed ban đầu: 200 thuật ngữ (4–5 thuật ngữ × mỗi nhóm). Không tính thuế/phí, không tư vấn mua — chỉ giải nghĩa.
+- Phục vụ ai: Founder/chủ shop/người đi làm đọc báo tài chính, hợp đồng, báo cáo mà gặp từ lạ (SAFE, dilution, MRR, churn, cap rate...) — cần hiểu ngay trong 30 giây bằng ví dụ Việt Nam, không cần đọc bài dài.
+- Vì sao đủ dày: Investopedia Financial Dictionary có 13.000+ thuật ngữ tài chính & đầu tư (theo Emory University và nhiều nguồn; tổng biên tập Investopedia nói 15.000–20.000 thuật ngữ). 49 thẻ glossary cũ trong cụm C gộp lại thành 1 từ điển cha này.
+- Gốc: Investopedia — Financial Term Dictionary — Link: https://www.investopedia.com/financial-term-dictionary-4769738 (giới thiệu: https://cpd.emory.edu/resources/investopedia/)
+- Trục đổi: đổi ngách (độc giả tài chính Mỹ → người Việt đọc báo/hợp đồng) + đổi cách hiển thị (từ điển chữ → tra theo nhóm + ví dụ VND + phân biệt cặp dễ nhầm) / SCAMPER: Adapt (ví dụ Mỹ → tình huống VN) + Combine (49 glossary lẻ → 1 từ điển cha có bộ lọc) / TRIZ: phân đoạn theo nhóm công việc.
+- Tiền: Ads + affiliate sách/khóa tài chính + gói PDF "100 thuật ngữ phải biết" 29–49k.
+- Làm: 3–4 buổi (seed 200 thuật ngữ).
+- Rủi ro: Dịch thuật ngữ tài chính sang tiếng Việt dễ sai nghĩa chuyên môn — phải đối chiếu nguồn từng mục; nhiều thuật ngữ Mỹ (401k, IRA) không có tương đương ở VN — phải ghi rõ "không áp dụng ở VN, chỉ để đọc hiểu".
+- Gộp từ: C-G01, C-G02, C-G03, C-G04, C-G05, C-G06, C-G07, C-G08, C-G09, C-G11, C-G12, C-G13, C-G14, C-G15, C-G16, C-G17, C-G18, C-G19, C-G20, C-G21, C-G22, C-G23, C-G24, C-G25, C-G26, C-G27, C-G28, C-G29, C-G30, C-G31, C-G32, C-G33, C-G34, C-G35, C-G36, C-G37, C-G38, C-G39, C-G41, C-G42, C-G43, C-G44, C-G45, C-G46, C-G47, C-G48, C-G49, C-G50 (49 thẻ; KHÔNG gồm C-G10 thuật ngữ tờ khai thuế — giữ nguyên chờ John duyệt riêng như thẻ gốc)
+- Khác thẻ cũ: khác H3-16 (kế toán shop), H3-17 (ngân hàng), H3-18 (bảo hiểm), B4-G6 (thuật ngữ khởi nghiệp) — các thẻ đó là lát cắt hẹp 1 ngách; đây là từ điển cha, mỗi ngách hẹp chỉ là 1 bộ lọc trong này.
+
+---
+
+### T53-P3-08. Affiliate program cho người Việt — 30.000+ brand, lọc theo ngành & cách trả — ★4 — Chờ duyệt
+- Loại: Directory
+- Mô tả chi tiết: Mỗi chương trình affiliate có: brand, ngành, hoa hồng %, cookie bao nhiêu ngày, cách trả (theo đơn/theo lead), có chấp nhận publisher Việt Nam không, trả tiền về VN bằng cách nào; lọc theo ngành, mức hoa hồng, thời gian cookie, chấp nhận publisher VN. Seed ban đầu: 100 chương trình (từ directory công khai của Awin + chương trình phổ biến với người Việt).
+- Phục vụ ai: Người làm affiliate/content creator ở Việt Nam muốn tìm brand trả hoa hồng cao mà không mất cả buổi lục từng website — đau nhất là đăng ký xong mới biết brand không chấp nhận publisher VN hoặc không trả về VN được.
+- Vì sao đủ dày: Awin có 30.000+ nhà quảng cáo/brand và 1 triệu+ publisher (theo trang chủ Awin); ShareASale đã sáp nhập vào Awin tháng 8/2025 (9.500+ advertiser, 250.000 publisher chuyển sang — theo mthink/Blue Book).
+- Gốc: Awin — Link: https://www.awin.com/gb/getting-started (tổng hợp: https://mthink.com/network/awin-us-group/)
+- Trục đổi: đổi ngách (directory brand toàn cầu → lọc "chấp nhận publisher VN + trả được về VN") + đổi cách hiển thị (danh sách brand → lọc theo ngành/hoa hồng/cookie) / SCAMPER: Adapt (thêm bộ lọc VN) + Eliminate (bỏ brand không làm việc với VN) / TRIZ: phân đoạn theo ngành.
+- Tiền: Affiliate chính nó (đăng ký Awin qua link giới thiệu) + phí listing nổi bật cho brand + ads.
+- Làm: 2 buổi (seed 100 chương trình).
+- Rủi ro: Awin yêu cầu phí đăng ký publisher (mức $5 được nhắc trong nhiều bài đánh giá — chưa kiểm chứng mức phí hiện tại, cần kiểm tra lại lúc làm); nhiều brand không ship về VN/không chấp nhận traffic VN; hoa hồng thay đổi theo từng brand, cần ghi rõ "kiểm tra lại lúc đăng ký".
+- Gộp từ: C-D27 (nâng cấp thành directory — thẻ cũ chỉ là list chương trình lẻ, chưa có gốc dày)
+
+### T53-P3-09. Dinh dưỡng theo chất — tra món Việt theo sắt, canxi, kẽm, macro — ★5 — Chờ duyệt
+- Loại: Directory
+- Mô tả chi tiết: Mỗi món có: tên (Việt + Anh), hàm lượng sắt/canxi/kẽm/đạm/carb/béo trên 100g, lọc theo chất cần bổ sung, nguồn động vật/thực vật, mục tiêu (tăng cơ/giảm cân/ăn chay/thiếu chất). Người dùng chọn chất đang thiếu → ra món giàu chất đó, xếp theo mg/100g. Seed ban đầu: 200 món Việt + món phổ biến (tra từ USDA Foundation/SR Legacy + bảng thành phần thực phẩm Việt Nam). Ghi rõ trên mọi trang: "thông tin tham khảo, không thay tư vấn bác sĩ/dinh dưỡng" — chỉ số dinh dưỡng, không chẩn đoán, không kê đơn.
+- Phục vụ ai: Người ăn chay/thiếu chất, mẹ nấu ăn dặm cho con, người tập gym tự nấu — họ cần biết món nào giàu sắt/canxi/kẽm mà không phải đọc bảng dinh dưỡng khô khan.
+- Vì sao đủ dày: USDA FoodData Central có ~470.000 món (giữa 2026): 394 Foundation + 7.793 SR Legacy + 5.432 Survey + ~455.982 Branded + 115 Experimental (theo phân tích bản 15.2 ngày 25/06/2026); dữ liệu chính phủ Mỹ, public domain.
+- Gốc: USDA FoodData Central — Link: https://www.mealary.com/blog/usda-fooddata-central-update-2026
+- Trục đổi: đổi ngách (database dinh dưỡng Mỹ → món Việt + chất người Việt hay thiếu) + đổi cách hiển thị (tra theo tên món → tra theo chất cần bổ sung) / SCAMPER: Adapt (thêm món Việt, bảng thành phần VN) + Eliminate (bỏ 455.000 món đóng gói Mỹ không bán ở VN) / TRIZ: phân đoạn theo từng chất dinh dưỡng.
+- Tiền: Ads + affiliate thực phẩm/nguyên liệu (Shopee) + gói thực đơn theo chất 49k.
+- Làm: 3 buổi (seed 200 món).
+- Rủi ro: Món Việt trong USDA rất ít — phải tự tra bảng thành phần Việt Nam (Viện Dinh dưỡng) để bổ sung, tốn công; số liệu theo 100g dễ bị hiểu sai thành "ăn bao nhiêu thì đủ" — cần ghi rõ không phải khuyến nghị y tế.
+- Gộp từ: D18, D19, D20, D28
+
+### T53-P3-10. Tập luyện tại nhà & văn phòng — 2.800+ bài, không cần dụng cụ — ★4 — Chờ duyệt
+- Loại: Directory
+- Mô tả chi tiết: Mỗi bài tập có: nhóm cơ (bấm vào hình người), có/không dụng cụ, thời gian, độ khó, mục tiêu (văn phòng 5 phút, giãn cổ vai gáy, toàn thân, tăng cơ); lọc theo nhóm cơ, thời gian, không gian (bàn làm việc/phòng khách), dụng cụ có sẵn (ghế, chai nước, không có gì). Thêm chương trình 30–90 ngày theo mục tiêu. Seed ban đầu: 150 bài (chọn từ Darebee + bài cho dân văn phòng Việt Nam). Ghi rõ: "thông tin tham khảo, không thay tư vấn bác sĩ; người có chấn thương cần hỏi chuyên gia trước khi tập".
+- Phục vụ ai: Dân văn phòng đau cổ vai gáy muốn giãn 5 phút tại bàn; người muốn tập ở nhà không có dụng cụ, không muốn ra phòng gym.
+- Vì sao đủ dày: Darebee có 2.809 bài tập trong database (đếm ngày 01/10/2026), 95+ chương trình 30–90 ngày; miễn phí, không cần tài khoản, không quảng cáo (theo hacksvitae.com).
+- Gốc: Darebee — Link: https://www.hacksvitae.com/life-hack/darebee-how-to-use-the-free-home-workout-library-and-what-the-research-says
+- Trục đổi: đổi ngách (thư viện tập toàn cầu → thêm bài cho dân văn phòng VN + lọc theo không gian nhỏ) + đổi cách hiển thị (list bài → bấm hình người chọn nhóm cơ) / SCAMPER: Adapt (thêm bài văn phòng 5 phút) + Combine (bài lẻ + chương trình 30–90 ngày) / TRIZ: phân đoạn theo nhóm cơ.
+- Tiền: Ads + affiliate dụng cụ tập (thảm, dây kháng lực) + gói chương trình in sẵn.
+- Làm: 2–3 buổi (seed 150 bài).
+- Rủi ro: Darebee là phi lợi nhuận, nội dung miễn phí — cạnh tranh bằng "chọn sẵn theo người Việt" chứ không bằng nội dung gốc; hình minh họa phải tự làm lại, không lấy ảnh Darebee.
+- Gộp từ: D48, D49, D50, D53
+
+### T53-P3-11. Thay thế trong bếp & nước chấm — thiếu gì thay nấy — ★4 — Chờ duyệt
+- Loại: Directory
+- Mô tả chi tiết: Tra nguyên liệu đang thiếu → ra nguyên liệu thay thế + tỉ lệ + lưu ý (món nào thay được, món nào không nên thay). Mục nước chấm Việt: món này chấm gì/nêm gì, phân biệt mắm nêm/mắm tôm/mắm ruốc; lọc theo món, theo dị ứng, theo nguyên liệu có sẵn ở Việt Nam. Seed ban đầu: 300 cặp thay thế (từ FoodSubs + thay thế kiểu Việt: nước mắm ↔ xì dầu, đường thốt nốt ↔ đường cát, lá chanh ↔ vỏ chanh...).
+- Phục vụ ai: Người đang nấu dở thì thiếu nguyên liệu — cần biết thay bằng gì trong 10 giây, không phải chạy đi mua hay bỏ món.
+- Vì sao đủ dày: The Cook's Thesaurus (FoodSubs) có 2.300 cặp thay thế (1.161 nguyên liệu, 928 nguyên liệu có thể thay), theo bài báo khoa học FoodKG dùng làm ground-truth; trang web liệt kê theo nhóm: gia vị 733, trái cây 520, rau 469, chất lỏng 443, thịt 352, ngũ cốc 356...
+- Gốc: The Cook's Thesaurus (FoodSubs) — Link: https://www.academia.edu/67634354/Semantics_Driven_Ingredient_Substitution_in_the_FoodKG (trang gốc: https://foodsubs.com/groups/grain-products?page.number=2&page.size=50&i=true)
+- Trục đổi: đổi ngách (thay thế kiểu Mỹ → thêm thay thế món Việt + mục nước chấm Việt) + đổi cách hiển thị (tra theo nhóm nguyên liệu → tra theo "món đang nấu thiếu gì") / SCAMPER: Adapt (thêm nguyên liệu VN) + Combine (thay thế + nước chấm) / TRIZ: phân đoạn theo nhóm nguyên liệu.
+- Tiền: Ads + affiliate nguyên liệu thay thế + gói "sổ tay thay thế trong bếp" 29k.
+- Làm: 2 buổi (seed 300 cặp).
+- Rủi ro: Tỉ lệ thay thế của FoodSubs theo khẩu vị Mỹ — cần điều chỉnh cho món Việt; thay sai có thể hỏng món — ghi rõ "thử với lượng nhỏ trước".
+- Gộp từ: D73, D74
+
+### T53-P3-12. Tra cứu chất & thực phẩm bổ sung theo bằng chứng — chất nào có nghiên cứu, chất nào chỉ là quảng cáo — ★4 — Chờ duyệt
+- Loại: Directory
+- Mô tả chi tiết: Mỗi chất có: tên, mức bằng chứng mạnh/yếu theo từng mục đích (ngủ, tập, tiêu hóa...), chấm điểm A–F theo kết quả nghiên cứu, liều dùng trong nghiên cứu, khác gì với chất gần giống (probiotic vs prebiotic, EPA vs DHA vs ALA, xơ hòa tan vs không hòa tan...). 12 glossary dinh dưỡng cũ (D29–D40) gộp luôn thành mục "giải nghĩa" trong mỗi chất. Lọc theo mục đích, theo mức bằng chứng. Ghi rõ trên mọi trang: "thông tin tham khảo, không thay tư vấn bác sĩ/dinh dưỡng; không chẩn đoán, không kê đơn".
+- Phục vụ ai: Người đang uống/định mua thực phẩm bổ sung nhưng không biết chất nào thật sự có nghiên cứu, chất nào chỉ là quảng cáo — cần 1 chỗ tra cứu trung lập trước khi xuống tiền.
+- Vì sao đủ dày: Examine.com có 950+ chất bổ sung đã phân tích, 1.000+ kết quả sức khỏe, 100.000+ nghiên cứu đã đọc (theo trang Examine+).
+- Gốc: Examine.com — Link: https://examine.com/plus/
+- Trục đổi: đổi ngách (database bằng chứng cho người đọc nghiên cứu → tra cứu nhanh cho người mua bổ sung ở VN) + đổi cách hiển thị (bài phân tích dài → chấm điểm A–F theo mục đích + mục giải nghĩa gộp từ glossary) / SCAMPER: Combine (directory chất + glossary giải nghĩa trong 1 chỗ) / TRIZ: phân đoạn theo mục đích sử dụng.
+- Tiền: Ads + affiliate sách dinh dưỡng + gói tóm tắt "chất nào đáng tiền" (cẩn thận: không bán tư vấn y tế).
+- Làm: 3 buổi (seed 100 chất từ phần miễn phí của Examine + 12 glossary D29–D40).
+- Rủi ro: Database đầy đủ của Examine là trả phí ($14/tháng theo gói năm — giá có thể đổi, chưa kiểm chứng lại lúc làm) nên chỉ dùng được phần miễn phí + tóm tắt; dễ bị hiểu thành "khuyên dùng" — phải ghi disclaimer rõ trên từng trang.
+- Gộp từ: D25, D29, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D40
+
+### T53-P3-13. Glossary sức khỏe & thể lực A–Z — chỉ số nào nghĩa là gì — ★4 — Chờ duyệt
+- Loại: Glossary
+- Mô tả chi tiết: Mỗi thuật ngữ có: định nghĩa 2 dòng bằng tiếng Việt dễ hiểu + ví dụ chỉ số thật (huyết áp 120/80, HbA1c, VO2 max...) + phân biệt với thuật ngữ gần giống (LDL vs HDL, REM vs deep sleep, HIIT vs Tabata, nhịp tim nghỉ vs nhịp tim tối đa...). 12 nhóm: huyết áp & tim mạch, cholesterol & mỡ máu, insulin & đường huyết, cortisol & stress, VO2 max & thể lực tim phổi, nhịp tim nghỉ & vùng nhịp tim, DOMS & phục hồi cơ, HIIT & cường độ tập, giấc ngủ REM & deep sleep, melatonin & hormone giấc ngủ, circadian rhythm & đồng hồ sinh học. Tra cứu theo tên + lọc theo nhóm. Ghi rõ: "thông tin tham khảo, không thay tư vấn bác sĩ; không dùng để chẩn đoán".
+- Phục vụ ai: Người đi khám sức khỏe về cầm tờ kết quả mà không hiểu chỉ số nào nghĩa là gì; người tập gym nghe VO2 max, zone 2, DOMS mà không biết mình đang ở đâu.
+- Vì sao đủ dày: MedlinePlus (Thư viện Y khoa Quốc gia Mỹ, NIH) có Medical Encyclopedia 4.000+ bài về bệnh, xét nghiệm, triệu chứng, chấn thương, phẫu thuật và 1.000+ chủ đề sức khỏe (theo trang MedlinePlus).
+- Gốc: MedlinePlus — Link: https://medlineplus.gov/encyclopedia.html
+- Trục đổi: đổi ngách (bách khoa y khoa Mỹ → giải nghĩa chỉ số sức khỏe/thể lực cho người Việt) + đổi cách hiển thị (bài bách khoa dài → định nghĩa 2 dòng + ví dụ chỉ số + phân biệt) / SCAMPER: Adapt (ví dụ chỉ số thật) + Eliminate (bỏ phần chẩn đoán/điều trị — chỉ giữ định nghĩa) / TRIZ: phân đoạn theo nhóm chỉ số.
+- Tiền: Ads + affiliate sách sức khỏe + gói PDF "hiểu chỉ số khám sức khỏe của bạn" 29k.
+- Làm: 3 buổi (seed 150 thuật ngữ).
+- Rủi ro: Dịch thuật ngữ y khoa sai nghĩa rất nguy hiểm — phải đối chiếu MedlinePlus + ghi nguồn từng mục; không được viết "chỉ số này là bệnh" — chỉ giải nghĩa.
+- Gộp từ: D54, D55, D56, D57, D58, D59, D60, D61, D62, D63, D64, D65
+- Khác thẻ cũ: khác H3-19 (glossary thuật ngữ dược — liều, tương tác thuốc, generic vs brand); đây là thuật ngữ sức khỏe/thể lực & chỉ số cơ thể, không trùng.
+
+### T53-P3-14. Nấu ăn gia đình theo nguyên liệu & thời gian — mở tủ ra biết nấu gì — ★5 — Chờ duyệt
+- Loại: Directory
+- Mô tả chi tiết: Người dùng tick nguyên liệu đang có trong tủ lạnh/tủ khô (trứng, thịt, rau...) + thời gian có (15/30 phút) → nhận món nấu được ngay, lọc theo bữa, theo món Việt/món Tây, theo dị ứng; mỗi món có nguyên liệu, thời gian, độ khó. Seed ban đầu: 200 món Việt + món nhanh (từ SuperCook công khai + món gia đình Việt Nam).
+- Phục vụ ai: Người đi làm về muộn, mở tủ lạnh thấy vài nguyên liệu mà không biết nấu gì — đau hằng ngày, cần đáp án trong 1 phút thay vì lướt công thức rồi mới biết thiếu đồ.
+- Vì sao đủ dày: SuperCook có 11 triệu+ công thức từ 18.000 website, 20 ngôn ngữ; người dùng chọn nguyên liệu từ danh sách 2.000+ nguyên liệu trong tủ → ra món nấu được ngay ("recipes you can make") + món thiếu 1–2 nguyên liệu (theo Google Play listing).
+- Gốc: SuperCook — Link: https://play.google.com/store/apps/details?id=com.supercook.app (đánh giá: https://quickdishcookbook.com/supercook-the-best-app-for-using-up-the-ingredients-in-your-pantry/)
+- Trục đổi: đổi ngách (công thức toàn cầu → món Việt từ đồ trong tủ nhà Việt + lọc theo thời gian 15/30 phút) + đảo ngược luồng tìm món (tìm món rồi mua đồ → nhập đồ đang có rồi ra món) / SCAMPER: Reverse (đảo ngược luồng) + Adapt (thêm món Việt) / TRIZ: tách ra (chỉ món nấu được ngay với đồ đang có).
+- Tiền: Ads + affiliate nguyên liệu/dụng cụ bếp (Shopee) + gói thực đơn tuần từ đồ trong tủ.
+- Làm: 2 buổi (seed 200 món).
+- Rủi ro: App iPhone của SuperCook cập nhật lần cuối tháng 6/2022 (theo Stovah 11/2026) — web vẫn hoạt động nhưng app có thể bị bỏ rơi; công thức lấy từ site khác nên chất lượng không đều, cần chọn lọc; món Việt trong database gốc ít — phải tự bổ sung món Việt.
+- Gộp từ: D71, D72, I-D1
+- Lưu ý: Đây là thẻ gộp GIẢI QUYẾT TRÙNG D71 (cụm D) vs I-D1 (cụm I) — 2 thẻ cũ cùng concept SuperCook "nấu với đồ trong tủ"; gộp thành 1 thẻ duy nhất, 2 thẻ cũ bỏ.
+
+---
+
+### T53-P3-15. Cây trong nhà & vườn — chọn cây theo ánh sáng thật nhà bạn — ★4 — Chờ duyệt
+- Loại: Directory
+- Mô tả chi tiết: Mỗi cây có: ánh sáng cần, nước, đất, kích thước lúc lớn, có độc với thú cưng không, hợp ban công/vườn/phòng khách; lọc theo ánh sáng thật trong nhà (cửa sổ hướng nào), diện tích (ban công 2m²), độ "quên tưới", khí hậu Việt Nam (nóng ẩm). Thêm mục cây ăn được & cây lọc không khí (ghi rõ: "lọc không khí" chỉ là mức hỗ trợ nhỏ, không phải máy lọc). Seed ban đầu: 150 cây phổ biến ở Việt Nam (từ Gardenia + vườn Việt).
+- Phục vụ ai: Người mới chơi cây hay mua về rồi chết vì chọn sai cây cho ánh sáng nhà mình; người ở chung cư/ban công nhỏ không biết 2m² trồng được gì.
+- Vì sao đủ dày: Gardenia Plant Finder có 10.000+ cây, lọc theo độ cứng cây (hardiness), ánh sáng, đất, nước, mùa hoa, kích thước, chịu hạn, trồng trong nhà/ngoài trời (theo gardenia.net/llms.txt).
+- Gốc: Gardenia — Link: https://www.gardenia.net/llms.txt
+- Trục đổi: đổi ngách (cây theo vùng khí hậu Mỹ → cây theo ánh sáng thật + khí hậu nóng ẩm VN) + đổi cách hiển thị (tra theo tên cây → tra theo điều kiện nhà mình) / SCAMPER: Adapt (quy đổi hardiness zone Mỹ sang khí hậu VN, thêm cây phổ biến ở VN) + Eliminate (bỏ cây không sống được ở VN) / TRIZ: phân đoạn theo ánh sáng.
+- Tiền: Ads + affiliate cây/chậu/đất (Shopee) + phí listing cho vườn ươm.
+- Làm: 2–3 buổi (seed 150 cây).
+- Rủi ro: Dữ liệu Gardenia theo vùng khí hậu Mỹ (hardiness zone) — phải quy đổi sang khí hậu Việt Nam, tốn công; cây "lọc không khí" dễ thành health claim — ghi rõ giới hạn.
+- Gộp từ: I-A3, I-A6, I-A8, I-D3, D102
+
+### T53-P3-16. Chọn giống thú cưng theo nhà — chó, mèo, cá, chim — ★4 — Chờ duyệt
+- Loại: Directory
+- Mô tả chi tiết: Mỗi giống có: tính cách, rụng lông/dị ứng, tiếng sủa/độ ồn, tuổi thọ, bệnh hay gặp (chỉ thông tin tham khảo, không chẩn đoán), hợp nhà chung cư/trẻ nhỏ/người đi làm cả ngày không; lọc theo dị ứng, độ ồn, kích thước, tuổi thọ, nuôi chung được với ai (cá: cỡ bể, độ khó; chim: nói được, ồn). Seed ban đầu: 100 giống phổ biến (chó/mèo/cá/chim).
+- Phục vụ ai: Người muốn nuôi thú cưng nhưng sợ chọn sai giống — chó sủa nhiều bị chung cư nhắc, mèo rụng lông gây dị ứng, cá khó nuôi chết liên tục; cần biết trước khi quyết định.
+- Vì sao đủ dày: Số giống ngoài đời thật: ~340 giống chó (FCI), ~70 giống mèo (TICA/CFA), theo tổng hợp của dogs-palace.com; Petfinder có trang giống chó/mèo tra theo đặc điểm và liệt kê 315.000+ thú đang chờ nhận nuôi từ ~14.000 trạm (theo Wikipedia).
+- Gốc: Petfinder — Link: https://www.petfinder.com/dogs-and-puppies/breeds/large-dog-breeds/ (tổng số: https://en.wikipedia.org/wiki/Petfinder ; số giống: https://dogs-palace.com/qa/view/how-many-breeds-of-dogs-and-cats-are-there)
+- Trục đổi: đổi ngách (giống phổ biến ở Mỹ → giống phổ biến ở Việt Nam + bộ lọc "hợp chung cư/trẻ nhỏ") + đổi cách hiển thị (list giống → lọc theo điều kiện sống nhà mình) / SCAMPER: Adapt (thêm bộ lọc chung cư — nỗi đau riêng người Việt ở thành phố) + Eliminate (bỏ giống hiếm ở Mỹ) / TRIZ: phân đoạn theo hoàn cảnh sống.
+- Tiền: Ads + affiliate thức ăn/phụ kiện theo giống + phí listing cho trại nhân giống/trạm cứu hộ.
+- Làm: 2–3 buổi (seed 100 giống).
+- Rủi ro: Petfinder gặp sự cố kỹ thuật tháng 12/2025 (theo Wikipedia, chưa khắc phục xong cuối 12/2025) — nguồn có thể không ổn định lúc tra cứu; giống "hợp chung cư" vẫn cần huấn luyện — ghi rõ không phải cam kết.
+- Gộp từ: I-C1, I-C2, I-C3, I-C4 (KHÔNG gồm I-C5 — trùng J-Dir-26, directory nhận nuôi chó mèo cứu hộ theo tỉnh)
+- Khác thẻ cũ: khác J-Dir-26 (directory nhận nuôi — tìm bé đang chờ ở trạm VN theo tỉnh); đây là directory chọn giống (tìm giống hợp nhà mình trước khi quyết định nuôi).
+
+### T53-P3-17. Sách, truyện & media cho con — chọn theo tuổi, không lo nội dung xấu — ★4 — Chờ duyệt
+- Loại: Directory
+- Mô tả chi tiết: Mỗi tựa có: loại (sách tranh/podcast/truyện audio/video), độ tuổi phù hợp, cảm xúc/kỹ năng dạy được, nội dung cần lưu ý (sợ, bạo lực nhẹ...); lọc theo tuổi, loại media, kỹ năng muốn dạy, thời lượng. Thêm mục sách/truyện Việt (seed 50 tựa Việt từ NXB/thư viện). Seed ban đầu: 150 tựa (Common Sense Media + 50 tựa Việt).
+- Phục vụ ai: Bố mẹ muốn chọn sách/phim/podcast cho con mà không có thời gian đọc/xem trước — sợ nội dung bạo lực, sợ, ngôn từ xấu; cần biết ngay tựa này hợp tuổi con mình không.
+- Vì sao đủ dày: Common Sense Media có ~42.000 review (theo trang chủ) phim, TV, sách, app, game, podcast cho trẻ; mỗi review có độ tuổi phù hợp + đánh giá bạo lực/ngôn từ/thông điệp tích cực.
+- Gốc: Common Sense Media — Link: http://www.commonsensemedia.org/what-we-stand-for/media-choice
+- Trục đổi: đổi ngách (media cho trẻ ở Mỹ → thêm sách/truyện Việt + lọc theo kỹ năng muốn dạy) + đổi cách hiển thị (review dài → bảng lọc theo tuổi/loại/kỹ năng) / SCAMPER: Adapt (thêm tựa Việt) + Combine (sách + podcast + video trong 1 chỗ lọc chung theo tuổi) / TRIZ: phân đoạn theo độ tuổi.
+- Tiền: Ads + affiliate sách (Shopee/Tiki) + gói list "100 tựa nên đọc theo tuổi".
+- Làm: 2 buổi (seed 150 tựa).
+- Rủi ro: Common Sense Media là tổ chức Mỹ, nội dung review bằng tiếng Anh, sách Việt ít — phải tự bổ sung tựa Việt; một phần nội dung CSM sau paywall (ghi rõ).
+- Gộp từ: I-B1, I-B6, I-B8
+
+### T53-P3-18. Hè cho con — trại hè & lớp ngoại khóa theo tuổi, kỹ năng, ngân sách — ★4 — Chờ duyệt
+- Loại: Directory
+- Mô tả chi tiết: Mỗi trại/lớp có: độ tuổi, kỹ năng dạy (bơi, vẽ, lập trình, kỹ năng sống...), hình thức (bán trú/nội trú), thời lượng, ngân sách (dạng khoảng, không phải bảng giá cố định), an toàn (có kiểm định/chứng chỉ gì), địa điểm; lọc theo tuổi, kỹ năng, ngân sách, khu vực. Seed ban đầu: 60 trại hè + lớp ngoại khóa ở Hà Nội/TP.HCM/Đà Nẵng (từ fanpage/website của trại).
+- Phục vụ ai: Bố mẹ mỗi hè đau đầu tìm trại hè/lớp ngoại khóa cho con — không biết chỗ nào uy tín, an toàn ra sao, tiền bao nhiêu, hợp tuổi con không.
+- Vì sao đủ dày: American Camp Association (ACA) kiểm định 2.500+ trại hè tại Mỹ, mỗi trại phải đạt tới 300 tiêu chuẩn an toàn/sức khỏe (theo Wikipedia); directory Find a Camp có 1.000–3.900+ trại (số đếm trên site thay đổi theo bộ lọc lúc tra cứu — chưa kiểm chứng con số cố định).
+- Gốc: American Camp Association — Find a Camp — Link: https://en.wikipedia.org/wiki/American_Camp_Association (directory: https://find.acacamps.org/)
+- Trục đổi: đổi ngách (trại hè Mỹ có kiểm định → trại hè/lớp ngoại khóa Việt Nam + tự xây tiêu chí an toàn) + đổi cách hiển thị (list trại → lọc theo tuổi/kỹ năng/ngân sách) / SCAMPER: Adapt (thêm trại VN, tiêu chí an toàn VN) + Combine (trại hè + lớp ngoại khóa trong 1 chỗ) / TRIZ: phân đoạn theo độ tuổi.
+- Tiền: Phí listing cho trại/lớp + ads + affiliate đồ dùng trại hè.
+- Làm: 2–3 buổi (seed 60 trại/lớp Việt Nam).
+- Rủi ro: Việt Nam chưa có hệ kiểm định trại hè thống nhất như ACA — tiêu chí "an toàn" phải tự xây (giấy phép, tỉ lệ quản sinh/trẻ, y tế) và ghi rõ nguồn; trại hè VN nhiều đơn vị nhỏ, thông tin thay đổi theo mùa.
+- Gộp từ: I-B5, I-B7
+
+### T53-P3-19. Thuê người cho nhà — thợ, giúp việc, chăm người già — ★4 — Chờ duyệt
+- Loại: Directory
+- Mô tả chi tiết: Mỗi người/đội có: hạng mục (sơn, chống thấm, điện, nước, dọn nhà, giúp việc, chăm người già...), khu vực, đánh giá thật của khách cũ, ảnh công trình trước–sau, "hay bị chê điểm gì", có bảo hành/nhận việc nhỏ/làm cuối tuần không; lọc theo hạng mục + khu vực + loại hỗ trợ (chăm người già: theo bệnh/giai đoạn). Không báo giá tự động, không tính phí. Seed ban đầu: 50 thợ/đội (từ group Facebook công khai + form tự đăng, ghi rõ nguồn từng đánh giá).
+- Phục vụ ai: Chủ nhà cần thợ sửa mà sợ gặp thợ báo giá miệng rồi làm xong đòi gấp 3 (đúng pain-point T4 d2026-11-10-705 trong KHO); gia đình cần người chăm người già mà không biết tìm ở đâu, tin ai.
+- Vì sao đủ dày: Thumbtack có 300.000+ thợ/dịch vụ địa phương, 500 hạng mục dịch vụ, 15 triệu+ đánh giá, 100 triệu+ dự án nhà (theo trang chủ thumbtack.com).
+- Gốc: Thumbtack — Link: https://www.thumbtack.com/
+- Trục đổi: đổi ngách (thợ Mỹ theo ZIP code → thợ Việt theo quận/thành phố, đánh giá bằng tiếng Việt) + đổi cách hiển thị (theo tên thợ → theo hạng mục + điểm hay bị chê) / SCAMPER: Substitute (thay "xin báo giá" bằng "đọc phốt trước") + Combine (directory thợ + chăm người già trong 1 chỗ) / TRIZ: tách ra (chỉ lấy phần đánh giá + chuyên môn, bỏ phần đấu thầu báo giá).
+- Tiền: Phí đăng nổi bật cho thợ/đội + phí lead + ads vật liệu/dịch vụ.
+- Làm: 2–3 buổi (seed 50 thợ/đội).
+- Rủi ro: Đánh giá giả/tự đăng — cần xác minh (ảnh công trình, số điện thoại, xác nhận khách cũ); tranh chấp chất lượng làm — ghi rõ site chỉ tra cứu + đánh giá, không bảo lãnh thi công.
+- Gộp từ: I-A2, I-E9
+
+### T53-P3-20. Glossary nuôi dạy con A–Z — từ bác sĩ nói nghĩa là gì — ★4 — Chờ duyệt
+- Loại: Glossary
+- Mô tả chi tiết: Mỗi thuật ngữ có: định nghĩa 2 dòng bằng tiếng Việt dễ hiểu + ví dụ tình huống thật + phân biệt với thuật ngữ gần giống. 10 nhóm: nuôi dạy con hay dùng sai, phát triển trẻ 0–5 tuổi, bệnh trẻ em hay gặp, khó khăn học tập (dyslexia, ADHD, IEP...), thai sản & sơ sinh, giấc ngủ trẻ (sleep regression, wake window...), an toàn cho trẻ, cảm xúc & tâm lý trẻ (tantrum, meltdown, co-regulation...), giáo dục sớm (Montessori, Waldorf, Reggio, phonics...), tuổi teen & mạng xã hội (sharenting, grooming, digital footprint...). Tra cứu theo tên + lọc theo độ tuổi con. Seed ban đầu: 150 thuật ngữ. Ghi rõ: "thông tin tham khảo, không thay tư vấn bác sĩ nhi khoa; không chẩn đoán".
+- Phục vụ ai: Bố mẹ nghe bác sĩ/giáo viên nói từ lạ (tantrum, sleep regression, IEP...) mà không hiểu — cần tra 1 từ là hiểu ngay bằng ví dụ đời thường, không cần đọc bài dài.
+- Vì sao đủ dày: HealthyChildren.org là website phụ huynh của Viện Hàn lâm Nhi khoa Hoa Kỳ (AAP, 67.000 bác sĩ nhi khoa); mục Health Issues có danh sách A–Z "hàng trăm chủ đề" sức khỏe trẻ em (theo Children's Health Council). Tổng số bài viết toàn site chưa đếm được — chưa kiểm chứng con số cố định, chỉ dùng được "hàng trăm chủ đề A–Z" làm bằng chứng.
+- Gốc: HealthyChildren.org (American Academy of Pediatrics) — Link: https://www.chconline.org/resourcelibrary/american-academy-pediatrics-healthychildren-org-web-resource/ (trang gốc: https://www.healthychildren.org/English/Pages/default.aspx)
+- Trục đổi: đổi ngách (hướng dẫn nhi khoa Mỹ → giải nghĩa thuật ngữ nuôi dạy con cho bố mẹ Việt) + đổi cách hiển thị (bài viết dài → tra cứu 1 từ + ví dụ + phân biệt) / SCAMPER: Adapt (ví dụ tình huống gia đình Việt) + Combine (10 glossary lẻ → 1 glossary cha lọc theo tuổi con) / TRIZ: phân đoạn theo độ tuổi.
+- Tiền: Ads + affiliate sách nuôi dạy con + gói PDF "100 từ bác sĩ nhi hay nói" 29k.
+- Làm: 3 buổi (seed 150 thuật ngữ).
+- Rủi ro: Nội dung AAP theo hướng dẫn Mỹ (lịch tiêm chủng, ghế ô tô...) — phải ghi rõ khác biệt với Việt Nam và không thay khuyến cáo của bác sĩ Việt Nam; dịch thuật ngữ tâm lý trẻ sai nghĩa dễ gây hiểu lầm — đối chiếu nguồn kỹ.
+- Gộp từ: I-B11, I-B12, I-B13, I-B14, I-B15, I-B16, I-B17, I-B18, I-B19, I-B20
+
+---
+
+## Làm ngay: T53-P3-14 — Nấu ăn gia đình theo nguyên liệu & thời gian (SuperCook)
+
+Lý do: (1) Đây là nhu cầu hằng ngày — mở tủ ra không biết nấu gì, xảy ra mỗi tối, tần suất dùng cao nhất trong 20 thẻ; làm chỉ 2 buổi với seed 200 món. (2) Thẻ này giải quyết luôn lỗi trùng đã ghi nhận từ trước: D71 (cụm D) và I-D1 (cụm I) cùng concept SuperCook — gộp thành 1 thẻ duy nhất, dứt điểm không để trùng lặp lại.
