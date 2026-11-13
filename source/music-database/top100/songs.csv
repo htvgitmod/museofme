@@ -1,0 +1,381 @@
+﻿id,title,singers,composers,lyricists,year,album,duration_seconds,isrc,iswc,musicbrainz_recording_id,spotify_url,youtube_official_url,apple_music_url,lyric_url,hook_line,composer_confidence,confidence,batches
+song-001,Chạy Ngay Đi,Sơn Tùng M-TP,Sơn Tùng M-TP,,2018,,,,,,,,,,,high,high,batch-01-10
+song-002,Lạc Trôi,Sơn Tùng M-TP,Sơn Tùng M-TP,,2016,m-tp M-TP,232,FRX201661143,,c1713485-058e-4ae7-b024-7f40905ca29a,,https://www.youtube.com/watch?v=Llw9Q6akRo4,,,,high,high,batch-01-10
+song-003,Muộn Rồi Mà Sao Còn,Sơn Tùng M-TP,Sơn Tùng M-TP,,2021,,275,FR96X2124024,,43ae71e2-83ae-47f7-8205-76742090e161,,,,,,high,high,batch-01-10
+song-004,Nơi Này Có Anh,Sơn Tùng M-TP,Sơn Tùng M-TP,,2017,m-tp M-TP,260,FR10S1774874,,0fa2af5c-d384-40f1-b365-78f2643ba0ce,,,,,,high,high,batch-01-10
+song-005,Người Hãy Quên Em Đi,Mỹ Tâm,Khắc Hưng,,2018,Tâm 9,232,,,237aba96-1e00-4b04-930a-94280179b425,,,,,,high,high,batch-01-10
+song-006,Đừng Hỏi Em,Mỹ Tâm,Mỹ Tâm,,2017,Tâm 9,265,,,cf41e510-65f2-4066-8ed8-f94471a608d5,,,,,,high,high,batch-01-10
+song-007,Đâu Chỉ Riêng Em,Mỹ Tâm,Khắc Hưng,,2017,Tâm 9,236,,,7fc04bed-b304-4138-8c77-478cb0b64b5a,,,,,,high,high,batch-01-10
+song-008,Họa Mi Tóc Nâu,Mỹ Tâm,Trần Huân,,2003,Yesterday & Now,266,FR2X42071950,,16874fd0-6c58-43fc-8d9d-f5d5735dbdb8,,,,,,high,high,batch-01-10
+song-009,Tháng Tư Là Lời Nói Dối Của Em,Hà Anh Tuấn,Phạm Toàn Thắng,,2016,,308,VNA0M1924883,,3fbb0334-badb-4ce4-a306-890423e11ab8,,,https://music.apple.com/cv/song/th%C3%A1ng-t%C6%B0-l%C3%A0-l%E1%BB%9Di-n%C3%B3i-d%E1%BB%91i-c%E1%BB%A7a-em/1600822435,,Mùa xuân có em như chưa bắt đầu,high,high,batch-01-10
+song-010,Có Chàng Trai Viết Lên Cây,Hà Anh Tuấn; Phan Mạnh Quỳnh,Phan Mạnh Quỳnh,,2019,Truyện Ngắn,341,QZNWR2036037,,dfe91a7b-c8e0-469e-a7e8-86ad0a6ca7a4,,,,,,high,medium,batch-01-10; batch-91-100
+song-011,Xuân Thì,Hà Anh Tuấn,Phan Mạnh Quỳnh,,2020,Truyện Ngắn,346,QZNWR2036038,,689d32a9-8cb8-43c4-8cbb-799da8ca7414,,,,,,high,medium,batch-01-10
+song-012,Tái Bút Anh Yêu Em,Hà Anh Tuấn,Phạm Toàn Thắng,,2017,,321,VNA0M1924882,,f4656ae8-dbcc-4bca-8f4d-b25cde8b9d68,,,,,,high,high,batch-01-10
+song-013,Đưa Nhau Đi Trốn,Đen; Linh Cáo,Nguyễn Đức Cường,,2015,Đưa Nhau Đi Trốn (Chill Version),241,,,71df95f7-e88d-4dda-9ae9-c1bbd665df1a,,,,,,high,high,batch-01-10
+song-014,Hai Triệu Năm,Đen; Biên,Nguyễn Đức Cường,,2019,Hai Triệu Năm,216,,,46bc2201-6102-42d1-90a9-b5691a4663b4,,,,,,high,high,batch-01-10
+song-015,Mang Tiền Về Cho Mẹ,Đen; Nguyên Thảo,Nguyễn Đức Cường,,2021,,,,,,,,,,,high,high,batch-01-10
+song-016,Nấu Ăn Cho Em,Đen; PiaLinh,Nguyễn Đức Cường,,2023,Nấu Ăn Cho Em,241,FRX762330846,,f9fb1d9d-baac-4060-b407-0a95fbbdda18,,,,,,high,high,batch-01-10
+song-017,Để Mị Nói Cho Mà Nghe,Hoàng Thùy Linh,Thịnh Kainz; Kata Trần; T-Bass,,2019,Hoàng,194,,,,,,,,,high,high,batch-01-10
+song-018,See Tình,Hoàng Thùy Linh,DTAP,,2022,LINK,185,,,,,,,,,high,high,batch-01-10
+song-019,Duyên Âm,Hoàng Thùy Linh,Thịnh Kainz; Kata Trần; BadBz,,2019,Hoàng,180,VNA0R1900154,,eaabbf8a-4769-461a-b73e-092e8052cbfb,,,,,,high,high,batch-01-10
+song-020,Kẻ Cắp Gặp Bà Già,Hoàng Thùy Linh; Binz,Thịnh Kainz; Kata Trần; Binz,,2020,Hoàng,232,VNA0R1900158,,06694e98-9f89-417e-b03c-7509c54d3d82,,,,,,high,high,batch-01-10
+song-021,Lạ Lùng,Vũ.,Hoàng Thái Vũ,,2016,,261,VNA111900140,,c74c8ef0-a83b-4f74-9210-9d8f4f68a406,,,,,,high,high,batch-01-10
+song-022,Bước Qua Nhau,Vũ.,Hoàng Thái Vũ,,2020,Một Vạn Năm,257,,,be91badb-288d-4ba9-a7c8-6ebb3345345c,,,,,,high,medium,batch-01-10
+song-023,Bước Qua Mùa Cô Đơn,Vũ.,Hoàng Thái Vũ,,2020,Một Vạn Năm,278,,,f171da59-a569-480d-914c-50db449adce9,,,,,,high,high,batch-01-10
+song-024,Mùa Mưa Ngâu Nằm Cạnh,Vũ.,Hoàng Thái Vũ,,2016,,,,,,,,,,,high,medium,batch-01-10
+song-025,Gái Độc Thân,tlinh,tlinh,,2021,,185,,,,,,https://music.apple.com/ru/song/g%C3%A1i-%C4%91%E1%BB%99c-th%C3%A2n/6775422598,,,high,high,batch-01-10
+song-026,Nếu Lúc Đó,tlinh; 2pillz,tlinh; 2pillz,,2023,ái,264,,,d91eebd1-f57e-4e99-960d-9fcdd8ca2efd,,,,,,high,high,batch-01-10
+song-027,Thích Quá Rùi Nà,tlinh; Trung Trần,tlinh; Trung Trần,,2020,,178,,,a44bb595-b607-4875-a2d6-5d090ba5ddf2,,,,,,high,medium,batch-01-10
+song-028,vaicaunoicokhiennguoithaydoi,Grey D; tlinh,Grey D,,2022,Dự Báo Thời Tiết Hôm Nay Mưa (maxi-single),,,,,https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK,,,,,low,medium,batch-01-10; batch-11-20
+song-029,Bùa Yêu,Bích Phương,Tiên Cookie; Phạm Thanh Hà; DuongK,,2018,Dramatic,,,,,,,,,,high,high,batch-01-10
+song-030,Đi Đu Đưa Đi,Bích Phương,Tiên Cookie; Phạm Thanh Hà,,2019,,,,,,,,,,,high,high,batch-01-10
+song-031,Bao Giờ Lấy Chồng,Bích Phương,Huỳnh Hiền Năng,,2017,Bao Giờ Lấy Chồng,225,,,d19f0291-86ba-4f0f-8d7b-b488944ec0a1,,,,,,high,high,batch-01-10
+song-032,Một Cú Lừa,Bích Phương,Tiên Cookie,,2020,tâm trạng tan hơi chậm một chút,208,VNA0M1907691,,ecc31e22-1c10-4e8d-b2ab-b2773428012d,,,,,,high,high,batch-01-10
+song-033,Sau Tất Cả,Erik,Khắc Hưng,,2016,Sau Tất Cả (EP),,,,,,,,,,high,high,batch-01-10
+song-034,Chạm Đáy Nỗi Đau,Erik,Mr. Siro,,2018,,,,,,,,,,,high,high,batch-01-10
+song-035,Dù Cho Tận Thế,Erik,,,2025,,,,,,,,,,,low,medium,batch-01-10
+song-036,Có Tất Cả Nhưng Thiếu Anh,Erik,Vương Anh Tú,,2019,,,,,,,,,,,high,high,batch-01-10
+song-037,Anh Nhà Ở Đâu Thế,AMEE; B Ray,Hứa Kim Tuyền; Lyly; LyLy,LyLy,2019,dreAMEE,216,FRX202024944,,22ebe112-745e-48a8-9b11-673a91b717f4,,,,,,high,medium,batch-01-10; batch-41-50
+song-038,Sao Anh Chưa Về Nhà,AMEE; Ricky Star,Ricky Star; Hứa Kim Tuyền; Lyly; TDK,,2020,dreAMEE,244,DGA052095702,,33230d8b-baa6-4284-ae74-3c2fa47652f1,,,,,,high,medium,batch-01-10
+song-039,Ex's Hate Me,B Ray; AMEE,B Ray; Grey D,,2019,,258,,,25da10eb-d27e-48f2-a7dc-c1457d88ec54,,,,,,high,medium,batch-01-10
+song-040,Yêu Thì Yêu Không Yêu Thì Yêu,AMEE,Hứa Kim Tuyền; T.R.I,,2020,dreAMEE,190,DGA052095699,,057443d0-01a5-4ac4-857f-ebad7fc3854d,,,,,,high,medium,batch-01-10
+song-041,Waiting for You,MONO,MONO; Onionn,,2022,22,,USY6C0710009,,,https://open.spotify.com/track/5hkAuvgkOrd4KpDOlCNsvW,,,,,,high,batch-11-20
+song-042,Quên Anh Đi,MONO,MONO,,2022,22,,,,,,,,,,,medium,batch-11-20
+song-043,Em Là,MONO,MONO,,2022,22,,,,,,,,,,,medium,batch-11-20
+song-044,Anh Không Thể,MONO,MONO,,2022,22,,,,,,,,,,,medium,batch-11-20
+song-045,Chỉ Một Câu,Đức Phúc,Phạm Toàn Thắng,,2015,,,,,,,,,,,,medium,batch-11-20
+song-046,Ánh Nắng Của Anh,Đức Phúc,Khắc Hưng,,2016,Chờ Em Đến Ngày Mai (OST),,VNA0M1800964,,,,,,,,,high,batch-11-20
+song-047,Hơn Cả Yêu,Đức Phúc,Khắc Hưng,,2020,,,,,,,,,,,,high,batch-11-20
+song-048,Rời Bỏ,Hòa Minzy,Vũ Huy Hoàng,,2018,,,,,,,,,,,,high,batch-11-20
+song-049,Không Thể Cùng Nhau Suốt Kiếp,Hòa Minzy; Mr. Siro,Mr. Siro,,2020,,,,,,,,,,,,high,batch-11-20
+song-050,Thị Mầu,Hòa Minzy,Nguyễn Hoàng Phong,,2023,,,,,,,,,,,,medium,batch-11-20
+song-051,Bắc Bling (Bắc Ninh),Hòa Minzy; Xuân Hinh; Tuấn Cry,Tuấn Cry,,2025,,,,,,,,,,,,high,batch-11-20
+song-052,Vệ Tinh,HIEUTHUHAI; Hoàng Tôn,HIEUTHUHAI,,2022,,,,,,,,,,,,medium,batch-11-20
+song-053,Ngủ Một Mình,HIEUTHUHAI; Negav,HIEUTHUHAI,,2022,,,,,,,,,,,,medium,batch-11-20
+song-054,Không Thể Say,HIEUTHUHAI,HIEUTHUHAI,,2023,Ai Cũng Phải Bắt Đầu Từ Đâu Đó,,,,,,https://www.youtube.com/watch?v=d6pgocXnK8U,,,,,high,batch-11-20
+song-055,Exit Sign,HIEUTHUHAI; Marzuz,HIEUTHUHAI,,2023,Ai Cũng Phải Bắt Đầu Từ Đâu Đó,,,,,,,,,,,medium,batch-11-20
+song-056,Dự Báo Thời Tiết Hôm Nay Mưa,Grey D,Grey D,,2022,Dự Báo Thời Tiết Hôm Nay Mưa (maxi-single),,,,,,,,,,,medium,batch-11-20
+song-057,Đưa Em Về Nhàa,Grey D; Chillies,Grey D; Kai Đinh,,2023,,240,,,,,,,,,,medium,batch-11-20
+song-058,Dễ Đến Dễ Đi,Quang Hùng MasterD,Quang Hùng MasterD,,2020,,,,,,,,,,,,high,batch-11-20
+song-059,Chỉ Còn Một Đêm (Last Dark),Quang Hùng MasterD; F.HERO,Quang Hùng MasterD,,2022,,,,,,,,,,,,high,batch-11-20
+song-060,Thủy Triều,Quang Hùng MasterD,Quang Hùng MasterD,,2024,,,,,,https://open.spotify.com/track/2CFC7iLurCyDYuXQcfem2l,,,,,,high,batch-11-20
+song-061,Ánh Mắt Biết Cười,Quang Hùng MasterD; Tăng Duy Tân,Quang Hùng MasterD,,2025,,,,,,,,,,,,medium,batch-11-20
+song-062,Hết Duyên,Tăng Duy Tân; NIT,Tăng Duy Tân,,2018,,,,,,,,,,,,medium,batch-11-20
+song-063,Ngây Thơ,Tăng Duy Tân,Phong Max,,2020,,,,,,,,,,,,high,batch-11-20
+song-064,Dạ Vũ,Tăng Duy Tân,Tăng Duy Tân,,2021,,,,,,,,,,,,medium,batch-11-20
+song-065,Bên Trên Tầng Lầu,Tăng Duy Tân,Tăng Duy Tân,,2021,,,VNA0R2000662,,,,,,,,,medium,batch-11-20
+song-066,Cắt Đôi Nỗi Sầu,Tăng Duy Tân; Drum7,Tăng Duy Tân,,2023,,,,,,,,,,,,medium,batch-11-20
+song-067,Hồng Nhan,Jack,Jack,,2019,,,,,,,,,,,,medium,batch-11-20
+song-068,Bạc Phận,Jack,Jack,,2019,,,,,,,,,,,,medium,batch-11-20
+song-069,Sóng Gió,Jack,Jack,,2019,,,,,,,,,,,,medium,batch-11-20
+song-070,Hoa Hải Đường,Jack,Jack,,2020,,,,,,,,,,,,high,batch-11-20
+song-071,Đom Đóm,Jack,Jack,,2020,,,,,,,,,,,,high,batch-11-20
+song-072,Ngày Mai (Vũ Điệu Cồng Chiêng),Tóc Tiên,Lưu Thiên Hương,,2015,,,,,,,,,,,,high,batch-11-20
+song-073,Có Ai Thương Em Như Anh,Tóc Tiên; Touliver,Bùi Công Nam,,2018,,,,,,,,,,,,high,batch-11-20
+song-074,Nước Mắt Em Lau Bằng Tình Yêu Mới,Da LAB; Tóc Tiên,,,2019,,,,,,,,,,,,medium,batch-11-20
+song-075,906090,Tóc Tiên; Mew Amazing,,,2022,CONG,,,,,,,,,,,medium,batch-11-20
+song-076,Nếu Như Anh Đến,Văn Mai Hương,Nguyễn Đức Cường,,2011,Nếu Như Anh Đến (EP),,,,,,,,,,,high,batch-11-20
+song-077,Cầu Hôn,Văn Mai Hương,Hứa Kim Tuyền,,2021,Hương,,,,,,,,,,,medium,batch-11-20
+song-078,Mưa Tháng Sáu,Văn Mai Hương; Grey D; Trung Quân,Hứa Kim Tuyền,,2023,Minh Tinh,,,,,,,,,,,medium,batch-11-20
+song-079,Đại Minh Tinh,Văn Mai Hương,Hứa Kim Tuyền,,2023,Minh Tinh,,,,,,,,,,,medium,batch-11-20
+song-080,Bốn chữ lắm,Trúc Nhân; Trương Thảo Nhi,Phạm Toàn Thắng,,2014,,260,,,16b1dad0-cab5-4731-adfe-0a58157464fa,,https://www.youtube.com/watch?v=i724lraI93s,,,"Yêu lắm, thương lắm mà xa lắm, đau lắm",high,high,batch-21-30
+song-081,Thật bất ngờ,Trúc Nhân,Mew Amazing,,2015,,213,,,196e669d-f191-498a-ac52-6edeb212bdf2,,https://www.youtube.com/watch?v=hlGSgR8sljw,,,,high,high,batch-21-30
+song-082,Sáng mắt chưa,Trúc Nhân,Mew Amazing,,2019,,208,,,,,https://www.youtube.com/watch?v=rDhx4ejrPPA,,,,high,high,batch-21-30
+song-083,Có không giữ mất đừng tìm,Trúc Nhân,Bùi Công Nam,,2022,,217,,,411decc7-e2db-49a8-8ca5-21aa3ddbacce,,https://www.youtube.com/watch?v=kdVeYgGtO3Q,,,Có không giữ thì mất đừng tìm,high,high,batch-21-30
+song-084,Y.Ê.U,Min,Khắc Hưng,,2015,,266,FRX762174975,,e0ea76bc-9f42-44a0-9583-197018714da6,,https://www.youtube.com/watch?v=_Lb82AU5yDk,,,,high,high,batch-21-30
+song-085,Có em chờ,Min; Mr.A,Kai Đinh,,2017,,234,,,84051c9c-3d8a-4833-b1ff-81d7cef97b1f,,https://www.youtube.com/watch?v=_YzngEllRgM,,,,high,high,batch-21-30
+song-086,Ghen,Min; Erik; Khắc Hưng,Khắc Hưng,,2017,,247,SGUM72400059,,f2845828-64e0-4e4a-89fc-4075293cb23f,,,,,,high,high,batch-21-30
+song-087,Trên tình bạn dưới tình yêu,Min,Khắc Hưng,,2020,50/50,199,FR26V2014509,,1635b612-bcd3-48da-bbea-4bca29021668,,https://www.youtube.com/watch?v=0R8IbpKXavM,,,,high,high,batch-21-30
+song-088,Anh muốn em sống sao,Bảo Anh,Chi Dân,,2014,,274,VNR011038027,,5d4074a2-febb-4cde-8c54-88f57ffb7475,,,,https://thuthuat.taimienphi.vn/loi-bai-hat-anh-muon-em-song-sao-33533n.aspx,,high,high,batch-21-30
+song-089,Trái tim em cũng biết đau,Bảo Anh,Mr. Siro,,2016,,303,VNR011038033,,5910a87e-387a-42bf-9f5c-6621b333d759,,,,,,high,high,batch-21-30
+song-090,Sống xa anh chẳng dễ dàng,Bảo Anh,Mr. Siro,,2017,,256,,,ecc5f37d-ec91-42ff-82e3-b55da4cd15f6,,,,https://thuthuat.taimienphi.vn/loi-bai-hat-song-xa-anh-chang-de-dang-29073n.aspx,,high,high,batch-21-30
+song-091,Như lời đồn,Bảo Anh,Khắc Hưng,,2018,,219,,,d7812a88-0a08-4a2c-8161-4432724e6364,,,,,,medium,medium,batch-21-30
+song-092,Phía sau một cô gái,Soobin Hoàng Sơn,Tiên Cookie,,2016,,330,,,2e759448-17f9-474c-9e1f-a43dc7717768,,https://www.youtube.com/watch?v=j__Q13iAxNk,,,,high,high,batch-21-30
+song-093,Đi để trở về,Soobin Hoàng Sơn,Tiên Cookie,,2017,,202,BGA261760601,,24965a33-ad2b-4c4d-bf19-d2615bc0fee6,,https://www.youtube.com/watch?v=wnSNyE2hVu4,,,,high,high,batch-21-30
+song-094,Anh đã quen với cô đơn,Soobin Hoàng Sơn,Soobin Hoàng Sơn,,2017,,235,,,2f36a0a9-ab3d-4bda-922a-06b2818e3c69,,,,,,medium,medium,batch-21-30
+song-095,Heyyy,Soobin Hoàng Sơn,SOOBIN,,2023,,197,,,afd658ae-fe69-422a-8035-c8ecbd3ae40a,https://open.spotify.com/track/2fWYqr8yaQitqsjHMEstVh,,,,,medium,medium,batch-21-30
+song-096,Yêu không nghỉ phép,Isaac; Only C,Nguyễn Phúc Thiện,,2015,,,,,,,,,,,high,high,batch-21-30
+song-097,Mr. Right (Khi anh yêu em),Isaac,Only C,Mr. Doji,2015,,,,,,,,,,,medium,medium,batch-21-30
+song-098,Anh sẽ về sớm thôi,Isaac,Nguyễn Phúc Thiện,,2017,,,,,,,,,https://thuthuat.taimienphi.vn/video-lyrics-loi-bai-hat-anh-se-ve-som-thoi-isaac-22877n.aspx,,high,high,batch-21-30
+song-099,Tôi đã quên thật rồi,Isaac,Nguyễn Phúc Thiện,,2018,,,,,,,,,https://thuthuat.taimienphi.vn/loi-bai-hat-toi-da-quen-that-roi-35167n.aspx,,high,high,batch-21-30
+song-100,Từ hôm nay (Feel Like Ooh),Chi Pu,,,2017,Love Story,195,FR59R1948252,,56fbe0b8-d274-4f0b-8f63-ca539058fd40,,,,,,low,medium,batch-21-30
+song-101,Đóa hoa hồng (Queen),Chi Pu,Andiez - NNeo,,2018,,240,FR59R1929999,,8b455606-44bc-4d38-8a82-97f79e773a1f,,https://www.youtube.com/watch?v=2aiGDiSxryQ,,,,high,high,batch-21-30
+song-102,Anh ơi ở lại,Chi Pu,Đạt G,,2019,,292,FR59R1907567,,b89bada6-204f-4fca-a143-52447c9f20ed,,,,,,high,high,batch-21-30
+song-103,Cung đàn vỡ đôi,Chi Pu,Kiên,,2020,,,,,,,,,,,high,high,batch-21-30
+song-104,Ai là người thương em,Quân A.P,Thanh Hưng,,2019,,,,,,,,,,,high,high,batch-21-30
+song-105,Còn gì đau hơn chữ đã từng,Quân A.P,RIN9,,2019,,,,,,,,,,,medium,medium,batch-21-30
+song-106,Bông hoa đẹp nhất,Quân A.P,Vũ Hà Anh; Phan Viết Tính; Nguyễn Văn Trung,,2020,,,,,,,,,,,medium,medium,batch-21-30
+song-107,Lời xin lỗi vụng về,Quân A.P,Vũ Hà Anh,,2021,,,,,,,,,,,medium,medium,batch-21-30
+song-108,Mình là gì của nhau,Lou Hoàng,Lou Hoàng; Only C,,2016,,295,FRX282079262,,6379661e-7e0c-46b3-b115-e39e227f0338,,,,,,medium,medium,batch-21-30
+song-109,Đếm ngày xa em,Lou Hoàng; Only C,Nguyên Jenda,,2016,,257,,,870fc6bc-6f15-4b15-8c90-c2303956a36d,,,,,,medium,medium,batch-21-30
+song-110,Yêu một người có lẽ,Lou Hoàng; Miu Lê,Only C; T.I.N; Lou Hoàng,,2016,,254,FRX202059482,,e8eac237-4306-463a-8abc-807214d56d57,,,,,,medium,medium,batch-21-30
+song-111,Cảm giác lúc ấy sẽ ra sao,Lou Hoàng,Hưng Cacao; Only C; Lou Hoàng,,2019,,,,,,,,,,,medium,medium,batch-21-30
+song-112,Cuộc sống em ổn không,Anh Tú Atus,Vương Anh Tú,,2018,,,,,,,,,,,high,high,batch-21-30
+song-113,Mình làm người yêu nhé em,Anh Tú Atus,Vương Anh Tú,,2019,,,,,,,,,,,medium,medium,batch-21-30
+song-114,Mạnh mẽ lên cô gái,Anh Tú Atus,Hùng Quân,,2019,,,,,,,,,https://thuthuat.taimienphi.vn/loi-bai-hat-manh-me-len-co-gai-53254n.aspx,,high,high,batch-21-30
+song-115,Nếu ta không may,LyLy; Anh Tú Atus,LyLy,,2020,,,,,,,,,,,high,high,batch-21-30
+song-116,Chịu cách mình nói thua,Rhyder; Ban; CoolKid,,,2023,,182,DGA0P2317309,,c783eeac-4a79-45e6-9ba3-a8abb9e59a6e,,,,,,low,medium,batch-21-30
+song-117,Anh biết rồi,Rhyder,,,2024,,260,,,763dd27d-aed8-4804-aa1c-4c2da39b3ee4,,,,,,low,medium,batch-21-30
+song-118,Dân chơi sao phải khóc,Andree Right Hand; Rhyder; Wokeup,Bùi Thế Anh; Nguyễn Quang Anh; Nguyễn Hoàng Phúc,Bùi Thế Anh; Nguyễn Quang Anh,2024,,210,,,,,https://www.youtube.com/watch?v=9zeE-ScuVNg,,,Dân chơi thì sao phải khóc,high,high,batch-21-30
+song-119,Hào quang,Rhyder,,,2024,,245,,,5a0350fa-a50b-44e4-a715-fc2aae0045c0,,,,,,low,medium,batch-21-30
+song-120,Bigcityboi,Binz,Binz,,2020,,,,,,,https://www.youtube.com/watch?v=jgZkrA8E5do,,,,,high,batch-31-40
+song-121,Cho Mình Em,Binz; Đen,Binz; Đen,,2021,Cho Mình Em - Single,206,,,,https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc,https://www.youtube.com/watch?v=2OKYsYErfFo,https://music.apple.com/vn/album/cho-m%C3%ACnh-em/1561169077?i=1561169078&uo=4,https://lyricstranslate.com/es/cho-minh-em-only-you.html,,,high,batch-31-40
+song-122,OK,Binz,Binz,,,,,,,,,,,,,,medium,batch-31-40
+song-123,SoFar,Binz,Binz,,2018,SO FAR - Single,205,,,,,,https://music.apple.com/vn/album/so-far/1525249666?i=1525249667&uo=4,,,,high,batch-31-40
+song-124,Người lạ ơi,Karik; Orange,Châu Đăng Khoa; Nemo; Karik; Orange,Karik; Châu Đăng Khoa,2018,,288,,,,,,,,"Tôi lạc quan giữa đám đông, nhưng khi một mình thì lại không",,high,batch-31-40; batch-41-50
+song-125,Anh Không Đòi Quà,Karik; OnlyC,OnlyC,Karik,2013,,161,,,,,,https://music.apple.com/vn/album/anh-kh%C3%B4ng-%C4%91%C3%B2i-qu%C3%A0/6820460729?i=6820460733&uo=4,,,,medium,batch-31-40
+song-126,Bạn Đời,Karik; GDucky,Karik; GDucky,,2023,Bạn Đời (feat. GDucky) - Single,301,,,,,,https://music.apple.com/vn/album/b%E1%BA%A1n-%C4%91%E1%BB%9Di-feat-gducky/1710095439?i=1710095788&uo=4,,,,high,batch-31-40
+song-127,Có Lẽ Anh Chưa Từng,OnlyC; Karik,OnlyC,Karik,2021,Có Lẽ Anh Chưa Từng (feat. Karik) - Single,295,,,,,,https://music.apple.com/vn/album/c%C3%B3-l%E1%BA%BD-anh-ch%C6%B0a-t%E1%BB%ABng-feat-karik/1560354044?i=1560354060&uo=4,,,,medium,batch-31-40
+song-128,N-Sao?,Suboi,Suboi,,2018,No Nê,216,,,,,,https://music.apple.com/vn/album/n-sao/1884294108?i=1884294110&uo=4,,,,high,batch-31-40
+song-129,Cho Không,Suboi,Suboi,,2019,No Nê,201,,,,,,https://music.apple.com/vn/album/cho-kh%C3%B4ng/1882730625?i=1882730627&uo=4,,,,high,batch-31-40
+song-130,Bet On Me,Suboi,Suboi,,2019,No Nê,225,,,,,,https://music.apple.com/vn/album/bet-on-me/1882728733?i=1882728735&uo=4,,,,high,batch-31-40
+song-131,Sickerrr,Suboi,Suboi,,2021,No Nê,,,,,,,,,,,medium,batch-31-40
+song-132,Khu Tao Sống,Wowy; Karik,Wowy; Karik,,2012,Khu Tao Sống - Single,245,,,,,,https://music.apple.com/vn/album/khu-tao-s%E1%BB%91ng/1694287766?i=1694287769&uo=4,,,,high,batch-31-40
+song-133,Chạy,Wowy,Wowy,,2013,,,,,,,,,,,,medium,batch-31-40
+song-134,Sài Gòn Đẹp Lắm,Nah; Thai Viet G; Wowy,Nah; Thai Viet G; Wowy,,2011,Sài Gòn Đẹp Lắm (feat. Thai Viet G & Wowy) - Single,256,,,,,,https://music.apple.com/vn/album/s%C3%A0i-g%C3%B2n-%C4%91%E1%BA%B9p-l%E1%BA%AFm-feat-thai-viet-g-wowy/1691961350?i=1691961353&uo=4,,,,high,batch-31-40
+song-135,Hai Thế Giới,Wowy; Karik,Wowy; Karik,,2011,Hai Thế Giới - Single,288,,,,,,https://music.apple.com/vn/album/hai-th%E1%BA%BF-gi%E1%BB%9Bi/1693983600?i=1693983613&uo=4,,,,high,batch-31-40
+song-136,Yêu 5,Rhymastic,Rhymastic,,2017,Yêu 5 - Single,240,,,,,,https://music.apple.com/vn/album/y%C3%AAu-5/1525248364?i=1525248728&uo=4,,,,high,batch-31-40
+song-137,Nến Và Hoa,Rhymastic,Rhymastic,,2018,Nến Và Hoa - Single,166,,,,,,https://music.apple.com/vn/album/n%E1%BA%BFn-v%C3%A0-hoa/1525249146?i=1525249156&uo=4,,,,high,batch-31-40
+song-138,Cứ Chill Thôi,Chillies; SUNI Hạ Linh; Rhymastic,Chillies; SUNI Hạ Linh; Rhymastic,,2020,Cứ Chill Thôi - Single,270,,,,,,https://music.apple.com/vn/album/c%E1%BB%A9-chill-th%C3%B4i/1522914036?i=1522914058&uo=4,,,,high,batch-31-40
+song-139,Lặng,Rhymastic,Rhymastic,,,,,,,,,,,,,,low,batch-31-40
+song-140,Đã Lỡ Yêu Em Nhiều,JustaTee,JustaTee,,2017,Đã Lỡ Yêu Em Nhiều - Single,261,,,,,,https://music.apple.com/vn/album/%C4%91%C3%A3-l%E1%BB%A1-y%C3%AAu-em-nhi%E1%BB%81u/1635497249?i=1635497257&uo=4,,,,medium,batch-31-40
+song-141,Thằng Điên,JustaTee; Phương Ly,JustaTee; Phương Ly,,2018,Thằng Điên - Single,234,,,,,,https://music.apple.com/vn/album/th%E1%BA%B1ng-%C4%91i%C3%AAn/1635731796?i=1635731827&uo=4,,,,medium,batch-31-40
+song-142,Bâng Khuâng,JustaTee,JustaTee,,2014,Bâng Khuâng - Single,313,,,,,,https://music.apple.com/vn/album/b%C3%A2ng-khu%C3%A2ng/1528967439?i=1528967443&uo=4,,,,medium,batch-31-40
+song-143,Forever Alone,JustaTee,JustaTee,,2013,Forever Alone - Single,238,,,,,,https://music.apple.com/vn/album/forever-alone/1669304688?i=1669304899&uo=4,,,,medium,batch-31-40
+song-144,Mượn Rượu Tỏ Tình,BigDaddy; Emily,Tiên Cookie; BigDaddy,,2019,Mượn Rượu Tỏ Tình - Single,198,,,,,,https://music.apple.com/vn/album/m%C6%B0%E1%BB%A3n-r%C6%B0%E1%BB%A3u-t%E1%BB%8F-t%C3%ACnh/1749300265?i=1749300274&uo=4,,,,high,batch-31-40
+song-145,Mẩy Thật Mẩy,BigDaddy,BigDaddy,,,,,,,,,,,,,,low,batch-31-40
+song-146,Nóng,BigDaddy,BigDaddy,,2013,Nóng (feat. Hạnh Sino) - Single,198,,,,,,https://music.apple.com/vn/album/n%C3%B3ng-feat-h%E1%BA%A1nh-sino/1691698839?i=1691698844&uo=4,,,,medium,batch-31-40
+song-147,Yêu Nắm,BigDaddy; Emily,BigDaddy; Emily,,2024,Yêu Nắm - Single,227,,,,,,https://music.apple.com/vn/album/y%C3%AAu-n%E1%BA%AFm/1729613707?i=1729613976&uo=4,,,,medium,batch-31-40
+song-148,Chìm Sâu,MCK; Trung Trần,MCK; Trung Trần,,2022,Chìm Sâu (feat. Trung Trần) - Single,156,,,,https://open.spotify.com/track/7jLSThU5Kg1RWt19Leiaxm,,https://music.apple.com/vn/album/ch%C3%ACm-s%C3%A2u-feat-trung-tr%E1%BA%A7n/1611020804?i=1611020813&uo=4,,,,high,batch-31-40
+song-149,Anh Đã Ổn Hơn,MCK,MCK,,2023,99%,194,,,,,,https://music.apple.com/vn/album/anh-%C4%91%C3%A3-%E1%BB%95n-h%C6%A1n/6773655341?i=6773655828&uo=4,,,,high,batch-31-40
+song-150,Tại Vì Sao,MCK,MCK,,2023,99%,203,,,,,,https://music.apple.com/vn/album/t%E1%BA%A1i-v%C3%AC-sao/6773655341?i=6773655696&uo=4,,,,high,batch-31-40
+song-151,"Giàu Vì Bạn, Sang Vì Vợ",MCK,MCK,,2020,Rap Việt Tập 13 - EP,223,,,,,,https://music.apple.com/vn/album/gi%C3%A0u-v%C3%AC-b%E1%BA%A1n-sang-v%C3%AC-v%E1%BB%A3/1870811006?i=1870811024&uo=4,,,,medium,batch-31-40
+song-152,Tán Gái 101,Low G,Low G,,,,,,,,,,,,,,low,batch-31-40
+song-153,Tán Gái 606,Low G,Low G,,2020,Tán Gái 606 - Single,173,,,,,,https://music.apple.com/vn/album/t%C3%A1n-g%C3%A1i-606/1823020742?i=1823020745&uo=4,,,,high,batch-31-40
+song-154,An Thần,Low G; Thắng,Low G; Thắng,,2021,An Thần - Single,174,,,,,,https://music.apple.com/vn/album/an-th%E1%BA%A7n/1823151204?i=1823151565&uo=4,,,,high,batch-31-40
+song-155,Flexin Trên Circle K,Low G,Low G,,,,,,,,,,,,,,low,batch-31-40
+song-156,Simple Love,Obito; Seachains; Davis; Lena,Obito,,2019,Simple Love - Single,214,,,,,,https://music.apple.com/vn/album/simple-love/6819611194?i=6819611196&uo=4,,,,medium,batch-31-40; batch-41-50
+song-157,Lost,Obito,Obito,,2020,,,,,,,https://www.youtube.com/watch?v=AjYHDs63jrk,,,,,medium,batch-31-40
+song-158,Buồn Hay Vui,VSOUL; Boyzed; Obito; MCK; Ronboogz,VSOUL; Boyzed; Obito; MCK; Ronboogz,,2023,"Buồn Hay Vui (feat. Boyzed, Obito, RPT MCK & Ronboogz) - Single",292,,,,,,https://music.apple.com/vn/album/bu%E1%BB%93n-hay-vui-feat-boyzed-obito-rpt-mck-ronboogz/1759395422?i=1759395433&uo=4,,,,high,batch-31-40
+song-159,Hà Nội,Obito; Shiki; VSTRA,Obito; Shiki; VSTRA,,2023,Đánh Đổi,166,,,,,,https://music.apple.com/vn/album/h%C3%A0-n%E1%BB%99i/6819132410?i=6819132553&uo=4,,,,medium,batch-31-40
+song-160,Slow Down,Seachains,,,2018,,,,,,,,,,,,medium,batch-41-50
+song-161,Anh 17,Seachains,,,2020,,,,,,,,,,,,medium,batch-41-50
+song-162,Chó chạy ngoài đồng,Seachains,,,2023,,,,,,,,,,,,medium,batch-41-50
+song-163,Tiểu thuyết tình yêu,Andree Right Hand; Lee7,,,2006,"A, L Double E (Block Us)",,,,,,,,,,,high,batch-41-50
+song-164,Ngọn nến trước gió,Andree Right Hand; LK; JustaTee; Emily,,,2012,,,,,,,,,,,,high,batch-41-50
+song-165,Nhạc anh,Andree Right Hand; Wxrdie,,,2020,,,,,,,,,,,,high,batch-41-50
+song-166,Krazy,Binz; Andree Right Hand,,,2018,,,,,,,,,,,,medium,batch-41-50
+song-167,Silence,Lil Wuyn,Lil Wuyn,,2021,,,,,,,,,,,,medium,batch-41-50
+song-168,Còn Thở Còn Gỡ,Lil Wuyn,Lil Wuyn,,2021,,,,,,,,,,,,medium,batch-41-50
+song-169,Mở Mắt,Lil Wuyn; Đen,Lil Wuyn,,,An,,,,,,,,,,,medium,batch-41-50
+song-170,Như Vậy Nhé,Lil Wuyn; Wxrdie,Lil Wuyn; Wxrdie,,2025,,,,,,,https://www.youtube.com/watch?v=ZKOKLRcoS0U,,,,,high,batch-41-50
+song-171,Yêu xa,Vũ Cát Tường,Vũ Cát Tường,Vũ Cát Tường,2014,Giải mã,,,,,,,,,,,high,batch-41-50
+song-172,Đông,Vũ Cát Tường,Vũ Cát Tường,Vũ Cát Tường,2014,Giải mã,,,,,,,,,,,high,batch-41-50
+song-173,Mơ,Vũ Cát Tường,Vũ Cát Tường,Vũ Cát Tường,2016,,,,,,,,,,,,high,batch-41-50
+song-174,Có người,Vũ Cát Tường,,,2019,Inner Me,,,,,,,,,,,medium,batch-41-50
+song-175,Yếu đuối,Hoàng Dũng,Hoàng Dũng,Hoàng Dũng,2015,,,,,,,,,,,,high,batch-41-50
+song-176,Chờ anh nhé,Hoàng Dũng; Hoàng Rob,Minh Min,,2016,,,,,,,,,,,,medium,batch-41-50
+song-177,Nàng thơ,Hoàng Dũng,Hoàng Dũng,Hoàng Dũng,2020,25,,,,,,,,,,,high,batch-41-50
+song-178,Đôi lời tình ca,Hoàng Dũng,,,2019,,,,,,,,,,,,medium,batch-41-50
+song-179,Một đêm say (X),Thịnh Suy,Thịnh Suy,Thịnh Suy,2018,,,,,,,https://www.youtube.com/watch?v=Csuk1Wm5W0E,,,Lại gần hôn anh đi,,high,batch-41-50
+song-180,Thắc mắc?,Thịnh Suy,Thịnh Suy,Thịnh Suy,2019,,,,,,,https://www.youtube.com/watch?v=YTQ-n0SgdiY,,,,,medium,batch-41-50
+song-181,Chuyện rằng,Thịnh Suy,Thịnh Suy,Thịnh Suy,2020,gop,,,,,,https://www.youtube.com/watch?v=akgNYX8i9Xs,,,,,medium,batch-41-50
+song-182,Tiny Love,Thịnh Suy,Thịnh Suy,Thịnh Suy,2021,tiny things,,,,,,,,,,,medium,batch-41-50
+song-183,Nghe em,Thịnh Suy,Thịnh Suy,Thịnh Suy,,,,,,,,https://www.youtube.com/watch?v=EN1bplFXfIw,,,,,medium,batch-41-50
+song-184,Chênh vênh,Lê Cát Trọng Lý,Lê Cát Trọng Lý,Lê Cát Trọng Lý,2008,,,,,,,,,,,,high,batch-41-50
+song-185,Tám chữ có,Lê Cát Trọng Lý,Lê Cát Trọng Lý,Lê Cát Trọng Lý,2013,Tuổi 25,,,,,,,,,,,medium,batch-41-50
+song-186,Em đứng trên cánh đồng,Lê Cát Trọng Lý,Lê Cát Trọng Lý,Lê Cát Trọng Lý,2017,Không sao về bắt đầu,,,,,,,,,,,medium,batch-41-50
+song-187,Không sao về bắt đầu,Lê Cát Trọng Lý,Lê Cát Trọng Lý,Lê Cát Trọng Lý,2017,Không sao về bắt đầu,,,,,,,,,,,medium,batch-41-50
+song-188,Hôm Nay Tôi Buồn,Phùng Khánh Linh,Phùng Khánh Linh,Phùng Khánh Linh,2018,,,,,,,,,,,,high,batch-41-50
+song-189,World Without You,Phùng Khánh Linh,Phùng Khánh Linh,Phùng Khánh Linh,2020,Yesteryear,,,,,,,,,,,high,batch-41-50
+song-190,Cô gái nhân ái (He Said She Said),Phùng Khánh Linh,Phùng Khánh Linh,Phùng Khánh Linh,2020,Yesteryear,,,,,,,,,,,medium,batch-41-50
+song-191,Sweet Summer,Phùng Khánh Linh,Phùng Khánh Linh,Phùng Khánh Linh,2022,Citopia,,,,,,,,,,,high,batch-41-50
+song-192,Chân ái,Orange; Khói,,,2020,,,,,,,,,,,,medium,batch-41-50
+song-193,Khi em lớn,Orange; Hoàng Dũng,Orange,Orange,2021,Cam'On,,,,,,,,,,,high,batch-41-50
+song-194,Em hát ai nghe,Orange,,,2021,,,,,,,,,,,,medium,batch-41-50
+song-195,24h,LyLy; Magazine,LyLy,LyLy,2018,,,,,,,https://www.youtube.com/watch?v=IpniN1Wq68Y&list=RDkOU7a6BzDEk&index=9,,,24h trôi qua em nhận ra anh đã chẳng còn bên em,,high,batch-41-50
+song-196,Không yêu đừng gây thương nhớ,LyLy; Karik,LyLy,LyLy,2019,,,,,,,,,,,,medium,batch-41-50
+song-197,Vì em là con gái,LyLy,LyLy,LyLy,2021,,,,,,,,,,,,medium,batch-41-50
+song-198,"Không sao mà, em đây rồi",Suni Hạ Linh; Lou Hoàng,LyLy,LyLy,2019,,,,,,,,,,,,medium,batch-41-50
+song-199,Xin Hãy Thứ Tha,Hồ Ngọc Hà; Suboi,Dương Khắc Linh,,2009,The First Single,,,,,,,,,,,high,batch-51-60
+song-200,Hãy Thứ Tha Cho Em,Hồ Ngọc Hà,Dương Khắc Linh,Hoàng Huy Long,2013,,,,,,,,,,,,medium,batch-51-60
+song-201,Cả Một Trời Thương Nhớ,Hồ Ngọc Hà,Nguyễn Minh Cường,,2017,Love Songs 2: Cả Một Trời Thương Nhớ,,,,,,,,,,,high,batch-51-60
+song-202,Cô Đơn Trên Sofa,Hồ Ngọc Hà,Tăng Duy Tân,,2022,,,,,,,,,,,,high,batch-51-60
+song-203,Chạm Khẽ Tim Anh Một Chút Thôi,Noo Phước Thịnh,Đỗ Hiếu,,2017,,,,,,,,,,,,medium,batch-51-60
+song-204,Thương Em Là Điều Anh Không Thể Ngờ,Noo Phước Thịnh,Triết Phạm,,2017,,,,,,,,,,,,medium,batch-51-60
+song-205,Như Phút Ban Đầu,Noo Phước Thịnh,Đỗ Hiếu,,2015,,,,,,,,,,,,medium,batch-51-60
+song-206,Gạt Đi Nước Mắt,Noo Phước Thịnh,Nguyễn Hoàng Duy,,2014,,,,,,,,,,,,medium,batch-51-60
+song-207,Bad Boy,Đông Nhi,Đỗ Hiếu,,2014,,,,,,,,,,,,medium,batch-51-60
+song-208,Vì Ai Vì Anh,Đông Nhi,Đỗ Hiếu,,2011,,,,,,,,,,,,medium,batch-51-60
+song-209,Xin Lỗi Anh Quá Phiền,Đông Nhi,Đỗ Hiếu,,2015,,,,,,,,,,,,medium,batch-51-60
+song-210,Trốn Tìm,Đông Nhi,,,,,,,,,,,,,,,low,batch-51-60
+song-211,Đường Cong,Thu Minh,Nguyễn Hải Phong,,2010,Ruby – Sixth Sense,,,,,,,,,,,medium,batch-51-60
+song-212,Bay,Thu Minh,Nguyễn Hải Phong,,2011,Body Language (Ngôn Ngữ Cơ Thể),,,,,,,,,,,medium,batch-51-60
+song-213,Taxi,Thu Minh,Nguyễn Hải Phong,,2012,,,,,,,,,,,,medium,batch-51-60
+song-214,Chuông Gió,Thu Minh,Võ Thiện Thanh,,2006,,,,,,,,,,,,medium,batch-51-60
+song-215,Anh,Hồ Quỳnh Hương,,,2010,Anh,,,,,,,,,,,medium,batch-51-60
+song-216,Hoang Mang,Hồ Quỳnh Hương,,,2007,,,,,,,,,,,,medium,batch-51-60
+song-217,Với Anh Em Vẫn Là Cô Bé,Hồ Quỳnh Hương,,,,,,,,,,,,,,,medium,batch-51-60
+song-218,Bức Thư Tình Thứ Hai,Hồ Quỳnh Hương,,,,,,,,,,,,,,,medium,batch-51-60
+song-219,Tìm Lại Bầu Trời,Tuấn Hưng,Khắc Việt,,2013,,,,,,,,,,,,high,batch-51-60
+song-220,Nắm Lấy Tay Anh,Tuấn Hưng,Anh Tú (Tú Dưa),,2013,,,,,,,,,,,,medium,batch-51-60
+song-221,Cầu Vồng Khuyết,Tuấn Hưng,Minh Khang,,2008,Vol 6,,,,,,,,,,,medium,batch-51-60
+song-222,Anh Nhớ Em,Tuấn Hưng,Anh Tú (Tú Dưa),,,Ảo Giác (Illusion),,,,,,,,,,,medium,batch-51-60
+song-223,Vì Đó Là Em,Quang Dũng,Diệu Hương,,2003,,,,,,,,,,,,medium,batch-51-60
+song-224,Còn Ta Với Nồng Nàn,Quang Dũng,Quốc Bảo,,,,,,,,,,,,,,medium,batch-51-60
+song-225,Anh Còn Nợ Em,Quang Dũng,Anh Bằng,,,,,,,,,,,,,,medium,batch-51-60
+song-226,Biển Tình,Quang Dũng,Lam Phương,,,,,,,,,,,,,,medium,batch-51-60
+song-227,Trái Tim Bên Lề,Bằng Kiều,Phạm Khải Tuấn,,,,,,,,,,,,,,high,batch-51-60
+song-228,Nơi Tình Yêu Bắt Đầu,Bằng Kiều; Lam Anh; Bùi Anh Tuấn,Tiến Minh,,2012,,276,,,,,,https://music.apple.com/vn/album/n%C6%A1i-t%C3%ACnh-y%C3%AAu-b%E1%BA%AFt-%C4%91%E1%BA%A7u/1572736359?i=1572736545,,,,high,batch-51-60; batch-61-70
+song-229,Anh Sẽ Nhớ Mãi,Bằng Kiều,,,2003,Anh Sẽ Nhớ Mãi,,,,,,,,,,,medium,batch-51-60
+song-230,Để Nhớ Một Thời Ta Đã Yêu,Bằng Kiều,Thái Thịnh,,,,,,,,,,,,,,medium,batch-51-60
+song-231,Bình Minh Sẽ Mang Em Đi,Đàm Vĩnh Hưng,,,,,,,,,,,,,,,medium,batch-51-60
+song-232,Xin Lỗi Tình Yêu,Đàm Vĩnh Hưng,,,2007,Xin Lỗi Tình Yêu,,,,,,,,,,,medium,batch-51-60
+song-233,Say Tình,Đàm Vĩnh Hưng,,,,,,,,,,,,,,,medium,batch-51-60
+song-234,Tình Ơi Xin Ngủ Yên,Đàm Vĩnh Hưng,,,2001,Vol. 1 – Tình Ơi Xin Ngủ Yên,,,,,,,,,,,medium,batch-51-60
+song-235,Tình Thôi Xót Xa,Lam Trường,Bảo Chấn,,1998,Tình Thôi Xót Xa,,,,,,,,,,,high,batch-51-60
+song-236,Katy Katy,Lam Trường,Đức Trí,,,,,,,,,,,,,,high,batch-51-60
+song-237,Đôi Giày Vải,Lam Trường,Nguyễn Hải Phong,,,,,,,,,,,,,,medium,batch-51-60
+song-238,Mưa Phi Trường,Lam Trường,,,,,,,,,,,,,,,medium,batch-51-60
+song-239,Cảm Ơn Tình Yêu,Uyên Linh,Huy Tuấn,,2011,Vietnam Idol 2010,,,,,,https://www.youtube.com/watch?v=4NmcXg5ZmE4,,,,,medium,batch-61-70
+song-240,Bài Hát Của Em,Uyên Linh,Trang,,2017,Portrait,228,,,,,,https://music.apple.com/vn/album/b%C3%A0i-h%C3%A1t-c%E1%BB%A7a-em/1637639866?i=1637639868&uo=4,,,,high,batch-61-70
+song-241,Giữa Đại Lộ Đông Tây,Uyên Linh,Hứa Kim Tuyền,,2021,Giữa Đại Lộ Đông Tây - Single,227,,,,,,,,,,high,batch-61-70
+song-242,Đại Lộ Tan Vỡ,Uyên Linh,Phạm Hải Âu,,2018,Portrait,240,,,,,,https://music.apple.com/vn/album/%C4%91%E1%BA%A1i-l%E1%BB%99-tan-v%E1%BB%A1/1312763104?i=1312763270&uo=4,,,,high,batch-61-70
+song-243,Hơn 1000 Năm Sau,Quốc Thiên,Trịnh Đình Quang,,2023,Hơn 1000 Năm Sau - Single,313,,,,,https://www.youtube.com/watch?v=EPpyyI-H55Q,https://music.apple.com/vn/album/h%C6%A1n-1000-n%C4%83m-sau/1713546798?i=1713546892,,Hơn một ngàn năm sau tình yêu mãi còn vương,,high,batch-61-70
+song-244,Chia Cách Bình Yên,Quốc Thiên,Tiên Cookie,,2013,Khi Anh Lặng Im,,,,,,,,,,,medium,batch-61-70
+song-245,Khi Anh Lặng Im,Quốc Thiên,Tiên Cookie,,2013,Khi Anh Lặng Im,264,,,,,,https://music.apple.com/vn/album/khi-anh-l%E1%BA%B7ng-im/1736565751?i=1736566360,,,,high,batch-61-70
+song-246,Dấu Mưa,Trung Quân,Phạm Toàn Thắng,Phạm Toàn Thắng,2013,Dấu Mưa,239,,,d6906614-12d9-497a-aaee-969c5a0af4e8,,,https://music.apple.com/vn/album/d%E1%BA%A5u-m%C6%B0a/1814450666?i=1814450679,,,,high,batch-61-70
+song-247,Trót Yêu,Trung Quân,Ái Phương,,2014,,301,,,,,https://www.youtube.com/watch?v=60mS6c9rg0E,https://music.apple.com/vn/album/tr%C3%B3t-y%C3%AAu/1814450666?i=1814451083,,,,high,batch-61-70
+song-248,Chưa Bao Giờ,Trung Quân,Tiên Tiên,,2015,Chưa Bao Giờ - Single,285,,,3c824ee5-660d-40ab-b448-f8fd9e0123b2,,,https://music.apple.com/vn/album/ch%C6%B0a-bao-gi%E1%BB%9D/6769792779?i=6769792780,,,,high,batch-61-70
+song-249,Chưa bao giờ,Thu Phương,Việt Anh,,,,238,,,,,,https://music.apple.com/vn/album/ch%C6%B0a-bao-gi%E1%BB%9D/1740392707?i=1740394173&uo=4,,,,medium,batch-71-80
+song-250,Thả Vào Mưa,Trung Quân,Phạm Toàn Thắng,,2016,Thả Vào Mưa - Single,343,,,,,,https://music.apple.com/vn/album/th%E1%BA%A3-v%C3%A0o-m%C6%B0a/1591604397?i=1591604401,,,,high,batch-61-70
+song-251,Hẹn Một Mai,Bùi Anh Tuấn,Nguyễn Duy Anh,,2016,"Hẹn Một Mai (From ""4 Năm 2 Chàng 1 Tình Yêu"") - Single",260,,,,,,https://music.apple.com/vn/album/h%E1%BA%B9n-m%E1%BB%99t-mai-from-4-n%C4%83m-2-ch%C3%A0ng-1-t%C3%ACnh-y%C3%AAu/1734193131?i=1734193138,,,,high,batch-61-70
+song-252,Thuận Theo Ý Trời,Bùi Anh Tuấn,Vương Anh Tú,,2019,Thuận Theo Ý Trời - Single,237,,,,,,https://music.apple.com/vn/album/thu%E1%BA%ADn-theo-%C3%BD-tr%E1%BB%9Di/6769720275?i=6769720279,,Lìa xa nhau là thuận theo ý trời,,high,batch-61-70
+song-253,Phố Không Mùa,Bùi Anh Tuấn; Dương Trường Giang,Dương Trường Giang,,2013,Phố Không Mùa - Single,394,,,,,,https://music.apple.com/vn/album/ph%E1%BB%91-kh%C3%B4ng-m%C3%B9a/1887498508?i=1887498577,,,,high,batch-61-70
+song-254,Buông,Lâm Bảo Ngọc,Nguyễn Duy Anh,,2023,,339,,,,,,,,,,medium,batch-61-70
+song-255,Rồi Em Sẽ Gặp Một Chàng Trai Khác,Lâm Bảo Ngọc,Hứa Kim Tuyền,,2023,Rồi Em Sẽ Gặp Một Chàng Trai Khác - Single,304,,,,,,https://music.apple.com/vn/album/r%E1%BB%93i-em-s%E1%BA%BD-g%E1%BA%B7p-m%E1%BB%99t-ch%C3%A0ng-trai-kh%C3%A1c/6815541738?i=6815541955,,Rồi em sẽ gặp một chàng trai khác,,high,batch-61-70
+song-256,Gọi Tên Một Nỗi Buồn,Lâm Bảo Ngọc,Đức Trí,,2024,Gọi tên một nỗi buồn - Single,369,,,,,,https://music.apple.com/vn/album/g%E1%BB%8Di-t%C3%AAn-m%E1%BB%99t-n%E1%BB%97i-bu%E1%BB%93n/1778007105?i=1778007406,,,,high,batch-61-70
+song-257,Nói Không Thành Lời,Lâm Bảo Ngọc,Nguyễn Hải Minh,,2023,Nói Không Thành Lời - Single,255,,,,,,https://music.apple.com/vn/album/n%C3%B3i-kh%C3%B4ng-th%C3%A0nh-l%E1%BB%9Di/1760429295?i=1760429603,,,,medium,batch-61-70
+song-258,Không Phải Em Đúng Không?,Dương Hoàng Yến,Khắc Việt,,2018,Không Phải Em Đúng Không? - Single,217,,,,,https://www.youtube.com/watch?v=7W7Nxur8H9k,https://music.apple.com/vn/album/kh%C3%B4ng-ph%E1%BA%A3i-em-%C4%91%C3%BAng-kh%C3%B4ng/1453122256?i=1453122258,,"Sẽ không phải là em, mà là cô ấy",,high,batch-61-70
+song-259,Tình Cũ Bao Giờ Cũng Tốt Hơn?,Dương Hoàng Yến,Khắc Hưng,,2019,Tình Cũ Bao Giờ Cũng Tốt Hơn? - Single,243,,,,,https://www.youtube.com/watch?v=kfqyptYX42Q,https://music.apple.com/vn/album/t%C3%ACnh-c%C5%A9-bao-gi%E1%BB%9D-c%C5%A9ng-t%E1%BB%91t-h%C6%A1n/1735782645?i=1735783100,,,,medium,batch-61-70
+song-260,Xe Anh Đến Đâu Em Theo Đến Đó,Dương Hoàng Yến; Đạt G,,,2021,,,,,,,,,,,,medium,batch-61-70
+song-261,Tình Yêu Đến Sau,Myra Trần,Triết Phạm,,2022,Tình Yêu Đến Sau - Single,271,,,,,,https://music.apple.com/vn/album/t%C3%ACnh-y%C3%AAu-%C4%91%E1%BA%BFn-sau/1655128959?i=1655129406,https://hoatieu.vn/tai-lieu/loi-bai-hat-tinh-yeu-den-sau-lady-may-217614,Vờ như chẳng thấy đau một tình yêu đến sau,,high,batch-61-70
+song-262,Rồi Cũng Sẽ Qua,Myra Trần,Huỳnh Quốc Huy,Huỳnh Quốc Huy,2022,Nghi Ngờ Tình Yêu,219,,,,,,https://music.apple.com/vn/album/r%E1%BB%93i-c%C5%A9ng-s%E1%BA%BD-qua/1772772967?i=1772772970,,,,medium,batch-61-70
+song-263,Ngày Hai Đứa Chung Nhà,Vương Anh Tú; Myra Trần,Vương Anh Tú,,2025,Ngày hai đứa chung nhà (feat. Myra Trần) - Single,243,,,,,,https://music.apple.com/vn/album/ng%C3%A0y-hai-%C4%91%E1%BB%A9a-chung-nh%C3%A0-feat-myra-tr%E1%BA%A7n/1800732748?i=1800732749,,,,high,batch-61-70
+song-264,Phải Chăng Em Đã Yêu?,Juky San; RedT,RedT,,2021,Phải Chăng Em Đã Yêu? (feat. RedT) - Single,190,,,3db528bf-54d2-4fec-87f1-6ed824bbec2c,,https://www.youtube.com/watch?v=O81_4VAson4,https://music.apple.com/vn/album/ph%E1%BA%A3i-ch%C4%83ng-em-%C4%91%C3%A3-y%C3%AAu-feat-redt/1588952730?i=1588952731,,Phải chăng em đã yêu ngay từ cái nhìn đầu tiên,,high,batch-61-70
+song-265,Thiên Hạ Hữu Tình Nhân,Juky San,,,2020,,,,,,,,,,,,medium,batch-61-70
+song-266,Người Đầu Tiên,Juky San; buitruonglinh,Juky San,,2025,"EM XINH ""SAY HI"", TẬP 12",232,,,,,,https://music.apple.com/vn/album/ng%C6%B0%E1%BB%9Di-%C4%91%E1%BA%A7u-ti%C3%AAn/1833435773?i=1833436148,,,,high,batch-61-70
+song-267,Tớ Thích Cậu,Han Sara,Huỳnh Hiền Năng,,2017,Tớ Thích Cậu - Single,202,,,,,https://www.youtube.com/watch?v=S1Tq2LazfXQ,https://music.apple.com/vn/album/t%E1%BB%9B-th%C3%ADch-c%E1%BA%ADu/1558092071?i=1558092166,,,,high,batch-61-70
+song-268,Đếm Cừu,Han Sara; Kay Trần,Ân Nhi,,2019,Đếm Cừu - Single,212,,,,,https://www.youtube.com/watch?v=HHkanUBpDBw,https://music.apple.com/vn/album/%C4%91%E1%BA%BFm-c%E1%BB%ABu/1722388433?i=1722388438,,,,high,batch-61-70
+song-269,Vì Yêu Là Nhớ,Han Sara,OnlyC,Quang Hùng; T.R.I,2018,,,,,,,,,,,,high,batch-61-70
+song-270,Lỡ Yêu Mất Rồi,Han Sara; Tùng Maru,Tùng Maru,,2017,Lỡ Yêu Mất Rồi (feat. Tùng Maru) - Single,239,,,,,,,,,,medium,batch-61-70
+song-271,Rồi Người Thương Cũng Hóa Người Dưng,Hiền Hồ,RIN9,Hiền Hồ,2018,Rồi Người Thương Cũng Hóa Người Dưng - Single,278,,,,,,https://music.apple.com/vn/album/r%E1%BB%93i-ng%C6%B0%E1%BB%9Di-th%C6%B0%C6%A1ng-c%C5%A9ng-h%C3%B3a-ng%C6%B0%E1%BB%9Di-d%C6%B0ng/1632503679?i=1632503683,https://lyricvn.com/?p=229,,,high,batch-61-70
+song-272,Em Ngày Xưa Khác Rồi,Hiền Hồ,Vương Anh Tú,,2017,Em Ngày Xưa Khác Rồi - Single,288,,,,,,https://music.apple.com/vn/album/em-ng%C3%A0y-x%C6%B0a-kh%C3%A1c-r%E1%BB%93i/1632509457?i=1632509650,,,,medium,batch-61-70
+song-273,Gặp Nhưng Không Ở Lại,Hiền Hồ; Vương Anh Tú,Vương Anh Tú,,2020,Gặp Nhưng Không Ở Lại - Single,277,,,,,,https://music.apple.com/vn/album/g%E1%BA%B7p-nh%C6%B0ng-kh%C3%B4ng-%E1%BB%9F-l%E1%BA%A1i/1623332508?i=1623332512,,,,high,batch-61-70
+song-274,Nhớ về Hà Nội,Hồng Nhung,Hoàng Hiệp,,1984,Đoản khúc thu Hà Nội,321,,,,,,https://music.apple.com/vn/album/nh%E1%BB%9B-v%E1%BB%81-h%C3%A0-n%E1%BB%99i/1741503971?i=1741505075&uo=4,,"Dù có đi bốn phương trời, lòng vẫn nhớ về Hà Nội",,high,batch-71-80
+song-275,Giọt sương trên mí mắt,Hồng Nhung,Thanh Tùng,,,,272,,,,,,https://music.apple.com/vn/album/gi%E1%BB%8Dt-s%C6%B0%C6%A1ng-tr%C3%AAn-mi-m%E1%BA%AFt/1481306580?i=1481306588&uo=4,,,,medium,batch-71-80
+song-276,Có phải em mùa thu Hà Nội,Hồng Nhung; Thu Phương,Trần Quang Lộc,,1996,Có Phải Em Mùa Thu Hà Nội,344,,,,,,https://music.apple.com/vn/album/c%C3%B3-ph%E1%BA%A3i-em-m%C3%B9a-thu-h%C3%A0-n%E1%BB%99i/1563263422?i=1563263689&uo=4,,"Tháng tám mùa thu, lá khởi vàng chưa nhỉ",,medium,batch-71-80; batch-71-80
+song-277,Đoản khúc thu Hà Nội,Hồng Nhung,Trịnh Công Sơn,,1997,Đoản khúc thu Hà Nội,288,,,,,,https://music.apple.com/vn/album/%C4%91o%E1%BA%A3n-kh%C3%BAc-thu-h%C3%A0-n%E1%BB%99i/1741503971?i=1741505084&uo=4,,,,medium,batch-71-80
+song-278,Đêm nằm mơ phố,Thu Phương,Việt Anh,,2004,Đêm nằm mơ phố,204,,,,,,https://music.apple.com/vn/album/%C4%91%C3%AAm-n%E1%BA%B1m-m%C6%A1-ph%E1%BB%91/1740392707?i=1740393747&uo=4,,,,medium,batch-71-80
+song-279,Dòng sông lơ đãng,Thu Phương,Việt Anh,,,,201,,,,,,https://music.apple.com/vn/album/d%C3%B2ng-s%C3%B4ng-l%C6%A1-%C4%91%C3%A3ng/1740392707?i=1740393744&uo=4,,,,medium,batch-71-80
+song-280,Riêng một góc trời,Tuấn Ngọc,Ngô Thụy Miên,,1996,Riêng một góc trời,286,,,,,,https://music.apple.com/vn/album/ri%C3%AAng-m%E1%BB%99t-g%C3%B3c-tr%E1%BB%9Di/1755011794?i=1755011797&uo=4,,"Tình yêu như nắng, nắng đưa em về",,high,batch-71-80
+song-281,Chiều một mình qua phố,Tuấn Ngọc,Trịnh Công Sơn,,1991,Tâm Sự Gửi Về Đâu,329,,,,,,https://music.apple.com/vn/album/chi%E1%BB%81u-m%E1%BB%99t-m%C3%ACnh-qua-ph%E1%BB%91/1770680282?i=1770680284&uo=4,,"Chiều một mình qua phố, âm thầm nhớ nhớ tên em",,medium,batch-71-80
+song-282,Lệ đá,Tuấn Ngọc,Trần Trịnh,Hà Huyền Chi,,,,,,,,,,,Hỏi đá xanh rêu bao nhiêu tuổi đời,,medium,batch-71-80
+song-283,Mắt lệ cho người,Tuấn Ngọc,Từ Công Phụng,,,Riêng Một Góc Trời,348,,,,,,https://music.apple.com/vn/album/m%E1%BA%AFt-l%E1%BB%87-cho-ng%C6%B0%E1%BB%9Di/1755011794?i=1755011798&uo=4,,Mưa soi dấu chân em qua cầu,,medium,batch-71-80
+song-284,Diễm xưa,Khánh Ly,Trịnh Công Sơn,,1974,Sơn Ca 7 - Và Những Tình Khúc Trịnh Công Sơn,210,,,,,,https://music.apple.com/vn/album/di%E1%BB%85m-x%C6%B0a-1974/1745161352?i=1745161874&uo=4,,Mưa vẫn mưa bay trên tầng tháp cổ,,high,batch-71-80
+song-285,Hạ trắng,Khánh Ly,Trịnh Công Sơn,,1990,Hạ Trắng,237,,,,,,https://music.apple.com/vn/album/h%E1%BA%A1-tr%E1%BA%AFng/1557955735?i=1557955742&uo=4,,Gọi nắng trên vai em gầy đường xa áo bay,,high,batch-71-80
+song-286,Biển nhớ,Khánh Ly,Trịnh Công Sơn,,1982,Khánh Ly In Japan,292,,,,,,https://music.apple.com/vn/album/bi%E1%BB%83n-nh%E1%BB%9B/1557972239?i=1557972581&uo=4,,"Ngày mai em đi, biển nhớ tên em gọi về",,high,batch-71-80
+song-287,Cát bụi,Khánh Ly,Trịnh Công Sơn,,1974,Sơn Ca 7 - Và Những Tình Khúc Trịnh Công Sơn,209,,,,,,https://music.apple.com/vn/album/c%C3%A1t-b%E1%BB%A5i-1974/1745161352?i=1745161620&uo=4,,Hạt bụi nào hóa kiếp thân tôi,,high,batch-71-80
+song-288,Còn tuổi nào cho em,Ý Lan,Trịnh Công Sơn,,1964,,,,,,,,,,Tuổi nào nhìn lá vàng úa chiều nay,,high,batch-71-80
+song-289,Em còn nhớ hay em đã quên,Ý Lan,Trịnh Công Sơn,,,Trịnh Công Sơn - Một Đời Để Nhớ,352,,,,,,https://music.apple.com/vn/album/em-c%C3%B2n-nh%E1%BB%9B-hay-em-%C4%91%C3%A3-qu%C3%AAn/1669168199?i=1669168591&uo=4,https://www.shazam.com/song/1685815032/em-c%C3%B2n-nh%E1%BB%9B-hay-em-%C4%91%C3%A3-qu%C3%AAn,"Em còn nhớ hay em đã quên, nhớ Sài Gòn mưa rồi chợt nắng",,high,batch-71-80
+song-290,Tình ca,Ý Lan,Phạm Duy,,,Hỡi Người Tình,286,,,,,,https://music.apple.com/vn/album/t%C3%ACnh/1691945408?i=1691945561&uo=4,,Tôi yêu tiếng nước tôi từ khi mới ra đời,,medium,batch-71-80
+song-291,Trăm nhớ ngàn thương,Ý Lan; Vũ Khanh,Lam Phương,,1992,Trăm Nhớ Ngàn Thương,472,,,,,,https://music.apple.com/vn/album/tr%C4%83m-nh%E1%BB%9B-ng%C3%A0n-th%C6%B0%C6%A1ng/1559193163?i=1559193177&uo=4,,,,high,batch-71-80
+song-292,Vết thù trên lưng ngựa hoang,Elvis Phương,Phạm Duy,Ngọc Chánh,1972,Băng Nhạc Shotguns 26,278,,,,,,https://music.apple.com/vn/album/v%E1%BA%BFt-th%C3%B9-tr%C3%AAn-l%C6%B0ng-ng%E1%BB%B1a-hoang/1705651987?i=1705652102&uo=4,,,,medium,batch-71-80
+song-293,Đàn bà,Elvis Phương,Song Ngọc,,1994,Đàn Bà,287,,,,,,https://music.apple.com/vn/album/%C4%91%C3%A0n-b%C3%A0/1669281521?i=1669281718&uo=4,,,,medium,batch-71-80
+song-294,Yêu em dài lâu,Elvis Phương,Đức Huy,,1993,Dạ Vũ Tân Hôn,285,,,,,,https://music.apple.com/vn/album/y%C3%AAu-em-d%C3%A0i-l%C3%A2u/1669302739?i=1669302754&uo=4,,,,medium,batch-71-80
+song-295,Áo anh sứt chỉ đường tà,Elvis Phương,Phạm Duy,,,,323,,,,,,https://music.apple.com/vn/album/%C3%A1o-anh-s%E1%BB%A9t-ch%E1%BB%89-%C4%91%C6%B0%E1%BB%9Dng-t%C3%A0/1764386121?i=1764386127&uo=4,,Áo anh sứt chỉ đường tà,,medium,batch-71-80
+song-296,Tàn tro,Thanh Hà,,,1996,Cát Bụi Tình Xa,223,,,,https://open.spotify.com/track/1xnQpl6Fu5qSGtyYAwBRAS,,https://music.apple.com/vn/album/t%C3%A0n-tro/1559596867?i=1559596876&uo=4,https://www.shazam.com/song/1807666747/t%C3%A0n-tro,,,low,batch-71-80
+song-297,Sợ yêu,Thanh Hà,Hoàng Nhã,,2019,Mới Mẻ Nào Cũng Ngọt Ngào,323,,,,,,https://music.apple.com/vn/album/s%E1%BB%A3-y%C3%AAu/1450042138?i=1450042139&uo=4,,"Cảm giác trong em lúc này, chẳng dám yêu ai thật lòng",,high,batch-71-80
+song-298,Mong manh tình về,Thanh Hà,Đức Trí,Trương Hồ Phương Nga,2013,Mong Manh Tình Về,301,,,,,,https://music.apple.com/vn/album/mong-manh-t%C3%ACnh-v%E1%BB%81/1756591826?i=1756591836&uo=4,,,,high,batch-71-80
+song-299,Sợ bắt đầu sợ kết thúc,Thanh Hà,Đỗ Hiếu,,,,,,,,,https://www.youtube.com/watch?v=PTRw4uEj__w,,,,,high,batch-71-80
+song-300,Trống vắng,Phương Thanh,,,,Trống vắng,294,,,,,,https://music.apple.com/vn/album/tr%E1%BB%91ng-v%E1%BA%AFng-2010-version/1637379335?i=1637379345&uo=4,,,,low,batch-71-80
+song-301,Một thời đã xa,Phương Thanh,Trường Huy,Nguyễn Thanh Hà,,,339,,,,,,https://music.apple.com/vn/album/m%E1%BB%99t-th%E1%BB%9Di-%C4%91%C3%A3-xa-lofi/1640095108?i=1640095112&uo=4,,,,high,batch-71-80
+song-302,Giã từ dĩ vãng,Phương Thanh,Nguyễn Đức Trung,,,,259,,,,,,https://music.apple.com/vn/album/gi%C3%A3-t%E1%BB%AB-d%C4%A9-v%C3%A3ng-thanh-s%C3%B3i-original-soundtrack/1664349155?i=1664349162&uo=4,,Giã từ dĩ vãng quay lưng còn vương chi kiếp tội tình,,medium,batch-71-80
+song-303,Xa rồi mùa đông,Phương Thanh,Nguyễn Nam,,,Xa Rồi Mùa Đông,410,,,,,,https://music.apple.com/vn/album/xa-r%E1%BB%93i-m%C3%B9a-%C4%91%C3%B4ng/1562643286?i=1562643929&uo=4,,,,high,batch-71-80
+song-304,Chim trắng mồ côi,Cẩm Ly; Đan Trường,Minh Vy; Hồ Xương Long,,,Mãi Mãi Một Tình Yêu,362,,,,,,https://music.apple.com/vn/album/chim-tr%E1%BA%AFng-m%E1%BB%93-c%C3%B4i-feat-c%E1%BA%A9m-ly/1869320967?i=1869321072&uo=4,https://www.shazam.com/ko-kr/song/1869321072/chim-tre1baafng-me1bb93-cc3b4i-feat-ce1baa9m-ly,"Chiều quê hai đứa hay vui đùa, em cánh cò anh chim sáo mồ côi",,high,batch-71-80
+song-305,Bờ bến lạ,Cẩm Ly,Nguyễn Nhất Huy,,,,,,,,,,,,,,high,batch-71-80
+song-306,Người về cuối phố,Cẩm Ly,Nguyễn Nhất Huy,,1999,,,,,,,https://www.youtube.com/watch?v=1BqUyQH_WM0,,,Người về cuối phố long lanh giọt sương tràn mi,,high,batch-71-80
+song-307,Thương nhớ người dưng,Cẩm Ly,Nguyễn Nhất Huy,,,Tổ Khúc - Nhạc Trẻ Sài Gòn,318,,,,,,https://music.apple.com/vn/album/th%C6%B0%C6%A1ng-nh%E1%BB%9B-ng%C6%B0%E1%BB%9Di-d%C6%B0ng/1562937616?i=1562937627&uo=4,,,,high,batch-71-80
+song-308,Kiếp ve sầu,Đan Trường,Nguyễn Ngọc Thiện,,1999,Nhạc Tuyển Đan Trường Vol.1,333,,,,,,https://music.apple.com/vn/album/ki%E1%BA%BFp-ve-s%E1%BA%A7u-remix/1894821422?i=1894821434&uo=4,,,,high,batch-71-80
+song-309,Mưa trên cuộc tình,Đan Trường,Lê Quang,,1999,Mưa Trên Cuộc Tình,253,,,,,,https://music.apple.com/vn/album/m%C6%B0a-tr%C3%AAn-cu%E1%BB%99c-t%C3%ACnh/1869304864?i=1869305202&uo=4,,,,medium,batch-71-80
+song-310,Đi về nơi xa,Đan Trường,Lê Quang,,1999,Đi Về Nơi Xa,320,,,,,,https://music.apple.com/vn/album/%C4%91i-v%E1%BB%81-n%C6%A1i-xa/6769791775?i=6769791777&uo=4,,Trong bóng đêm tôi về ôm cuộc tình lẻ loi,,high,batch-71-80
+song-311,Tình khúc vàng,Đan Trường,,,2003,Trương Chi Mỵ Nương,308,,,,,,https://music.apple.com/vn/album/t%C3%ACnh-kh%C3%BAc-v%C3%A0ng/6769796416?i=6769796767&uo=4,,,,low,batch-71-80
+song-312,Duyên Phận,Như Quỳnh; Lệ Quyên,Thái Thịnh,Thái Thịnh,2010,"Duyên phận (Thúy Nga, 2010)",,,,,,,,,"Phận là con gái, chưa một lần yêu ai",,high,batch-81-90
+song-313,Giấc Mơ Có Thật,Lệ Quyên,,Tường Văn,2004,"Giấc mơ có thật (Vol.1, 2004)",260,,,,,,,,,,high,batch-81-90
+song-314,Tình Lỡ,Lệ Quyên,Thanh Bình,Thanh Bình,1956,Khúc Tình Xưa (2010),353,,,,,,,,Thôi rồi còn chi đâu em ơi,,high,batch-81-90
+song-315,Ai Khổ Vì Ai,Lệ Quyên,Thương Linh,Thương Linh,,Khúc Tình Xưa 2 – Trả Lại Thời Gian (2011),,,,,,,,,,,medium,batch-81-90
+song-316,Người Tình Mùa Đông,Như Quỳnh,Miyuki Nakajima,Anh Bằng,1994,"Như Quỳnh 1 – Chuyện Hoa Sim (Asia, 1995)",,,,,,,,,Đường vào tim em ôi băng giá,,high,batch-81-90
+song-317,Chuyện Hoa Sim,Như Quỳnh,Anh Bằng,Hữu Loan,1995,"Như Quỳnh 1 – Chuyện Hoa Sim (Asia, 1995)",318,,,,,,,,Rừng hoang đẹp nhất hoa màu tím,,high,batch-81-90
+song-318,Chuyện Tình Hoa Trắng,Như Quỳnh,Anh Bằng,Kiên Giang (Hà Huy Hà),,,,,,,,,,,,,high,batch-81-90
+song-319,Đập Vỡ Cây Đàn,Quang Lê; Đan Nguyên,Hoa Linh Bảo,Hoa Linh Bảo,,,,,,,,https://www.youtube.com/watch?v=zeZKyTiBiSQ,,,Đập vỡ cây đàn giận đời đập vỡ cây đàn,,medium,batch-81-90
+song-320,Sầu Tím Thiệp Hồng,Quang Lê,Minh Kỳ; Hoài Linh,Minh Kỳ; Hoài Linh,,,,,,,,,,,,,high,batch-81-90
+song-321,Về Đâu Mái Tóc Người Thương,Quang Lê,Hoài Linh,Hoài Linh,1964,,,,,,,https://www.youtube.com/watch?v=NzA1g1gIbAs,,,,,high,batch-81-90
+song-322,Sương Trắng Miền Quê Ngoại,Quang Lê,Đinh Miên Vũ,Đinh Miên Vũ,,Sương Trắng Miền Quê Ngoại (Thúy Nga),,,,,,,,,,,medium,batch-81-90
+song-323,Bông Điên Điển,Phi Nhung,Hà Phương,Hà Phương,,,,,,,,,,,Miền Tây xanh sắc mây trời,,medium,batch-81-90
+song-324,Chiều Lên Bản Thượng,Phi Nhung,Lê Dinh,Lê Dinh,,,,,,,,,,,,,medium,batch-81-90
+song-325,Áo Mới Cà Mau,Phi Nhung,Thanh Sơn,Thanh Sơn,,,,,,,,,,,Cà Mau mặc thêm áo mới,,high,batch-81-90
+song-326,Phải Lòng Con Gái Bến Tre,Phi Nhung; Quang Lê,Phan Ni Tấn,Luân Hoán,,Thúy Nga Music Box #30,,,,,,https://www.youtube.com/watch?v=xq8x0gCO-Zs,,,,,high,batch-81-90
+song-327,Vợ Tôi,Mạnh Quỳnh,Mạnh Quỳnh,Mạnh Quỳnh,,,,,,,,,,,,,medium,batch-81-90
+song-328,Tình Đẹp Như Mơ,Mạnh Quỳnh,Lam Phương,Lam Phương,,,,,,,,,,,Tình yêu từ đâu mà tình yêu vội vã chiếm tim ta,,high,batch-81-90
+song-329,Căn Nhà Màu Tím,Mạnh Quỳnh,Hoài Linh,Hoài Linh,1969,,,,,,,,,,,,high,batch-81-90
+song-330,Gõ Cửa,Mạnh Quỳnh,Mạnh Quỳnh,Mạnh Quỳnh,,,,,,,,,,,Nếu có lần em gõ cửa ghé thăm,,high,batch-81-90
+song-331,Thói Đời,Đan Nguyên; Chế Linh,Trúc Phương,Trúc Phương,1970,,,,,,,,,,,,high,batch-81-90
+song-332,Thành Phố Buồn,Đan Nguyên; Chế Linh,Lam Phương,Lam Phương,1970,,,,,,,,,,Thành phố nào nhớ không em?,,high,batch-81-90
+song-333,Xin Làm Người Xa Lạ,Đan Nguyên; Chế Linh,Tú Nhi,Tú Nhi,1967,,,,,,,https://www.youtube.com/watch?v=ZiYXiCDG_to,,,"Còn gì đâu em, tháng ngày vui qua mất rồi",,high,batch-81-90
+song-334,Mưa Đêm Ngoại Ô,Trường Vũ,Đỗ Kim Bảng,Đỗ Kim Bảng,1961,,,,,,,,,,"Trời đã khuya rồi đây, trăng chênh chếch xuyên ánh qua mành",,high,batch-81-90
+song-335,Phút Cuối,Trường Vũ,Lam Phương,Lam Phương,,,,,,,,,,,,,high,batch-81-90
+song-336,Không Giờ Rồi,Trường Vũ; Như Quỳnh,Vinh Sử,Vinh Sử,,,,,,,,,,,Không giờ rồi anh ngủ đi thôi,,high,batch-81-90
+song-337,Hoa Sứ Nhà Nàng,Trường Vũ,Hoàng Phương; Hoài Nam,Hoàng Phương; Hoài Nam,1968,"Buồn Trong Kỷ Niệm (1998, bản Trường Vũ)",249,,,,,,,,Đêm đêm ngửi mùi hương,,high,batch-81-90
+song-338,Em Đi Trên Cỏ Non,Hương Lan,Bắc Sơn,Bắc Sơn,,,,,,,,,,,Em đi trên cỏ non mọc ôm đôi bờ đường đê,,high,batch-81-90
+song-339,Còn thương rau đắng mọc sau hè,Hồ Văn Cường; Hương Lan,Bắc Sơn,Bắc Sơn,1974,Về miền Tây (2017),,,,,,,,,,,high,batch-81-90; batch-91-100
+song-340,Sa mưa giông,Hồ Văn Cường; Hương Lan,Bắc Sơn,Bắc Sơn,2017,Về miền Tây (2017),,,,,,,,,,,high,batch-81-90; batch-91-100
+song-341,Đêm Nghe Bài Vọng Cổ,Hương Lan,Bắc Sơn,Bắc Sơn,1999,,,,,,,,,,,,medium,batch-81-90
+song-342,Nỗi Buồn Hoa Phượng,Thanh Tuyền,Thanh Sơn; Lê Dinh,Thanh Sơn; Lê Dinh,1963,"Hát Cho Ngàn Sau (1984, bản Thanh Tuyền theo JioSaavn)",349,,,,,,,,,,high,batch-81-90
+song-343,Đêm Buồn Tỉnh Lẻ,Thanh Tuyền,Bằng Giang; Tú Nhi,Bằng Giang; Tú Nhi,1966,,,,,,,,,,Tỉnh lẻ đêm buồn,,high,batch-81-90
+song-344,Chuyến Tàu Hoàng Hôn,Thanh Tuyền,Hoài Linh; Minh Kỳ,Hoài Linh; Minh Kỳ,,,,,,,,,,,,,high,batch-81-90
+song-345,Đà Lạt Hoàng Hôn,Thanh Tuyền,Minh Kỳ; Dạ Cầm,Minh Kỳ; Dạ Cầm,,,,,,,,,,,,,medium,batch-81-90
+song-346,Đoạn Cuối Tình Yêu,Chế Linh; Thanh Tuyền,Tú Nhi,Tú Nhi,1970,"Băng Nhạc Chế Linh 1 (1974, theo Shazam)",,,,,,,,,Còn khóc chi em thôi buồn chi em,,high,batch-81-90
+song-347,Mai Lỡ Mình Xa Nhau,Chế Linh,Lưu Trần Lê,Lưu Trần Lê,,,,,,,,,,,,,medium,batch-81-90
+song-348,Quê em mùa nước lũ,Phương Mỹ Chi,Tiến Luân,,2013,Quê em mùa nước lũ (single/album 2013),,,,,,,,,,,high,batch-91-100
+song-349,Vũ trụ có anh,Phương Mỹ Chi; Pháo,Phương Mỹ Chi; DTAP,,2023,Vũ trụ cò bay,,,,,,,,,,,high,batch-91-100
+song-350,Đẩy xe bò,Phương Mỹ Chi,DTAP,,2023,Vũ trụ cò bay,,,,,,,,,,,high,batch-91-100
+song-351,Bóng phù hoa,Phương Mỹ Chi,Phương Mỹ Chi; DTAP,,2023,Vũ trụ cò bay,,,,,,,,,,,high,batch-91-100
+song-352,Bà Năm,Hồ Văn Cường,Vũ Quốc Việt,,2016,Về miền Tây (2017),,,,,,,,,,,high,batch-91-100
+song-353,Về miền Tây,Hồ Văn Cường,Tô Thanh Tùng,,2016,Về miền Tây (2017),,,,,,,,,,,high,batch-91-100
+song-354,Tình cha,Ngọc Sơn,Ngọc Sơn,,1995,,,,,,,,,,,,high,batch-91-100
+song-355,Vầng trăng cô đơn,Ngọc Sơn,Ngọc Sơn,,2001,,,,,,,,,,,,high,batch-91-100
+song-356,Lòng mẹ,Ngọc Sơn,Ngọc Sơn,,1987,,,,,,,,,,,,high,batch-91-100
+song-357,Ly cà phê Ban Mê,Siu Black,Nguyễn Cường,,1999,"Ly cà phê ban mê (Vol.1, 1999)",,,,,,,,,,,high,batch-91-100
+song-358,Ngọn lửa cao nguyên,Siu Black,Trần Tiến,,,,,,,,,,,,,,high,batch-91-100
+song-359,Đôi mắt Pleiku,Siu Black,Nguyễn Cường,,,,,,,,,,,,,,medium,batch-91-100
+song-360,Đôi chân trần,Siu Black,Y Phôn Ksor,,1995,,,,,,,,,,,,medium,batch-91-100
+song-361,Ôi quê tôi,Tùng Dương,Lê Minh Sơn,,2004,Chạy trốn (2004),367,,,,,,,,,,high,batch-91-100
+song-362,Chiếc khăn piêu,Tùng Dương,Doãn Nho,,2013,Độc đạo (2013),,,,,,,,,,,high,batch-91-100
+song-363,Con cò,Tùng Dương,Lưu Hà An,,2010,Li ti (2010),389,,,,,,,,,,high,batch-91-100
+song-364,Vợ người ta,Phan Mạnh Quỳnh,Phan Mạnh Quỳnh,,2015,"Vợ người ta (mini album, 2015)",,,,,,https://www.youtube.com/watch?v=WwEISi0Ktu4,,,,,high,batch-91-100
+song-365,Khi người mình yêu khóc,Phan Mạnh Quỳnh,Phan Mạnh Quỳnh,,2016,Khi người mình yêu khóc (2016),,,,,,,,,,,high,batch-91-100
+song-366,Sau lời từ khước,Phan Mạnh Quỳnh,Phan Mạnh Quỳnh,,2024,OST Mai (2024),,,,,,,,,,,high,batch-91-100
+song-367,Buồn của anh,Đạt G; K-ICM; Masew,Đạt G,,2017,,,,,,,,,,,,high,batch-91-100
+song-368,Khó vẽ nụ cười,Đạt G; Du Uyên,Đạt G,,2019,,,,,,,,,,,,high,batch-91-100
+song-369,Thêm bao nhiêu lâu,Đạt G,Đạt G,,2019,Thêm Bao Nhiêu Lâu (Single),,,,,,,,https://lyricvn.com/loi-bai-hat-them-bao-nhieu-lau-dat-g/,,,high,batch-91-100
+song-370,Bánh mì không,Đạt G; Du Uyên,Đạt G,,2019,,,,,,,,,,,,high,batch-91-100
+song-371,Ngắm hoa lệ rơi,Châu Khải Phong,Duy Cường,,2017,,308,,,,,,,,,,high,batch-91-100
+song-372,Bên nhau thật khó,Châu Khải Phong; Khang Việt,Thanh Hưng,,2017,Tuyển Tập Bài Hát Hit Của Châu Khải Phong (2019),262,,,,,https://www.youtube.com/watch?v=lw4Qp37Dwgk,,,,,high,batch-91-100
+song-373,Nếu ta ngược lối,Châu Khải Phong,Đinh Tùng,,2018,,,,,,,,,,,,medium,batch-91-100
+song-374,Nỗi đau mình anh,Châu Khải Phong; Trịnh Đình Quang,Hùng Nguyễn,,,,,,,,,,,,,,medium,batch-91-100
+song-375,Ngựa ô thương nhớ,Phạm Anh Khoa,Trần Tiến,,2007,PAK 01 (2007),219,,,,,,https://music.apple.com/us/album/pak-1/316923962,,,,high,batch-91-100
+song-376,Lý quạ kêu,Phạm Anh Khoa,Dân ca Nam Bộ,,2007,PAK 01 (2007),234,,,,,,https://music.apple.com/us/album/pak-1/316923962,,,,high,batch-91-100
+song-377,Thời gian tôi,Phạm Anh Khoa,Đức Trí; Võ Thiện Thanh,,2007,PAK 01 (2007),,,,,,,https://music.apple.com/us/album/pak-1/316923962,,,,medium,batch-91-100
+song-378,Tài sản của bố,ICD; Orange,ICD,,2020,"King of Rap (live, 2020)",,,,,,https://www.youtube.com/watch?v=9HUYlvazIfk,,,,,high,batch-91-100
+song-379,Một chiếc váy,ICD,ICD,,2020,"King of Rap (live, 2020)",,,,,,,,,,,high,batch-91-100
+song-380,Chân chạm đất,ICD,ICD,,2021,,,,,,,,,,,,high,batch-91-100

@@ -1,0 +1,3974 @@
+[
+ {
+  "id": "singer-001",
+  "stage_name": "Sơn Tùng M-TP",
+  "real_name": "Nguyễn Thanh Tùng",
+  "birth_date": "1994-07-05",
+  "birth_place": "Thành phố Thái Bình, Thái Bình, Việt Nam",
+  "genres": [
+   "Pop",
+   "R&B",
+   "EDM"
+  ],
+  "years_active": "2012–nay",
+  "labels": [
+   "Văn Productions",
+   "WePro Entertainment",
+   "M-TP Entertainment"
+  ],
+  "bio": "Ca sĩ kiêm nhạc sĩ, nhà sản xuất và diễn viên; thành lập M-TP Entertainment cuối 2016 sau khi rời WePro, nổi tiếng với chuỗi hit 'Lạc Trôi', 'Chạy Ngay Đi', 'Muộn Rồi Mà Sao Còn'.",
+  "spotify_id": "5dfZ5uSmzR7VQK0udbAVpf",
+  "spotify_url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf",
+  "musicbrainz_id": "52e64dbf-bb4a-497b-944b-c762301606b6",
+  "wikidata_id": "Q17450386",
+  "image_url": "https://commons.wikimedia.org/wiki/File:Son%20Tung%20M-TP%201%20%282017%29.png",
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikidata Q17450386",
+    "url": "https://www.wikidata.org/wiki/Q17450386"
+   },
+   {
+    "name": "Wikipedia tiếng Việt — Sơn Tùng M-TP",
+    "url": "https://vi.wikipedia.org/wiki/S%C6%A1n_T%C3%B9ng_M-TP"
+   },
+   {
+    "name": "MusicBrainz artist",
+    "url": "https://musicbrainz.org/artist/52e64dbf-bb4a-497b-944b-c762301606b6"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 1,
+  "batch": "batch-01-10"
+ },
+ {
+  "id": "singer-002",
+  "stage_name": "Mỹ Tâm",
+  "real_name": "Phan Thị Mỹ Tâm",
+  "birth_date": "1981-01-16",
+  "birth_place": "Đà Nẵng, Việt Nam",
+  "genres": [
+   "Pop",
+   "Dance-pop",
+   "Acoustic",
+   "Blues",
+   "Jazz"
+  ],
+  "years_active": "1999–nay",
+  "labels": [
+   "MT Entertainment"
+  ],
+  "bio": "Ca sĩ kiêm nhạc sĩ hàng đầu V-pop nhiều thập kỷ, biệt danh 'Họa mi tóc nâu'; album 'Tâm 9' (2017) lọt Top 10 Billboard World Albums.",
+  "spotify_id": null,
+  "spotify_url": null,
+  "musicbrainz_id": "74ba5f84-eec4-48f2-b84a-d0dcc8abf36d",
+  "wikidata_id": "Q1993589",
+  "image_url": "https://commons.wikimedia.org/wiki/File:MY%20TAM%20-%20LIGHT%20%26%20SHADOW%20LIVE%20-%20INAX%20VIETNAM.jpg",
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikidata Q1993589",
+    "url": "https://www.wikidata.org/wiki/Q1993589"
+   },
+   {
+    "name": "Wikipedia tiếng Việt — Mỹ Tâm",
+    "url": "https://vi.wikipedia.org/wiki/M%E1%BB%B9_T%C3%A2m"
+   },
+   {
+    "name": "Wikipedia tiếng Anh — Mỹ Tâm",
+    "url": "https://en.wikipedia.org/wiki/M%E1%BB%B9_T%C3%A2m"
+   },
+   {
+    "name": "MusicBrainz artist",
+    "url": "https://musicbrainz.org/artist/74ba5f84-eec4-48f2-b84a-d0dcc8abf36d"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 2,
+  "batch": "batch-01-10"
+ },
+ {
+  "id": "singer-003",
+  "stage_name": "Hà Anh Tuấn",
+  "real_name": "Hà Anh Tuấn",
+  "birth_date": "1984-12-17",
+  "birth_place": "Thành phố Hồ Chí Minh, Việt Nam",
+  "genres": [
+   "Pop",
+   "Ballad"
+  ],
+  "years_active": "2006–nay",
+  "labels": [],
+  "bio": "Ca sĩ ballad nam hàng đầu; quán quân Sao Mai Điểm Hẹn 2006, nổi tiếng với 'Tháng Tư Là Lời Nói Dối Của Em' và dự án 'Truyện Ngắn' hát nhạc Phan Mạnh Quỳnh.",
+  "spotify_id": "3FwYnbtGNt8hJfjNuOfpeG",
+  "spotify_url": "https://open.spotify.com/artist/3FwYnbtGNt8hJfjNuOfpeG",
+  "musicbrainz_id": "2d2e0023-d9b0-4f47-8c71-9c86dacdff0a",
+  "wikidata_id": "Q10770503",
+  "image_url": "https://commons.wikimedia.org/wiki/File:H%C3%A0%20Anh%20Tu%E1%BA%A5n.png",
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikidata Q10770503",
+    "url": "https://www.wikidata.org/wiki/Q10770503"
+   },
+   {
+    "name": "Wikipedia tiếng Việt — Hà Anh Tuấn",
+    "url": "https://vi.wikipedia.org/wiki/H%C3%A0_Anh_Tu%E1%BA%A5n"
+   },
+   {
+    "name": "Qobuz — Ha Anh Tuan (nơi sinh TP.HCM)",
+    "url": "https://www.qobuz.com/us-en/interpreter/ha-anh-tuan/2642095"
+   },
+   {
+    "name": "MusicBrainz artist",
+    "url": "https://musicbrainz.org/artist/2d2e0023-d9b0-4f47-8c71-9c86dacdff0a"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 3,
+  "batch": "batch-01-10"
+ },
+ {
+  "id": "singer-004",
+  "stage_name": "Đen",
+  "real_name": "Nguyễn Đức Cường",
+  "birth_date": "1989-05-13",
+  "birth_place": "Hạ Long, Quảng Ninh, Việt Nam",
+  "genres": [
+   "Rap",
+   "Hip-hop"
+  ],
+  "years_active": "2009–nay",
+  "labels": [],
+  "bio": "Rapper, nhạc sĩ có ảnh hưởng nhất nhạc Việt đương đại; nổi lên với 'Đưa Nhau Đi Trốn' (2014–2015), sau đó là 'Hai Triệu Năm', 'Mang Tiền Về Cho Mẹ', 'Nấu Ăn Cho Em'.",
+  "spotify_id": null,
+  "spotify_url": null,
+  "musicbrainz_id": "797fbb26-5ba0-4e72-9dc9-2501bf88b5ea",
+  "wikidata_id": "Q65171522",
+  "image_url": "https://commons.wikimedia.org/wiki/File:Den%20Vau%20in%20Song%20Gallery%202021.jpg",
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikidata Q65171522",
+    "url": "https://www.wikidata.org/wiki/Q65171522"
+   },
+   {
+    "name": "Wikipedia tiếng Việt — Đen Vâu",
+    "url": "https://vi.wikipedia.org/wiki/%C4%90en_V%C3%A2u"
+   },
+   {
+    "name": "VnExpress — Đen Vâu 'Tôi hạnh phúc khi mang tiền về cho mẹ'",
+    "url": "https://vnexpress.net/den-vau-toi-hanh-phuc-khi-mang-tien-ve-cho-me-4412626.html"
+   },
+   {
+    "name": "MusicBrainz artist",
+    "url": "https://musicbrainz.org/artist/797fbb26-5ba0-4e72-9dc9-2501bf88b5ea"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Nơi sinh mâu thuẫn giữa các nguồn (xem UNVERIFIED.md): vi Wikipedia + VnExpress ghi Hạ Long, Quảng Ninh; en Wikipedia ghi tỉnh Đồng Nai.",
+  "top100_no": 4,
+  "batch": "batch-01-10"
+ },
+ {
+  "id": "singer-005",
+  "stage_name": "Hoàng Thùy Linh",
+  "real_name": "Hoàng Thùy Linh",
+  "birth_date": "1988-08-11",
+  "birth_place": "Hà Nội, Việt Nam",
+  "genres": [
+   "Pop",
+   "EDM",
+   "Folktronica",
+   "Dance-pop",
+   "Ballad"
+  ],
+  "years_active": "2004–nay",
+  "labels": [
+   "Sony Music Vietnam",
+   "WePro Entertainment",
+   "The Leader Entertainment"
+  ],
+  "bio": "Ca sĩ, diễn viên, người mẫu; trở lại mạnh mẽ với album 'Hoàng' (2019) và 'LINK' (2022), hit 'Để Mị Nói Cho Mà Nghe' và 'See Tình' lan tỏa quốc tế.",
+  "spotify_id": null,
+  "spotify_url": null,
+  "musicbrainz_id": "9ad9a4d3-10a6-4765-b1a4-8100d2cda756",
+  "wikidata_id": "Q1934566",
+  "image_url": "https://commons.wikimedia.org/wiki/File:HOANG%20THUY%20LINH.jpg",
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikidata Q1934566",
+    "url": "https://www.wikidata.org/wiki/Q1934566"
+   },
+   {
+    "name": "Wikipedia tiếng Việt — Hoàng Thùy Linh",
+    "url": "https://vi.wikipedia.org/wiki/Ho%C3%A0ng_Th%C3%B9y_Linh"
+   },
+   {
+    "name": "MusicBrainz artist",
+    "url": "https://musicbrainz.org/artist/9ad9a4d3-10a6-4765-b1a4-8100d2cda756"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 5,
+  "batch": "batch-01-10"
+ },
+ {
+  "id": "singer-006",
+  "stage_name": "Vũ.",
+  "real_name": "Hoàng Thái Vũ",
+  "birth_date": "1995-10-03",
+  "birth_place": "Hà Nội, Việt Nam",
+  "genres": [
+   "Indie",
+   "Pop"
+  ],
+  "years_active": "2016–nay",
+  "labels": [
+   "Warner Music Group"
+  ],
+  "bio": "Ca sĩ kiêm nhạc sĩ indie-pop, được gọi là 'hoàng tử indie Việt'; nổi tiếng với 'Lạ Lùng', 'Bước Qua Nhau', 'Bước Qua Mùa Cô Đơn', album 'Một Vạn Năm' (2022).",
+  "spotify_id": null,
+  "spotify_url": null,
+  "musicbrainz_id": "c68d55ed-5687-4b24-a74d-9331b36c99fd",
+  "wikidata_id": "Q86012852",
+  "image_url": "https://commons.wikimedia.org/wiki/File:V%C5%A8%20-%20CHILL%20CLUB%20HK%202024.png",
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikidata Q86012852",
+    "url": "https://www.wikidata.org/wiki/Q86012852"
+   },
+   {
+    "name": "Wikipedia tiếng Việt — Vũ.",
+    "url": "https://vi.wikipedia.org/wiki/V%C5%A9."
+   },
+   {
+    "name": "Apple Music — Vũ.",
+    "url": "https://music.apple.com/vn/artist/v%C5%A9/1369025793"
+   },
+   {
+    "name": "MusicBrainz artist",
+    "url": "https://musicbrainz.org/artist/c68d55ed-5687-4b24-a74d-9331b36c99fd"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 6,
+  "batch": "batch-01-10"
+ },
+ {
+  "id": "singer-007",
+  "stage_name": "tlinh",
+  "real_name": "Nguyễn Thảo Linh",
+  "birth_date": "2000-10-07",
+  "birth_place": "Hà Nội, Việt Nam",
+  "genres": [
+   "Pop",
+   "R&B",
+   "Hip-hop"
+  ],
+  "years_active": "2020–nay",
+  "labels": [
+   "M Music Records"
+  ],
+  "bio": "Ca sĩ, rapper, dancer Gen Z nổi lên từ Rap Việt mùa 1 (2020); album đầu tay 'ái' (2023) lọt top 15 album châu Á hay nhất năm của NME, hit 'nếu lúc đó' đứng đầu Billboard Vietnam Hot 100.",
+  "spotify_id": "3diftVOq7aEIebXKkC34oR",
+  "spotify_url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR",
+  "musicbrainz_id": "d66de5d7-e7e3-472b-884c-ebc20f3c3abf",
+  "wikidata_id": "Q124042023",
+  "image_url": "https://commons.wikimedia.org/wiki/File:TLINH%20%E2%80%93%20CF%26Y%202023%20%E2%80%93%20OFFICIAL%20PORTRAIT%20PHOTO.png",
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikidata Q124042023",
+    "url": "https://www.wikidata.org/wiki/Q124042023"
+   },
+   {
+    "name": "Wikipedia tiếng Việt — Tlinh",
+    "url": "https://vi.wikipedia.org/wiki/Tlinh"
+   },
+   {
+    "name": "VOV — 2pillz / 'Nếu lúc đó' đứng đầu Billboard Vietnam Hot 100",
+    "url": "https://vov.vn/giai-tri/2pillz-dua-tieng-dan-trung-vao-ca-khuc-chung-cua-7-nghe-si-chau-a-post1349209.vov"
+   },
+   {
+    "name": "MusicBrainz artist",
+    "url": "https://musicbrainz.org/artist/d66de5d7-e7e3-472b-884c-ebc20f3c3abf"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 7,
+  "batch": "batch-01-10"
+ },
+ {
+  "id": "singer-008",
+  "stage_name": "Bích Phương",
+  "real_name": "Bùi Thị Bích Phương",
+  "birth_date": "1989-09-30",
+  "birth_place": "Quảng Ninh, Việt Nam",
+  "genres": [
+   "Pop",
+   "Ballad"
+  ],
+  "years_active": "2010–nay",
+  "labels": [
+   "1989s Entertainment"
+  ],
+  "bio": "Ca sĩ pop nữ ổn định nhiều năm từ Vietnam Idol 2010; hit 'Bùa Yêu', 'Đi Đu Đưa Đi', 'Bao Giờ Lấy Chồng', 'Một Cú Lừa', album 'Dramatic' (2018).",
+  "spotify_id": "5fa13NJjmn2uQ3dxZDi2Ge",
+  "spotify_url": "https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge",
+  "musicbrainz_id": "6ef95c21-a3fb-4c48-9c79-3b22c026f4f5",
+  "wikidata_id": "Q26921037",
+  "image_url": "https://commons.wikimedia.org/wiki/File:B%C3%ADch%20Ph%C6%B0%C6%A1ng.png",
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikidata Q26921037",
+    "url": "https://www.wikidata.org/wiki/Q26921037"
+   },
+   {
+    "name": "Wikipedia tiếng Việt — Bích Phương",
+    "url": "https://vi.wikipedia.org/wiki/B%C3%ADch_Ph%C6%B0%C6%A1ng"
+   },
+   {
+    "name": "MusicBrainz artist",
+    "url": "https://musicbrainz.org/artist/6ef95c21-a3fb-4c48-9c79-3b22c026f4f5"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 8,
+  "batch": "batch-01-10"
+ },
+ {
+  "id": "singer-009",
+  "stage_name": "Erik",
+  "real_name": "Lê Trung Thành",
+  "birth_date": "1997-10-13",
+  "birth_place": "Hà Nội, Việt Nam",
+  "genres": [
+   "Pop",
+   "Ballad"
+  ],
+  "years_active": "2013–nay",
+  "labels": [
+   "ST.319 Entertainment"
+  ],
+  "bio": "Ca sĩ pop/ballad Gen Z, debut solo với 'Sau Tất Cả' (2016, nhạc Khắc Hưng); các hit lớn 'Chạm Đáy Nỗi Đau', 'Có Tất Cả Nhưng Thiếu Anh', 'Dù Cho Tận Thế' (2025).",
+  "spotify_id": null,
+  "spotify_url": null,
+  "musicbrainz_id": "3deb9def-a3d7-47ff-a82f-28dfc5038fbb",
+  "wikidata_id": "Q49054404",
+  "image_url": "https://commons.wikimedia.org/wiki/File:Erik%20t%E1%BA%A1i%20s%E1%BB%B1%20ki%E1%BB%87n%2C%202020-03-21.png",
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikidata Q49054404",
+    "url": "https://www.wikidata.org/wiki/Q49054404"
+   },
+   {
+    "name": "Wikipedia tiếng Việt — Erik",
+    "url": "https://vi.wikipedia.org/wiki/Erik"
+   },
+   {
+    "name": "MusicBrainz artist",
+    "url": "https://musicbrainz.org/artist/3deb9def-a3d7-47ff-a82f-28dfc5038fbb"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 9,
+  "batch": "batch-01-10"
+ },
+ {
+  "id": "singer-010",
+  "stage_name": "AMEE",
+  "real_name": "Trần Huyền My",
+  "birth_date": "2000-03-23",
+  "birth_place": "Hà Nội, Việt Nam",
+  "genres": [
+   "Pop"
+  ],
+  "years_active": "2018–nay",
+  "labels": [
+   "St.319 Entertainment",
+   "T.H.M"
+  ],
+  "bio": "Ca sĩ pop Gen Z, ra mắt với 'Anh Nhà Ở Đâu Thế' (2019, ft. B Ray); album đầu tay 'dreAMEE' (2020) với các single 'Sao Anh Chưa Về Nhà', 'Yêu Thì Yêu Không Yêu Thì Yêu'.",
+  "spotify_id": "2aQnC3DbZB9GbauvhAw7ve",
+  "spotify_url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve",
+  "musicbrainz_id": "c15fa426-a793-4fdd-a2b1-c0eb46a11d26",
+  "wikidata_id": "Q96700223",
+  "image_url": "https://commons.wikimedia.org/wiki/File:Amee%202024%20%28cropped%29.jpg",
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikidata Q96700223",
+    "url": "https://www.wikidata.org/wiki/Q96700223"
+   },
+   {
+    "name": "Wikipedia tiếng Việt — Amee",
+    "url": "https://vi.wikipedia.org/wiki/Amee"
+   },
+   {
+    "name": "MusicBrainz artist",
+    "url": "https://musicbrainz.org/artist/c15fa426-a793-4fdd-a2b1-c0eb46a11d26"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 10,
+  "batch": "batch-01-10"
+ },
+ {
+  "rank": 11,
+  "stage_name": "MONO",
+  "real_name": "Nguyễn Việt Hoàng",
+  "birth_date": "2000-01-21",
+  "birth_place": "Thành phố Thái Bình, Thái Bình, Việt Nam",
+  "genres": [
+   "Pop",
+   "R&B"
+  ],
+  "years_active": "2022–nay",
+  "labels": [
+   "MMusic",
+   "Universal Music"
+  ],
+  "bio_vi": "Em trai Sơn Tùng M-TP, ra mắt năm 2022 với album đầu tay “22”; ca khúc “Waiting for You” phá kỷ lục số tuần quán quân Billboard Vietnam Hot 100 và là bài hát thành công nhất năm 2022 tại Việt Nam.",
+  "spotify_id": "5jTFNkoZebPnX90CbB3F2A",
+  "spotify_url": "https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A",
+  "musicbrainz_id": "09194ac4-dfed-44a6-9a8b-29de628b71c6",
+  "wikidata_id": "Q115277202",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "MONO_vi",
+    "url": "https://vi.wikipedia.org/wiki/Mono_(ca_s%C4%A9)"
+   },
+   {
+    "name": "MusicBrainz API (musicbrainz.org/ws/2/artist, url-rels + recording search, 13/11/2026)",
+    "url": "https://musicbrainz.org/ws/2/artist/09194ac4-dfed-44a6-9a8b-29de628b71c6?inc=url-rels&fmt=json"
+   }
+  ],
+  "confidence": "high",
+  "id": "singer-011",
+  "top100_no": 11,
+  "batch": "batch-11-20"
+ },
+ {
+  "rank": 12,
+  "stage_name": "Đức Phúc",
+  "real_name": "Nguyễn Đức Phúc",
+  "birth_date": "1996-10-15",
+  "birth_place": "Hà Nội, Việt Nam",
+  "genres": [
+   "Pop",
+   "Ballad"
+  ],
+  "years_active": "2015–nay",
+  "labels": [],
+  "bio_vi": "Quán quân The Voice 2015; nổi tiếng với “Ánh nắng của anh” (2016) và “Hơn cả yêu” (2020), và đoạt quán quân Intervision 2025.",
+  "spotify_id": "5FWPIKz9czXWaiNtw45KQs",
+  "spotify_url": "https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs",
+  "musicbrainz_id": "ac67e51f-dbdf-478d-9411-c27e382766cd",
+  "wikidata_id": "Q24958846",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "DP_vi",
+    "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%A9c_Ph%C3%BAc"
+   },
+   {
+    "name": "DP_en",
+    "url": "https://en.wikipedia.org/wiki/Đức_Phúc"
+   },
+   {
+    "name": "MusicBrainz API (musicbrainz.org/ws/2/artist, url-rels + recording search, 13/11/2026)",
+    "url": "https://musicbrainz.org/ws/2/artist/ac67e51f-dbdf-478d-9411-c27e382766cd?inc=url-rels&fmt=json"
+   }
+  ],
+  "confidence": "high",
+  "id": "singer-012",
+  "top100_no": 12,
+  "batch": "batch-11-20"
+ },
+ {
+  "rank": 13,
+  "stage_name": "Hòa Minzy",
+  "real_name": "Nguyễn Thị Hòa",
+  "birth_date": "1995-05-31",
+  "birth_place": "Quế Võ, Bắc Ninh, Việt Nam",
+  "genres": [
+   "Pop",
+   "Ballad"
+  ],
+  "years_active": "2014–nay",
+  "labels": [],
+  "bio_vi": "Quán quân Học viện Ngôi sao 2014; có các hit “Rời bỏ”, “Không thể cùng nhau suốt kiếp” và “Bắc Bling” (2025) quảng bá văn hóa Bắc Ninh.",
+  "spotify_id": "3BWBxpXDxofgji3RKZPIz8",
+  "spotify_url": "https://open.spotify.com/artist/3BWBxpXDxofgji3RKZPIz8",
+  "musicbrainz_id": "2b276f2d-6c97-4b41-b713-adbc59c30366",
+  "wikidata_id": "Q30920492",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "HM_vi",
+    "url": "https://vi.wikipedia.org/wiki/H%C3%B2a_Minzy"
+   },
+   {
+    "name": "HM_en",
+    "url": "https://en.wikipedia.org/wiki/H%C3%B2a_Minzy"
+   },
+   {
+    "name": "MusicBrainz API (musicbrainz.org/ws/2/artist, url-rels + recording search, 13/11/2026)",
+    "url": "https://musicbrainz.org/ws/2/artist/2b276f2d-6c97-4b41-b713-adbc59c30366?inc=url-rels&fmt=json"
+   }
+  ],
+  "confidence": "high",
+  "id": "singer-013",
+  "top100_no": 13,
+  "batch": "batch-11-20"
+ },
+ {
+  "rank": 14,
+  "stage_name": "HIEUTHUHAI",
+  "real_name": "Trần Minh Hiếu",
+  "birth_date": "1999-09-28",
+  "birth_place": "Thành phố Hồ Chí Minh, Việt Nam",
+  "genres": [
+   "Rap",
+   "Pop"
+  ],
+  "years_active": "2020–nay",
+  "labels": [
+   "MMusic Records"
+  ],
+  "bio_vi": "Rapper, trưởng nhóm GERDNANG, nổi lên từ King of Rap 2020; quán quân Anh trai Say Hi 2024 với album đầu tay “Ai cũng phải bắt đầu từ đâu đó” (2023).",
+  "spotify_id": "5HZtdKfC4xU0wvhEyYDWiY",
+  "spotify_url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY",
+  "musicbrainz_id": "a76e72f0-d01f-4a73-8d38-d901f3496bd8",
+  "wikidata_id": "Q118249437",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "H2_vi",
+    "url": "https://vi.wikipedia.org/wiki/Hieuthuhai"
+   },
+   {
+    "name": "MusicBrainz API (musicbrainz.org/ws/2/artist, url-rels + recording search, 13/11/2026)",
+    "url": "https://musicbrainz.org/ws/2/artist/a76e72f0-d01f-4a73-8d38-d901f3496bd8?inc=url-rels&fmt=json"
+   },
+   {
+    "name": "DatVietVAC",
+    "url": "https://datvietvac.vn/news/hieuthuhai-mang-concert-solo-den-my-tu-gia-tai-am-nhac-6-nam-den-khat-vong-vuon-ra-the-gioi"
+   }
+  ],
+  "confidence": "high",
+  "id": "singer-014",
+  "top100_no": 14,
+  "batch": "batch-11-20"
+ },
+ {
+  "rank": 15,
+  "stage_name": "Grey D",
+  "real_name": "Đoàn Thế Lân",
+  "birth_date": "2000-12-11",
+  "birth_place": "Quảng Ngãi, Việt Nam",
+  "genres": [
+   "Pop",
+   "R&B"
+  ],
+  "years_active": "2017–nay",
+  "labels": [
+   "St.319 Entertainment"
+  ],
+  "bio_vi": "Cựu thành viên nhóm MONSTAR, ra mắt solo năm 2022; được gọi là “hoàng tử nhạc số” với các hit “vaicaunoicokhiennguoithaydoi”, “Dự báo thời tiết hôm nay mưa” và “Đưa em về nhà”.",
+  "spotify_id": null,
+  "spotify_url": null,
+  "musicbrainz_id": null,
+  "wikidata_id": "Q125872848",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "GD_vi",
+    "url": "https://vi.wikipedia.org/wiki/Grey_D"
+   },
+   {
+    "name": "MusicBrainz API — không tìm thấy nghệ sĩ Grey D (đã thử GREY D / Grey-D / Grey D, 13/11/2026)",
+    "url": "https://musicbrainz.org/ws/2/artist/?query=artist:Grey%20D&fmt=json"
+   }
+  ],
+  "confidence": "medium",
+  "id": "singer-015",
+  "top100_no": 15,
+  "batch": "batch-11-20"
+ },
+ {
+  "rank": 16,
+  "stage_name": "Quang Hùng MasterD",
+  "real_name": "Lê Quang Hùng",
+  "birth_date": "1997-10-07",
+  "birth_place": "Huế, Việt Nam",
+  "genres": [
+   "Pop",
+   "Ballad"
+  ],
+  "years_active": "2010–nay",
+  "labels": [
+   "MMusic Records",
+   "MasterD Entertainment"
+  ],
+  "bio_vi": "Nổi lên từ mashup 30 hit V-pop năm 2015; “Dễ đến dễ đi” (2020) gây sốt tại Thái Lan, “Thủy triều” (2024) thành hit tại Việt Nam; vào Top 5 Anh trai Say Hi 2024.",
+  "spotify_id": "0slOzRzTQb1RBBVJbvRITP",
+  "spotify_url": "https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP",
+  "musicbrainz_id": "37b88ab1-e7ab-45af-878f-d1820bbbd567",
+  "wikidata_id": "Q121816277",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "QH_vi",
+    "url": "https://vi.wikipedia.org/wiki/Quang_H%C3%B9ng_MasterD"
+   },
+   {
+    "name": "QH_en",
+    "url": "https://en.wikipedia.org/wiki/Quang_H%C3%B9ng_MasterD"
+   },
+   {
+    "name": "MusicBrainz API (musicbrainz.org/ws/2/artist, url-rels + recording search, 13/11/2026)",
+    "url": "https://musicbrainz.org/ws/2/artist/37b88ab1-e7ab-45af-878f-d1820bbbd567?inc=url-rels&fmt=json"
+   }
+  ],
+  "confidence": "high",
+  "id": "singer-016",
+  "top100_no": 16,
+  "batch": "batch-11-20"
+ },
+ {
+  "rank": 17,
+  "stage_name": "Tăng Duy Tân",
+  "real_name": "Nguyễn Tăng Duy Tân",
+  "birth_date": "1995-08-15",
+  "birth_place": "Hải Lăng, Quảng Trị, Việt Nam",
+  "genres": [
+   "Pop",
+   "Ballad"
+  ],
+  "years_active": "2018–nay",
+  "labels": [
+   "Big Arts Entertainment"
+  ],
+  "bio_vi": "Nhạc sĩ kiêm ca sĩ; “Bên trên tầng lầu” đứng đầu Billboard Vietnam Hot 100 và Top Vietnamese Songs, “Cắt đôi nỗi sầu” (2023) tiếp nối thành công.",
+  "spotify_id": "1n9JKdEdLxrbgJiqz1WZFJ",
+  "spotify_url": "https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ",
+  "musicbrainz_id": "24fe94aa-9613-49aa-9f17-389953087476",
+  "wikidata_id": "Q111800158",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "TDT_vi",
+    "url": "https://vi.wikipedia.org/wiki/T%C4%83ng_Duy_T%C3%A2n"
+   },
+   {
+    "name": "MusicBrainz API (musicbrainz.org/ws/2/artist, url-rels + recording search, 13/11/2026)",
+    "url": "https://musicbrainz.org/ws/2/artist/24fe94aa-9613-49aa-9f17-389953087476?inc=url-rels&fmt=json"
+   }
+  ],
+  "confidence": "high",
+  "id": "singer-017",
+  "top100_no": 17,
+  "batch": "batch-11-20"
+ },
+ {
+  "rank": 18,
+  "stage_name": "Jack",
+  "real_name": "Trịnh Trần Phương Tuấn",
+  "birth_date": "1997-04-12",
+  "birth_place": "Ngãi Đăng, Mỏ Cày Nam, Bến Tre, Việt Nam",
+  "genres": [
+   "Pop",
+   "Hip-hop",
+   "EDM"
+  ],
+  "years_active": "2018–nay",
+  "labels": [
+   "ICM Entertainment",
+   "Nomad MGMT Vietnam",
+   "J97 Entertainment"
+  ],
+  "bio_vi": "Nổi lên từ nhóm G5R với “Hồng nhan” (2019), tiếp nối bằng “Bạc phận”, “Sóng gió” cùng K-ICM; “Hoa hải đường” và “Đom đóm” (2020) thắng giải quốc tế.",
+  "spotify_id": "3KJopZ2uUclqEtLxQg0FNn",
+  "spotify_url": "https://open.spotify.com/artist/3KJopZ2uUclqEtLxQg0FNn",
+  "musicbrainz_id": "5220fe51-aaa8-4532-80c5-7ab0a59a0202",
+  "wikidata_id": "Q97273318",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "J_vi",
+    "url": "https://vi.wikipedia.org/wiki/Jack_(ca_s%C4%A9_Việt_Nam)"
+   },
+   {
+    "name": "J_en",
+    "url": "https://en.wikipedia.org/wiki/Jack_%E2%80%93_J97"
+   },
+   {
+    "name": "MusicBrainz API (musicbrainz.org/ws/2/artist, url-rels + recording search, 13/11/2026)",
+    "url": "https://musicbrainz.org/ws/2/artist/5220fe51-aaa8-4532-80c5-7ab0a59a0202?inc=url-rels&fmt=json"
+   },
+   {
+    "name": "Vietnam News",
+    "url": "https://vietnamnews.vn/life-style/840311/young-singers-gain-int-l-achievements-in-2020.html"
+   }
+  ],
+  "confidence": "high",
+  "id": "singer-018",
+  "top100_no": 18,
+  "batch": "batch-11-20"
+ },
+ {
+  "rank": 19,
+  "stage_name": "Tóc Tiên",
+  "real_name": "Nguyễn Khoa Tóc Tiên",
+  "birth_date": "1989-05-13",
+  "birth_place": "Thành phố Hồ Chí Minh, Việt Nam",
+  "genres": [
+   "Pop",
+   "EDM"
+  ],
+  "years_active": "1996–nay",
+  "labels": [],
+  "bio_vi": "Ca sĩ hoạt động từ nhỏ, trở lại Việt Nam năm 2014 và bứt phá với “Ngày mai (Vũ điệu cồng chiêng)” tại The Remix 2015; “Có ai thương em như anh” đoạt Bài hát của năm tại Cống hiến 2019.",
+  "spotify_id": "4YkqEuVf1Jf2x2XDqJ2CvC",
+  "spotify_url": "https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC",
+  "musicbrainz_id": "2a29ec30-762c-4517-b739-d77df0fefb6c",
+  "wikidata_id": "Q6147802",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "TT_vi",
+    "url": "https://vi.wikipedia.org/wiki/T%C3%B3c_Ti%C3%AAn_(ca_s%C4%A9)"
+   },
+   {
+    "name": "TT_en",
+    "url": "https://en.wikipedia.org/wiki/Toc_Tien"
+   },
+   {
+    "name": "MusicBrainz API (musicbrainz.org/ws/2/artist, url-rels + recording search, 13/11/2026)",
+    "url": "https://musicbrainz.org/ws/2/artist/2a29ec30-762c-4517-b739-d77df0fefb6c?inc=url-rels&fmt=json"
+   }
+  ],
+  "confidence": "medium",
+  "id": "singer-019",
+  "top100_no": 19,
+  "batch": "batch-11-20"
+ },
+ {
+  "rank": 20,
+  "stage_name": "Văn Mai Hương",
+  "real_name": "Văn Mai Hương",
+  "birth_date": "1994-09-27",
+  "birth_place": "Hà Nội, Việt Nam",
+  "genres": [
+   "Pop",
+   "Ballad"
+  ],
+  "years_active": "2010–nay",
+  "labels": [],
+  "bio_vi": "Á quân Vietnam Idol 2010; ra mắt với “Nếu như anh đến” (2011), album “Minh tinh” (2023) đoạt Album của năm tại Cống hiến 2024.",
+  "spotify_id": "63SNH9m8M034lCGELVC1dm",
+  "spotify_url": "https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm",
+  "musicbrainz_id": "9c948d5d-08cf-418d-ab76-cf4dddfe3215",
+  "wikidata_id": "Q10833395",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "VMH_vi",
+    "url": "https://vi.wikipedia.org/wiki/V%C4%83n_Mai_H%C6%B0%C6%A1ng"
+   },
+   {
+    "name": "VMH_en",
+    "url": "https://en.wikipedia.org/wiki/V%C4%83n_Mai_H%C6%B0%C6%A1ng"
+   },
+   {
+    "name": "MusicBrainz API (musicbrainz.org/ws/2/artist, url-rels + recording search, 13/11/2026)",
+    "url": "https://musicbrainz.org/ws/2/artist/9c948d5d-08cf-418d-ab76-cf4dddfe3215?inc=url-rels&fmt=json"
+   }
+  ],
+  "confidence": "high",
+  "id": "singer-020",
+  "top100_no": 20,
+  "batch": "batch-11-20"
+ },
+ {
+  "id": "singer-021",
+  "stage_name": "Trúc Nhân",
+  "real_name": "Nguyễn Trúc Nhân",
+  "birth_date": "1991-11-30",
+  "birth_place": "Hoài Nhơn, Bình Định, Việt Nam",
+  "genres": [
+   "V-pop",
+   "R&B",
+   "Dance-pop",
+   "Ballad"
+  ],
+  "years_active": "2012–nay",
+  "labels": [
+   "KIM Entertainment"
+  ],
+  "bio": "Nam ca sĩ người Việt Nam, được biết đến khi tham gia mùa đầu tiên của Giọng hát Việt; từng ba lần giành giải Cống hiến.",
+  "spotify_id": "1dmaHHd1Xbd85cT1egYb4w",
+  "spotify_url": "https://open.spotify.com/artist/1dmaHHd1Xbd85cT1egYb4w",
+  "musicbrainz_id": "0e19b7bd-a435-44d9-84e6-dd93ea1fd20b",
+  "wikidata_id": "Q26921026",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tr%C3%BAc%20Nh%C3%A2n%20n%C4%83m%202026.jpg",
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikidata Q26921026",
+    "url": "https://www.wikidata.org/wiki/Q26921026"
+   },
+   {
+    "name": "Wikipedia vi — Trúc Nhân",
+    "url": "https://vi.wikipedia.org/wiki/Tr%C3%BAc_Nh%C3%A2n"
+   },
+   {
+    "name": "MusicBrainz artist",
+    "url": "https://musicbrainz.org/artist/0e19b7bd-a435-44d9-84e6-dd93ea1fd20b"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 21,
+  "batch": "batch-21-30"
+ },
+ {
+  "id": "singer-022",
+  "stage_name": "Min",
+  "real_name": "Nguyễn Minh Hằng",
+  "birth_date": "1988-12-07",
+  "birth_place": "Hà Nội, Việt Nam",
+  "genres": [
+   "V-pop"
+  ],
+  "years_active": "2013–nay",
+  "labels": [
+   "St.319 Entertainment",
+   "MIN",
+   "Warner Music Vietnam"
+  ],
+  "bio": "Nữ ca sĩ kiêm vũ công người Việt Nam, khởi đầu từ nhóm nhảy St.319, ra mắt solo năm 2013 với đĩa đơn đầu tay 'Tìm'.",
+  "spotify_id": "0IdAjS2LRieBR3gzoazdAw",
+  "spotify_url": "https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw",
+  "musicbrainz_id": "a8537302-c498-474d-a0f2-3c8cb9a22c54",
+  "wikidata_id": "Q50110117",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MIN%20-%202020.03.21.png",
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikidata Q50110117",
+    "url": "https://www.wikidata.org/wiki/Q50110117"
+   },
+   {
+    "name": "Wikipedia vi — Min (ca sĩ Việt Nam)",
+    "url": "https://vi.wikipedia.org/wiki/Min_(ca_s%C4%A9_Vi%E1%BB%87t_Nam)"
+   },
+   {
+    "name": "Wikipedia en — Min (Vietnamese singer)",
+    "url": "https://en.wikipedia.org/wiki/Min_(Vietnamese_singer)"
+   },
+   {
+    "name": "MusicBrainz artist",
+    "url": "https://musicbrainz.org/artist/a8537302-c498-474d-a0f2-3c8cb9a22c54"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 22,
+  "batch": "batch-21-30"
+ },
+ {
+  "id": "singer-023",
+  "stage_name": "Bảo Anh",
+  "real_name": "Nguyễn Hoài Bảo Anh",
+  "birth_date": "1992-09-03",
+  "birth_place": "Thành phố Hồ Chí Minh, Việt Nam",
+  "genres": [
+   "V-pop",
+   "Ballad",
+   "R&B",
+   "EDM"
+  ],
+  "years_active": "2012–nay",
+  "labels": [],
+  "bio": "Nữ ca sĩ kiêm diễn viên người Việt Nam, bắt đầu được biết đến khi tham gia chương trình Giọng hát Việt năm 2012.",
+  "spotify_id": "4fCHhderLwLacsIOIKgu3J",
+  "spotify_url": "https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J",
+  "musicbrainz_id": "b5ad4196-50d6-4d59-a5ae-579626934ba6",
+  "wikidata_id": "Q26921028",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/B%E1%BA%A3o%20Anh.png",
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikidata Q26921028",
+    "url": "https://www.wikidata.org/wiki/Q26921028"
+   },
+   {
+    "name": "Wikipedia vi — Bảo Anh",
+    "url": "https://vi.wikipedia.org/wiki/B%E1%BA%A3o_Anh"
+   },
+   {
+    "name": "Wikipedia en — Bảo Anh",
+    "url": "https://en.wikipedia.org/wiki/B%E1%BA%A3o_Anh"
+   },
+   {
+    "name": "MusicBrainz artist",
+    "url": "https://musicbrainz.org/artist/b5ad4196-50d6-4d59-a5ae-579626934ba6"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 23,
+  "batch": "batch-21-30"
+ },
+ {
+  "id": "singer-024",
+  "stage_name": "Soobin Hoàng Sơn",
+  "real_name": "Nguyễn Huỳnh Sơn",
+  "birth_date": "1992-09-10",
+  "birth_place": "Hà Nội, Việt Nam",
+  "genres": [
+   "V-pop",
+   "R&B",
+   "Dance-pop",
+   "Ballad",
+   "Hip-hop",
+   "EDM"
+  ],
+  "years_active": "2010–nay",
+  "labels": [
+   "SpaceSpeakers"
+  ],
+  "bio": "Nam ca sĩ kiêm nhạc sĩ sáng tác và nhà sản xuất thu âm người Việt Nam, nổi tiếng với ballad 'Phía sau một cô gái' (2016).",
+  "spotify_id": "6CGGvCBHWqQ4HXtn5aLhbh",
+  "spotify_url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh",
+  "musicbrainz_id": "84bc407f-5f9f-47b6-8b20-5999ad02c10e",
+  "wikidata_id": "Q30920769",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SOOBIN%20-%20LIVE%20CONCERT%20ALL-ROUNDER%20THE%20FINAL%202025.jpg",
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikidata Q30920769",
+    "url": "https://www.wikidata.org/wiki/Q30920769"
+   },
+   {
+    "name": "Wikipedia vi — Soobin Hoàng Sơn",
+    "url": "https://vi.wikipedia.org/wiki/Soobin_Ho%C3%A0ng_S%C6%A1n"
+   },
+   {
+    "name": "Wikipedia en — Soobin Hoàng Sơn",
+    "url": "https://en.wikipedia.org/wiki/Soobin_Ho%C3%A0ng_S%C6%A1n"
+   },
+   {
+    "name": "MusicBrainz artist",
+    "url": "https://musicbrainz.org/artist/84bc407f-5f9f-47b6-8b20-5999ad02c10e"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 24,
+  "batch": "batch-21-30"
+ },
+ {
+  "id": "singer-025",
+  "stage_name": "Isaac",
+  "real_name": "Phạm Lưu Tuấn Tài",
+  "birth_date": "1988-06-13",
+  "birth_place": "Cần Thơ, Việt Nam",
+  "genres": [
+   "V-pop",
+   "R&B",
+   "Dance-pop",
+   "EDM",
+   "Ballad"
+  ],
+  "years_active": "2010–nay",
+  "labels": [
+   "VAA Productions"
+  ],
+  "bio": "Nam ca sĩ kiêm diễn viên người Việt Nam, cựu trưởng nhóm 365daband (2010–2016), hoạt động solo từ năm 2016.",
+  "spotify_id": null,
+  "spotify_url": null,
+  "musicbrainz_id": "ea0aedb0-a744-48e3-ae45-c5fd5bd20a88",
+  "wikidata_id": "Q27908042",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac2017.png",
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikidata Q27908042",
+    "url": "https://www.wikidata.org/wiki/Q27908042"
+   },
+   {
+    "name": "Wikipedia vi — Isaac (ca sĩ)",
+    "url": "https://vi.wikipedia.org/wiki/Isaac_(ca_s%C4%A9)"
+   },
+   {
+    "name": "MusicBrainz artist",
+    "url": "https://musicbrainz.org/artist/ea0aedb0-a744-48e3-ae45-c5fd5bd20a88"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 25,
+  "batch": "batch-21-30"
+ },
+ {
+  "id": "singer-026",
+  "stage_name": "Chi Pu",
+  "real_name": "Nguyễn Thùy Chi",
+  "birth_date": "1993-06-14",
+  "birth_place": "Hà Nội, Việt Nam",
+  "genres": [
+   "V-pop"
+  ],
+  "years_active": "2009–nay",
+  "labels": [
+   "Krazy Sound",
+   "GOM Entertainment"
+  ],
+  "bio": "Nữ ca sĩ, diễn viên, người mẫu người Việt Nam; lọt Top 20 Miss Teen Vietnam 2009, chính thức bắt đầu sự nghiệp ca hát năm 2017.",
+  "spotify_id": "6jRD85dsXJYn5vv73rqSGi",
+  "spotify_url": "https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi",
+  "musicbrainz_id": "696d57cd-f7e6-4af4-bf9e-70a0936b4d01",
+  "wikidata_id": "Q27868221",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chi%20Pu%20as%20H%E1%BA%A1%20Linh%20in%20She%20Was%20Pretty%20%28M%E1%BB%91i%20t%C3%ACnh%20%C4%91%E1%BA%A7u%20c%E1%BB%A7a%20t%C3%B4i%29.jpg",
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikidata Q27868221",
+    "url": "https://www.wikidata.org/wiki/Q27868221"
+   },
+   {
+    "name": "Wikipedia vi — Chi Pu",
+    "url": "https://vi.wikipedia.org/wiki/Chi_Pu"
+   },
+   {
+    "name": "Wikipedia en — Chi Pu",
+    "url": "https://en.wikipedia.org/wiki/Chi_Pu"
+   },
+   {
+    "name": "MusicBrainz artist",
+    "url": "https://musicbrainz.org/artist/696d57cd-f7e6-4af4-bf9e-70a0936b4d01"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 26,
+  "batch": "batch-21-30"
+ },
+ {
+  "id": "singer-027",
+  "stage_name": "Quân A.P",
+  "real_name": "Phạm Anh Quân",
+  "birth_date": "1997-01-24",
+  "birth_place": "Hà Nội, Việt Nam",
+  "genres": [
+   "V-pop",
+   "Ballad"
+  ],
+  "years_active": "2019–nay",
+  "labels": [
+   "Sony Music Entertainment Vietnam"
+  ],
+  "bio": "Nam ca sĩ người Việt Nam, ra mắt năm 2019 với bản hit 'Ai là người thương em' (nhạc sĩ Thanh Hưng).",
+  "spotify_id": "2NRcG7E1j2sSi8vnUzCcpi",
+  "spotify_url": "https://open.spotify.com/artist/2NRcG7E1j2sSi8vnUzCcpi",
+  "musicbrainz_id": "1eac2d75-23ba-4daf-8d57-a5f1bf17269f",
+  "wikidata_id": "Q122310301",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Quan%20AP%202025.png",
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikidata Q122310301",
+    "url": "https://www.wikidata.org/wiki/Q122310301"
+   },
+   {
+    "name": "Wikipedia vi — Quân A.P",
+    "url": "https://vi.wikipedia.org/wiki/Qu%C3%A2n_A.P"
+   },
+   {
+    "name": "MusicBrainz artist",
+    "url": "https://musicbrainz.org/artist/1eac2d75-23ba-4daf-8d57-a5f1bf17269f"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 27,
+  "batch": "batch-21-30"
+ },
+ {
+  "id": "singer-028",
+  "stage_name": "Lou Hoàng",
+  "real_name": "Hoàng Kim Long",
+  "birth_date": "1994-03-06",
+  "birth_place": "Hà Nội, Việt Nam",
+  "genres": [
+   "V-pop",
+   "R&B",
+   "Ballad"
+  ],
+  "years_active": "2016–nay",
+  "labels": [],
+  "bio": "Nam ca sĩ kiêm nhạc sĩ sáng tác và rapper người Việt Nam, học trò của nhạc sĩ Only C, nổi tiếng với 'Mình là gì của nhau' (2016).",
+  "spotify_id": "75Ki5hBCOpDtKGoFyTvLxP",
+  "spotify_url": "https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP",
+  "musicbrainz_id": "21a590a1-66dc-4a70-b762-643774a0a368",
+  "wikidata_id": "Q130946600",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikidata Q130946600",
+    "url": "https://www.wikidata.org/wiki/Q130946600"
+   },
+   {
+    "name": "Wikipedia vi — Lou Hoàng",
+    "url": "https://vi.wikipedia.org/wiki/Lou_Ho%C3%A0ng"
+   },
+   {
+    "name": "MusicBrainz artist",
+    "url": "https://musicbrainz.org/artist/21a590a1-66dc-4a70-b762-643774a0a368"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 28,
+  "batch": "batch-21-30"
+ },
+ {
+  "id": "singer-029",
+  "stage_name": "Anh Tú Atus",
+  "real_name": "Nguyễn Anh Tú",
+  "birth_date": "1992-05-30",
+  "birth_place": "Thái Bình, Việt Nam",
+  "genres": [
+   "V-pop",
+   "Ballad"
+  ],
+  "years_active": "2017–nay",
+  "labels": [
+   "6th Sense Entertainment"
+  ],
+  "bio": "Nam ca sĩ người Việt Nam, á quân Giọng hát Việt 2017, nổi tiếng với bản hit đầu tay 'Cuộc sống em ổn không' (2018).",
+  "spotify_id": null,
+  "spotify_url": null,
+  "musicbrainz_id": null,
+  "wikidata_id": "Q111086636",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ANHTU625%20%28cropped%29.jpg",
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikidata Q111086636",
+    "url": "https://www.wikidata.org/wiki/Q111086636"
+   },
+   {
+    "name": "Wikipedia vi — Anh Tú (sinh 1992)",
+    "url": "https://vi.wikipedia.org/wiki/Anh_T%C3%BA_(sinh_1992)"
+   }
+  ],
+  "confidence": "medium",
+  "top100_no": 29,
+  "batch": "batch-21-30"
+ },
+ {
+  "id": "singer-030",
+  "stage_name": "Rhyder",
+  "real_name": "Nguyễn Quang Anh",
+  "birth_date": "2001-03-18",
+  "birth_place": "Thanh Hóa, Việt Nam",
+  "genres": [
+   "V-pop",
+   "Hip-hop",
+   "Dance-pop",
+   "R&B",
+   "Ballad"
+  ],
+  "years_active": "2013–nay",
+  "labels": [
+   "DG House"
+  ],
+  "bio": "Nam ca sĩ kiêm nhạc sĩ, rapper và nhà sản xuất thu âm người Việt Nam; quán quân Giọng hát Việt nhí 2013, á quân Anh trai say hi 2024.",
+  "spotify_id": "1W2pigH6UYwuTuFbwoSfVZ",
+  "spotify_url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ",
+  "musicbrainz_id": "db9d9046-b75b-49e2-9d7a-02b73d079268",
+  "wikidata_id": "Q20026135",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RHYDER%203.png",
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikidata Q20026135",
+    "url": "https://www.wikidata.org/wiki/Q20026135"
+   },
+   {
+    "name": "Wikipedia vi — Rhyder",
+    "url": "https://vi.wikipedia.org/wiki/Rhyder"
+   },
+   {
+    "name": "Wikipedia en — Rhyder",
+    "url": "https://en.wikipedia.org/wiki/Rhyder"
+   },
+   {
+    "name": "MusicBrainz artist",
+    "url": "https://musicbrainz.org/artist/db9d9046-b75b-49e2-9d7a-02b73d079268"
+   }
+  ],
+  "confidence": "medium",
+  "top100_no": 30,
+  "batch": "batch-21-30"
+ },
+ {
+  "id": "singer-031",
+  "stage_name": "Binz",
+  "real_name": "Lê Nguyễn Trung Đan",
+  "birth_date": "1988-05-24",
+  "birth_place": "Gia Lai, Việt Nam",
+  "genres": [
+   "Hip-hop",
+   "Trap",
+   "R&B"
+  ],
+  "years_active": null,
+  "labels": [
+   "SpaceSpeakers Group",
+   "SS Label"
+  ],
+  "bio": "Rapper mainstream hàng đầu Việt Nam; bản hit 'Bigcityboi' (2020) từng đứng đầu YouTube Trending nhiều nước và Top 1 Spotify/Apple Music Việt Nam, sau đó xuất hiện trong phim 'Expend4bles' (2023).",
+  "spotify_id": null,
+  "spotify_url": null,
+  "apple_music_url": "https://music.apple.com/vn/artist/binz/1448933762",
+  "musicbrainz_id": "8a1343b7-35c5-46b5-bb4e-38c243d262bc",
+  "wikidata_id": "Q104203317",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "VnExpress International",
+    "url": "https://e.vnexpress.net/news/life/arts/vietnamese-rapper-s-music-video-wows-billboard-4170359.html"
+   },
+   {
+    "name": "VnExpress International",
+    "url": "https://e.vnexpress.net/news/arts/vietnamese-rappers-song-to-be-featured-in-expend4bles-4652475.html"
+   },
+   {
+    "name": "MusicBrainz",
+    "url": "https://musicbrainz.org/artist/8a1343b7-35c5-46b5-bb4e-38c243d262bc"
+   },
+   {
+    "name": "PR Newswire via Top40-Charts",
+    "url": "https://top40-charts.com/news.php?nid=183266&string=Kb"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 31,
+  "batch": "batch-31-40"
+ },
+ {
+  "id": "singer-032",
+  "stage_name": "Karik",
+  "real_name": "Phạm Hoàng Khoa",
+  "birth_date": "1989-04-12",
+  "birth_place": "Hà Nam, Việt Nam",
+  "genres": [
+   "Hip-hop"
+  ],
+  "years_active": null,
+  "labels": [],
+  "bio": "Rapper kỳ cựu, rapper Việt đầu tiên thắng giải MTV Việt Nam (2011); nổi tiếng đại chúng với 'Người Lạ Ơi' (2018, cùng Orange) và 'Anh Không Đòi Quà'.",
+  "spotify_id": null,
+  "spotify_url": null,
+  "apple_music_url": "https://music.apple.com/vn/artist/karik/384038714",
+  "musicbrainz_id": "92ddcfd6-cfeb-4b72-a471-5c83e83dee20",
+  "wikidata_id": "Q33129540",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/KARIK_Rapper.jpg",
+  "image_license": "CC BY 3.0",
+  "sources": [
+   {
+    "name": "MusicBrainz",
+    "url": "https://musicbrainz.org/artist/92ddcfd6-cfeb-4b72-a471-5c83e83dee20"
+   },
+   {
+    "name": "Wikidata",
+    "url": "https://www.wikidata.org/wiki/Q33129540"
+   },
+   {
+    "name": "Kworb YouTube most-viewed VN",
+    "url": "https://kworb.net/youtube/topvideos_vietnamese.html"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 32,
+  "batch": "batch-31-40"
+ },
+ {
+  "id": "singer-033",
+  "stage_name": "Suboi",
+  "real_name": "Hàng Lâm Trang Anh",
+  "birth_date": "1990-01-14",
+  "birth_place": "Thành phố Hồ Chí Minh, Việt Nam",
+  "genres": [
+   "Hip-hop",
+   "Alternative hip-hop",
+   "Electronic"
+  ],
+  "years_active": null,
+  "labels": [
+   "Suboi Entertainment"
+  ],
+  "bio": "Nữ rapper tiên phong của hip-hop Việt, được gọi là 'nữ hoàng hip-hop Việt Nam'; album 'No Nê' phát hành 15/07/2021, single 'N-Sao?' (2018) là nghệ sĩ Việt đầu tiên lên Apple Beats 1.",
+  "spotify_id": null,
+  "spotify_url": null,
+  "apple_music_url": "https://music.apple.com/vn/artist/suboi/400263502",
+  "musicbrainz_id": "95fcca80-b520-4ffd-aef8-aa42df001259",
+  "wikidata_id": "Q16233605",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/SUBOI_%E2%80%93_BATTLE_OF_THE_BRIDES_2_%E2%80%93_HCMC_PREMIERE_%E2%80%93_P1.jpg",
+  "image_license": "CC BY 3.0",
+  "sources": [
+   {
+    "name": "Wikipedia (EN)",
+    "url": "https://en.wikipedia.org/wiki/Suboi"
+   },
+   {
+    "name": "MusicBrainz",
+    "url": "https://musicbrainz.org/artist/95fcca80-b520-4ffd-aef8-aa42df001259"
+   },
+   {
+    "name": "NME",
+    "url": "https://www.nme.com/news/music/vietnamese-rapper-suboi-announces-new-album-no-ne-2974746"
+   },
+   {
+    "name": "Saigoneer",
+    "url": "https://saigoneer.com/saigon-music-art/14017-with-new-single-n-sao-"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 33,
+  "batch": "batch-31-40"
+ },
+ {
+  "id": "singer-034",
+  "stage_name": "Wowy",
+  "real_name": "Nguyễn Minh Huy",
+  "birth_date": "1988",
+  "birth_place": "Thành phố Hồ Chí Minh, Việt Nam",
+  "genres": [
+   "Hip-hop"
+  ],
+  "years_active": "2008–present",
+  "labels": [
+   "Làng Văn",
+   "Wowy Vietnam Co., Ltd"
+  ],
+  "bio": "Rapper gạo cội của hip-hop Việt; 'Khu Tao Sống' (2010/2012) được xem là một trong những track rap Việt đầu tiên bùng nổ trên YouTube; nhạc phim 'Chạy' cho phim 'Ròm' (2019).",
+  "spotify_id": null,
+  "spotify_url": null,
+  "apple_music_url": "https://music.apple.com/vn/artist/wowy/468744500",
+  "musicbrainz_id": "f8be86b4-c5e7-41af-b85e-9d14dc69b1f0",
+  "wikidata_id": "Q86012975",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/WOWY_P1.jpg",
+  "image_license": "CC BY 3.0",
+  "sources": [
+   {
+    "name": "Galerie Quynh (Wowy CV/discography)",
+    "url": "https://www.galeriequynh.com/usr/documents/exhibitions/list_of_works_url/9/gq_tanxwowy_a_dream_of_the_end.pdf"
+   },
+   {
+    "name": "Blaqlyte",
+    "url": "https://blaqlyte.com/2023/07/14/wowy-vietnam-rapper-saigon-rom/"
+   },
+   {
+    "name": "MusicBrainz",
+    "url": "https://musicbrainz.org/artist/f8be86b4-c5e7-41af-b85e-9d14dc69b1f0"
+   }
+  ],
+  "confidence": "medium",
+  "top100_no": 34,
+  "batch": "batch-31-40"
+ },
+ {
+  "id": "singer-035",
+  "stage_name": "Rhymastic",
+  "real_name": "Vũ Đức Thiện",
+  "birth_date": "1991-04-08",
+  "birth_place": "Hà Nội, Việt Nam",
+  "genres": [
+   "Hip-hop",
+   "R&B"
+  ],
+  "years_active": "2011–present",
+  "labels": [
+   "SpaceSpeakers"
+  ],
+  "bio": "Rapper/producer kỳ cựu, thành viên SpaceSpeakers; nổi tiếng với 'Yêu 5', 'Nến Và Hoa', 'Cứ Chill Thôi' và vai trò huấn luyện viên/giám khảo các show rap.",
+  "spotify_id": null,
+  "spotify_url": null,
+  "apple_music_url": "https://music.apple.com/vn/artist/rhymastic/600802628",
+  "musicbrainz_id": "25d57200-b0d8-463b-b217-01d4e21eca7d",
+  "wikidata_id": "Q109016462",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Rhymastic.png",
+  "image_license": "CC BY 4.0",
+  "sources": [
+   {
+    "name": "Wikipedia (EN)",
+    "url": "https://en.wikipedia.org/wiki/Rhymastic"
+   },
+   {
+    "name": "MusicBrainz",
+    "url": "https://musicbrainz.org/artist/25d57200-b0d8-463b-b217-01d4e21eca7d"
+   },
+   {
+    "name": "Viberate",
+    "url": "https://www.viberate.com/artist/rhymastic/"
+   }
+  ],
+  "confidence": "medium",
+  "top100_no": 35,
+  "batch": "batch-31-40"
+ },
+ {
+  "id": "singer-036",
+  "stage_name": "JustaTee",
+  "real_name": "Nguyễn Thanh Tuấn",
+  "birth_date": "1990-11-01",
+  "birth_place": "Hà Nội, Việt Nam",
+  "genres": [
+   "R&B",
+   "Hip-hop"
+  ],
+  "years_active": "2004–present",
+  "labels": [
+   "SpaceSpeakers"
+  ],
+  "bio": "Ca sĩ/rapper R&B hàng đầu, bắt đầu với nghệ danh JayTee năm 2004, đổi thành JustaTee năm 2010; nổi tiếng với 'Đã Lỡ Yêu Em Nhiều', 'Thằng Điên' (cùng Phương Ly), 'Bâng Khuâng'.",
+  "spotify_id": null,
+  "spotify_url": null,
+  "apple_music_url": "https://music.apple.com/vn/artist/justatee/1089399419",
+  "musicbrainz_id": "b35cda94-d233-4ece-895b-20aeca4a3f1b",
+  "wikidata_id": "Q108748445",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/JUSTATEE_%28cropped%29.png",
+  "image_license": "CC BY 3.0",
+  "sources": [
+   {
+    "name": "Wikipedia (EN)",
+    "url": "https://en.wikipedia.org/wiki/JustaTee"
+   },
+   {
+    "name": "MusicBrainz",
+    "url": "https://musicbrainz.org/artist/b35cda94-d233-4ece-895b-20aeca4a3f1b"
+   }
+  ],
+  "confidence": "medium",
+  "top100_no": 36,
+  "batch": "batch-31-40"
+ },
+ {
+  "id": "singer-037",
+  "stage_name": "BigDaddy",
+  "real_name": "Trần Tất Vũ",
+  "birth_date": "1991-08-05",
+  "birth_place": "Hà Nội, Việt Nam",
+  "genres": [
+   "Hip-hop"
+  ],
+  "years_active": null,
+  "labels": [
+   "LadyKillah",
+   "1989s Entertainment"
+  ],
+  "bio": "Rapper mainstream, thành viên SpaceSpeakers; nổi tiếng với 'Mượn Rượu Tỏ Tình' (2019, cùng vợ là ca sĩ Emily) và vai trò huấn luyện viên Rap Việt/King of Rap.",
+  "spotify_id": null,
+  "spotify_url": null,
+  "apple_music_url": "https://music.apple.com/vn/artist/bigdaddy/79651390",
+  "musicbrainz_id": "3f1d3719-ab5c-4993-a465-a5207a19ebea",
+  "wikidata_id": "Q123832040",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/BigDaddy_during_a_skateboarding_contest_in_2021.jpg",
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikipedia (VI)",
+    "url": "https://vi.wikipedia.org/wiki/BigDaddy"
+   },
+   {
+    "name": "MusicBrainz",
+    "url": "https://musicbrainz.org/artist/3f1d3719-ab5c-4993-a465-a5207a19ebea"
+   },
+   {
+    "name": "Wikipedia (EN) Tiên Cookie — song credits",
+    "url": "https://en.wikipedia.org/wiki/Ti%C3%AAn_Cookie"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 37,
+  "batch": "batch-31-40"
+ },
+ {
+  "id": "singer-038",
+  "stage_name": "MCK",
+  "real_name": "Nghiêm Vũ Hoàng Long",
+  "birth_date": "1999-03-02",
+  "birth_place": "Hà Nội, Việt Nam",
+  "genres": [
+   "Hip-hop",
+   "Pop rap",
+   "R&B",
+   "V-pop"
+  ],
+  "years_active": "2018–present",
+  "labels": [],
+  "bio": "Rapper Gen Z (nghệ danh đầy đủ RPT MCK), nổi lên từ Rap Việt mùa 1 (2020); album đầu tay '99%' (2023) thắng lớn tại WeChoice Awards 2023, album 'HVL' 30 ca khúc phát hành 17/06/2026 từng đứng #4 Top Albums Debut Global của Spotify.",
+  "spotify_id": null,
+  "spotify_url": null,
+  "apple_music_url": "https://music.apple.com/vn/artist/rpt-mck/1533293457",
+  "musicbrainz_id": "a0bf586e-570b-4057-ac6b-ba383fa7ef50",
+  "wikidata_id": "Q117054242",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikipedia (VI)",
+    "url": "https://vi.wikipedia.org/wiki/MCK"
+   },
+   {
+    "name": "MusicBrainz (RPT MCK)",
+    "url": "https://musicbrainz.org/artist/a0bf586e-570b-4057-ac6b-ba383fa7ef50"
+   },
+   {
+    "name": "Kenh14",
+    "url": "https://kenh14.vn/mck-lai-len-top-1-ca-nuoc-21526101408105939.chn"
+   },
+   {
+    "name": "Vietnam Insider (HVL)",
+    "url": "https://vietnaminsiders.com/history-made-mck-and-antiantiart-secure-6-cannes-lions-nods-for-hvl/"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 38,
+  "batch": "batch-31-40"
+ },
+ {
+  "id": "singer-039",
+  "stage_name": "Low G",
+  "real_name": "Nguyễn Hoàng Long",
+  "birth_date": "1997-07-23",
+  "birth_place": "Đống Đa, Hà Nội, Việt Nam",
+  "genres": [
+   "Hip-hop"
+  ],
+  "years_active": "2018–present",
+  "labels": [],
+  "bio": "Rapper Hà Nội, xuất thân vũ công, nổi tiếng với series 'Tán Gái' (bắt đầu với 'Tán Gái 101') và 'An Thần'; từng biểu diễn trên ColorsxStudios (2023).",
+  "spotify_id": null,
+  "spotify_url": null,
+  "apple_music_url": "https://music.apple.com/vn/artist/low-g/1537153447",
+  "musicbrainz_id": "04dc8a8e-a7b2-476a-9915-bf3e6797ddac",
+  "wikidata_id": "Q140277259",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikipedia (EN)",
+    "url": "https://en.wikipedia.org/wiki/Low_G"
+   },
+   {
+    "name": "MusicBrainz",
+    "url": "https://musicbrainz.org/artist/04dc8a8e-a7b2-476a-9915-bf3e6797ddac"
+   },
+   {
+    "name": "VnExpress International (Colors)",
+    "url": "https://e.vnexpress.net/news/arts/vietnamese-rapper-performs-on-german-music-platform-4574743.html"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 39,
+  "batch": "batch-31-40"
+ },
+ {
+  "id": "singer-040",
+  "stage_name": "Obito",
+  "real_name": "Lý Quốc Phong",
+  "birth_date": "2001-09-20",
+  "birth_place": "An Giang, Việt Nam",
+  "genres": [
+   "Hip-hop",
+   "R&B"
+  ],
+  "years_active": "2019–present",
+  "labels": [
+   "Def Jam Vietnam"
+  ],
+  "bio": "Rapper Gen Z, ra mắt 18/10/2019 với MV 'Simple Love' (cùng Seachains, Davis, Lena), thắng Zing Music Awards 2019 hạng mục Ca khúc R&B/soul được yêu thích nhất; một trong 3 nghệ sĩ đầu tiên Def Jam ký tại Việt Nam (2020).",
+  "spotify_id": null,
+  "spotify_url": null,
+  "apple_music_url": "https://music.apple.com/vn/artist/obito/1580461456",
+  "musicbrainz_id": "73580007-6632-4925-8f53-229c06d489b8",
+  "wikidata_id": "Q126725680",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikipedia (VI)",
+    "url": "https://vi.wikipedia.org/wiki/Obito"
+   },
+   {
+    "name": "MusicBrainz",
+    "url": "https://musicbrainz.org/artist/73580007-6632-4925-8f53-229c06d489b8"
+   },
+   {
+    "name": "NME (Def Jam Vietnam)",
+    "url": "https://www.nme.com/news/music/def-jam-launches-in-vietnam-signing-obito-seachains-and-right-2761353"
+   },
+   {
+    "name": "Vietcetera",
+    "url": "https://vietcetera.com/amp/vn/obito-lang-nghe-nhieu-hon-de-truong-thanh"
+   }
+  ],
+  "confidence": "high",
+  "top100_no": 40,
+  "batch": "batch-31-40"
+ },
+ {
+  "bio": "Rapper người Việt, quán quân Rap Việt mùa 2 (2022) với đội huấn luyện viên Karik; nổi tiếng với 'Simple Love' (2019, đoạt giải Zing Music Awards) và album đầu tay '30 The Album' (2025).",
+  "birth_date": "1995-10-31",
+  "birth_place": "Cần Thơ, Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "Rap",
+   "Hip-hop",
+   "R&B"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [],
+  "musicbrainz_id": null,
+  "rank": 41,
+  "real_name": "Huỳnh Long Hải",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Seachains",
+    "url": "https://vi.wikipedia.org/wiki/Seachains"
+   },
+   {
+    "name": "VOV — Quán quân Rap Việt Seachains",
+    "url": "https://vov.vn/emagazine/quan-quan-rap-viet-seachains-toi-tung-vo-mong-vi-cuoc-song-qua-khac-nghiet-937078.vov"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Seachains",
+  "wikidata_id": null,
+  "years_active": "2015–nay",
+  "id": "singer-041",
+  "top100_no": 41,
+  "batch": "batch-41-50"
+ },
+ {
+  "bio": "Rapper kỳ cựu của hip-hop Việt, đồng sáng lập GVR Production (2006), nổi tiếng với 'Tiểu thuyết tình yêu' (2006) và 'Ngọn nến trước gió' (giải Ca khúc rap của năm, Zing Music Awards 2012); huấn luyện viên Rap Việt mùa 3 (2023).",
+  "birth_date": "1987-06-18",
+  "birth_place": "Toronto, Canada",
+  "confidence": "high",
+  "genres": [
+   "Hip-hop",
+   "Trap",
+   "V-pop"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "GVR Production"
+  ],
+  "musicbrainz_id": null,
+  "rank": 42,
+  "real_name": "Bùi Thế Anh",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Andree Right Hand",
+    "url": "https://vi.wikipedia.org/wiki/Andree_Right_Hand"
+   },
+   {
+    "name": "VOH — Andree Right Hand profile",
+    "url": "https://voh.com.vn/tieu-su-sao/andree-right-hand-anh-baus-profile-478800.html"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Andree Right Hand",
+  "wikidata_id": null,
+  "years_active": "2005–nay",
+  "id": "singer-042",
+  "top100_no": 42,
+  "batch": "batch-41-50"
+ },
+ {
+  "bio": "Rapper thành viên nhóm 95Generation (95G), nổi lên từ Rap Việt mùa 2 (2021) với các tiết mục 'Silence', 'Còn Thở Còn Gỡ', 'Nhập Vai'; ra mắt album 'An' và các ca khúc 'Phi Hành Gia', 'Mở Mắt' (ft. Đen).",
+  "birth_date": "1995-12-23",
+  "birth_place": "Thành phố Hồ Chí Minh, Việt Nam",
+  "confidence": "medium",
+  "genres": [
+   "Rap",
+   "Hip-hop"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "95Generation"
+  ],
+  "musicbrainz_id": null,
+  "rank": 43,
+  "real_name": "Trần Trung Hiếu",
+  "sources": [
+   {
+    "name": "DoanhNhanOnline — Lil Wuyn",
+    "url": "https://doanhnhanonline.com.vn/lil-wuyn-rapper-tai-nang-va-ca-tinh-cua-rap-viet/"
+   },
+   {
+    "name": "DienAnh.net — Lil' Wuyn Rap Việt mùa 2",
+    "url": "https://www.dienanh.net//lil-wuyn-ung-cu-vien-sang-gia-cho-ngoi-vi-quan-quan-rap-viet-mua-2-38436.html"
+   },
+   {
+    "name": "VOV — Top 8 chung kết Rap Việt mùa 2",
+    "url": "https://vov.gov.vn/top-8-chung-ket-rap-viet-mua-2-chinh-thuc-lo-dien-dtnew-345249"
+   },
+   {
+    "name": "Viberate — Lil Wuyn",
+    "url": "https://www.viberate.com/artist/lil-wuyn/"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Lil Wuyn",
+  "wikidata_id": null,
+  "years_active": "2013–nay",
+  "id": "singer-043",
+  "top100_no": 43,
+  "batch": "batch-41-50"
+ },
+ {
+  "bio": "Ca sĩ kiêm nhạc sĩ và nhà sản xuất, Á quân The Voice Việt Nam 2013; nổi tiếng với 'Yêu xa', 'Mơ', 'Có người' và các album 'Giải mã' (2014), 'Stardom' (2018), 'Inner Me' (2019); hai lần đoạt giải Cống hiến.",
+  "birth_date": "1992-10-02",
+  "birth_place": "Long Xuyên, An Giang, Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "V-pop",
+   "R&B",
+   "Neo soul",
+   "Electropop",
+   "Ballad"
+  ],
+  "image_license": "Wikimedia Commons — kiểm tra trang file để biết license cụ thể trước khi dùng",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Vu_Cat_Tuong.jpg",
+  "labels": [
+   "Universal Music Group",
+   "The Little Prince Entertainment",
+   "Vector Presents"
+  ],
+  "musicbrainz_id": null,
+  "rank": 44,
+  "real_name": "Vũ Cát Tường",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Vũ Cát Tường",
+    "url": "https://vi.wikipedia.org/wiki/V%C5%A9_C%C3%A1t_T%C6%B0%E1%BB%9Dng"
+   },
+   {
+    "name": "Wikipedia tiếng Anh — Vũ Cát Tường",
+    "url": "https://en.wikipedia.org/wiki/V%C5%A9_C%C3%A1t_T%C6%B0%E1%BB%9Dng"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Vũ Cát Tường",
+  "wikidata_id": null,
+  "years_active": "2013–nay",
+  "id": "singer-044",
+  "top100_no": 44,
+  "batch": "batch-41-50"
+ },
+ {
+  "bio": "Ca sĩ kiêm nhạc sĩ, Á quân The Voice 2015, được gọi là 'Hoàng tử tình ca'; nổi tiếng với 'Nàng thơ' (2020, hơn 30 triệu lượt nghe Spotify tính đến 3/2024) và album đầu tay '25' (2020), album thứ hai 'Xoay tròn' (2025).",
+  "birth_date": "1995-11-04",
+  "birth_place": "Thái Nguyên, Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "V-pop",
+   "Ballad",
+   "R&B"
+  ],
+  "image_license": "Wikimedia Commons — kiểm tra trang file để biết license cụ thể trước khi dùng",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Ho%C3%A0ng_D%C5%A9ng.jpg",
+  "labels": [
+   "Sony Music Entertainment",
+   "Believe Music"
+  ],
+  "musicbrainz_id": null,
+  "rank": 45,
+  "real_name": "Nguyễn Hoàng Dũng",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Hoàng Dũng (ca sĩ)",
+    "url": "https://vi.wikipedia.org/wiki/Ho%C3%A0ng_D%C5%A9ng_(ca_s%C4%A9)"
+   },
+   {
+    "name": "VietnamNet — Hoàng Dũng",
+    "url": "https://vietnamnet.vn/hoang-dung-tag16000705125759695236-page3.html"
+   },
+   {
+    "name": "Dân trí — Hoàng Dũng phỏng vấn",
+    "url": "https://dantri.com.vn/giai-tri/hoang-dung-toi-da-hoc-cach-yeu-va-chap-nhan-chinh-minh-20250805211435512.htm"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Hoàng Dũng",
+  "wikidata_id": null,
+  "years_active": "2015–nay",
+  "id": "singer-045",
+  "top100_no": 45,
+  "batch": "batch-41-50"
+ },
+ {
+  "bio": "Ca sĩ kiêm nhạc sĩ indie, nổi tiếng với hiện tượng 'Một đêm say (X)' (2018, top 5 #zingchart real-time, hạng 12 tuần 8/2019 trên Zing MP3); các album 'Door To Nowhere' (2022) và 'Thinhsuynghi' (2023).",
+  "birth_date": "1999-10-18",
+  "birth_place": "Bình Định, Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "Indie pop",
+   "V-pop"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "InQ International",
+   "Yin Yang Media"
+  ],
+  "musicbrainz_id": null,
+  "rank": 46,
+  "real_name": "Đỗ Quốc Thịnh",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Thịnh Suy",
+    "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%8Bnh_Suy"
+   },
+   {
+    "name": "Men's Folio — Thịnh Suy phỏng vấn",
+    "url": "https://mensfolio.vn/mftalenthub-ca-sy-thinh-suy-giai-dap-nhung-thac-mac-sau-mot-dem-say/"
+   },
+   {
+    "name": "Saigoneer — Review 'Tự' (xác nhận tên thật Đỗ Quốc Thịnh)",
+    "url": "https://saigoneer.com/saigon-music-art/29296-review-th%E1%BB%8Bnh-suy,-datmaniac-deliver-earnestness-in-t%E1%BB%B1,-an-experiment-in-spirituality"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Thịnh Suy",
+  "wikidata_id": null,
+  "years_active": "2018–nay",
+  "id": "singer-046",
+  "top100_no": 46,
+  "batch": "batch-41-50"
+ },
+ {
+  "bio": "Ca sĩ kiêm nhạc sĩ độc lập theo phong cách du ca; 'Chênh vênh' đoạt Bài hát của năm tại Bài hát Việt 2008, cô là nữ nghệ sĩ đầu tiên thắng hạng mục Nhạc sĩ của năm tại giải Cống hiến (2011).",
+  "birth_date": "1987-08-24",
+  "birth_place": "Đà Nẵng, Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "Du ca",
+   "Pop",
+   "Indie",
+   "Folk"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "Phương Nam",
+   "Warner",
+   "Dihavina",
+   "Thời đại"
+  ],
+  "musicbrainz_id": null,
+  "rank": 47,
+  "real_name": "Lê Cát Trọng Lý",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Lê Cát Trọng Lý",
+    "url": "https://vi.wikipedia.org/wiki/L%C3%AA_C%C3%A1t_Tr%E1%BB%8Dng_L%C3%BD"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Lê Cát Trọng Lý",
+  "wikidata_id": null,
+  "years_active": "2008–nay",
+  "id": "singer-047",
+  "top100_no": 47,
+  "batch": "batch-41-50"
+ },
+ {
+  "bio": "Ca sĩ kiêm nhạc sĩ, bước ra từ The Voice 2015; đột phá với 'Hôm Nay Tôi Buồn' (2018, 104 triệu lượt nghe Zing trong nửa đầu 2018) và các album 'Yesteryear' (2020), 'Citopia' (2022), 'Giữa một vạn người' (2025).",
+  "birth_date": "1994-05-07",
+  "birth_place": "Bắc Giang, Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "Synth Pop",
+   "City Pop",
+   "Indie",
+   "Ballad",
+   "V-pop",
+   "Dream Pop",
+   "R&B"
+  ],
+  "image_license": "Wikimedia Commons — kiểm tra trang file để biết license cụ thể trước khi dùng",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ph%C3%B9ng_Kh%C3%A1nh_Linh_t%E1%BA%A1i_Spotify_Wrapped_2025_061225_%28cropped%29.jpg",
+  "labels": [
+   "Independent",
+   "Times Records",
+   "Universal Music Vietnam",
+   "Black Swan Label"
+  ],
+  "musicbrainz_id": null,
+  "rank": 48,
+  "real_name": "Phùng Khánh Linh",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Anh — Phùng Khánh Linh",
+    "url": "https://en.wikipedia.org/wiki/Ph%C3%B9ng_Kh%C3%A1nh_Linh"
+   },
+   {
+    "name": "Wikipedia tiếng Việt — Phùng Khánh Linh",
+    "url": "https://vi.wikipedia.org/wiki/Ph%C3%B9ng_Kh%C3%A1nh_Linh"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Phùng Khánh Linh",
+  "wikidata_id": null,
+  "years_active": "2015–nay",
+  "id": "singer-048",
+  "top100_no": 48,
+  "batch": "batch-41-50"
+ },
+ {
+  "bio": "Ca sĩ kiêm nhạc sĩ, vụt sáng với 'Người lạ ơi' cùng Karik (2018, 50 triệu lượt xem trong 13 ngày, 100 triệu trong 38 ngày); album đầu tay 'Cam'On' (2024) gồm 12 ca khúc tự sáng tác.",
+  "birth_date": "1997-02-15",
+  "birth_place": "Thành phố Hồ Chí Minh, Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "V-pop",
+   "Indie",
+   "Dance-pop",
+   "R&B",
+   "Ballad"
+  ],
+  "image_license": "Wikimedia Commons — kiểm tra trang file để biết license cụ thể trước khi dùng",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/ORANGE_2023.08.29_P3.jpg",
+  "labels": [
+   "Superbrothers"
+  ],
+  "musicbrainz_id": null,
+  "rank": 49,
+  "real_name": "Khương Hoàn Mỹ",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Orange (ca sĩ)",
+    "url": "https://vi.wikipedia.org/wiki/Orange_(ca_s%C4%A9)"
+   },
+   {
+    "name": "Wikipedia tiếng Anh — Orange (singer)",
+    "url": "https://en.wikipedia.org/wiki/Orange_(singer)"
+   },
+   {
+    "name": "Deezer — Orange",
+    "url": "https://www.deezer.com/tr/artist/64196"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Orange",
+  "wikidata_id": null,
+  "years_active": "2014–nay",
+  "id": "singer-049",
+  "top100_no": 49,
+  "batch": "batch-41-50"
+ },
+ {
+  "bio": "Ca sĩ kiêm nhạc sĩ, nổi tiếng với hiện tượng '24h' (cuối 2018, 10 triệu lượt xem trong một tháng); đồng thời là tác giả của nhiều hit cho ca sĩ khác như 'Anh nhà ở đâu thế' (AMEE) và 'Không sao mà, em đây rồi' (Suni Hạ Linh).",
+  "birth_date": "1996-01-01",
+  "birth_place": "Quảng Nam – Đà Nẵng, Việt Nam",
+  "confidence": "medium",
+  "genres": [
+   "V-pop",
+   "R&B",
+   "Ballad",
+   "Dance-pop"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "Superbrothers"
+  ],
+  "musicbrainz_id": null,
+  "rank": 50,
+  "real_name": "Nguyễn Hoàng Lan",
+  "real_name_note": "Tên khai sinh theo Wikipedia là Nguyễn Hoàng Lan; phần lớn nguồn khác (kể cả Facebook cá nhân) ghi tên gốc là 'Nguyễn Hoàng Ly' — xem UNVERIFIED.md. Danh sách top100 ghi 'Nguyễn Hoàng Ly'.",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Lyly",
+    "url": "https://vi.wikipedia.org/wiki/LyLy_(ca_s%C4%A9)"
+   },
+   {
+    "name": "Wikipedia tiếng Anh — Lyly (singer)",
+    "url": "https://en.wikipedia.org/wiki/Lyly_(singer)"
+   },
+   {
+    "name": "VOV — LyLy nữ chính 'Thỏ ơi!!'",
+    "url": "https://vov.vn/giai-tri/nghe-si/nu-chinh-tho-oi-lyly-toi-khong-tham-vong-tro-thanh-dien-vien-hang-a-post1270807.vov"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "LyLy",
+  "wikidata_id": null,
+  "years_active": "2018–nay",
+  "id": "singer-050",
+  "top100_no": 50,
+  "batch": "batch-41-50"
+ },
+ {
+  "bio": "Ca sĩ, người mẫu, diễn viên Việt Nam; bắt đầu sự nghiệp ca hát năm 2004 với album đầu tay 24 Giờ 7 Ngày, nổi tiếng với các hit Xin Hãy Thứ Tha, Cả Một Trời Thương Nhớ, Cô Đơn Trên Sofa.",
+  "birth_date": "1984-11-25",
+  "birth_place": "Huế, Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "V-pop",
+   "Pop",
+   "R&B"
+  ],
+  "id": "singer-051",
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "Music Faces"
+  ],
+  "musicbrainz_id": null,
+  "real_name": "Hồ Thị Ngọc Hà",
+  "sources": [
+   {
+    "name": "Wikipedia (EN) — Hồ Ngọc Hà",
+    "url": "https://en.wikipedia.org/wiki/H%E1%BB%93_Ng%E1%BB%8Dc_H%C3%A0"
+   },
+   {
+    "name": "Viberate — Ho Ngoc Ha top songs",
+    "url": "https://www.viberate.com/artist/ho-ngoc-ha/"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Hồ Ngọc Hà",
+  "wikidata_id": null,
+  "years_active": "2004–nay",
+  "top100_no": 51,
+  "batch": "batch-51-60"
+ },
+ {
+  "bio": "Ca sĩ pop nam hàng đầu thập niên 2010, nổi lên với các hit Chạm Khẽ Tim Anh Một Chút Thôi, Thương Em Là Điều Anh Không Thể Ngờ, Như Phút Ban Đầu; từng thắng The Remix mùa 2 và giải Best Asian Artist Vietnam tại MAMA 2016.",
+  "birth_date": null,
+  "birth_place": "Thành phố Hồ Chí Minh, Việt Nam",
+  "confidence": "medium",
+  "genres": [
+   "V-pop",
+   "Pop",
+   "Ballad"
+  ],
+  "id": "singer-052",
+  "image_license": null,
+  "image_url": null,
+  "labels": [],
+  "musicbrainz_id": null,
+  "real_name": "Nguyễn Phước Thịnh",
+  "sources": [
+   {
+    "name": "Báo Nghệ An — Noo Phước Thịnh",
+    "url": "https://baonghean.vn/en/noo-phuoc-thinh-dai-gia-kin-tieng-10150691.html"
+   },
+   {
+    "name": "Viberate — Noo Phước Thịnh",
+    "url": "https://www.viberate.com/artist/noo-phuoc-thinh/"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Noo Phước Thịnh",
+  "wikidata_id": null,
+  "years_active": "2009–nay",
+  "top100_no": 52,
+  "batch": "batch-51-60"
+ },
+ {
+  "bio": "Ca sĩ pop nữ hàng đầu thập niên 2010, thắng The Remix mùa 1 (2015), nổi tiếng với Bad Boy, Vì Ai Vì Anh, Xin Lỗi Anh Quá Phiền; giải Best Southeast Asian Act tại MTV EMA 2016.",
+  "birth_date": "1988-10-13",
+  "birth_place": "Hà Nội, Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "V-pop",
+   "Pop",
+   "EDM"
+  ],
+  "id": "singer-053",
+  "image_license": null,
+  "image_url": null,
+  "labels": [],
+  "musicbrainz_id": null,
+  "real_name": "Mai Hồng Ngọc",
+  "sources": [
+   {
+    "name": "Wikipedia (EN) — Đông Nhi",
+    "url": "https://en.wikipedia.org/wiki/%C4%90%C3%B4ng_Nhi"
+   },
+   {
+    "name": "Báo Nghệ An — Đông Nhi",
+    "url": "https://baonghean.vn/en/hai-nu-nghe-si-trung-ten-hong-ngoc-su-nghiep-va-cuoc-song-vien-man-10313402.html"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Đông Nhi",
+  "wikidata_id": null,
+  "years_active": "2007–nay",
+  "top100_no": 53,
+  "batch": "batch-51-60"
+ },
+ {
+  "bio": "Ca sĩ pop/dance-pop Việt Nam, được gọi là Nữ hoàng dance-pop; nổi tiếng với Đường Cong, Bay, Yêu Mình Anh; từng tốt nghiệp Berklee College of Music và làm huấn luyện viên The Voice Việt Nam.",
+  "birth_date": "1977-09-22",
+  "birth_place": "Hà Nội, Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "Pop",
+   "Ballad",
+   "Dance-pop"
+  ],
+  "id": "singer-054",
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "TM Solutions"
+  ],
+  "musicbrainz_id": null,
+  "real_name": "Vũ Thu Minh",
+  "sources": [
+   {
+    "name": "Wikipedia (EN) — Thu Minh",
+    "url": "https://en.wikipedia.org/wiki/Thu_Minh"
+   },
+   {
+    "name": "VietnamNet — Thu Minh 20 năm ca hát",
+    "url": "https://vietnamnet.vn/en/diva-celebrates-career-with-city-extravaganza-E80702.html"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Thu Minh",
+  "wikidata_id": null,
+  "years_active": "1993–nay",
+  "top100_no": 54,
+  "batch": "batch-51-60"
+ },
+ {
+  "bio": "Ca sĩ ballad nữ giọng soprano, nổi tiếng với Anh, Hoang Mang, Với Anh Em Vẫn Là Cô Bé, Bức Thư Tình Thứ Hai; thủ khoa thanh nhạc Đại học Văn hóa Nghệ thuật Quân đội.",
+  "birth_date": "1980-10-16",
+  "birth_place": "Hạ Long, Quảng Ninh, Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "V-pop",
+   "Pop",
+   "Ballad"
+  ],
+  "id": "singer-055",
+  "image_license": null,
+  "image_url": null,
+  "labels": [],
+  "musicbrainz_id": null,
+  "real_name": "Hồ Quỳnh Hương",
+  "sources": [
+   {
+    "name": "Wikipedia (EN) — Hồ Quỳnh Hương",
+    "url": "https://en.wikipedia.org/wiki/H%E1%BB%93_Qu%E1%BB%B3nh_H%C6%B0%C6%A1ng"
+   },
+   {
+    "name": "Vietnam.vn — Hồ Quỳnh Hương",
+    "url": "https://www.vietnam.vn/en/nu-ca-si-dai-gia-dat-mo-khong-nho-noi-minh-co-bao-nhieu-can-nha-45-tuoi-moi-lay-chong"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Hồ Quỳnh Hương",
+  "wikidata_id": null,
+  "years_active": "2003–nay",
+  "top100_no": 55,
+  "batch": "batch-51-60"
+ },
+ {
+  "bio": "Ca sĩ pop-ballad nam thập niên 2000, cựu thành viên nhóm Quả Dưa Hấu; nổi tiếng với Tìm Lại Bầu Trời, Nắm Lấy Tay Anh, Cầu Vồng Khuyết.",
+  "birth_date": "1978-10-05",
+  "birth_place": "Hà Nội, Việt Nam",
+  "confidence": "medium",
+  "genres": [
+   "Pop",
+   "Ballad"
+  ],
+  "id": "singer-056",
+  "image_license": null,
+  "image_url": null,
+  "labels": [],
+  "musicbrainz_id": null,
+  "real_name": "Nguyễn Tuấn Hưng",
+  "sources": [
+   {
+    "name": "NguoiNoiTieng — Tuấn Hưng",
+    "url": "https://en.nguoinoitieng.tv/job/singer/tuan-hung/jv/amp"
+   },
+   {
+    "name": "Mytour — Top 10 bài hát Tuấn Hưng",
+    "url": "https://mytour.vn/en/blog/bai-viet/top-10-best-songs-by-singer-tuan-hung.html"
+   },
+   {
+    "name": "Viberate — Tuấn Hưng top songs",
+    "url": "https://www.viberate.com/artist/songs/tuan-hung-top-songs/"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Tuấn Hưng",
+  "wikidata_id": null,
+  "years_active": "1998–nay",
+  "top100_no": 56,
+  "batch": "batch-51-60"
+ },
+ {
+  "bio": "Ca sĩ trữ tình nam, nổi tiếng với cách hát nhạc Trịnh Công Sơn và các ca khúc Vì Đó Là Em, Còn Ta Với Nồng Nàn, Anh Còn Nợ Em.",
+  "birth_date": "1976-08-08",
+  "birth_place": "Quy Nhơn, Bình Định, Việt Nam",
+  "confidence": "medium",
+  "genres": [
+   "Pop",
+   "Ballad",
+   "Trữ tình"
+  ],
+  "id": "singer-057",
+  "image_license": null,
+  "image_url": null,
+  "labels": [],
+  "musicbrainz_id": null,
+  "real_name": "Thái Văn Dũng",
+  "sources": [
+   {
+    "name": "Last.fm — Quang Dũng / Vì Đó Là Em",
+    "url": "https://www.last.fm/music/Quang+D%C5%A9ng/_/V%C3%AC+%C4%91%C3%B3+l%C3%A0+em"
+   },
+   {
+    "name": "NguoiNoiTieng — Quang Dũng",
+    "url": "https://en.nguoinoitieng.tv/job/singer/quang-dung/hq"
+   },
+   {
+    "name": "Mytour — Top 10 bài hát Quang Dũng",
+    "url": "https://mytour.vn/en/blog/bai-viet/quang-dung-s-top-10-greatest-hits.html"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Quang Dũng",
+  "wikidata_id": null,
+  "years_active": "1997–nay",
+  "top100_no": 57,
+  "batch": "batch-51-60"
+ },
+ {
+  "bio": "Ca sĩ ballad tenor, tách solo năm 2000 sau các nhóm Chìa Khóa Vàng, Hoa Sữa, Quả Dưa Hấu; ca sĩ độc quyền của Thúy Nga, nổi tiếng với Trái Tim Bên Lề, Nơi Tình Yêu Bắt Đầu, Anh Sẽ Nhớ Mãi.",
+  "birth_date": "1973-07-13",
+  "birth_place": "Hà Nội, Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "Ballad",
+   "Pop"
+  ],
+  "id": "singer-058",
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "Thúy Nga Productions"
+  ],
+  "musicbrainz_id": null,
+  "real_name": "Nguyễn Bằng Kiều",
+  "sources": [
+   {
+    "name": "Wikipedia (EN) — Bằng Kiều",
+    "url": "https://en.wikipedia.org/wiki/B%E1%BA%B1ng_Ki%E1%BB%81u"
+   },
+   {
+    "name": "TheSmartLocal — Bằng Kiều",
+    "url": "https://thesmartlocal.com/vietnam/vietnamese-singers/"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Bằng Kiều",
+  "wikidata_id": null,
+  "years_active": "2000–nay (solo; trước đó trong các nhóm Chìa Khóa Vàng, Hoa Sữa, Quả Dưa Hấu)",
+  "top100_no": 58,
+  "batch": "batch-51-60"
+ },
+ {
+  "bio": "Ca sĩ pop/bolero, được gọi là ông hoàng nhạc Việt; nổi tiếng với Tình Ơi Xin Ngủ Yên, Bình Minh Sẽ Mang Em Đi, Xin Lỗi Tình Yêu, Say Tình.",
+  "birth_date": "1971-10-02",
+  "birth_place": "Điện Bàn, Quảng Nam, Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "Pop",
+   "Bolero",
+   "Trữ tình"
+  ],
+  "id": "singer-059",
+  "image_license": null,
+  "image_url": null,
+  "labels": [],
+  "musicbrainz_id": null,
+  "real_name": "Huỳnh Minh Hưng",
+  "sources": [
+   {
+    "name": "Wikipedia (EN) — Đàm Vĩnh Hưng",
+    "url": "https://en.wikipedia.org/wiki/Dam_Vinh_Hung"
+   },
+   {
+    "name": "Vietnam.vn — Đàm Vĩnh Hưng",
+    "url": "https://www.vietnam.vn/en/dam-vinh-hung-o-tuoi-55-ban-ron-kiem-tien-mo-quan-ca-phe-xay-nha-vi-con-trai"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Đàm Vĩnh Hưng",
+  "wikidata_id": null,
+  "years_active": "1996–nay",
+  "top100_no": 59,
+  "batch": "batch-51-60"
+ },
+ {
+  "bio": "Ca sĩ pop nam thế hệ đầu Làn Sóng Xanh, bùng nổ năm 1998 với Tình Thôi Xót Xa (Bảo Chấn); các hit khác: Katy Katy, Mưa Phi Trường, Đôi Giày Vải.",
+  "birth_date": "1974-10-14",
+  "birth_place": "Sài Gòn, Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "Pop",
+   "Ballad"
+  ],
+  "id": "singer-060",
+  "image_license": null,
+  "image_url": null,
+  "labels": [],
+  "musicbrainz_id": null,
+  "real_name": "Tiêu Lam Trường",
+  "sources": [
+   {
+    "name": "Wikipedia (EN) — Lam Trường",
+    "url": "https://en.wikipedia.org/wiki/Lam_Tr%C6%B0%E1%BB%9Dng"
+   },
+   {
+    "name": "Vietnam.vn — Lam Trường",
+    "url": "https://www.vietnam.vn/en/lam-truong-toi-mong-co-them-con-o-tuoi-50"
+   },
+   {
+    "name": "VOV World — Lam Trường online concert",
+    "url": "https://vovworld.vn/en-US/news/lam-truongs-online-concert-highlights-famous-songs-in-late-90s-913735.vov"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Lam Trường",
+  "wikidata_id": null,
+  "years_active": "1998–nay",
+  "top100_no": 60,
+  "batch": "batch-51-60"
+ },
+ {
+  "id": "singer-061",
+  "stage_name": "Uyên Linh",
+  "real_name": "Trần Nguyễn Uyên Linh",
+  "birth_date": "1987-12-31",
+  "birth_place": "Thành phố Hồ Chí Minh, Việt Nam",
+  "genres": [
+   "Pop",
+   "Ballad",
+   "R&B"
+  ],
+  "years_active": "2005–nay",
+  "labels": [
+   "BHD Entertainment"
+  ],
+  "bio": "Quán quân Vietnam Idol 2010; giọng ballad nữ hàng đầu với các hit \"Cảm Ơn Tình Yêu\", \"Bài Hát Của Em\", \"Giữa Đại Lộ Đông Tây\".",
+  "spotify_id": null,
+  "spotify_url": null,
+  "musicbrainz_id": "218d22e9-7d90-4233-8faf-2da78dbd4617",
+  "wikidata_id": "Q7904171",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikipedia (vi)",
+    "url": "https://vi.wikipedia.org/wiki/Uy%C3%AAn_Linh"
+   },
+   {
+    "name": "Wikipedia (en)",
+    "url": "https://en.wikipedia.org/wiki/Uy%C3%AAn_Linh"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Năm sinh có mâu thuẫn: Wikipedia (vi/en) ghi 1987 theo chính ca sĩ xác nhận; nhiều báo 2010 ghi 1988.",
+  "top100_no": 61,
+  "batch": "batch-61-70"
+ },
+ {
+  "id": "singer-062",
+  "stage_name": "Quốc Thiên",
+  "real_name": "Trần Quốc Thiên",
+  "birth_date": "1988-04-09",
+  "birth_place": "Gia Kiệm, Đồng Nai, Việt Nam",
+  "genres": [
+   "Pop",
+   "Ballad"
+  ],
+  "years_active": "2007–nay",
+  "labels": [
+   "Music Faces (2007–2013)"
+  ],
+  "bio": "Quán quân Vietnam Idol 2008; nổi bật với \"Chia Cách Bình Yên\" và \"Hơn 1000 Năm Sau\" (2023).",
+  "spotify_id": null,
+  "spotify_url": null,
+  "musicbrainz_id": "ec4f2546-af49-4a31-b451-6e9b6de54d35",
+  "wikidata_id": "Q7272823",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikipedia (vi)",
+    "url": "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_Thi%C3%AAn"
+   },
+   {
+    "name": "Wikipedia (en)",
+    "url": "https://en.wikipedia.org/wiki/Qu%E1%BB%91c_Thi%C3%AAn"
+   }
+  ],
+  "confidence": "high",
+  "notes": null,
+  "top100_no": 62,
+  "batch": "batch-61-70"
+ },
+ {
+  "id": "singer-063",
+  "stage_name": "Trung Quân",
+  "real_name": "Bùi Nguyễn Trung Quân",
+  "aliases": [
+   "Trung Quân Idol"
+  ],
+  "birth_date": "1989-01-20",
+  "birth_place": "Đà Lạt, Lâm Đồng, Việt Nam",
+  "genres": [
+   "Pop",
+   "Ballad"
+  ],
+  "years_active": "2008–nay",
+  "labels": [],
+  "bio": "Được gọi là \"hoàng tử mưa\"; Top 8 Vietnam Idol 2010; các hit \"Dấu Mưa\", \"Trót Yêu\", \"Chưa Bao Giờ\".",
+  "spotify_id": null,
+  "spotify_url": null,
+  "musicbrainz_id": "f99a5e30-fbcf-4a33-8303-4dc2b747dc5d",
+  "wikidata_id": "Q26921035",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikipedia (vi) — Trung Quân",
+    "url": "https://vi.wikipedia.org/wiki/Trung_Qu%C3%A2n"
+   },
+   {
+    "name": "VTV — Ca sĩ Trung Quân: Tôi mạng 'Mộc', nên mưa là hộ mệnh",
+    "url": "https://vtv.vn/thong-tin-tong-hop/ca-si-trung-quan-toi-mang-moc-nen-mua-la-ho-menh-20160804185644716.htm"
+   }
+  ],
+  "confidence": "high",
+  "notes": "QUAN TRỌNG: danh sách top100 ghi tên thật là Nguyễn Trần Trung Quân — SAI. Nguyễn Trần Trung Quân (sinh 1992, Hà Nội) là một ca sĩ khác. Người của batch này là Bùi Nguyễn Trung Quân (Trung Quân Idol, sinh 1989, Đà Lạt); các bài Trót Yêu/Dấu Mưa/Chưa Bao Giờ đều của Bùi Nguyễn Trung Quân.",
+  "top100_no": 63,
+  "batch": "batch-61-70"
+ },
+ {
+  "id": "singer-064",
+  "stage_name": "Bùi Anh Tuấn",
+  "real_name": "Bùi Anh Tuấn",
+  "birth_date": "1991-09-09",
+  "birth_place": "Hà Nội, Việt Nam",
+  "genres": [
+   "Pop",
+   "Ballad"
+  ],
+  "years_active": "2011–nay",
+  "labels": [],
+  "bio": "Hiện tượng Giọng hát Việt 2012 với \"Nơi Tình Yêu Bắt Đầu\"; các hit \"Hẹn Một Mai\", \"Thuận Theo Ý Trời\", \"Phố Không Mùa\".",
+  "spotify_id": null,
+  "spotify_url": null,
+  "musicbrainz_id": "f963e649-1d12-4e40-b5e2-262e659d1c7d",
+  "wikidata_id": "Q97274074",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikipedia (vi)",
+    "url": "https://vi.wikipedia.org/wiki/B%C3%B9i_Anh_Tu%E1%BA%A5n"
+   },
+   {
+    "name": "VnExpress — Những ca khúc tạo dấu ấn Bùi Anh Tuấn",
+    "url": "https://vnexpress.net/nhung-ca-khuc-tao-dau-an-bui-anh-tuan-4402431.html"
+   }
+  ],
+  "confidence": "high",
+  "notes": null,
+  "top100_no": 64,
+  "batch": "batch-61-70"
+ },
+ {
+  "id": "singer-065",
+  "stage_name": "Lâm Bảo Ngọc",
+  "real_name": "Lâm Bảo Ngọc",
+  "birth_date": "1996-08-17",
+  "birth_place": "Nam Định, Việt Nam (nay thuộc Ninh Bình)",
+  "genres": [
+   "Pop",
+   "Ballad"
+  ],
+  "years_active": "2017–nay",
+  "labels": [],
+  "bio": "Á quân Sao Mai 2017 và Giọng hát Việt 2019; gây chú ý trở lại với mascot HippoHappy tại Ca sĩ mặt nạ mùa 2 (2023) qua \"Rồi Em Sẽ Gặp Một Chàng Trai Khác\".",
+  "spotify_id": null,
+  "spotify_url": null,
+  "musicbrainz_id": "deb0880e-f931-4c1a-8625-048c093d6ddb",
+  "wikidata_id": "Q127642750",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikipedia (vi)",
+    "url": "https://vi.wikipedia.org/wiki/L%C3%A2m_B%E1%BA%A3o_Ng%E1%BB%8Dc"
+   },
+   {
+    "name": "VnExpress — Lâm Bảo Ngọc: Trả hết nợ nhờ 'năng nhặt chặt bị'",
+    "url": "https://vnexpress.net/lam-bao-ngoc-tra-het-no-nho-nang-nhat-chat-bi-4926263.html"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Tên thật trùng nghệ danh theo Wikipedia (vi/en): sinh với tên Lâm Bảo Ngọc; không có tên khai sinh khác được ghi nhận.",
+  "top100_no": 65,
+  "batch": "batch-61-70"
+ },
+ {
+  "id": "singer-066",
+  "stage_name": "Dương Hoàng Yến",
+  "real_name": "Dương Hoàng Yến",
+  "birth_date": "1991-06-15",
+  "birth_place": "Hà Nội, Việt Nam",
+  "genres": [
+   "Pop",
+   "Ballad",
+   "R&B"
+  ],
+  "years_active": "2008–nay",
+  "labels": [],
+  "bio": "Giảng viên thanh nhạc, thủ khoa đầu vào và đầu ra khoa Thanh nhạc (CĐ Nghệ thuật Hà Nội); giải Triển vọng Sao Mai Điểm Hẹn 2008, Top 3 Giọng hát Việt 2013; hit \"Không Phải Em Đúng Không\".",
+  "spotify_id": null,
+  "spotify_url": null,
+  "musicbrainz_id": null,
+  "wikidata_id": "Q17563247",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikipedia (vi)",
+    "url": "https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_Ho%C3%A0ng_Y%E1%BA%BFn"
+   },
+   {
+    "name": "Soha — Ca sĩ SN 1991 quê Hà Nội 2 lần đỗ thủ khoa",
+    "url": "https://soha.vn/ca-si-sn-1991-que-ha-noi-2-lan-do-thu-khoa-la-giang-vien-thanh-nhac-dat-show-nhat-viet-nam-198261101045851273.htm"
+   }
+  ],
+  "confidence": "high",
+  "notes": "MusicBrainz artist ID chưa lấy được (API trả 503 lúc tra cứu). Tên thật trùng nghệ danh theo Wikipedia.",
+  "top100_no": 66,
+  "batch": "batch-61-70"
+ },
+ {
+  "id": "singer-067",
+  "stage_name": "Myra Trần",
+  "real_name": "Trần Minh Như",
+  "birth_date": "1999-06-03",
+  "birth_place": "An Giang, Việt Nam",
+  "genres": [
+   "Pop",
+   "Ballad"
+  ],
+  "years_active": "2016–nay",
+  "labels": [],
+  "bio": "Quán quân X-Factor Việt Nam 2016 (lúc 16 tuổi, với tên Trần Minh Như); thí sinh American Idol 2019; mascot Lady Mây tại Ca sĩ mặt nạ; hit \"Tình Yêu Đến Sau\".",
+  "spotify_id": null,
+  "spotify_url": null,
+  "musicbrainz_id": null,
+  "wikidata_id": null,
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Thúy Nga Paris By Night Wiki (Fandom)",
+    "url": "https://thuy-nga-paris-by-night.fandom.com/vi/wiki/Myra_Tr%E1%BA%A7n"
+   },
+   {
+    "name": "Eva — Nàng Mây trẻ đẹp của showbiz Việt",
+    "url": "https://eva.vn/tv-show/nang-may-tre-dep-cua-showbiz-viet-tung-xem-minh-la-cai-ron-cua-vu-tru-nay-ngoai-hinh-khac-han-nam-16-tuoi-c255a571385.html"
+   },
+   {
+    "name": "Vietnamnet — Ca sĩ 19 tuổi Myra Trần",
+    "url": "https://vietnamnet.vn/ca-si-19-tuoi-myra-tran-bi-thanh-lam-che-va-gay-sot-tai-american-idol-511474.html"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Không có bài Wikipedia (vi/en) và không có Wikidata QID; tên thật Trần Minh Như + ngày sinh 3/6/1999 dựa trên Fandom Thúy Nga và báo Eva/Vietnamnet (2 nguồn báo độc lập xác nhận tên thật, ngày sinh chỉ có Fandom). MusicBrainz ID chưa lấy được (API 503).",
+  "top100_no": 67,
+  "batch": "batch-61-70"
+ },
+ {
+  "id": "singer-068",
+  "stage_name": "Juky San",
+  "real_name": "Trần Thị Dung",
+  "birth_date": "1998-01-14",
+  "birth_place": "Thái Bình, Việt Nam (nay thuộc Hưng Yên)",
+  "genres": [
+   "Pop"
+  ],
+  "years_active": "2019–nay",
+  "labels": [],
+  "bio": "Top 7 Giọng hát Việt 2019; hiện tượng với \"Phải Chăng Em Đã Yêu\" (2021); ca khúc tự sáng tác \"Người Đầu Tiên\" dẫn đầu Billboard Vietnam và Official Vietnam Chart (2025).",
+  "spotify_id": null,
+  "spotify_url": null,
+  "musicbrainz_id": "10d3c785-591e-413f-87ba-99b2f25a2587",
+  "wikidata_id": "Q116264628",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikipedia (vi)",
+    "url": "https://vi.wikipedia.org/wiki/Juky_San"
+   },
+   {
+    "name": "Wikipedia (en)",
+    "url": "https://en.wikipedia.org/wiki/Juky_San"
+   }
+  ],
+  "confidence": "high",
+  "notes": null,
+  "top100_no": 68,
+  "batch": "batch-61-70"
+ },
+ {
+  "id": "singer-069",
+  "stage_name": "Han Sara",
+  "real_name": "Han Sara",
+  "real_name_korean": "한사라",
+  "birth_date": "2000-11-17",
+  "birth_place": "Seoul, Hàn Quốc",
+  "genres": [
+   "Pop"
+  ],
+  "years_active": "2017–nay",
+  "labels": [
+   "6th Sense Entertainment (2017–2022)"
+  ],
+  "bio": "Ca sĩ người Hàn Quốc hoạt động chủ yếu tại Việt Nam; bước ra từ Giọng hát Việt 2017; debut với \"Tớ Thích Cậu\" (2017); các hit \"Đếm Cừu\", \"Vì Yêu Là Nhớ\".",
+  "spotify_id": null,
+  "spotify_url": null,
+  "musicbrainz_id": "cdb5f686-36c2-4407-886a-b78268741f18",
+  "wikidata_id": "Q118248202",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikipedia (vi)",
+    "url": "https://vi.wikipedia.org/wiki/Han_Sara"
+   },
+   {
+    "name": "Wikipedia (en)",
+    "url": "https://en.wikipedia.org/wiki/Han_Sara"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Tên thật trùng nghệ danh: Han Sara (한사라) là tên thật trong hộ chiếu, không phải nghệ danh đặt thêm.",
+  "top100_no": 69,
+  "batch": "batch-61-70"
+ },
+ {
+  "id": "singer-070",
+  "stage_name": "Hiền Hồ",
+  "real_name": "Hồ Thị Hiền",
+  "birth_date": "1997-02-26",
+  "birth_place": "Buôn Ma Thuột, Đắk Lắk, Việt Nam",
+  "genres": [
+   "Pop",
+   "Ballad"
+  ],
+  "years_active": "2015–nay",
+  "labels": [],
+  "bio": "Á quân Giọng hát Việt 2017; các hit \"Em Ngày Xưa Khác Rồi\", \"Rồi Người Thương Cũng Hóa Người Dưng\", \"Gặp Nhưng Không Ở Lại\".",
+  "spotify_id": null,
+  "spotify_url": null,
+  "musicbrainz_id": "406219e0-4b09-4f5a-ada2-9f616057b424",
+  "wikidata_id": "Q108759374",
+  "image_url": null,
+  "image_license": null,
+  "sources": [
+   {
+    "name": "Wikipedia (vi)",
+    "url": "https://vi.wikipedia.org/wiki/Hi%E1%BB%81n_H%E1%BB%93"
+   },
+   {
+    "name": "VnExpress — Hiền Hồ: Tự lập năm 14 tuổi",
+    "url": "https://ngoisao.vnexpress.net/hien-ho-tu-lap-nam-14-tuoi-va-no-luc-thanh-cong-o-tuoi-20-3851733.html"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Danh sách top100 ghi tên thật là \"Võ Thị Hiền Hồ\" — SAI theo Wikipedia (vi) và nhiều báo: tên thật là Hồ Thị Hiền.",
+  "top100_no": 70,
+  "batch": "batch-61-70"
+ },
+ {
+  "rank": 71,
+  "stage_name": "Hồng Nhung",
+  "real_name": "Lê Hồng Nhung",
+  "birth_date": "1970-03-15",
+  "birth_place": "Hà Nội, Việt Nam",
+  "genres": [
+   "Pop",
+   "Trữ tình",
+   "Nhạc Trịnh"
+  ],
+  "years_active": "1985–nay",
+  "labels": [],
+  "bio": "Một trong bốn diva của Việt Nam, nổi tiếng với việc đổi mới nhạc Trịnh từ đầu thập niên 1990 và các ca khúc về Hà Nội.",
+  "spotify_id": "5MibVKlWvof8lLAkOaaDmi",
+  "musicbrainz_id": "3a9f33bf-fd13-4925-b79b-b16b52d9bf56",
+  "wikidata_id": "Q527860",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hong_Nhung_2023.jpg",
+  "image_license": "CC BY 3.0 (Wikimedia Commons)",
+  "confidence": "high",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Hồng Nhung",
+    "url": "https://vi.wikipedia.org/wiki/H%E1%BB%93ng_Nhung"
+   },
+   {
+    "name": "Wikidata Q527860",
+    "url": "https://www.wikidata.org/wiki/Q527860"
+   },
+   {
+    "name": "MusicBrainz",
+    "url": "https://musicbrainz.org/artist/3a9f33bf-fd13-4925-b79b-b16b52d9bf56"
+   }
+  ],
+  "spotify_url": "https://open.spotify.com/artist/5MibVKlWvof8lLAkOaaDmi",
+  "apple_music_url": "https://music.apple.com/vn/artist/h%E1%BB%93ng-nhung/260426815?uo=4",
+  "id": "singer-071",
+  "top100_no": 71,
+  "batch": "batch-71-80"
+ },
+ {
+  "rank": 72,
+  "stage_name": "Thu Phương",
+  "real_name": "Nguyễn Thị Thu Phương",
+  "birth_date": "1972-10-09",
+  "birth_place": "Kiến An, Hải Phòng, Việt Nam",
+  "genres": [
+   "Pop",
+   "Ballad",
+   "Trữ tình"
+  ],
+  "years_active": "1988–nay",
+  "labels": [
+   "Thúy Nga"
+  ],
+  "bio": "Ca sĩ kiêm nhà sản xuất thu âm, nổi lên cuối thập niên 1980 với ban nhạc rock Tây Hồ, sau đó thành công với pop ballad của Việt Anh và Trần Quang Lộc, hoạt động cả trong nước và hải ngoại.",
+  "spotify_id": null,
+  "musicbrainz_id": "89007730-66ae-47da-8633-444972b534ae",
+  "wikidata_id": "Q10825374",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Thu_Ph%C6%B0%C6%A1ng_2024.png",
+  "image_license": "CC BY 3.0 (Wikimedia Commons)",
+  "confidence": "high",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Thu Phương",
+    "url": "https://vi.wikipedia.org/wiki/Thu_Ph%C6%B0%C6%A1ng"
+   },
+   {
+    "name": "Wikidata Q10825374",
+    "url": "https://www.wikidata.org/wiki/Q10825374"
+   },
+   {
+    "name": "MusicBrainz",
+    "url": "https://musicbrainz.org/artist/89007730-66ae-47da-8633-444972b534ae"
+   }
+  ],
+  "spotify_url": null,
+  "apple_music_url": "https://music.apple.com/vn/artist/thu-ph%C6%B0%C6%A1ng/320225206?uo=4",
+  "id": "singer-072",
+  "top100_no": 72,
+  "batch": "batch-71-80"
+ },
+ {
+  "rank": 73,
+  "stage_name": "Tuấn Ngọc",
+  "real_name": "Lã Anh Tuấn",
+  "birth_date": "1947-10-04",
+  "birth_place": "Đà Lạt, Việt Nam",
+  "genres": [
+   "Trữ tình",
+   "Nhạc tiền chiến"
+  ],
+  "years_active": "1964–nay",
+  "labels": [],
+  "bio": "Được coi là tượng đài của dòng nhạc trữ tình Việt Nam ở hải ngoại, nổi tiếng với các tình khúc của Ngô Thụy Miên, Từ Công Phụng và Trịnh Công Sơn.",
+  "spotify_id": null,
+  "musicbrainz_id": "c90dbfc6-eb05-45de-be11-8b8af00f1df2",
+  "wikidata_id": "Q7857333",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Tuanngoc123.jpg",
+  "image_license": "CC BY-SA 4.0 (Wikimedia Commons)",
+  "confidence": "high",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Tuấn Ngọc",
+    "url": "https://vi.wikipedia.org/wiki/Tu%E1%BA%A5n_Ng%E1%BB%8Dc"
+   },
+   {
+    "name": "Wikidata Q7857333",
+    "url": "https://www.wikidata.org/wiki/Q7857333"
+   },
+   {
+    "name": "MusicBrainz",
+    "url": "https://musicbrainz.org/artist/c90dbfc6-eb05-45de-be11-8b8af00f1df2"
+   }
+  ],
+  "spotify_url": null,
+  "apple_music_url": "https://music.apple.com/vn/artist/tu%E1%BA%A5n-ng%E1%BB%8Dc/320128262?uo=4",
+  "id": "singer-073",
+  "top100_no": 73,
+  "batch": "batch-71-80"
+ },
+ {
+  "rank": 74,
+  "stage_name": "Khánh Ly",
+  "real_name": "Nguyễn Thị Lệ Mai",
+  "birth_date": "1945-03-06",
+  "birth_place": "Hà Nội, Việt Nam",
+  "genres": [
+   "Trữ tình",
+   "Nhạc Trịnh"
+  ],
+  "years_active": "1962–nay",
+  "labels": [
+   "Sơn Ca"
+  ],
+  "bio": "Giọng ca gắn liền với nhạc Trịnh Công Sơn từ năm 1967, mệnh danh 'Nữ hoàng chân đất', một trong những nghệ sĩ Việt Nam có doanh số âm nhạc cao nhất lịch sử.",
+  "spotify_id": "2BT5812uC3XW9TukhlOfD0",
+  "musicbrainz_id": "04300279-ca06-4a36-aacb-49a14a994094",
+  "wikidata_id": "Q1924248",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Kh%C3%A1nh_Ly.png",
+  "image_license": "CC BY 3.0 (Wikimedia Commons)",
+  "confidence": "high",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Khánh Ly",
+    "url": "https://vi.wikipedia.org/wiki/Kh%C3%A1nh_Ly"
+   },
+   {
+    "name": "Wikidata Q1924248",
+    "url": "https://www.wikidata.org/wiki/Q1924248"
+   },
+   {
+    "name": "MusicBrainz",
+    "url": "https://musicbrainz.org/artist/04300279-ca06-4a36-aacb-49a14a994094"
+   }
+  ],
+  "spotify_url": "https://open.spotify.com/artist/2BT5812uC3XW9TukhlOfD0",
+  "apple_music_url": "https://music.apple.com/vn/artist/kh%C3%A1nh-ly/435209570?uo=4",
+  "id": "singer-074",
+  "top100_no": 74,
+  "batch": "batch-71-80"
+ },
+ {
+  "rank": 75,
+  "stage_name": "Ý Lan",
+  "real_name": "Lê Thị Ý Lan",
+  "birth_date": "1958",
+  "birth_place": "Sài Gòn (nay là Thành phố Hồ Chí Minh), Việt Nam",
+  "genres": [
+   "Trữ tình"
+  ],
+  "years_active": "1988–nay",
+  "labels": [
+   "Diễm Xưa",
+   "Thúy Nga"
+  ],
+  "bio": "Con gái danh ca Thái Thanh, nổi tiếng tại Sài Gòn trước 1975 và hải ngoại sau 1975, gắn với các chương trình của trung tâm Thúy Nga và Asia.",
+  "spotify_id": null,
+  "musicbrainz_id": "49fddae0-2425-4786-afd4-83c99586f605",
+  "wikidata_id": "Q10840001",
+  "image_url": null,
+  "image_license": null,
+  "confidence": "high",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Ý Lan",
+    "url": "https://vi.wikipedia.org/wiki/%C3%9D_Lan"
+   },
+   {
+    "name": "Wikidata Q10840001",
+    "url": "https://www.wikidata.org/wiki/Q10840001"
+   },
+   {
+    "name": "MusicBrainz",
+    "url": "https://musicbrainz.org/artist/49fddae0-2425-4786-afd4-83c99586f605"
+   }
+  ],
+  "spotify_url": null,
+  "apple_music_url": "https://music.apple.com/vn/artist/%C3%BD-lan/1476889592?uo=4",
+  "id": "singer-075",
+  "top100_no": 75,
+  "batch": "batch-71-80"
+ },
+ {
+  "rank": 76,
+  "stage_name": "Elvis Phương",
+  "real_name": "Phạm Ngọc Phương",
+  "birth_date": "1945-02-01",
+  "birth_place": "Thủ Dầu Một (nay thuộc Thành phố Hồ Chí Minh), Việt Nam",
+  "genres": [
+   "Trữ tình",
+   "Pop",
+   "Rock"
+  ],
+  "years_active": "1962–nay",
+  "labels": [
+   "Shotguns"
+  ],
+  "bio": "Danh ca hải ngoại đa thể loại, từng là thành viên ban nhạc Phượng Hoàng và giọng ca chính của băng nhạc Shotguns, nổi tiếng với 'Vết thù trên lưng ngựa hoang' và 'Áo anh sứt chỉ đường tà'.",
+  "spotify_id": null,
+  "musicbrainz_id": "bccfcba8-a996-4c8e-a51a-75e61b484b6a",
+  "wikidata_id": "Q10758365",
+  "image_url": null,
+  "image_license": null,
+  "confidence": "high",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Elvis Phương",
+    "url": "https://vi.wikipedia.org/wiki/Elvis_Ph%C6%B0%C6%A1ng"
+   },
+   {
+    "name": "Wikidata Q10758365",
+    "url": "https://www.wikidata.org/wiki/Q10758365"
+   },
+   {
+    "name": "MusicBrainz",
+    "url": "https://musicbrainz.org/artist/bccfcba8-a996-4c8e-a51a-75e61b484b6a"
+   }
+  ],
+  "spotify_url": null,
+  "apple_music_url": "https://music.apple.com/vn/artist/elvis-ph%C6%B0%C6%A1ng/320234278?uo=4",
+  "id": "singer-076",
+  "top100_no": 76,
+  "batch": "batch-71-80"
+ },
+ {
+  "rank": 77,
+  "stage_name": "Thanh Hà",
+  "real_name": "Trương Minh Hà",
+  "birth_date": "1969-03-18",
+  "birth_place": "Đà Nẵng, Việt Nam",
+  "genres": [
+   "Trữ tình",
+   "Pop",
+   "Ballad"
+  ],
+  "years_active": "1990s–nay",
+  "labels": [
+   "Thúy Nga"
+  ],
+  "bio": "Nữ ca sĩ hải ngoại người Mỹ gốc Việt, giọng hát ngọt ngào đằm thắm, đầu quân cho Trung tâm Thúy Nga và hoạt động mạnh tại Việt Nam từ thập niên 2010.",
+  "spotify_id": null,
+  "musicbrainz_id": "b6bdf725-de2b-4002-987e-0273a860ba86",
+  "wikidata_id": null,
+  "image_url": null,
+  "image_license": null,
+  "confidence": "medium",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Thanh Hà (ca sĩ)",
+    "url": "https://vi.wikipedia.org/wiki/Thanh_H%C3%A0_%28ca_s%C4%A9%29"
+   },
+   {
+    "name": "MusicBrainz",
+    "url": "https://musicbrainz.org/artist/b6bdf725-de2b-4002-987e-0273a860ba86"
+   }
+  ],
+  "spotify_url": null,
+  "apple_music_url": "https://music.apple.com/vn/artist/thanh-h%C3%A0/320979385?uo=4",
+  "id": "singer-077",
+  "top100_no": 77,
+  "batch": "batch-71-80"
+ },
+ {
+  "rank": 78,
+  "stage_name": "Phương Thanh",
+  "real_name": "Bùi Thị Phương Thanh",
+  "birth_date": "1973-04-27",
+  "birth_place": "Nông Cống, Thanh Hóa, Việt Nam",
+  "genres": [
+   "Pop",
+   "Rock"
+  ],
+  "years_active": "1990–nay",
+  "labels": [],
+  "bio": "Ca sĩ kiêm diễn viên với chất giọng khàn đặc trưng, nổi lên giữa thập niên 1990 với 'Giã từ dĩ vãng', 'Trống vắng' và 'Một thời đã xa'.",
+  "spotify_id": null,
+  "musicbrainz_id": "a9eed56e-46d7-4d54-8af6-6a3faed950e0",
+  "wikidata_id": "Q1923822",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Phuong_Thanh.png",
+  "image_license": "CC BY 3.0 (Wikimedia Commons)",
+  "confidence": "high",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Phương Thanh",
+    "url": "https://vi.wikipedia.org/wiki/Ph%C6%B0%C6%A1ng_Thanh"
+   },
+   {
+    "name": "Wikidata Q1923822",
+    "url": "https://www.wikidata.org/wiki/Q1923822"
+   },
+   {
+    "name": "MusicBrainz",
+    "url": "https://musicbrainz.org/artist/a9eed56e-46d7-4d54-8af6-6a3faed950e0"
+   }
+  ],
+  "spotify_url": null,
+  "apple_music_url": "https://music.apple.com/vn/artist/ph%C6%B0%C6%A1ng-thanh/320861890?uo=4",
+  "id": "singer-078",
+  "top100_no": 78,
+  "batch": "batch-71-80"
+ },
+ {
+  "rank": 79,
+  "stage_name": "Cẩm Ly",
+  "real_name": "Trần Thị Cẩm Ly",
+  "birth_date": "1970-03-30",
+  "birth_place": "Sài Gòn (nay là Thành phố Hồ Chí Minh), Việt Nam",
+  "genres": [
+   "Pop",
+   "Bolero",
+   "Dân ca"
+  ],
+  "years_active": "1993–nay",
+  "labels": [
+   "Kim Lợi Studio"
+  ],
+  "bio": "Được mệnh danh 'Nữ hoàng dân ca' thời đại mới, tiên phong đưa nhạc dân ca, trữ tình đến gần giới trẻ, gắn với các sáng tác của Nguyễn Nhất Huy và Minh Vy.",
+  "spotify_id": null,
+  "musicbrainz_id": "99ce2d7d-35ba-4e5c-97b3-13c6ab4db5a1",
+  "wikidata_id": "Q704833",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Cam_Ly_1.png",
+  "image_license": "CC BY 3.0 (Wikimedia Commons)",
+  "confidence": "high",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Cẩm Ly",
+    "url": "https://vi.wikipedia.org/wiki/C%E1%BA%A9m_Ly"
+   },
+   {
+    "name": "Wikidata Q704833",
+    "url": "https://www.wikidata.org/wiki/Q704833"
+   },
+   {
+    "name": "MusicBrainz",
+    "url": "https://musicbrainz.org/artist/99ce2d7d-35ba-4e5c-97b3-13c6ab4db5a1"
+   }
+  ],
+  "spotify_url": null,
+  "apple_music_url": "https://music.apple.com/vn/artist/c%E1%BA%A9m-ly/320912774?uo=4",
+  "id": "singer-079",
+  "top100_no": 79,
+  "batch": "batch-71-80"
+ },
+ {
+  "rank": 80,
+  "stage_name": "Đan Trường",
+  "real_name": "Phạm Đan Trường",
+  "birth_date": "1976-11-29",
+  "birth_place": "Thành phố Hồ Chí Minh, Việt Nam",
+  "genres": [
+   "Pop",
+   "Ballad"
+  ],
+  "years_active": "1996–nay",
+  "labels": [
+   "HT Production"
+  ],
+  "bio": "Một trong những ca sĩ có doanh số bán đĩa lớn nhất Việt Nam, gắn với các ca khúc nhạc Hoa lời Việt và cổ trang giai đoạn 1999–2005, ca sĩ độc quyền của HT Production.",
+  "spotify_id": null,
+  "musicbrainz_id": "2b01fc2e-aeaa-4c89-bbe0-0ec500f55ec3",
+  "wikidata_id": "Q6856528",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/%C4%90an_Tr%C6%B0%E1%BB%9Dng_2021.png",
+  "image_license": "CC BY 3.0 (Wikimedia Commons)",
+  "confidence": "high",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Đan Trường",
+    "url": "https://vi.wikipedia.org/wiki/%C4%90an_Tr%C6%B0%E1%BB%9Dng"
+   },
+   {
+    "name": "Wikidata Q6856528",
+    "url": "https://www.wikidata.org/wiki/Q6856528"
+   },
+   {
+    "name": "MusicBrainz",
+    "url": "https://musicbrainz.org/artist/2b01fc2e-aeaa-4c89-bbe0-0ec500f55ec3"
+   }
+  ],
+  "spotify_url": null,
+  "apple_music_url": "https://music.apple.com/vn/artist/%C4%91an-tr%C6%B0%E1%BB%9Dng/320488404?uo=4",
+  "id": "singer-080",
+  "top100_no": 80,
+  "batch": "batch-71-80"
+ },
+ {
+  "bio": "Nữ ca sĩ Hà Nội, bắt đầu sự nghiệp chuyên nghiệp với album đầu tay Giấc mơ có thật (2004); được mệnh danh là 'Nữ hoàng phòng trà' với loạt album Khúc tình xưa hát nhạc vàng/bolero.",
+  "birth_date": "1981-04-02",
+  "birth_place": "Hà Nội, Việt Nam",
+  "confidence": "high",
+  "death_date": null,
+  "genres": [
+   "Pop",
+   "Ballad",
+   "Bolero",
+   "Nhạc trữ tình"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "Viết Tân"
+  ],
+  "musicbrainz_id": null,
+  "notes": "Ngày sinh 2/4/1981 thống nhất giữa Wikipedia EN/VI và nhiều nguồn khác; một số trang tin lá cải ghi 1/4/1981 (không dùng).",
+  "real_name": "Vũ Lệ Quyên",
+  "sources": [
+   {
+    "name": "Wikipedia (EN) – Lệ Quyên",
+    "url": "https://en.wikipedia.org/wiki/L%E1%BB%87_Quy%C3%AAn"
+   },
+   {
+    "name": "Wikipedia (VI) – Lệ Quyên (ca sĩ, sinh 1981)",
+    "url": "https://vi.wikipedia.org/wiki/L%E1%BB%87_Quy%C3%AAn_(ca_s%C4%A9,_sinh_1981)"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Lệ Quyên",
+  "top100_no": 81,
+  "wikidata_id": null,
+  "years_active": "1999–nay",
+  "id": "singer-081",
+  "batch": "batch-81-90"
+ },
+ {
+  "bio": "Nữ ca sĩ người Mỹ gốc Việt, nổi tiếng từ Trung tâm Asia (1994) với album đầu tay Chuyện hoa sim; gắn với Paris By Night (Thúy Nga) và các bản song ca với Trường Vũ.",
+  "birth_date": "1970-09-09",
+  "birth_place": "Đông Hà, Quảng Trị, Việt Nam",
+  "confidence": "high",
+  "death_date": null,
+  "genres": [
+   "Bolero",
+   "Dân ca",
+   "Nhạc trữ tình"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "Asia",
+   "Thúy Nga",
+   "N-Q"
+  ],
+  "musicbrainz_id": null,
+  "notes": "Wikipedia EN ghi sự nghiệp bắt đầu 1991 (thi hát ở TP.HCM) nhưng years_active infobox là 1994–nay (ký Asia); dùng 1994–nay.",
+  "real_name": "Lê Lâm Quỳnh Như",
+  "sources": [
+   {
+    "name": "Wikipedia (EN) – Như Quỳnh",
+    "url": "https://en.wikipedia.org/wiki/Nhu_Quynh"
+   },
+   {
+    "name": "Wikipedia (VI) – Như Quỳnh (ca sĩ)",
+    "url": "https://vi.wikipedia.org/wiki/Nh%C6%B0_Qu%E1%BB%B3nh_(ca_s%C4%A9)"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Như Quỳnh",
+  "top100_no": 82,
+  "wikidata_id": null,
+  "years_active": "1994–nay",
+  "id": "singer-082",
+  "batch": "batch-81-90"
+ },
+ {
+  "bio": "Nam ca sĩ người Mỹ gốc Việt, một trong những nghệ sĩ hải ngoại bán chạy nhất; nổi tiếng với Sương Trắng Miền Quê Ngoại, Đập Vỡ Cây Đàn trên sân khấu Paris By Night (Thúy Nga).",
+  "birth_date": "1979-01-24",
+  "birth_place": "Huế, Việt Nam",
+  "confidence": "high",
+  "death_date": null,
+  "genres": [
+   "Bolero",
+   "Nhạc vàng",
+   "Nhạc quê hương"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "Thúy Nga",
+   "Ca Dao"
+  ],
+  "musicbrainz_id": null,
+  "notes": "MÂU THUẪN NĂM SINH: Wikipedia EN/VI hiện ghi 24/1/1979; nhiều nguồn cũ (và Fandom Thúy Nga) ghi 1980 hoặc 1981. Chính Quang Lê trả lời Dân trí (2018) rằng năm sinh thật là 1979, trước đây anh nói 1981 cho trẻ; hộ chiếu ghi 1979. Dùng 1979.",
+  "real_name": "Lê Hữu Nghị",
+  "sources": [
+   {
+    "name": "Wikipedia (EN) – Quang Lê",
+    "url": "https://en.wikipedia.org/wiki/Quang_L%C3%AA"
+   },
+   {
+    "name": "Wikipedia (VI) – Quang Lê",
+    "url": "https://vi.wikipedia.org/wiki/Quang_Lê"
+   },
+   {
+    "name": "Dân trí – Quang Lê đính chính năm sinh 1979",
+    "url": "https://dantri.com.vn/giai-tri/quang-le-noi-gi-khi-bi-goi-xach-me-la-trum-thi-phi-20181219222107599.htm"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Quang Lê",
+  "top100_no": 83,
+  "wikidata_id": null,
+  "years_active": "2002–nay",
+  "id": "singer-083",
+  "batch": "batch-81-90"
+ },
+ {
+  "bio": "Nữ ca sĩ người Mỹ gốc Việt chuyên dân ca/trữ tình, được mệnh danh 'Nữ hoàng băng đĩa' (1998); qua đời ngày 28/9/2021 do biến chứng COVID-19 sau hơn một tháng điều trị tại Bệnh viện Chợ Rẫy. Các bản hit: Bông Điên Điển, Phải Lòng Con Gái Bến Tre.",
+  "birth_date": "1970-04-10",
+  "birth_place": "Pleiku, Gia Lai, Việt Nam",
+  "confidence": "high",
+  "death_cause": "Biến chứng COVID-19",
+  "death_date": "2021-09-28",
+  "death_place": "Bệnh viện Chợ Rẫy, TP. Hồ Chí Minh, Việt Nam",
+  "genres": [
+   "Bolero",
+   "Dân ca",
+   "Nhạc trữ tình"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "Thúy Nga"
+  ],
+  "musicbrainz_id": null,
+  "notes": "MÂU THUẪN NĂM SINH: Wikipedia VI/EN hiện ghi 10/4/1970 (51 tuổi khi mất); nhiều nguồn Việt (kể cả bản tin TTXVN lúc mất) ghi 10/4/1972 (49 tuổi). Dùng 1970 theo Wikipedia hiện tại + VnExpress Ngôi sao 2024.",
+  "real_name": "Phạm Phi Nhung",
+  "sources": [
+   {
+    "name": "Wikipedia (VI) – Phi Nhung",
+    "url": "https://vi.wikipedia.org/wiki/Phi_Nhung"
+   },
+   {
+    "name": "Wikipedia (EN) – Phi Nhung",
+    "url": "https://en.wikipedia.org/wiki/Phi_Nhung"
+   },
+   {
+    "name": "Báo Tin Tức (TTXVN) – Phi Nhung qua đời vì COVID-19, 28/9/2021",
+    "url": "https://baotintuc.vn/ca-si-phi-nhung-qua-doi-vi-mac-covid-19-post702732.html"
+   },
+   {
+    "name": "Dân Việt – Phi Nhung qua đời ở tuổi 51",
+    "url": "https://danviet.vn/ca-si-phi-nhung-qua-doi-o-tuoi-51-50202128912460672-d1249784.html"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Phi Nhung",
+  "top100_no": 84,
+  "wikidata_id": null,
+  "years_active": "1993–2021",
+  "id": "singer-084",
+  "batch": "batch-81-90"
+ },
+ {
+  "bio": "Nam ca sĩ hải ngoại người Mỹ gốc Việt, nổi tiếng với dòng nhạc vàng; cặp song ca ăn ý nhất với Phi Nhung. Nghệ danh lấy từ tên nhạc sĩ Mạnh Quỳnh (tác giả Gõ Cửa) trước 1975.",
+  "birth_date": "1971-04-22",
+  "birth_place": "Sài Gòn, Việt Nam",
+  "confidence": "medium",
+  "death_date": null,
+  "genres": [
+   "Bolero",
+   "Nhạc vàng"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "Thúy Nga"
+  ],
+  "musicbrainz_id": null,
+  "notes": "MÂU THUẪN: nơi sinh Wikipedia ghi Sài Gòn, một số nguồn ghi Biên Hòa, Đồng Nai (quê ngoại, nơi sống 15 năm đầu); năm sinh có nguồn ghi 1972 (Thanh Niên 2016 ghi 'sinh năm 1972' ở chú thích ảnh; loibaihat.me ghi 1972) đối lại Wikipedia + nhiều nguồn ghi 22/4/1971. Dùng 1971-04-22, Sài Gòn. Years_active 1996–nay suy từ liveshow kỷ niệm 20 năm ca hát năm 2016 — cần xác minh thêm. KHÔNG nhầm với nhạc sĩ Mạnh Quỳnh trước 1975 (tác giả Gõ Cửa) và Phan Mạnh Quỳnh (sinh 1990).",
+  "real_name": "Nguyễn Thanh Dũng",
+  "sources": [
+   {
+    "name": "Wikipedia (VI) – Mạnh Quỳnh",
+    "url": "https://vi.wikipedia.org/wiki/M%E1%BA%A1nh_Qu%E1%BB%B3nh"
+   },
+   {
+    "name": "Thanh Niên – Mạnh Quỳnh liveshow 20 năm ca hát (2016)",
+    "url": "https://thanhnien.vn/manh-quynh-chua-phut-giay-nao-toi-khong-nho-toi-que-huong-185542601.htm"
+   },
+   {
+    "name": "TieuSu.com – Tiểu sử Mạnh Quỳnh",
+    "url": "https://tieusu.com/tieu-su-ca-sy-manh-quynh/"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Mạnh Quỳnh",
+  "top100_no": 85,
+  "wikidata_id": null,
+  "years_active": "1996–nay",
+  "id": "singer-085",
+  "batch": "batch-81-90"
+ },
+ {
+  "bio": "Nam ca sĩ hải ngoại người Mỹ gốc Việt; thử giọng cho Trung tâm Asia bằng bài Xin Làm Người Xa Lạ, ra mắt trong Asia 55 (2007), cộng tác với Trung tâm Thúy Nga từ đầu 2016.",
+  "birth_date": "1984-07-09",
+  "birth_place": "Phú Lộc, Thừa Thiên Huế, Việt Nam",
+  "confidence": "medium",
+  "death_date": null,
+  "genres": [
+   "Bolero",
+   "Nhạc vàng",
+   "Nhạc trữ tình"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "Asia",
+   "Thúy Nga"
+  ],
+  "musicbrainz_id": null,
+  "notes": "KHÔNG tìm thấy trang Wikipedia cho Đan Nguyên; tên thật + ngày sinh + nơi sinh chỉ có từ mô tả video official (Thúy Nga/Đan Nguyên) và trang Izumi — cần đối chiếu thêm. Years_active 2007–nay theo lần ra mắt Asia 55 (2007).",
+  "real_name": "Nguyễn Đặng Đan",
+  "sources": [
+   {
+    "name": "Đan Nguyên Official MV – Thành Phố Sau Lưng (mô tả kênh Thúy Nga/Đan Nguyên)",
+    "url": "https://www.youtube.com/watch?v=l-JmPupya5E"
+   },
+   {
+    "name": "Izumi – Tiểu sử Đan Nguyên",
+    "url": "https://izumi.edu.vn/blog-8/tuoi-dan-nguyen-vi-cb/"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Đan Nguyên",
+  "top100_no": 86,
+  "wikidata_id": null,
+  "years_active": "2007–nay",
+  "id": "singer-086",
+  "batch": "batch-81-90"
+ },
+ {
+  "bio": "Nam ca sĩ người Mỹ gốc Hoa, được mệnh danh 'ông hoàng nhạc nghèo' với các ca khúc chủ đề nghèo/thất tình; thường song ca với Như Quỳnh và Tâm Đoan; CD riêng đầu tiên Thương Tình Nhân (Ca Dao, 1996).",
+  "birth_date": "1963-02-25",
+  "birth_place": "Vĩnh Châu, Bạc Liêu (nay là Sóc Trăng), Việt Nam",
+  "confidence": "high",
+  "death_date": null,
+  "genres": [
+   "Nhạc vàng",
+   "Bolero"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "Phượng Hoàng",
+   "Ca Dao",
+   "Thúy Nga",
+   "Asia",
+   "Vân Sơn"
+  ],
+  "musicbrainz_id": null,
+  "notes": "Tên thật Huỳnh Văn Ngoảnh (chữ Hán 黃文願) xác minh qua Wikipedia VI + nhiều nguồn. CẢNH BÁO NGUỒN SAI: trang izumi.edu.vn ghi 'Phan Thanh Sơn, sinh 20/9/1971 tại Quảng Trị' — SAI, mâu thuẫn toàn bộ nguồn khác, không dùng. Years_active 1996–nay theo CD đầu tiên (1996).",
+  "real_name": "Huỳnh Văn Ngoảnh",
+  "sources": [
+   {
+    "name": "Wikipedia (VI) – Trường Vũ (ca sĩ)",
+    "url": "https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_V%C5%A9_(ca_s%C4%A9)"
+   },
+   {
+    "name": "Nhạc Xưa – Cuộc sống hiện tại của ca sĩ Trường Vũ ở tuổi 60",
+    "url": "https://nhacxua.vn/cuoc-song-hien-tai-cua-ca-si-truong-vu-o-tuoi-60/amp/"
+   },
+   {
+    "name": "Tin Tức Online – Trường Vũ: tên thật Huỳnh Văn Ngoảnh, sinh 25/2/1963",
+    "url": "https://tintuconline.com.vn/truong-vu-lam-phu-bep-quet-don-lop-ton-tu-5-gio-sang-toi-10-gio-toi-khong-ai-dam-ngoi-gan-470423.html"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Trường Vũ",
+  "top100_no": 87,
+  "wikidata_id": null,
+  "years_active": "1996–nay",
+  "id": "singer-087",
+  "batch": "batch-81-90"
+ },
+ {
+  "bio": "Nữ danh ca người Mỹ gốc Việt, thần đồng cải lương lên sân khấu từ 5 tuổi; nổi tiếng với nhạc quê hương Nam Bộ, đặc biệt các ca khúc của nhạc sĩ Bắc Sơn (Em Đi Trên Cỏ Non, Còn Thương Rau Đắng Mọc Sau Hè, Sa Mưa Giông).",
+  "birth_date": "1956-05-09",
+  "birth_place": "Sài Gòn, Việt Nam",
+  "confidence": "high",
+  "death_date": null,
+  "genres": [
+   "Bolero",
+   "Dân ca",
+   "Cải lương"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [],
+  "musicbrainz_id": null,
+  "notes": "Tên thật: Wikipedia ghi 'Trần Thị Ngọc Ánh'; danh sách top100 ghi 'Trần Ngọc Ánh' (thiếu chữ 'Thị') — dùng Trần Thị Ngọc Ánh theo Wikipedia + Eva. Labels để trống: chưa xác minh hãng đĩa chính thức (bà thu âm cho nhiều trung tâm).",
+  "real_name": "Trần Thị Ngọc Ánh",
+  "sources": [
+   {
+    "name": "Wikipedia (VI) – Hương Lan",
+    "url": "https://vi.wikipedia.org/wiki/H%C6%B0%C6%A1ng_Lan"
+   },
+   {
+    "name": "Wikipedia (EN) – Hương Lan",
+    "url": "https://en.wikipedia.org/wiki/H%C6%B0%C6%A1ng_Lan"
+   },
+   {
+    "name": "Eva.vn – Hương Lan tên thật Trần Thị Ngọc Ánh, sinh 9/5/1956",
+    "url": "https://eva.vn/tv-show/danh-ca-huong-lan-64-tuoi-mac-vay-cuoi-ben-nguoi-chong-thu-2-di-dien-duoc-khan-gia-dui-vang-trao-so-do-c255a580975.html"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Hương Lan",
+  "top100_no": 88,
+  "wikidata_id": null,
+  "years_active": "1966–nay",
+  "id": "singer-088",
+  "batch": "batch-81-90"
+ },
+ {
+  "bio": "Nữ danh ca nhạc vàng, nổi tiếng từ trước 1975 với Nỗi Buồn Hoa Phượng; cặp song ca với Chế Linh (1967–1968) thành hiện tượng; nghệ danh do nhạc sĩ Nguyễn Văn Đông đặt.",
+  "birth_date": "1948-10-29",
+  "birth_place": "Đà Lạt, Việt Nam",
+  "confidence": "medium",
+  "death_date": null,
+  "genres": [
+   "Nhạc vàng",
+   "Bolero",
+   "Tình khúc 1954–1975"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "Continental",
+   "Sóng Nhạc (Asia)",
+   "Thúy Nga"
+  ],
+  "musicbrainz_id": null,
+  "notes": "MÂU THUẪN NĂM SINH: Wikipedia VI hiện ghi 29/10/1948; bản lưu cũ + hopamviet ghi 1949; nhaxinhplaza ghi sinh 1947 nhưng giấy tờ 1948; Last.fm ghi 1949. Tên thật Phạm Như Mai thống nhất (Last.fm ghi 'Nguyen Nhu Mai' là sai họ). Dùng 1948-10-29 theo Wikipedia hiện tại. Years_active 1964–nay theo hợp đồng hãng Continental hè 1964.",
+  "real_name": "Phạm Như Mai",
+  "sources": [
+   {
+    "name": "Wikipedia (VI) – Thanh Tuyền (ca sĩ)",
+    "url": "https://vi.wikipedia.org/wiki/Thanh_Tuy%E1%BB%81n_(ca_s%C4%A9)"
+   },
+   {
+    "name": "Nhaxinhplaza – Cuộc đời và sự nghiệp của ca sĩ Thanh Tuyền",
+    "url": "https://nhaxinhplaza.vn/doi-song/cuoc-doi-va-su-nghiep-cua-ca-si-thanh-tuyen-mot-huyen-thoai-cua-dong-nhac-vang.html"
+   },
+   {
+    "name": "Báo Nghệ An – Danh ca Thanh Tuyền",
+    "url": "https://baonghean.vn/danh-ca-thanh-tuyen-tu-cat-xe-5-cay-vang-mot-dem-bong-choc-thanh-cong-nhan-in-10212214.html"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Thanh Tuyền",
+  "top100_no": 89,
+  "wikidata_id": null,
+  "years_active": "1964–nay",
+  "id": "singer-089",
+  "batch": "batch-81-90"
+ },
+ {
+  "bio": "Nam danh ca người Chăm (tên Chăm: Jamlen/Chà-len), một trong bốn giọng nam bolero nổi tiếng nhất thập niên 1960; đồng thời là nhạc sĩ với hai bút danh Tú Nhi và Lưu Trần Lê (Đoạn Cuối Tình Yêu, Xin Làm Người Xa Lạ, Mai Lỡ Mình Xa Nhau).",
+  "birth_date": "1942-04-03",
+  "birth_place": "Paley Hamu Tanran, gần Phan Rang (nay là Phước Hữu, Ninh Thuận), Việt Nam",
+  "confidence": "high",
+  "death_date": null,
+  "genres": [
+   "Bolero",
+   "Nhạc vàng"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "Băng Nhạc Chế Linh"
+  ],
+  "musicbrainz_id": null,
+  "notes": "SỬA DANH SÁCH GỐC: top100-list.md ghi tên thật 'Lưu Văn Linh' là SAI — tên Việt đúng là Lưu Văn Liên (Wikipedia VI/EN + trang official chelinh.com đều ghi Luu Van Lien). Tên Chăm Jamlen (Chà-len). Years_active 1960–nay theo PeoplePill/Wikipedia (vào nghề 1960–1961).",
+  "real_name": "Lưu Văn Liên",
+  "sources": [
+   {
+    "name": "Wikipedia (VI) – Chế Linh",
+    "url": "https://vi.wikipedia.org/wiki/Ch%E1%BA%BF_Linh"
+   },
+   {
+    "name": "Wikipedia (EN) – Chế Linh",
+    "url": "https://en.wikipedia.org/wiki/Chế_Linh"
+   },
+   {
+    "name": "Che Linh Official – BIO English",
+    "url": "https://www.chelinh.com/biographyenglish"
+   },
+   {
+    "name": "Nông nghiệp & Môi trường – Danh ca Chế Linh",
+    "url": "https://nongnghiepmoitruong.vn/danh-ca-che-linh-hat-dam-duoi-voi-doi-lang-man-d408210.html"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Chế Linh",
+  "top100_no": 90,
+  "wikidata_id": null,
+  "years_active": "1960–nay",
+  "id": "singer-090",
+  "batch": "batch-81-90"
+ },
+ {
+  "bio": "Á quân Giọng hát Việt nhí mùa đầu tiên (2013), nổi danh từ 10 tuổi với dân ca Nam Bộ; album 'Vũ trụ cò bay' (2023, cùng DTAP) đánh dấu chuyển hướng folktronica.",
+  "birth_date": "2003-01-13",
+  "birth_place": "Thành phố Hồ Chí Minh, Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "Dân ca",
+   "Bolero",
+   "Folktronica",
+   "V-pop"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "Warner Music Vietnam",
+   "PMC Entertainment"
+  ],
+  "musicbrainz_id": null,
+  "rank": 91,
+  "real_name": "Phương Mỹ Chi",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Phương Mỹ Chi",
+    "url": "https://vi.wikipedia.org/wiki/Ph%C6%B0%C6%A1ng_M%E1%BB%B9_Chi"
+   },
+   {
+    "name": "Wikipedia tiếng Anh — Phương Mỹ Chi",
+    "url": "https://en.wikipedia.org/wiki/Ph%C6%B0%C6%A1ng_M%E1%BB%B9_Chi"
+   },
+   {
+    "name": "Wikipedia — Vũ trụ cò bay (album)",
+    "url": "https://vi.wikipedia.org/wiki/V%C5%A9_tr%E1%BB%A5_c%C3%B2_bay"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Phương Mỹ Chi",
+  "wikidata_id": "Q16158535",
+  "years_active": "2013–nay",
+  "id": "singer-091",
+  "top100_no": 91,
+  "batch": "batch-91-100"
+ },
+ {
+  "bio": "Quán quân Vietnam Idol Kids 2016, giọng dân ca Nam Bộ; được Phi Nhung nhận làm con nuôi, sau 2021 hoạt động độc lập với sự hỗ trợ của Ngọc Sơn.",
+  "birth_date": "2003-03-16",
+  "birth_place": "Gò Công, Tiền Giang, Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "Dân ca",
+   "Nhạc vàng",
+   "Nhạc trữ tình"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [],
+  "musicbrainz_id": null,
+  "rank": 92,
+  "real_name": "Hồ Văn Cường",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Hồ Văn Cường (ca sĩ)",
+    "url": "https://vi.wikipedia.org/wiki/H%E1%BB%93_V%C4%83n_C%C6%B0%E1%BB%9Dng_(ca_s%C4%A9)"
+   },
+   {
+    "name": "VnExpress — 5 năm trưởng thành của Hồ Văn Cường",
+    "url": "https://vnexpress.net/5-nam-truong-thanh-cua-ho-van-cuong-4363936.html"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Hồ Văn Cường",
+  "wikidata_id": "Q30921217",
+  "years_active": "2016–nay",
+  "id": "singer-092",
+  "top100_no": 92,
+  "batch": "batch-91-100"
+ },
+ {
+  "bio": "Danh ca kiêm nhạc sĩ, 'ông hoàng nhạc sến', nổi lên từ Liên hoan ca múa nhạc nhẹ toàn quốc 1989 với các sáng tác 'Lòng mẹ', 'Tình cha', 'Vầng trăng cô đơn'.",
+  "birth_date": "1968-11-26",
+  "birth_place": "Đồ Sơn, Hải Phòng, Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "Bolero",
+   "Nhạc vàng",
+   "Nhạc trữ tình",
+   "Pop"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [],
+  "musicbrainz_id": null,
+  "rank": 93,
+  "real_name": "Phạm Ngọc Sơn",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Ngọc Sơn (ca sĩ)",
+    "url": "https://vi.wikipedia.org/wiki/Ng%E1%BB%8Dc_S%C6%A1n_(ca_s%C4%A9)"
+   },
+   {
+    "name": "Wikipedia tiếng Anh — Ngọc Sơn (singer)",
+    "url": "https://en.wikipedia.org/wiki/Ng%E1%BB%8Dc_S%C6%A1n_(singer)"
+   },
+   {
+    "name": "VietnamNet — Ngọc Sơn",
+    "url": "https://vietnamnet.vn/ngoc-son-tag2485706038823673179-page2.html"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Ngọc Sơn",
+  "wikidata_id": null,
+  "years_active": "1989–nay",
+  "id": "singer-093",
+  "top100_no": 93,
+  "batch": "batch-91-100"
+ },
+ {
+  "bio": "Ca sĩ người Ba Na, 'Họa mi núi rừng', gắn với các sáng tác về Tây Nguyên của Nguyễn Cường và Trần Tiến; giám khảo Vietnam Idol 2007–2010.",
+  "birth_date": "1967-08-27",
+  "birth_place": "Kon Tum, Việt Nam",
+  "confidence": "medium",
+  "confidence_note": "Tên khai sinh ghi 'Siu Black' theo Wikipedia tiếng Việt; một số nguồn khác ghi 'Nguyễn Thị Siu Black' — chưa đối chiếu được nguồn chính thức, xem UNVERIFIED.md.",
+  "genres": [
+   "Nhạc Tây Nguyên",
+   "Rock",
+   "Pop"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [],
+  "musicbrainz_id": null,
+  "rank": 94,
+  "real_name": "Siu Black",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Siu Black",
+    "url": "https://vi.wikipedia.org/wiki/Siu_Black"
+   },
+   {
+    "name": "Wikipedia tiếng Tây Ban Nha — Siu Black",
+    "url": "https://es.wikipedia.org/wiki/Siu_Black"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Siu Black",
+  "wikidata_id": "Q5681680",
+  "years_active": "1978–nay",
+  "id": "singer-094",
+  "top100_no": 94,
+  "batch": "batch-91-100"
+ },
+ {
+  "bio": "Quán quân Sao Mai điểm hẹn 2004 (giải Hội đồng nghệ thuật), giọng nam đương đại kỹ thuật cao; giữ kỷ lục nhiều giải Cống hiến nhất.",
+  "birth_date": "1983-09-18",
+  "birth_place": "Hà Bắc (nay là Bắc Ninh), Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "Pop",
+   "Dân gian đương đại",
+   "Jazz",
+   "Rock",
+   "New Age",
+   "Electronic"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "Viết Tân",
+   "Hãng phim Phương Nam",
+   "Hãng đĩa Thời Đại"
+  ],
+  "musicbrainz_id": null,
+  "rank": 95,
+  "real_name": "Nguyễn Tùng Dương",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Tùng Dương",
+    "url": "https://vi.wikipedia.org/wiki/T%C3%B9ng_D%C6%B0%C6%A1ng"
+   },
+   {
+    "name": "Wikipedia tiếng Anh — Tùng Dương",
+    "url": "https://en.wikipedia.org/wiki/T%C3%B9ng_D%C6%B0%C6%A1ng"
+   },
+   {
+    "name": "Discogs — Tùng Dương",
+    "url": "https://www.discogs.com/artist/2424100-T%C3%B9ng-D%C6%B0%C6%A1ng"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Tùng Dương",
+  "wikidata_id": "Q10831279",
+  "years_active": "2004–nay",
+  "id": "singer-095",
+  "top100_no": 95,
+  "batch": "batch-91-100"
+ },
+ {
+  "bio": "Ca sĩ kiêm nhạc sĩ, bùng nổ với hiện tượng 'Vợ người ta' (2015) rồi thành nhạc sĩ nhạc phim đắt show ('Mắt Biếc', 'Bố Già', 'Mai').",
+  "birth_date": "1990-01-10",
+  "birth_place": "Diễn Vạn, Diễn Châu, Nghệ An, Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "Pop",
+   "Ballad",
+   "Indie"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [],
+  "musicbrainz_id": null,
+  "rank": 96,
+  "real_name": "Phan Mạnh Quỳnh",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Phan Mạnh Quỳnh",
+    "url": "https://vi.wikipedia.org/wiki/Phan_M%E1%BA%A1nh_Qu%E1%BB%B3nh"
+   },
+   {
+    "name": "Báo Nghệ An — Phan Mạnh Quỳnh",
+    "url": "https://baonghean.vn/fr/print/10194226.html"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Phan Mạnh Quỳnh",
+  "wikidata_id": "Q24958193",
+  "years_active": "2009–nay",
+  "id": "singer-096",
+  "top100_no": 96,
+  "batch": "batch-91-100"
+ },
+ {
+  "bio": "Ca sĩ kiêm nhạc sĩ xuất thân underground (2011), bứt phá với 'Buồn của anh' (2017) — bài underground đầu tiên chạm 300 triệu lượt nghe Zing MP3; biệt danh 'phù thủy tạo hit'.",
+  "birth_date": "1995-07-14",
+  "birth_place": "Thành phố Hồ Chí Minh, Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "Pop",
+   "Ballad",
+   "R&B",
+   "Rap"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [],
+  "musicbrainz_id": null,
+  "rank": 97,
+  "real_name": "Nguyễn Tấn Đạt",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Đạt G",
+    "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1t_G"
+   },
+   {
+    "name": "Thanh Niên — Rapper Đạt G",
+    "url": "https://thanhnien.vn/tet-canh-ty-2020-rapper-dat-g-sac-lai-cam-xuc-trong-nam-moi-185920229.htm"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Đạt G",
+  "wikidata_id": "Q109436448",
+  "years_active": "2011–nay",
+  "id": "singer-097",
+  "top100_no": 97,
+  "batch": "batch-91-100"
+ },
+ {
+  "bio": "Ca sĩ pop miền Tây, vụt sáng thành hiện tượng nhờ 'Ngắm hoa lệ rơi' (2017) sau bản cover của Hoa Vinh; MV đạt hơn 200 triệu lượt xem.",
+  "birth_date": "1986-10-30",
+  "birth_place": "Nghệ An, Việt Nam",
+  "confidence": "medium",
+  "confidence_note": "Tên thật 'Lê Văn Thuận' theo Dân Việt và vietnam.net; báo Gia đình & Xã hội ghi 'Lê Minh Thuận' — mâu thuẫn chưa giải quyết, xem UNVERIFIED.md. Không có bài Wikipedia riêng; năm bắt đầu hoạt động chỉ ước lượng.",
+  "genres": [
+   "Pop",
+   "Ballad"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "NamViet Media"
+  ],
+  "musicbrainz_id": null,
+  "rank": 98,
+  "real_name": "Lê Văn Thuận",
+  "sources": [
+   {
+    "name": "Dân Việt — Hoa Vinh cover, Châu Khải Phong 'lên đời' nhờ 'Ngắm hoa lệ rơi'",
+    "url": "https://danviet.vn/hoa-vinh-cover-chau-khai-phong-len-doi-nho-ngam-hoa-le-roi-thanh-hit-lon-7777862098-d606584.html"
+   },
+   {
+    "name": "Thanh Niên — Bộ đôi ca sĩ 'Ngắm hoa lệ rơi' lập kỷ lục livestream",
+    "url": "https://thanhnien.vn/bo-doi-ca-si-ngam-hoa-le-roi-lap-ky-luc-livestream-185740183.htm"
+   },
+   {
+    "name": "Wikipedia — Danh sách video âm nhạc có lượt xem nhiều nhất YouTube Việt Nam",
+    "url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_video_%C3%A2m_nh%E1%BA%A1c_c%C3%B3_l%C6%B0%E1%BB%A3t_xem_nhi%E1%BB%81u_nh%E1%BA%A5t_YouTube_Vi%E1%BB%87t_Nam"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Châu Khải Phong",
+  "wikidata_id": "Q122724435",
+  "years_active": "2010–nay",
+  "id": "singer-098",
+  "top100_no": 98,
+  "batch": "batch-91-100"
+ },
+ {
+  "bio": "Rocker thắng Sao Mai điểm hẹn 2006, biệt danh 'Quý ông hát rock'; album đầu tay 'PAK 01' (2007), sau 2020 đồng hành cùng ban nhạc Bức Tường.",
+  "birth_date": "1985-01-11",
+  "birth_place": "Cam Ranh, Khánh Hòa, Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "Music Faces Entertainment"
+  ],
+  "musicbrainz_id": null,
+  "rank": 99,
+  "real_name": "Phạm Anh Khoa",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — Phạm Anh Khoa",
+    "url": "https://vi.wikipedia.org/wiki/Ph%E1%BA%A1m_Anh_Khoa"
+   },
+   {
+    "name": "Wikipedia — PAK 01",
+    "url": "https://vi.wikipedia.org/wiki/PAK_01"
+   },
+   {
+    "name": "Apple Music — PAK 1",
+    "url": "https://music.apple.com/us/album/pak-1/316923962"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "Phạm Anh Khoa",
+  "wikidata_id": "Q56284671",
+  "years_active": "2004–nay",
+  "id": "singer-099",
+  "top100_no": 99,
+  "batch": "batch-91-100"
+ },
+ {
+  "bio": "Rapper underground Hải Phòng (nhóm 7LD), quán quân King of Rap 2020 với các tiết mục 'Tài sản của bố', 'Một chiếc váy'.",
+  "birth_date": "1996-06-01",
+  "birth_place": "Hải Phòng, Việt Nam",
+  "confidence": "high",
+  "genres": [
+   "Rap",
+   "Hip-hop"
+  ],
+  "image_license": null,
+  "image_url": null,
+  "labels": [
+   "7LD"
+  ],
+  "musicbrainz_id": null,
+  "rank": 100,
+  "real_name": "Phạm Ngọc Huy",
+  "sources": [
+   {
+    "name": "Wikipedia tiếng Việt — ICD (rapper)",
+    "url": "https://vi.wikipedia.org/wiki/ICD_(rapper)"
+   },
+   {
+    "name": "Báo Thể thao & Văn hóa / Báo Mới — Rapper Việt thế hệ mới",
+    "url": "https://baomoi.com/rapper-viet-the-he-moi-de-choat-g-ducky-icd-c37926087.epi"
+   },
+   {
+    "name": "Znews — ICD tung bản rap công kích Tage",
+    "url": "https://znews.vn/icd-tung-ban-rap-cong-kich-tage-rap-viet-post1241309.html"
+   }
+  ],
+  "spotify_id": null,
+  "spotify_url": null,
+  "stage_name": "ICD",
+  "wikidata_id": "Q106807948",
+  "years_active": "2015–nay",
+  "id": "singer-100",
+  "top100_no": 100,
+  "batch": "batch-91-100"
+ }
+]
