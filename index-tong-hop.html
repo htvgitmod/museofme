@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kho Tổng — Dashboard</title>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&family=Caveat:wght@600;700&display=swap" rel="stylesheet">
+<style>
+* { box-sizing: border-box; }
+body { margin: 0; background: #f3efe7; color: #26241f; font-family: 'Be Vietnam Pro', system-ui, sans-serif; font-size: 15px; min-height: 100vh; }
+
+.hero { background: linear-gradient(135deg, #2b2620 0%, #4a3f30 60%, #6b543a 100%); color: #fdfaf5; padding: 44px 20px 36px; text-align: center; }
+.hero h1 { font-family: 'Caveat', cursive; font-size: 58px; margin: 0; line-height: 1; letter-spacing: .5px; }
+.hero p { margin: 12px auto 0; max-width: 620px; line-height: 1.7; color: #e8ddcb; font-size: 14.5px; }
+
+.wrap { max-width: 980px; margin: 0 auto; padding: 26px 16px 44px; }
+
+.total { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: -14px 0 24px; }
+.total span { background: #fff; border: 1px solid #eee7d8; border-radius: 999px; padding: 8px 16px; font-size: 13px; font-weight: 700; box-shadow: 0 2px 10px rgba(0,0,0,.07); }
+.total b { color: #16a34a; }
+.total span.t5 b { color: #b45309; }
+
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+@media (max-width: 700px) { .grid { grid-template-columns: 1fr; } }
+
+.card { display: flex; flex-direction: column; background: #fff; border-radius: 20px; padding: 24px 24px 18px; text-decoration: none; color: inherit;
+box-shadow: 0 2px 10px rgba(0,0,0,.07); border: 1px solid #eee7d8; transition: transform .15s ease, box-shadow .15s ease; }
+a.card:hover { transform: translateY(-4px); box-shadow: 0 14px 30px rgba(0,0,0,.13); }
+
+.icon { width: 48px; height: 48px; border-radius: 14px; display: flex; align-items: center; justify-content: center; font-size: 24px; margin-bottom: 14px; }
+.card h2 { font-size: 20px; margin: 0 0 8px; line-height: 1.35; }
+.card p { margin: 0 0 14px; color: #5c554a; line-height: 1.65; font-size: 13.5px; flex: 1; }
+.meta { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
+.meta span { font-size: 12px; font-weight: 600; background: #f4efe5; border-radius: 999px; padding: 4px 11px; color: #5c554a; }
+.open { font-weight: 700; font-size: 14px; }
+
+.card.track4 { border-top: 5px solid #16a34a; }
+.card.track4 .icon { background: #e7f6ec; }
+.card.track4 .open { color: #16a34a; }
+.card.track5 { border-top: 5px solid #b45309; }
+.card.track5 .icon { background: #fdf0e3; }
+.card.track5 .open { color: #b45309; }
+
+.donow { background: #fffdf8; border: 1.5px dashed #e6dcc4; border-radius: 12px; padding: 10px 12px; margin-bottom: 14px; font-size: 13px; line-height: 1.6; color: #4a4238; }
+.donow b { color: #26241f; }
+
+.quick { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
+.quick a { font-size: 12px; font-weight: 600; background: #f4efe5; border-radius: 999px; padding: 4px 11px; color: #5c554a; text-decoration: none; }
+.quick a:hover { background: #e9e0cd; color: #26241f; }
+
+h3.sec { font-size: 17px; margin: 30px 0 4px; }
+.sec-sub { color: #5c554a; font-size: 13.5px; margin: 0 0 14px; line-height: 1.6; }
+.grid.small { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
+.grid.small .card { padding: 20px 20px 16px; }
+.grid.small .card h2 { font-size: 17px; }
+.card.game .icon { background: #fdeee7; }
+.card.substack .icon { background: #fde7ef; }
+.card.distill .icon { background: #e2f4f1; }
+.card.facebook .icon { background: #e4eefc; }
+.card.webapp .icon { background: #efe8fd; }
+.card.game .open { color: #e4572e; }
+.card.substack .open { color: #d81159; }
+.card.distill .open { color: #0d9488; }
+.card.facebook .open { color: #1877F2; }
+.card.webapp .open { color: #7c3aed; }
+
+.note { background: #fffdf8; border: 1.5px solid #e6dcc4; border-radius: 16px; padding: 18px 20px; margin-top: 24px; line-height: 1.8; font-size: 13.5px; color: #4a4238; }
+.note b { color: #26241f; }
+footer { text-align: center; color: #97897a; font-size: 12.5px; margin-top: 22px; }
+</style>
+</head>
+<body>
+<div class="hero">
+  <h1>Kho Tổng</h1>
+  <p>Dashboard tổng — 2 dashboard chính, 5.047 idea đã xếp hạng. Bấm vào một thẻ để mở dashboard tương ứng.</p>
+</div>
+
+<div class="wrap">
+  <div class="total">
+    <span><b>4.047</b> thẻ · Side Project 4 Track</span>
+    <span class="t5"><b>1.000</b> thẻ · Track 5 Directory &amp; Glossary</span>
+    <span>Tổng: <b>5.047</b> thẻ · đều “Chờ duyệt”</span>
+  </div>
+
+  <div class="grid">
+    <a class="card track4" href="dashboard/side-project-4-track.html">
+      <div class="icon">🚀</div>
+      <h2>Side Project 4 Track</h2>
+      <p>4.047 ý tưởng sản phẩm chất lượng, chia 4 tab: Web Distill, Game xàm, Webapp/AI, Pain Facebook → Offer. Mỗi thẻ có mô tả ngắn + “Xem chi tiết”.</p>
+      <div class="donow">★ <b>Làm ngay:</b> Bộ não từ vựng × graph từ tiếng Anh tỏa ra như não bộ (thẻ #1399, gốc Visuwords).</div>
+      <div class="meta"><span>4.047 thẻ</span><span>4 track</span><span>Đã dọn sạch 11/11</span></div>
+      <div class="quick">
+        <a href="dashboard/side-project-4-track.html#track-1">Web Distill →</a>
+        <a href="dashboard/side-project-4-track.html#track-2">Game xàm →</a>
+        <a href="dashboard/side-project-4-track.html#track-3">Webapp/AI →</a>
+        <a href="dashboard/side-project-4-track.html#track-4">FB Pain →</a>
+      </div>
+      <div class="open">Mở 4 Track →</div>
+    </a>
+
+    <a class="card track5" href="dashboard/track5-1.html">
+      <div class="icon">🗂️</div>
+      <h2>Track 5 — Directory &amp; Glossary</h2>
+      <p>1.000 idea site tổng hợp (chia 2 file cho nhẹ, mỗi file 500 thẻ): Directory là database tra cứu được (tìm + lọc), Glossary là tra cứu thuật ngữ (định nghĩa + ví dụ thật). 10 cụm A–J, gốc nước ngoài có link thật.</p>
+      <div class="donow">★ <b>Làm ngay:</b> Đà Nẵng kiểu Spotted by Locals — chỉ chỗ dân Đà Nẵng thật sự hay tới (thẻ E-D02).</div>
+      <div class="meta"><span>1.000 thẻ</span><span>10 cụm A–J</span><span>2 file × 500 thẻ</span></div>
+      <div class="quick">
+        <a href="dashboard/track5-1.html#track-1">Tool AI →</a>
+        <a href="dashboard/track5-1.html#track-5">Du lịch →</a>
+        <a href="dashboard/track5-2.html#track-1">Văn hóa →</a>
+        <a href="dashboard/track5-2.html#track-5">Ngách Việt →</a>
+      </div>
+      <div class="open">Mở Track 5 · phần 1 (A–E) →</div>
+      <div class="open" style="margin-top:6px"><a href="dashboard/track5-2.html" style="color:#b45309">Mở Track 5 · phần 2 (F–J) →</a></div>
+      <div class="open" style="margin-top:6px"><a href="dashboard/track5-3.html" style="color:#b45309">★ Mở Track 5-3 · bản nghiên cứu sâu (92 thẻ, đang cào tới 110) →</a></div>
+    </a>
+  </div>
+
+  <h3 class="sec">Kho cũ — các dashboard quét hằng ngày trước đây</h3>
+  <p class="sec-sub">Vẫn giữ nguyên, bấm để mở. Nội dung các kho này tự cập nhật sau mỗi lượt quét.</p>
+  <div class="grid small">
+    <a class="card game" href="dashboard/game.html">
+      <div class="icon">🎮</div>
+      <h2>Kho Game Xàm &amp; Độc Lạ</h2>
+      <p>Game đã crawl, idea chờ duyệt, và kho game bạn đã duyệt hoặc tự nghĩ ra.</p>
+      <div class="meta"><span>19:00 hằng ngày</span><span>Chờ duyệt / Đã duyệt</span></div>
+      <div class="open">Mở kho game →</div>
+    </a>
+    <a class="card substack" href="dashboard/substack-iamhtv.html">
+      <div class="icon">📝</div>
+      <h2>Nguyên liệu Substack iamHTV</h2>
+      <p>Note viết sẵn + câu hỏi thảo luận theo 5 trụ: tâm lý, năng suất, phát triển bản thân, luyện viết, AI/Marketing.</p>
+      <div class="meta"><span>06:17 hằng ngày</span><span>Note viết sẵn</span></div>
+      <div class="open">Mở Substack →</div>
+    </a>
+    <a class="card distill" href="dashboard/web-distill.html">
+      <div class="icon">📚</div>
+      <h2>Kho Web Distill</h2>
+      <p>Ý tưởng chưng cất sách/tác phẩm thành web — kèm mức tự động hoá, cách ra tiền, lưu ý bản quyền.</p>
+      <div class="meta"><span>19:00 hằng ngày</span><span>Xếp hạng thú vị</span></div>
+      <div class="open">Mở Web Distill →</div>
+    </a>
+    <a class="card facebook" href="dashboard/quet-facebook.html">
+      <div class="icon">📘</div>
+      <h2>Quét vấn đề Facebook</h2>
+      <p>Vấn đề thật người dùng đang than + ý tưởng kiếm tiền tương ứng, gom theo từng ngày.</p>
+      <div class="meta"><span>20:17 hằng ngày</span><span>Theo ngày</span></div>
+      <div class="open">Mở quét Facebook →</div>
+    </a>
+    <a class="card webapp" href="dashboard/webapp-ai.html">
+      <div class="icon">💡</div>
+      <h2>Kho Webapp/AI</h2>
+      <p>Ý tưởng webapp/AI cho người không rành công nghệ, xếp hạng theo điểm + tệp người dùng.</p>
+      <div class="meta"><span>21:17 hằng ngày</span><span>Chấm điểm /10</span></div>
+      <div class="open">Mở Webapp AI →</div>
+    </a>
+  </div>
+
+  <div class="note">
+    <b>Cách dùng:</b> trong mỗi trang dashboard, trên đầu lưới thẻ có ô tìm kiếm để lọc trong tab đang mở; mỗi thẻ có nút <b>“Xem chi tiết”</b> mở toàn bộ nội dung (gốc, trục đổi, SCAMPER/TRIZ, cách ra tiền, link nguồn).<br>
+    <b>Lưu ý:</b> trạng thái Quan tâm/Đã làm trên các kho cũ lưu trên trình duyệt/thiết bị bạn mở trang (không đồng bộ sang máy khác).<br>
+    <b>File gốc:</b> thẻ Track 5 đang lưu tại <b>source/track5-directory-glossary/</b> trên repo — giữ làm bản lưu, không phải để xem hằng ngày.
+  </div>
+  <footer>Dashboard tổng · 2 dashboard chính + 5 kho cũ · Cập nhật 12/11/2026.</footer>
+</div>
+</body>
+</html>
