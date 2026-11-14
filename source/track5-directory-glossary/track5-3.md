@@ -46,9 +46,9 @@ Quy tắc áp dụng: Directory ≥30 mục seed thật (lý tưởng 100+), Glo
 - Vì sao đủ dày: TAAFT map 50.000+ tool theo 5.000+ vai trò nghề nghiệp (nguồn như trên) — mỗi nghề trong 11 mục trên đều có hàng chục tool thật. Riêng mục API miễn phí cho dev: repo public-apis trên GitHub liệt kê 1.400+ API miễn phí trong 51 nhóm (github.com/public-apis/public-apis).
 - Gốc: There's An AI For That — Link: https://theresanaiforthat.com ; API miễn phí: Public APIs — Link: https://github.com/public-apis/public-apis
 - Trục đổi: Gộp 12 thẻ "1 nghề = 1 directory" thành 1 directory duy nhất tra theo nghề; đổi trục tra cứu từ "tên tool" sang "nghề của tôi" / SCAMPER: Kết hợp (Combine) + Đổi góc nhìn (từ tool sang nghề) / TRIZ: Phân loại theo chức năng (chia theo nghề, không chia theo công nghệ).
-- Tiền: Affiliate tool trả phí theo nghề (tool luật, tool y… hoa hồng cao hơn tool chung); listing trả phí cho vendor theo nghề; gói "bộ tool theo nghề" PDF.
+- Tiền: Affiliate tool trả phí theo nghề (tool luật, tool y… hoa hồng cao hơn tool chung); listing trả phí cho vendor theo nghề; gói "bộ tool theo nghề" PDF (49k).
 - Làm: 3 buổi. Seed từ TAAFT (lọc theo vai trò nghề) + public-apis (mục dev).
-- Rủi ro: Tool theo nghề chuyên môn (luật, y) dễ gây hiểu lầm là tư vấn chuyên môn — phải ghi rõ disclaimer "tham khảo, không thay luật sư/bác sĩ"; tool nghề hẹp dễ bị tool lớn nuốt.
+- Rủi ro: Tool theo nghề chuyên môn (luật, y) dễ gây hiểu lầm là tư vấn chuyên môn — phải ghi rõ disclaimer "tham khảo, không thay luật sư/bác sĩ"; tool nghề hẹp dễ bị tool lớn nuốt; mục API miễn phí lấy từ public-apis — nhiều mục trong repo này đã chết/lỗi thời (kiểm chứng 14/11/2026 qua solosoft.dev) nên phải kiểm tra lại từng API trước khi đưa vào seed.
 - Gộp từ: A6, A8, A15, A16, A20, A21, A22, A23, A39, H1-05, H1-06, H1-08
 
 ### T53-P1-04. Phần mềm cho shop nhỏ Việt Nam — tìm theo việc, không theo tên tool — ★5 — Chờ duyệt
