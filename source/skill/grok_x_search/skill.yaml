@@ -1,0 +1,5 @@
+name: grok_x_search
+title: Search X with Grok Build
+description: Search X by topic or keyword with the Grok Build CLI (xAI, paid plan only, x_search only), return post URLs, then read the original with FxTwitter.
+category: Research
+include_in_prompt: false
