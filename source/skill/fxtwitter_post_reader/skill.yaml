@@ -1,0 +1,5 @@
+name: fxtwitter_post_reader
+title: Read X Posts Without Login
+description: Read a single public X post by URL without login, via FxTwitter first, vxTwitter as backup, and official oEmbed as last resort, with text, author, counts and media.
+category: Research
+include_in_prompt: false
