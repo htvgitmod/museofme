@@ -1,0 +1,93 @@
+{
+  "total": 380,
+  "isrc_before": 31,
+  "isrc_after": 320,
+  "iswc_before": 0,
+  "iswc_after": 211,
+  "apple_before": 96,
+  "apple_after": 343,
+  "deezer_after": 318,
+  "duration_before": 163,
+  "duration_after": 348,
+  "composers_v1": 345,
+  "composers_with_credits": 362,
+  "year_v1": 322,
+  "youtube_official_v1": 39,
+  "confidence": {
+    "high": 264,
+    "medium": 87,
+    "none": 29
+  },
+  "duplicates_removed": [
+    [
+      "song-115",
+      "/home/hatch/workspace/music-database/top100-v2/batches/batch-05/songs-enriched.json"
+    ],
+    [
+      "song-118",
+      "/home/hatch/workspace/music-database/top100-v2/batches/batch-05/songs-enriched.json"
+    ]
+  ],
+  "per_batch": {
+    "batch-01": {
+      "n": 39,
+      "isrc": 38,
+      "iswc": 26,
+      "apple": 39
+    },
+    "batch-02": {
+      "n": 40,
+      "isrc": 39,
+      "iswc": 24,
+      "apple": 38
+    },
+    "batch-03": {
+      "n": 40,
+      "isrc": 31,
+      "iswc": 23,
+      "apple": 34
+    },
+    "batch-04": {
+      "n": 41,
+      "isrc": 31,
+      "iswc": 13,
+      "apple": 35
+    },
+    "batch-05": {
+      "n": 39,
+      "isrc": 33,
+      "iswc": 15,
+      "apple": 34
+    },
+    "batch-06": {
+      "n": 40,
+      "isrc": 34,
+      "iswc": 27,
+      "apple": 37
+    },
+    "batch-07": {
+      "n": 34,
+      "isrc": 31,
+      "iswc": 23,
+      "apple": 33
+    },
+    "batch-08": {
+      "n": 39,
+      "isrc": 29,
+      "iswc": 25,
+      "apple": 35
+    },
+    "batch-09": {
+      "n": 34,
+      "isrc": 29,
+      "iswc": 18,
+      "apple": 30
+    },
+    "batch-10": {
+      "n": 35,
+      "isrc": 26,
+      "iswc": 17,
+      "apple": 29
+    }
+  }
+}
