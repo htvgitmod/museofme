@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chiến lược nội dung v2 — Home Decor: Small Space / Renter (12 tháng)</title>
+<style>
+:root{--paper:#FAF6F0;--card:#fffdf7;--ink:#2B2622;--terra:#B85C38;--terra2:#e8a07d;--taupe:#C9B8A3;--olive:#7A7A52;--line:#e7d5b8;--mut:#6b5d4f;--green:#2e7d4f;--red:#a83a2a;--amber:#8a6d1a}
+*{box-sizing:border-box}
+body{font-family:Georgia,serif;background:var(--paper);color:var(--ink);margin:0;line-height:1.75;font-size:17px}
+main{max-width:920px;margin:0 auto;padding:24px 20px 80px}
+h1{font-size:34px;line-height:1.25;color:var(--terra);margin:6px 0 4px}
+h2{font-size:25px;color:var(--terra);border-bottom:2px solid var(--line);padding-bottom:6px;margin:44px 0 14px}
+h3{font-size:19px;margin:26px 0 8px}
+p{margin:10px 0}
+ul,ol{margin:8px 0;padding-left:24px}
+li{margin:5px 0}
+.sub{color:var(--mut);font-style:italic}
+table{border-collapse:collapse;width:100%;margin:14px 0;font-size:15px;font-family:Inter,system-ui,sans-serif}
+th,td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
+th{background:#f3ddc2;font-weight:700}
+tr:nth-child(even) td{background:#fdf9f1}
+.tag{display:inline-block;border-radius:999px;padding:1px 10px;font-family:Inter,sans-serif;font-size:12px;font-weight:700;white-space:nowrap}
+.keep{background:#d9ead3;color:var(--green)}
+.fix{background:#fff2cc;color:var(--amber)}
+.drop{background:#f4cccc;color:var(--red)}
+.unknown{background:#e8e0d4;color:#5b5145}
+.box{border:2px solid var(--line);border-radius:12px;padding:14px 16px;background:var(--card);margin:16px 0}
+.box.warn{border-color:#d9a441;background:#fff8e6}
+.box.red{border-color:#c0503c;background:#fdf0ec}
+.box.green{border-color:#7ba05b;background:#f2f7ee}
+.src{font-size:14px;color:var(--mut)}
+.toc a{color:var(--terra)}
+.persona{border-left:4px solid var(--terra);padding:4px 0 4px 16px;margin:16px 0}
+.spec{font-family:Inter,system-ui,sans-serif;font-size:14.5px;background:#f6efe3;border:1px dashed var(--terra2);border-radius:10px;padding:12px 14px;margin:10px 0}
+.spec b{color:var(--terra)}
+a{color:var(--terra)}
+footer{margin-top:60px;border-top:2px solid var(--line);padding-top:16px}
+@media(max-width:640px){h1{font-size:28px}body{font-size:16px}table{font-size:13.5px}}
+</style>
+</head>
+<body>
+<main>
+<p class="sub">Chiến lược nội dung v2 · 19/11/2026 · Thay thế bản v1 ngày 11/11/2026 ở những chỗ đã kiểm chứng — những phần v1 chưa sai thì giữ nguyên.</p>
+<h1>Chiến lược nội dung v2 — Home Decor: Small Space / Renter</h1>
+<p><strong>Blog tiếng Anh cho độc giả Mỹ · Traffic chính từ Pinterest · 12 tháng: 11/2026 – 10/2027 · Faceless, ảnh AI photorealistic + Canva · 10–20 giờ/tuần</strong></p>
+<p class="src">Nguồn của bản này: Gói nghiên cứu khách hàng 19/11 (3 persona, 5 JTBD, verdict 40 bài + 19 ý bài 1) · competitors.md (25 đối thủ) · pin-styles.md (6 layout, 5 mẫu pin) · content-expansion.md (lộ trình 40 → 150 bài) — tất cả trong thư mục <code>source/pinterest-strategy/customer-research/</code>. Bản v1 (11/11): <code>source/pinterest-strategy/pinterest-12-month-strategy.html</code>.</p>
+
+<div class="box">
+<strong>Kết luận nhanh — v2 khác v1 ở đâu:</strong>
+<ul>
+<li><strong>Người đọc không còn là đoạn phác giả định.</strong> V1 nói "studio/1BR dưới 600 sq ft" — sai một nửa: 1BR trung bình <strong>735 sq ft</strong>, studio mới 460. V2 có 3 persona có bằng chứng + 5 JTBD + nỗi đau bằng lời thật.</li>
+<li><strong>Số bài: 40 → 150, không phải 40 → 200.</strong> V1 mở rộng 148–160 bài; v2 chốt <strong>150 bài</strong> (40 + 50 + 60) với lộ trình 3 giai đoạn, cluster Trend cắt từ 20 bài xuống <strong>4 bài thử nghiệm</strong>, thêm cluster Declutter hoàn toàn mới (bằng chứng mạnh nhất gói nghiên cứu).</li>
+<li><strong>Phong cách Pinterest đã chốt, không còn "cần chốt".</strong> Palette terracotta + trắng ấm giữ nguyên (hợp trend earth-tone 2026) + thêm Olive làm màu phụ. Bộ 5 mẫu pin có spec Canva từng px. Mẫu C Before/After cũ đổi thành "Vấn đề → Giải pháp", cấm ghi "Before/After" lên ảnh AI.</li>
+<li><strong>Đối thủ đã có tên, có số.</strong> 25 đối thủ; nguy hiểm nhất là The Tidy Renter và The Small Apartment — cả hai đều <strong>không có Pinterest</strong>, đó là cửa sổ cơ hội chính.</li>
+<li><strong>Tiền: giữ nguyên mô hình v1</strong> (Journey → Raptive + Amazon + printable + email; $100/tháng tháng 7–9 ở kịch bản thận trọng, $300/tháng tháng 11–12/2027) — nhưng thêm <strong>cờ đỏ Raptive</strong>: site dùng AI tạo nội dung sẽ không được monetize nếu không có quy trình biên tập con người thật.</li>
+</ul>
+</div>
+
+<div class="toc">
+<strong>Mục lục:</strong>
+<a href="#dinhvi">1. Định vị &amp; chân dung</a> ·
+<a href="#noidung">2. Chiến lược nội dung: 40 → 150 bài</a> ·
+<a href="#pinterest">3. Phong cách Pinterest</a> ·
+<a href="#doithu">4. Đối thủ</a> ·
+<a href="#thucthi">5. Plan thực thi 12 tháng</a> ·
+<a href="#gioihan">6. Giới hạn &amp; chưa kiểm chứng</a> ·
+<a href="#nguon">7. Nguồn</a>
+</div>
+
+<h2 id="dinhvi">1. Định vị &amp; chân dung — phục vụ ai, thỏa mãn gì</h2>
+<p><strong>Định vị (1 câu):</strong> Blog giúp người thuê nhà Mỹ 20–35 tuổi, ở căn hộ nhỏ, ngân sách thấp, <em>lưu trữ đồ mà không mất tiền cọc</em> — mỗi ý trong bài đều có giá thật, số đo thật, giới hạn chịu tải thật và ngày kiểm tra, kèm ảnh minh họa giống thật.</p>
+<p>Khác biệt với mọi đối thủ (kiểm chứng 19/11, xem mục 4): không ai kết hợp đủ 5 thứ cùng lúc — <em>Pinterest-first + kiểm chứng từng ý + 3 persona rõ + ảnh AI photorealistic theo từng ý + góc mất cọc / chairdrobe chưa ai sở hữu</em>.</p>
+
+<h3>Ba chân dung (có bằng chứng)</h3>
+<div class="persona">
+<strong>Maya, 27 tuổi — studio 460 sq ft, ở một mình.</strong> Năm thứ 2 sau khi ra trường. Ngân sách decor $101–500 (38% người thuê chi trong khoảng này, Rently/Pollfish 2025). Mua decor trên Amazon (62% người thuê mua decor ở Amazon). Đau nhất: không có tủ ("tủ bé như cái tủ lạnh mini" — lời người thuê thật), đồ mặc dở chất thành "the chair", mua hộp rồi càng bừa. <strong>Bài phục vụ Maya:</strong> cụm A (phòng ngủ), C (bếp), S (declutter), E (storage).
+</div>
+<div class="persona">
+<strong>Jordan, 31 tuổi — 1BR 735 sq ft, ở với bạn đời, ở một chỗ 3+ năm.</strong> 65% người thuê ở ≥3 năm (Rently) — nhóm này sẵn sàng đầu tư đồ bền, muốn phòng trông "có chủ ý" chứ không như kho chứa. Đau nhất: sợ mất cọc (chỉ 42% lấy lại đủ cọc — Zillow 2024; có người mất $1.840 vì command strips làm bong sơn), muốn đẹp nhưng lease cấm khoan/sơn (30% gặp rào cản lease — Rently). <strong>Bài phục vụ Jordan:</strong> cụm D (tường/decor), B (phòng khách/studio), J (budget).
+</div>
+<div class="persona">
+<strong>Alex, 23 tuổi — căn hộ đầu tiên, vừa chuyển ra ở riêng.</strong> Nhóm di động nhất: 20–29 tuổi chuyển chỗ 28,6%/năm (Census). Cần checklist + hệ thống bắt đầu, không cần bài sâu. Đau nhất: thiếu mọi thứ cùng lúc, không biết mua gì trước, sợ mua sai. <strong>Bài phục vụ Alex:</strong> cụm I (first apartment/moving), E (storage &amp; first apartment), bài 40 (checklist + printable).
+</div>
+
+<h3>5 việc người đọc thuê blog làm (JTBD — suy luận từ lời người thuê, không trích như lời họ)</h3>
+<table>
+<tr><th>JTBD</th><th>Việc cần làm</th><th>Cụm bài thỏa mãn</th></tr>
+<tr><td>JTBD 1</td><td>Cất đồ trong 10 giây, lấy ra mặc ngay, không mất cọc</td><td>A, C, E, F, H</td></tr>
+<tr><td>JTBD 2</td><td>Phòng trông như người lớn ở, không như kho chứa — dù không được khoan/sơn, ngân sách dưới $50</td><td>B, D</td></tr>
+<tr><td>JTBD 3</td><td>Một chỗ cho đồ "mặc rồi nhưng chưa bẩn" (bằng chứng mạnh nhất: họ tự nghĩ ra "second hamper")</td><td>S, A</td></tr>
+<tr><td>JTBD 4</td><td>Đồ theo mùa cất đi 6 tháng, lấy ra đúng lúc, không đào bới dưới gầm giường</td><td>A, S</td></tr>
+<tr><td>JTBD 5</td><td>Biết chính xác cái gì vừa chỗ nào TRƯỚC khi mua (fit là phàn nàn số 1 trên Amazon)</td><td>E, S, mọi bài sản phẩm</td></tr>
+</table>
+
+<h3>Bản đồ cụm → persona → nỗi đau</h3>
+<table>
+<tr><th>Cụm</th><th>Persona</th><th>Nỗi đau có bằng chứng</th><th>Mức khớp</th></tr>
+<tr><td><strong>A — Small Bedroom</strong> (bài 1, 2, 11–14, 39)</td><td>Maya (chính), Jordan</td><td>Không có tủ; chairdrobe; không tìm thấy đồ; đồ mùa bị quên dưới gầm giường; không có chỗ đầu giường</td><td><span class="tag keep">KHỚP MẠNH</span></td></tr>
+<tr><td><strong>B — Living Room + Studio</strong> (3, 4, 7, 8, 15–18)</td><td>Maya, Jordan</td><td>Phòng nhỏ (34% nói diện tích chật là rào cản); phòng trông như kho; studio cần chia không gian</td><td><span class="tag keep">KHỚP</span> — trừ bài 15</td></tr>
+<tr><td><strong>C — Kitchen + Pantry</strong> (5, 6, 21–24)</td><td>Maya, Jordan</td><td>"No pantry" là pain cụ thể của căn hộ cũ; xe đẩy khe bếp "saved more space than anything else I bought"</td><td><span class="tag keep">KHỚP</span></td></tr>
+<tr><td><strong>D — Renter Walls &amp; Decor</strong> (9, 10, 19, 20, 25, 26, 37, 38)</td><td>Jordan (chính), Maya</td><td>Sợ mất cọc; móc dán rơi + bong sơn là nỗi đau review số 1 trên Amazon; lease cấm đục tường</td><td><span class="tag keep">KHỚP</span> — trừ 3 bài trend</td></tr>
+<tr><td><strong>E — Storage &amp; First Apartment</strong> (27–36, 40)</td><td>Alex (chính), Maya</td><td>Căn hộ đầu tiên thiếu mọi thứ (checklist 37,4K lưu trên Lemon8); tủ nhỏ là pain top 3; mua sai vì không đo trước</td><td><span class="tag keep">KHỚP</span></td></tr>
+<tr><td><strong>S — Declutter &amp; Systems</strong> (mới, bài 41–50)</td><td>Cả 3 persona</td><td>Mua đồ lưu trữ rồi càng bừa hơn — "Organizers come third" (bằng chứng mạnh nhất gói nghiên cứu)</td><td><span class="tag keep">MỚI — ƯU TIÊN CAO NHẤT</span></td></tr>
+<tr><td><strong>⚠️ Nhóm trend trong B/D</strong> (13, 14 Quiet Luxury; 15 Neo Deco; 25 Afrohemian)</td><td>Không phục vụ rõ persona nào</td><td>Đây là nội dung thẩm mỹ theo trend, không giải quyết vấn đề. Neo Deco toàn đồ xa xỉ; Afrohemian do Boomers/Gen X dẫn dắt (lệch tuổi 20–35); Quiet Luxury lệch ngân sách</td><td><span class="tag fix">LỆCH — tối đa 1 bài thử/trend</span></td></tr>
+</table>
+<p><strong>Nỗi đau chưa cụm nào phục vụ</strong> (khoảng trống để mở rộng): mua đồ rồi càng bừa → cụm S · đồ mặc dở (JTBD 3) → bài ưu tiên số 2 · mua sai kích thước (JTBD 5) → bài ưu tiên số 4 + đưa số đo vào MỌI bài sản phẩm · sợ mất cọc nhưng không biết luật (HUD: lỗ đinh nhỏ là hao mòn bình thường) → bài tiền cọc · giày chặn lối đi → cụm H Entryway · phòng tắm nhỏ/dùng chung → cụm F (gắn cổng nghiên cứu).</p>
+
+<h2 id="noidung">2. Chiến lược nội dung — bao nhiêu bài, mở rộng như nào</h2>
+<h3>40 bài đầu: verdict sau kiểm chứng</h3>
+<p><span class="tag keep">GIỮ 23</span> <span class="tag fix">SỬA 6</span> <span class="tag unknown">CHƯA ĐỦ BẰNG CHỨNG 11</span> — chi tiết từng bài trong <a href="customer-research/pinterest-customer-research-pack.html">gói nghiên cứu khách hàng, mục 6</a>. Tóm tắt: <strong>giữ</strong> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 19, 20, 21, 22, 23, 24, 27, 28, 35, 36, 37, 38, 40. <strong>Sửa</strong> 13, 14 (bỏ mọi con số % Quiet Luxury, viết lại dạng "dưới $500 bằng đồ rẻ/secondhand"), 15 (Neo Deco → "touches on a renter budget"), 25 (Afrohemian chỉ 1 bài thử, không làm trụ cột), 34 (đổi tiêu đề chính thành "How to Turn a Closet Into a Home Office", "cloffice" chỉ làm từ phụ), 39 (bỏ "600 Sq Ft" trong tiêu đề — sai cho 1BR). <strong>Chưa đủ bằng chứng</strong> 11, 12, 16, 17, 18, 26, 29, 30, 31, 32, 33 — cần nghiên cứu theo cụm trước khi viết, không xóa khỏi kế hoạch.</p>
+<p><strong>Bài 1 (19 ý) sau kiểm chứng:</strong> giữ 8 ý, sửa 10 ý, bỏ 1 ý (14 bedside caddy). Ý 8 (over-door organizer, 131.718 review, 4,6★, bestseller số 1) mạnh nhất — đưa lên đầu bài. Ý 12 (kệ nổi) mâu thuẫn tiêu đề "(No Drilling)". Ý 10 (móc dán) là ý rủi ro cọc cao nhất — phải có cảnh báo. Reset "10 phút" sửa thành <strong>2 phút</strong> theo lời người thuê. Chi tiết trong gói nghiên cứu, mục 5.</p>
+<div class="box warn">
+<strong>Quy tắc sửa trước khi mở rộng:</strong> sửa xong 6 bài lệch (13, 14, 15, 25, 34, 39) và viết lại bài 1 theo bảng verdict TRƯỚC khi viết bài 41 trở đi. Không mang lỗi cũ sang giai đoạn 2. Riêng bài 1: tiêu đề chiến lược v1 ghi "21 ý" nhưng bài đã chốt 19 ý — <strong>đồng bộ số 19</strong> ở tiêu đề bài, pin và mọi nơi trước khi làm pin.
+</div>
+
+<h3>Lộ trình 40 → 150 bài (3 giai đoạn)</h3>
+<p><strong>Nguyên tắc mở rộng:</strong> chẻ sâu theo <em>phòng × vấn đề đã chứng minh × ngân sách × mùa</em> — không chẻ theo nhóm người chưa chứng minh (couples, trẻ nhỏ, 50+, pets, gamer, ca đêm) và không chẻ theo trend thẩm mỹ. Mỗi bài mới phải gắn với ít nhất một bằng chứng; bài nào không gắn được thì ghi "chưa đủ bằng chứng — cần nghiên cứu trước khi viết".</p>
+<table>
+<tr><th>Giai đoạn</th><th>Bài</th><th>Nội dung</th><th>Cơ sở bằng chứng</th></tr>
+<tr><td><strong>GĐ1</strong> 11/2026–01/2027</td><td>1–40</td><td>40 bài đầu, 5 cluster × 8 bài (Splinter Method)</td><td>Đã có; sửa 6 bài lệch trước khi mở rộng</td></tr>
+<tr><td><strong>GĐ2</strong> 02–05/2027</td><td>41–90 (50 bài)</td><td><strong>S — Declutter &amp; Systems</strong> 41–50 (10) · <strong>I — First Apartment / Moving / Dorm</strong> 51–64 (14) · <strong>J — Budget / Gift / Printable</strong> 65–76 (12) · <strong>F — Bathroom</strong> 77–86 (10, gắn cổng nghiên cứu) · <strong>G — Closet Depth</strong> 87–90 (4)</td><td>Declutter là bằng chứng mạnh nhất; checklist 37,4K lưu; ngân sách là rào cản #1 (43%); thanh treo thứ 2 + gấp đứng bằng chứng MẠNH</td></tr>
+<tr><td><strong>GĐ3</strong> 06–10/2027</td><td>91–150 (60 bài)</td><td><strong>H — Entryway &amp; Drop Zone</strong> 91–100 (10) · <strong>A/B Depth-2</strong> theo vấn đề 101–114 (14) · <strong>C/M Kitchen Depth-2</strong> 115–124 (10) · <strong>D Depth-2 Walls</strong> 125–134 (10) · <strong>K — Trend thử nghiệm</strong> 135–138 (4) · <strong>N — Seasonal + Gift Q4</strong> 139–150 (12)</td><td>Giày chặn lối đi có bằng chứng; cụm bếp nhu cầu mạnh; #19 mạnh nhất nhóm D; trend chỉ sau khi có Predicts 2027; Christmas +500% MoM</td></tr>
+</table>
+<p><strong>So với kế hoạch mở rộng cũ (v1, cluster F–N):</strong> K Trend cắt 20 → 4 bài · thêm cluster S Declutter (v1 không có) · G tách Cloffice ra (chỉ 1–2 bài thử) · F/H gắn cổng nghiên cứu, Laundry tách ra chưa xếp lịch · L Depth-2 đổi từ chẻ theo nhóm người sang chẻ theo vấn đề đã chứng minh. Tổng chốt <strong>150 bài</strong>, khớp mốc "148 bền" của v1.</p>
+
+<h3>Cluster mới (3)</h3>
+<ul>
+<li><strong>S — Declutter &amp; Systems (mới hoàn toàn, ưu tiên cao nhất).</strong> Phục vụ cả 3 persona; JTBD 1 + 5. Hub: <em>"How to Declutter a Small Apartment Before Buying Any Organizers"</em>. Spoke: reset 2 phút/tối, "mỗi thứ một nhà" + nhãn, đo trước khi mua, capsule wardrobe, dọn đồ theo mùa.</li>
+<li><strong>F — Bathroom &amp; Shared Spaces (10 bài, gắn cổng nghiên cứu).</strong> Hub: bài 29. Chỉ viết sau khi có tối thiểu 10 nguồn lời người thuê về bathroom + kiểm chứng từ khóa #29/#30.</li>
+<li><strong>H — Entryway &amp; Drop Zone (10 bài).</strong> Hub: bài 31. Phần Laundry tách riêng, chưa xếp lịch (không có bằng chứng).</li>
+</ul>
+<p><strong>Không mở cluster:</strong> Couples (bài 11, 12, 39 đều chưa đủ bằng chứng) · Kids · Pets/gamer/ca đêm/nữ trên 50 · Laundry (chưa xếp lịch) · Cloffice chỉ 1–2 bài thử.</p>
+
+<h3>Kiến trúc hub/spoke + internal linking</h3>
+<p><strong>Hub (4 ★ đã có + 4 hub mới):</strong> #1 Bedroom Storage · #9 Renter-Friendly Bedroom Updates · #35 Under 600 Sq Ft · #40 First Apartment Checklist · <strong>hub S</strong> (declutter) · <strong>hub I</strong> ("How to Get Your Full Security Deposit Back" — intent cao nhất, nút giao link cho mọi bài khoan/dán) · <strong>hub J</strong> (bài 38 nâng thành hub tiền) · <strong>hub F</strong> (bài 29, sau cổng nghiên cứu).</p>
+<p><strong>Nguyên tắc link:</strong> mỗi bài mới link 1 hub của cụm mình + 2–3 bài cùng cụm + 1 link tới hub S nếu bài giới thiệu sản phẩm ("dọn trước khi mua" là tiền đề của mọi bài storage) · bài traffic cao link sang bài tiền cao (gift/budget/printable) · <strong>1 từ khóa chính = 1 bài</strong> (trừ cặp listicle + how-to có chủ ý khác intent, vd #1 vs #2) · anchor text dùng đúng cụm từ người dùng gõ ("over-door organizer", "tension rod", "security deposit"), không dùng "bấm vào đây".</p>
+
+<h3>Thứ tự ưu tiên — 20 bài tiếp theo sau 40 bài đầu</h3>
+<table>
+<tr><th>#</th><th>Bài (tiêu đề tiếng Anh)</th><th>Vì sao viết trước</th></tr>
+<tr><td>1</td><td>How to Declutter a Small Bedroom Before Buying Any Organizers (hub S)</td><td>Bằng chứng mạnh nhất gói nghiên cứu; chưa đối thủ nào làm hub declutter cho người thuê</td></tr>
+<tr><td>2</td><td>Where to Put Clothes You've Worn But Aren't Dirty (Renter Edition)</td><td>JTBD 3 — căn cứ mạnh nhất; góc độc đáo, đối thủ chưa viết</td></tr>
+<tr><td>3</td><td>The 2-Minute Nightly Reset That Keeps a Small Bedroom Clean</td><td>Sửa số sai trong bài 1; thói quen reset có bằng chứng mạnh</td></tr>
+<tr><td>4</td><td>How to Measure Your Bedroom Before Buying Storage (So Nothing Gets Returned)</td><td>JTBD 5; fit là phàn nàn số 1 Amazon; bài "công cụ" được link từ mọi bài sản phẩm</td></tr>
+<tr><td>5</td><td>How to Get Your Full Security Deposit Back (hub I)</td><td>Intent rất cao; nỗi đau xuyên suốt; tiền cọc $750–1.600 là số thật người đọc quan tâm</td></tr>
+<tr><td>6</td><td>Tension Rod Hacks for Small Rental Closets (7 Ways)</td><td>Bằng chứng MẠNH ("best value… zero damage"); sản phẩm rẻ, affiliate dễ</td></tr>
+<tr><td>7</td><td>How to File Fold Clothes So You Can See Everything in a Small Dresser</td><td>3 ngăn → 2 ngăn nhờ gấp đứng; "sock soup" là ngôn ngữ người dùng thật</td></tr>
+<tr><td>8</td><td>Over-Door Organizer: Fabric vs Clear Pockets (Which One Actually Lasts)</td><td>Sản phẩm mạnh nhất bài 1 (131.718 review); câu hỏi mua hàng thật</td></tr>
+<tr><td>9</td><td>Moving Out of a Rental: The Deposit Checklist (Patch, Clean, Photograph)</td><td>Cặp với bài ưu tiên 5; mùa moving 5–9; checklist = freebie đổi email</td></tr>
+<tr><td>10</td><td>First Apartment Essentials: What to Buy First (and What to Skip)</td><td>Alex persona; nhu cầu checklist rất cao; 62% mua trên Amazon</td></tr>
+<tr><td>11</td><td>How to Set Up Your First Apartment on a $500 Budget</td><td>38% người thuê chỉ chi $101–500 cho decor</td></tr>
+<tr><td>12</td><td>Peel and Stick Wallpaper Mistakes That Cost Your Deposit</td><td>#19 là từ khóa tốt nhất nhóm D; thị trường $2,1B → $4,8B; góc "sai lầm mất cọc" khác biệt</td></tr>
+<tr><td>13</td><td>Renter-Friendly Wall Decor Without Nails: What Actually Stays Up</td><td>Sửa ngộ nhận lớn nhất: móc dán thất bại nhiều nhất nhưng ai cũng khuyên dùng</td></tr>
+<tr><td>14</td><td>Rolling Cart Ideas for Small Apartments: Kitchen, Bathroom, Bedroom</td><td>Mong muốn #5 (một món dùng nhiều chỗ); bằng chứng đa phòng</td></tr>
+<tr><td>15</td><td>Small Kitchen Counter Organization for Renters (Clear the Clutter)</td><td>Cụm bếp nhu cầu mạnh; xe đẩy khe bếp có bằng chứng cụ thể</td></tr>
+<tr><td>16</td><td>Shoe Storage by the Door: 12 Renter-Friendly Ideas That Keep the Hallway Clear</td><td>Nỗi đau giày chặn lối đi có bằng chứng lời thật (viết sau nghiên cứu cụm H)</td></tr>
+<tr><td>17</td><td>New Year Organization: Reset Your Small Apartment in a Weekend</td><td>Mùa vụ tháng 12–1; chuẩn bị từ 10/2027</td></tr>
+<tr><td>18</td><td>Small Apartment Christmas Decor for Renters (No Nails, No Damage)</td><td>Pinterest Trends #1 tháng 11/2026 (+500% MoM); đăng trước 60–90 ngày cho Christmas 2027</td></tr>
+<tr><td>19</td><td>Budget Gift Guide for Small-Space Renters (Under $25)</td><td>Intent mua + affiliate; RPM tháng 10–11 đắt nhất năm</td></tr>
+<tr><td>20</td><td>Free Printable: Small Bedroom Storage Planner (Room-by-Room)</td><td>Email capture theo mô hình bài 40 (freebie + bản đầy đủ $5–8)</td></tr>
+</table>
+<p class="src">Sau 20 bài này: tiếp tục theo lộ trình GĐ2 (F Bathroom sau cổng nghiên cứu → J còn lại → G Closet Depth), rồi sang GĐ3 theo lịch mùa vụ. 4 tiêu đề gợi ý khác trong file content-expansion.md (số 21–24): over-toilet storage, shared bathroom, Quiet Luxury secondhand — 2 bài bathroom ghi rõ "chưa đủ bằng chứng — cần nghiên cứu trước khi viết".</p>
+
+<h2 id="pinterest">3. Phong cách Pinterest — palette, mẫu pin, board, luật chơi</h2>
+<h3>Palette — ĐÃ CHỐT (v1 ghi "cần chốt", v2 chốt)</h3>
+<p>Terracotta + trắng ấm <strong>giữ nguyên</strong>: khớp trend earth-tone 2026 (Afrohemian là trend chính thức Predicts 2026, +220%; Houzz: rust +178%, chocolate +153%; bảng earth-tone 2026 = terracotta + mocha + olive + cream/warm white). Thêm <strong>Olive/Sage #7A7A52</strong> làm màu phụ nhỏ cho yếu tố cây xanh trong ảnh. Không dùng nền tối hoàn toàn.</p>
+<table>
+<tr><th>Màu</th><th>Mã</th><th>Vai trò</th></tr>
+<tr><td>Warm White</td><td>#FAF6F0</td><td>Nền panel, nền pin checklist</td></tr>
+<tr><td>Terracotta</td><td>#B85C38</td><td>Màu nhấn: số lớn, dải tiêu đề, nút/nhãn (chữ trắng trên nền này đạt ~4,5:1 — chỉ dùng cho headline đậm cỡ lớn)</td></tr>
+<tr><td>Warm Taupe</td><td>#C9B8A3</td><td>Màu trung gian, nền phụ, viền</td></tr>
+<tr><td>Charcoal</td><td>#2B2622</td><td>Chữ chính (tương phản cao trên nền sáng)</td></tr>
+<tr><td>Olive/Sage (mới)</td><td>#7A7A52</td><td>Điểm nhấn nhỏ (cây xanh trong ảnh), không thay terracotta làm màu chính</td></tr>
+</table>
+
+<h3>Bộ 5 mẫu pin — spec Canva (thay 3 mẫu cũ)</h3>
+<p><strong>Nguyên tắc chung:</strong> canvas <strong>1000×1500 px (2:3)</strong> — chuẩn chính thức Pinterest (2:3 cho +45% impressions, +22% clicks, +17% saves so với vuông — GenSumo, 148.000+ pin); JPG cho pin ảnh, PNG cho pin nhiều chữ; dung lượng &lt;1MB; tối đa 2 font (headline: Montserrat ExtraBold hoặc Inter ExtraBold; dòng phụ: Montserrat Regular hoặc serif Georgia); chữ trắng trên terracotta chỉ cho headline đậm cỡ lớn; tên site nhỏ ở góc dưới, 5–10% chiều rộng; <strong>mỗi bài làm 3 pin tươi</strong> (mẫu khác nhau + ảnh khác nhau + headline khác nhau), đăng rải cách nhau ≥72 giờ — chỉ đổi chữ trên cùng 1 ảnh thì KHÔNG tính là fresh.</p>
+
+<div class="spec"><b>T1 — "Hero Listicle"</b> (mọi listicle mở cluster · thay mẫu A cũ, đã sửa). Ảnh AI full-bleed 1000×1500. Scrim charcoal 50% ở nửa trên. Headline 3–7 từ, trắng, Montserrat ExtraBold 72–90px, đặt ở 12–40% chiều cao pin, căn trái, chừa lề 60px hai bên. Dòng phụ 1 dòng 28–32px trắng 85% ngay dưới headline. Tên site 28px góc dưới phải. <em>Ví dụ:</em> "19 Small Bedroom Storage Ideas" / phụ: "No Drilling · Renter-Friendly". Ảnh: hero hoặc ảnh ý mạnh nhất của bài.</div>
+<div class="spec"><b>T2 — "Number Band"</b> (bài storage/organization có số · thay mẫu B cũ — mẫu mạnh nhất, giờ có spec cố định). Dải terracotta đặc trên cùng cao ~300px (20%): số lớn trắng 120px ở trái ("19"), tiêu đề trắng 54–64px 2 dòng ở phải số. Ảnh full-width ở giữa cao ~900px (60%). Dải trắng ấm dưới cùng cao ~300px (20%): 1 dòng lợi ích charcoal 36px ("No Drilling · Under $50") + tên site 28px ở đáy. <em>Lưu ý:</em> số trên pin = số thật trong bài (19 ý → ghi 19).</div>
+<div class="spec"><b>T3 — "4-Photo Center Band"</b> (listicle nhiều ảnh · mới). 2 ảnh xếp ngang nửa trên (mỗi ảnh 500×600px, ~40% chiều cao). Dải terracotta ở giữa cao ~300px (20%): số + từ khóa trắng 56–64px, căn giữa ("21 SMALL BEDROOM STORAGE IDEAS"). 2 ảnh xếp ngang nửa dưới (~35%). Tên site trắng 28px ở đáy. <em>Dùng cho:</em> bài 1, 3, 5, 27, 35, 37 — tận dụng kho 12 ảnh/bài (4 ảnh phải cùng tông).</div>
+<div class="spec"><b>T4 — "Checklist"</b> (how-to / checklist / hệ thống · mới). Nền Warm White toàn pin. Tiêu đề terracotta 60–68px ở trên cùng (2 dòng, tối đa 7 từ). Dưới là 4–5 dòng checklist, mỗi dòng: dấu ✓ terracotta 40px + chữ charcoal 34–38px, tối đa ~6 từ/dòng. Cuối pin: 1 ảnh nhỏ (500×400px) hoặc dải taupe mỏng + tên site. <em>Ví dụ:</em> "First Apartment Checklist" / "✓ Measure the gap ✓ Sort before you store ✓ Start with the bed + door". <em>Dùng cho:</em> bài 40 (pin chủ lực), 36, 2, 22, 24, 30, 32, 34.</div>
+<div class="spec"><b>T5 — "How-to Steps"</b> (bài how-to có quy trình 3 bước · mới). Tiêu đề 54–60px ở trên cùng (tối đa 2 dòng, nền trắng ấm). Dưới là 3 hàng ngang, mỗi hàng: số tròn terracotta 64px ở trái (1, 2, 3) + ảnh nhỏ vuông 200×200px ở giữa + mô tả ngắn 30–34px ở phải (tối đa 5–6 từ/bước). Đáy pin: tên site + 1 dòng CTA nhỏ ("Full guide →"). <em>Dùng cho:</em> bài 2, 6, 8, 10, 20, 22, 24, 28, 30, 32, 34, 38. Chỉ dùng khi bài có quy trình 3 bước rõ ràng — không bịa bước để đủ 3 ô.</div>
+
+<p><strong>Rà 3 mẫu cũ (v1):</strong> A Identity — <span class="tag keep">GIỮ, sửa nhỏ</span> (chữ phải là headline 3–7 từ có lợi ích, không chỉ tên chuyên mục; chữ đặt ở nửa trên; thêm số/lợi ích vào ít nhất 1/3 pin tươi). B Con số — <span class="tag keep">GIỮ — mẫu mạnh nhất</span> (giờ là T2, có spec cố định; số trên pin phải khớp số thật trong bài). C Before/After — <span class="tag fix">SỬA</span>: giữ layout chia đôi nhưng đổi tên thành <strong>"Vấn đề → Giải pháp"</strong>, <strong>cấm ghi "Before/After" lên ảnh AI</strong> (hình ảnh gây hiểu lầm — Community Guidelines 12/11/2026 nêu tên "misleading product visuals"); chỉ dùng dự phòng cho bài how-to có chuyển đổi rõ rệt, không dùng cho sản phẩm cụ thể.</p>
+
+<h3>Quy tắc chữ, màu, kích thước (đã kiểm chứng 19/11)</h3>
+<table>
+<tr><th>Quy tắc</th><th>Nội dung</th></tr>
+<tr><td>Headline</td><td>3–7 từ; 1 headline + tối đa 1 subheadline nhỏ. Pin có 3–4 khối chữ tệ hơn rõ rệt vì người ta cuộn nhanh.</td></tr>
+<tr><td>Cỡ chữ</td><td>Headline 50–80px ở file 1000×1500; tối đa 2 font; headline = sans-serif đậm (Montserrat/Inter); tránh font script cho từ khóa (Pinterest OCR không đọc được).</td></tr>
+<tr><td>Tương phản</td><td>Tối thiểu 4,5:1 (WCAG); lớp phủ mờ 50% trên ảnh thường đạt, 30% thường không đạt.</td></tr>
+<tr><td>Vị trí chữ</td><td>Chữ thuộc nửa trên 50–60% của pin — chỉ phần đó hiển thị trước khi cuộn; Pinterest đè nút Save + description gần mép dưới.</td></tr>
+<tr><td>Nội dung chữ</td><td>Viết theo lợi ích/kết quả, có số + lời hứa thời gian ("7 Ways to…", "That Actually Work"); tránh ALL CAPS, tránh clickbait không đúng nội dung.</td></tr>
+<tr><td>Từ khóa</td><td>Đưa từ khóa chính vào headline trên ảnh — Pinterest OCR đọc chữ trên ảnh và coi đó là tín hiệu xếp hạng.</td></tr>
+<tr><td>Pin title / description</td><td>Title ≤100 ký tự, từ khóa chính ở đầu. Description: câu đầu chứa từ khóa chính; viết theo mức 500 ký tự cho đồng nhất (CSV Bulk Upload tối đa 500, API 800).</td></tr>
+</table>
+
+<h3>10 board (v1 giữ nguyên, làm chắc board 1–4 trước)</h3>
+<table>
+<tr><th>#</th><th>Board</th><th>Đựng bài gì</th></tr>
+<tr><td>1</td><td>Small Bedroom Ideas for Renters</td><td>Board chủ lực — mọi bài phòng ngủ nhỏ</td></tr>
+<tr><td>2</td><td>Small Bedroom Storage Ideas</td><td>Under-bed, closet, over-door — intent mua cao nhất</td></tr>
+<tr><td>3</td><td>Small Apartment Organization</td><td>Hệ thống, checklist, routine, declutter (thêm cụm S vào đây)</td></tr>
+<tr><td>4</td><td>Renter-Friendly Home Decor</td><td>No-drill, removable wallpaper, Command strips — từ khóa phân biệt ngách</td></tr>
+<tr><td>5</td><td>Small Living Room Ideas for Apartments</td><td>Living room, studio, layout</td></tr>
+<tr><td>6</td><td>Small Kitchen Organization for Renters</td><td>Kitchen, pantry, cabinet</td></tr>
+<tr><td>7</td><td>Small Closet Organization Ideas</td><td>Closet, wardrobe, giày</td></tr>
+<tr><td>8</td><td>Quiet Luxury Home Decor for Small Spaces</td><td>Quiet Luxury, Afrohemian, Neo Deco — board "gu", giữ palette nhất quán nhất (chỉ 4 bài thử nghiệm, không mở rộng)</td></tr>
+<tr><td>9</td><td>Budget Apartment Decorating Ideas</td><td>Budget, under $50, gift guide — affiliate mạnh</td></tr>
+<tr><td>10</td><td>Small Space Furniture &amp; Storage Finds</td><td>Roundup sản phẩm — gắn affiliate nhiều nhất</td></tr>
+</table>
+
+<h3>Video pin + nhãn AI</h3>
+<p><strong>Video là phụ, static là chính.</strong> Video +192% impressions, +57% saves, <strong>−35% outbound clicks</strong> vs static (BoredListed, test 30 ngày, 11/2026); GenSumo (148.000+ pin): video clicks 1,6 vs static 4,8 /1.000 impressions. Mục tiêu của blog là traffic về bài → static là chính; video chỉ làm từ tháng 1–6 cho bài trụ cột (1, 9, 35, 40): slideshow faceless 5–7 ảnh, 2–3 giây/ảnh, 1000×1500 2:3 hoặc 1080×1920 9:16, 6–15 giây, hook 3 giây đầu, có chữ đè vì xem không tiếng. Idea Pins đã bị khai tử dưới tên gọi cũ (gộp vào Pin chuẩn, nay Pin chuẩn được gắn link đích) — không lập kế hoạch "Idea Pin" nữa.</p>
+<div class="box warn">
+<strong>Nhãn "AI modified" — luật chơi đã rõ (kiểm chứng 19/11):</strong>
+Pinterest gắn nhãn "AI modified" ở góc dưới-trái khi mở pin ở chế độ close-up, qua 3 đường: metadata IPTC, classifier tự phát hiện, hoặc chủ pin tự bật toggle "Mark as AI-Modified" khi tạo pin. Từ 10/2025, người dùng có thể chọn thấy ít pin AI hơn ở mục <strong>home decor</strong>. Chính sách mới hiệu lực 12/11/2026. <strong>Cách làm của blog:</strong> bật toggle "Mark as AI-Modified" khi đăng (đừng cố giấu — classifier vẫn phát hiện, giấu đi mất niềm tin); không ghi chữ "AI" lên pin (tốn 1–2 từ trong headline); không xóa metadata để trốn nhãn; không dùng ảnh AI gây hiểu lầm về sản phẩm. Nhãn chỉ hiện ở close-up, không hiện ở lưới feed — không làm giảm CTR trực tiếp.
+</div>
+
+<h2 id="doithu">4. Đối thủ — 25 đối thủ: website và Pinterest của họ</h2>
+<p class="src">Nghiên cứu 19/11/2026. <strong>Giới hạn quan trọng:</strong> Pinterest chặn truy cập trực tiếp ngày 19/11 (HTTP 403) — mọi số Pinterest dưới đây là bằng chứng thứ cấp từ snippet kết quả tìm kiếm, đã ghi rõ. "Không tìm thấy Pinterest" = đã tìm 2 lần có chủ đích mà không thấy profile công khai, không có nghĩa chắc chắn họ không có. Chi tiết đầy đủ: <code>competitors.md</code>.</p>
+<table>
+<tr><th>#</th><th>Đối thủ</th><th>Website</th><th>Pinterest</th><th>Follower</th><th>Ngách chính</th><th>Điểm mạnh nhất</th><th>Điểm yếu nhất</th></tr>
+<tr><td>1</td><td>Apartment Therapy</td><td>apartmenttherapy.com</td><td>pinterest.com/apttherapy/</td><td>5,6 triệu</td><td>Home decor tổng, mạnh small-space + house tour nhà thật</td><td>House tour thật theo diện tích (220–650 sq ft)</td><td>Rộng, không chuyên "người thuê sợ mất cọc"</td></tr>
+<tr><td>2</td><td>The Spruce</td><td>thespruce.com</td><td>pinterest.com/thespruceofficial/</td><td>912k</td><td>Home &amp; garden how-to, expert-reviewed</td><td>How-to từng bước, chuyên gia kiểm chứng</td><td>Không tập trung người thuê</td></tr>
+<tr><td>3</td><td>Real Simple</td><td>realsimple.com</td><td>pinterest.com/realsimple/</td><td>1,3 triệu</td><td>Lifestyle/home đại chúng</td><td>Bài small bedroom/entryway theo ý kiến designer thật</td><td>Small-space chỉ là 1 mảng nhỏ</td></tr>
+<tr><td>4 ★</td><td>The Tidy Renter</td><td>thetidyrenter.com</td><td>Không tìm thấy</td><td>—</td><td>Renter storage, đúng ngách 100%</td><td>Bài đúng tiêu đề bài 1, giá + số đo kiểm tra 11/2026, bảng "Renter Audit"</td><td><strong>Không có Pinterest</strong>; ảnh tự vẽ; chưa thấy bằng chứng monetize</td></tr>
+<tr><td>5 ★</td><td>The Small Apartment</td><td>thesmallapartment.com</td><td>Không tìm thấy</td><td>—</td><td>Small apartment organization, đúng ngách 100%</td><td>Ra mắt 10/2026, bài sâu theo phòng, có calculator, video AI</td><td><strong>Không có Pinterest</strong>; giá chỉ "ước chừng"; ảnh Unsplash</td></tr>
+<tr><td>6</td><td>Cynthiagardens</td><td>cynthiagardens.com</td><td>Chưa kiểm chứng</td><td>—</td><td>Blog marketing cho khu căn hộ Boca Raton</td><td>Bài sâu, trích nguồn lớn, cập nhật 11/2026</td><td>Không phải blog độc lập — mục đích cho thuê căn hộ</td></tr>
+<tr><td>7</td><td>ShineSheets</td><td>shinesheets.com</td><td>pinterest.com/shinesheets/</td><td>Không rõ</td><td>First apartment / decor giá rẻ</td><td>Checklist first apartment room-by-room; Amazon affiliate rõ</td><td>Pinterest chủ yếu self-care/beauty; board Home Decor chỉ 728 pin</td></tr>
+<tr><td>8</td><td>Small Space Tips</td><td>smallspacetips.com</td><td>Không tìm thấy</td><td>—</td><td>Small-space design, interior designer</td><td>Case study 350 sq ft thật; "No Pinterest fluff. No fake 'hacks.'"</td><td><strong>Không có Pinterest</strong>; ít bài</td></tr>
+<tr><td>9</td><td>The Small Nest</td><td>thesmallnest.com</td><td>Chưa kiểm chứng</td><td>—</td><td>Small apartment product roundups</td><td>Roundup có rating Amazon thật từng sản phẩm</td><td>Chỉ là roundup, không có guide sâu</td></tr>
+<tr><td>10</td><td>RentVibeDecor</td><td>rentvibedecor.com</td><td>Không tìm thấy</td><td>—</td><td>Renter storage giá rẻ</td><td>Ngưỡng rating rõ (≥4,5★ từ 400+ buyer)</td><td>Blog mới; kêu gọi lưu pin nhưng không có profile Pinterest</td></tr>
+<tr><td>11</td><td>TidyRevive</td><td>tidyrevive.com</td><td>Chưa kiểm chứng</td><td>—</td><td>Renter wall storage, góc UK</td><td>Bảng "damage spectrum"; mất cọc £140 thật</td><td>Thị trường UK, không phải US</td></tr>
+<tr><td>12</td><td>The Rented Home</td><td>therentedhome.com</td><td>Chưa kiểm chứng</td><td>—</td><td>Renter-friendly decor từng phòng</td><td>"Renter check" từng ý; công khai dùng ảnh AI</td><td>Ảnh AI illustration (không photorealistic); không kiểm chứng sâu</td></tr>
+<tr><td>13</td><td>Nook and Nest Living</td><td>nookandnestliving.com</td><td>Chưa kiểm chứng</td><td>—</td><td>Small-space design guides</td><td>293 guides; newsletter tuần; calculator riêng</td><td>Không chuyên renter; không rõ Pinterest</td></tr>
+<tr><td>14</td><td>Keys with Kadeisha</td><td>keyswithkadeisha.com</td><td>Chưa kiểm chứng</td><td>—</td><td>First apartment checklist (realtor Houston)</td><td>Checklist + 15 sản phẩm Amazon Storefront + printable</td><td>Nghề chính là realtor — blog là phễu lấy khách</td></tr>
+<tr><td>15</td><td>Simple Living Home</td><td>simplelivinghome.blogspot.com</td><td>Không tìm thấy</td><td>—</td><td>Small-space living, góc tâm lý</td><td>Trích nguồn tâm lý học thật (Harvard, Psychology Today)</td><td>Blogspot cá nhân; không có Pinterest</td></tr>
+<tr><td>16</td><td>HomeMart NZ</td><td>homemart.co.nz</td><td>Chưa kiểm chứng</td><td>—</td><td>Blog SEO cho cửa hàng nội thất NZ</td><td>Bài bedroom storage cho renter NZ, cập nhật 10/2025</td><td>Thị trường NZ, bán đồ của mình</td></tr>
+<tr><td>17</td><td>The Sleek Ledge</td><td>thesleekledge.co.uk</td><td>Không tìm thấy</td><td>—</td><td>Small bedroom storage, UK</td><td>Số đo metric chi tiết (cm, kg)</td><td>Thị trường UK; blog nhỏ; không có Pinterest</td></tr>
+<tr><td>18</td><td>NestSorted</td><td>nestsorted.com</td><td>Chưa kiểm chứng</td><td>—</td><td>Plant decor cho người thuê</td><td>Góc riêng: cây cho căn hộ thuê, cột "pet-safe"</td><td>Chỉ là cây cảnh — ngách phụ</td></tr>
+<tr><td>19</td><td>Decorevery</td><td>decorevery.com</td><td>Chưa kiểm chứng</td><td>—</td><td>Renter-friendly living room decor</td><td>Bài sâu về layout + đèn + tường không khoan</td><td>Ngách hẹp (phòng khách); site mới</td></tr>
+<tr><td>20–25</td><td>Nhóm blog nhỏ khác</td><td>nhiều blogspot/com</td><td>Không tìm thấy / chưa kiểm chứng</td><td>—</td><td>Small-space/renter listicles</td><td>Ra bài đều 11/2026, đúng từ khóa ngách</td><td>Mỏng, ít kiểm chứng, đa số không có Pinterest</td></tr>
+</table>
+<p class="src">Nhóm 20–25 (chi tiết trong competitors.md §2.15): The Tidy Reset Home · Small Spaces Made Easy · PrintaPainting · TidyLantern · RentRevive · Small Space Reset · Simple Living Mommy · NestSorted · Decorevery · Mockingbird Hill Cottage.</p>
+
+<h3>Hai đối thủ nguy hiểm nhất — hồ sơ ngắn</h3>
+<p><strong>The Tidy Renter ★ (đối thủ trực tiếp số 1 cho bài 1).</strong> Founder Christian. Bài "Small Bedroom Storage Ideas for Renters (No Drilling)" — <strong>đúng tiêu đề bài 1 của blog mới</strong>, ghi rõ "Prices and sizes checked November 2026", 10 ý, mỗi ý có bảng "Renter Audit" (Cost / Deposit risk / Space gained / Effort), ví dụ IKEA BRIMNES queen $334 US, Target Brightroom 6-hook rail $15 chịu 8 lb, Command Large hooks 5 lb mỗi cái (trích 3M). Khoảng 12+ guide xuất bản/cập nhật 10–11/2026. Ảnh tự thiết kế graphic, ghi rõ "No AI-generated images are used". <strong>Không có Pinterest.</strong> Chưa thấy bằng chứng monetize (tìm "affiliate" trong bài đã mở = 0 kết quả). Có free printable PDF. <em>Học:</em> chuẩn kiểm chứng "giá + số đo + ngày kiểm tra + nguồn" cho từng ý; bảng đánh giá rủi ro cọc từng ý. <em>Tránh:</em> đừng copy format "Renter Audit" y hệt; đừng đua Google với họ trên đúng từ khóa bài 1 — thắng bằng Pinterest + ảnh AI đẹp hơn + persona rõ hơn.</p>
+<p><strong>The Small Apartment ★ (đối thủ trực tiếp số 2, cùng thời điểm ra mắt).</strong> Ra mắt 05/10/2026. Bài sâu theo phòng, gắn nhãn renter-friendly/no-drill, giá "approximate ranges in USD", triết lý "declutter first, then organize", routine reset 30 phút/tuần. Có calculator riêng (pantry, storage unit) và video ngắn AI-generated minh họa từng bước; ảnh qua Unsplash. <strong>Không có Pinterest.</strong> <em>Học:</em> calculator theo phòng là tính năng nên cân nhắc sau khi có traffic. <em>Tránh:</em> đừng dùng ảnh Unsplash chung chung; đừng để nội dung mang dấu hiệu AI-heavy không qua biên tập người — cùng rủi ro Raptive.</p>
+
+<h3>Bản đồ cạnh tranh — ai mạnh ở đâu</h3>
+<table>
+<tr><th>Trục</th><th>Mạnh</th><th>Yếu / vắng mặt</th></tr>
+<tr><td><strong>Google</strong> (domain authority + kho bài)</td><td>Apartment Therapy, The Spruce, Real Simple (top 3 mọi từ khóa lớn); Cynthiagardens, Nook and Nest Living</td><td>Blog mới: domain mới, 0 authority — <strong>không thắng Google trong 6–12 tháng đầu</strong></td></tr>
+<tr><td><strong>Pinterest</strong> (follower + board + pin)</td><td>Apartment Therapy 5,6 triệu; Real Simple 1,3 triệu; The Spruce 912k</td><td><strong>Hầu hết blog ngách nhỏ đều vắng mặt hoặc rất yếu:</strong> The Tidy Renter, The Small Apartment, Small Space Tips, RentVibeDecor, Simple Living Home, The Sleek Ledge không tìm thấy profile; ShineSheets decor chỉ là mảng phụ (728 pin)</td></tr>
+<tr><td><strong>Kiểm chứng từng ý</strong></td><td>The Tidy Renter (mạnh nhất); Cynthiagardens</td><td>Site lớn (listicle chung chung); nhóm blog nhỏ (đa số không kiểm chứng)</td></tr>
+<tr><td><strong>Góc "sợ mất cọc"</strong></td><td>The Tidy Renter (bảng Renter Audit); TidyRevive (câu chuyện mất £140 + bảng damage spectrum)</td><td>Site lớn gần như không có góc này; The Small Apartment chỉ gắn nhãn no-drill, không đánh giá rủi ro cọc</td></tr>
+<tr><td><strong>Ảnh</strong></td><td>Apartment Therapy (ảnh nhà thật); The Spruce/Real Simple (ảnh editorial thật)</td><td>Blog nhỏ: ảnh Unsplash chung, ảnh tự vẽ, ảnh AI illustration — <strong>không ai có ảnh AI photorealistic theo brief riêng từng ý</strong> như blog mới</td></tr>
+</table>
+
+<div class="box green">
+<strong>9 khoảng trống còn lại cho blog mới (tóm tắt):</strong>
+<ol>
+<li><strong>Pinterest-first trong ngách renter/storage là khoảng trống lớn nhất.</strong> 3 site lớn mạnh Pinterest nhưng nội dung rộng, không chuyên renter. Toàn bộ blog ngách trực tiếp đều không có Pinterest — cửa sổ thời gian: The Tidy Renter và The Small Apartment đều mới ra mắt 10–11/2026, nếu họ mở Pinterest sau thì khoảng trống hẹp lại.</li>
+<li><strong>Chưa ai kết hợp đủ 3 thứ: kiểm chứng sâu + persona rõ + ảnh đẹp.</strong></li>
+<li><strong>Góc "worn but not dirty" / chairdrobe chưa ai sở hữu</strong> — JTBD mạnh nhất trong gói nghiên cứu. Câu chuyện mất cọc thật ($1.840 Michigan; £140) chưa ai khai thác thành series.</li>
+<li><strong>Bài 1 đã có đối thủ viết đúng tiêu đề</strong> (The Tidy Renter, 11/2026) — thắng bằng pin đẹp hơn + persona rõ hơn + verdict kiểm chứng, không đua Google.</li>
+<li><strong>First-apartment checklist là từ khóa đông đúc nhất</strong> — vào bằng Pinterest + freebie printable (bài 40), không lên top Google.</li>
+<li><strong>11/40 bài chưa đủ bằng chứng</strong> (bathroom, entryway, home office, couples...) — đối thủ cũng mỏng ở các mảng này; khoảng trống nội dung nhưng cần nghiên cứu trước khi viết.</li>
+<li><strong>Thị trường UK/NZ</strong> chứng minh từ khóa có nhu cầu ở nhiều nước nói tiếng Anh — về sau có thể mở phiên bản UK (metric, £) khi blog US đã đứng.</li>
+<li><strong>Blog nhỏ gần như chưa ai tới được Mediavine/Raptive</strong> — The Tidy Renter chưa thấy dấu hiệu monetize; nhóm còn lại chỉ dừng ở Amazon affiliate. Đường Journey → Raptive của blog mới là thực tế nếu traffic Pinterest lên.</li>
+<li><strong>Tính năng giữ chân</strong> (calculator, printable, newsletter) đã có người làm — blog mới không cần phát minh lại, chỉ cần làm tốt hơn và gắn persona (vd: calculator "đo khoảng trống gầm giường → gợi ý hộp vừa khít" cho Maya/Jordan/Alex).</li>
+</ol>
+</div>
+<p><strong>Rà lại sau 1–2 tháng:</strong> đặc biệt xem The Tidy Renter và The Small Apartment có mở Pinterest không — khoảng trống sẽ hẹp lại nếu họ mở.</p>
+
+<h2 id="thucthi">5. Plan thực thi 12 tháng — chi tiết từng tháng</h2>
+<p><strong>Tiền giữ nguyên mô hình v1</strong> (ads Journey → Raptive + Amazon Associates 3–4,5% + Awin + Etsy ~4% + printable $5–39 + email freebie; ShareASale đã đóng 06/10/2025, sáp nhập Awin). <strong>Baseline RPM là survey độc lập Productive Blogging 2025</strong> (Journey $11,15 / Mediavine $31,55 / Raptive $34,86), không phải số Shared Authority tự công bố. Blog dưới 1 năm trong survey đó trung bình chỉ ~$4,44/tháng và 393 pageviews/tháng — đó mới là mặt bằng thực tế của người mới. Mọi doanh thu dưới đây là ước tính bằng số học (traffic mục tiêu × RPM / hoa hồng đã kiểm chứng), không phải cam kết.</p>
+<p><strong>Ngưỡng quảng cáo:</strong> Journey by Mediavine — 1.000 sessions Tier-1 (Mỹ, Canada, Anh, Úc)/30 ngày + plugin Grow chạy ≥30 ngày (điều kiện Grow đang mâu thuẫn giữa các nguồn — kiểm tra lại lúc nộp; chia 70%, Net-65). Raptive — 25.000 pageviews/tháng, dưới 100k cần ≥50% traffic Tier-1, domain ≥6 tháng (chia 75%, Net-45). Mediavine chính không còn mốc 50.000 sessions — xét theo ~$5.000 doanh thu quảng cáo/năm (đích năm 2).</p>
+
+<div class="box red">
+<strong>Quy trình biên tập con người — bắt buộc cho Raptive (cờ đỏ từ gói nghiên cứu):</strong>
+Raptive yêu cầu "meaningful human involvement" và không monetize site dùng AI tạo nội dung. Vì vậy: (1) mọi bài đều viết lại bằng giọng người, không đăng bài AI thô; (2) mọi ý đều kiểm chứng giá/số đo/giới hạn chịu tải + ghi ngày kiểm tra (chuẩn The Tidy Renter); (3) thêm quotes/trải nghiệm thật của người thuê vào bài; (4) ảnh AI bật "Mark as AI-Modified" khi đăng pin + ghi chú "AI-generated concept image" trên blog; (5) không dùng ảnh AI gây hiểu lầm về sản phẩm, không before/after giả. Quy trình này áp dụng cho cả 150 bài, không chỉ bài 1.
+</div>
+
+<h3>Lịch từng tháng</h3>
+<table>
+<tr><th>Tháng</th><th>Việc chính</th><th>Bài / pin tích lũy</th><th>Mốc kiểm tra</th></tr>
+<tr><td><strong>11/2026</strong></td><td><strong>Setup + nền.</strong> Chốt domain (tinynookliving.com đang trống — kiểm tra lại ở nhà đăng ký trước khi mua, ~$10–11/năm) + hosting WordPress. Setup kỹ thuật 8–10h một lần: theme nhanh, GA4, Search Console, Pinterest Business + claim website + Rich Pins, plugin Grow, form email, trang About / Disclosure / Privacy. <strong>Viết lại bài 1 theo bảng verdict</strong> (ý 8 lên đầu, bỏ ý 14, sửa ý 10/12/19, thêm 4 ý còn thiếu, đồng bộ số 19) + thay ảnh hero AI vào bản nháp. Viết bài 2–10. Mở 10 board, làm chắc board 1–4. Làm 3 pin tươi/bài (T1+T2+T3 cho bài 1).</td><td>~10 bài · ~30 pin</td><td>Domain + site live; bài 1 đã viết lại</td></tr>
+<tr><td><strong>12/2026</strong></td><td>Viết bài 11–25. Viết nội dung New Year organization + Valentine sớm. <strong>Kiểm tra Pinterest Predicts 2027 khi công bố</strong> và cập nhật cluster Trend — không khóa list trend 2026 dùng cho cả 2027. Chuẩn bị freebie checklist cho bài 40. Christmas 2026 đã trễ cho tài khoản mới — tối đa vài bài bắt đuôi, pin vẫn có giá trị cho Christmas 2027.</td><td>~25 bài · ~75 pin</td><td>Predicts 2027 đã đọc; freebie sẵn sàng</td></tr>
+<tr><td><strong>01/2027</strong></td><td>Viết bài 26–40 — <strong>xong nền 40 bài</strong>. 6 bài lệch (13, 14, 15, 25, 34, 39) viết theo đúng verdict sửa, không viết theo tiêu đề cũ. MailerLite gói Free. Bắt đầu video pin cho bài trụ cột (1, 9, 35, 40): slideshow 5–7 ảnh AI, 6–15 giây. New Year organization đạt đỉnh; RPM tháng 1 rớt mạnh sau lễ là bình thường.</td><td><strong>40 bài</strong> · ~120 pin</td><td>40 bài xong; email đã có form</td></tr>
+<tr><td><strong>02/2027</strong></td><td><strong>GĐ2 bắt đầu: cluster S — Declutter &amp; Systems (41–50).</strong> Viết hub S trước ("How to Declutter a Small Bedroom Before Buying Any Organizers"), rồi 9 spoke. Valentine/Galentine (nhỏ); chuẩn bị Spring cleaning. Declutter đăng sớm để làm nền link cho mọi bài storage sau đó.</td><td>~52 bài</td><td>Hub S live; mọi bài storage mới link tới hub S</td></tr>
+<tr><td><strong>03/2027</strong></td><td><strong>I — First Apartment / Moving 1 (51–58) + G — Closet (87–90, viết sớm 4 bài).</strong> Spring cleaning / wardrobe reset. Viết sẵn nội dung Moving season (cao điểm 5–9). Canva Pro từ tháng 3 (Bulk Create, trial trước) khi ≥20–30 pin/tháng. <strong>Mốc tháng 3:</strong> 40+ bài theo lịch, pin đăng đều; 0–5 outbound click/tuần và sessions &lt;200/tháng vẫn bình thường. Sau 90 ngày vẫn 0 outbound click → kiểm tra 3 thứ: từ khóa quá rộng, pin không có text overlay, bài quá mỏng (rời dưới 35 giây). Chưa dừng ở tháng 3 — quá sớm để kết luận.</td><td>~64 bài</td><td>Mốc tháng 3 (xem bảng dưới)</td></tr>
+<tr><td><strong>04/2027</strong></td><td><strong>I — Moving / Deposit (59–64).</strong> Mother's Day đăng xong trong tháng 3–4; nội dung moving sẵn sàng trước cao điểm. <strong>Nộp Journey khi đủ 1.000 sessions Tier-1 + Grow 30 ngày + domain ~4 tháng.</strong></td><td>~76 bài</td><td>Nộp Journey (nếu đủ điều kiện)</td></tr>
+<tr><td><strong>05/2027</strong></td><td><strong>J — Budget / Gift / Printable (65–76) + F — Bathroom (77–86, sau cổng nghiên cứu).</strong> Moving peak 5–9 — nhu cầu checklist + đồ setup cao nhất. <strong>Cổng nghiên cứu F:</strong> tối thiểu 10 nguồn lời người thuê về bathroom + kiểm chứng từ khóa #29/#30 — chưa đủ thì hoãn F, viết J còn lại trước.</td><td>~90 bài</td><td>F chỉ viết sau cổng nghiên cứu</td></tr>
+<tr><td><strong>06–07/2027</strong></td><td><strong>H — Entryway (91–100) + A/B Depth-2 (101–110).</strong> Back-to-school / dorm đăng tháng 6–7. Tailwind Pro từ tháng 6 (khi native scheduler chật: &gt;10 pin/tuần hoặc cần lịch &gt;30 ngày). Tháng 7 RPM thấp — dùng để viết bài Q4, không hoảng. <strong>Mốc tháng 6:</strong> sessions ≥1.000/tháng, outbound clicks ≥300/tháng, top bài ở lại ≥35 giây. Sessions 300–1.000, clicks &lt;100/tháng: đổi cluster/format pin, không đổi ngách. Sessions &lt;300/tháng sau 2 vòng sửa: cân nhắc pivot trong Home Decor (thu hẹp chỉ bedroom).</td><td>~112 bài cuối Q3</td><td>Mốc tháng 6; Tailwind từ tháng 6</td></tr>
+<tr><td><strong>08/2027</strong></td><td><strong>A/B Depth-2 tiếp (111–114) + C/M Kitchen Depth-2 (115–120).</strong> Đăng Halloween / Thanksgiving trước 8–12 tuần.</td><td>~124 bài</td><td>Halloween/Thanksgiving đã đăng sớm</td></tr>
+<tr><td><strong>09/2027</strong></td><td><strong>C/M Kitchen tiếp (121–124) + D Depth-2 (125–130).</strong> <strong>Bắt đầu đăng Christmas 2027 (trước 60–90 ngày)</strong> — "Christmas Apartment Decor +500% MoM" đứng #1 Pinterest Trends 11/2026. <strong>Mốc tháng 9:</strong> sessions ≥3.000–5.000/tháng, có 1 cluster có 3 bài đem click đều, đã có printable. Journey RPM &lt;$5 sau ramp-up 2–4 tuần: kiểm tra tỉ lệ traffic Mỹ, ad density, độ dài bài — đừng đổi ad network vội. Sessions &lt;1.000/tháng ở tháng 9 dù làm đủ khối lượng: đổi ngách, giữ domain làm vệ tinh hoặc bán.</td><td>~136 bài</td><td>Mốc tháng 9; Christmas 2027 bắt đầu</td></tr>
+<tr><td><strong>10/2027</strong></td><td><strong>D Depth-2 tiếp (131–134) + K Trend test (135–138) + N Seasonal/Gift (139–150) — xong 150 bài.</strong> Christmas + Gift guides đạt đỉnh đăng tháng 10–11 — tháng RPM đắt nhất năm. Viết New Year 2028 để đăng 11–12/2027. <strong>Nộp Raptive chỉ khi chạm 25.000 pageviews</strong> — chỉ kịch bản lạc quan mới chạm trong năm 1. <strong>Mốc tháng 12 (đánh giá cuối năm):</strong> sessions ≥8.000–15.000/tháng, thu ≥$100/tháng trong 2 tháng liên tiếp → sang năm 2, mục tiêu Raptive + bundle $39–50. Sessions 3.000–8.000, thu $30–80/tháng: giữ ngách, đẩy digital mạnh hơn ads, site về nhịp duy trì 1 bài/tuần nếu cần. Sessions &lt;3.000/tháng + tổng thu 12 tháng &lt;$200 + không cluster nào thắng: dừng ngách này.</td><td><strong>150 bài</strong> · 450–480 pin tươi</td><td>150 bài xong; đánh giá năm 1</td></tr>
+</table>
+
+<h3>SOP tuần mẫu + phân bổ giờ</h3>
+<table>
+<tr><th>Giai đoạn</th><th>Giờ/tuần</th><th>Việc chính</th></tr>
+<tr><td>Tháng 1–3: Setup + xây nền</td><td>12–16h</td><td>Viết bài 6–8h, làm pin 2–3h, review 1h/tuần. Mục tiêu cuối Q1: 40 bài.</td></tr>
+<tr><td>Tháng 4–6: Tăng tốc</td><td>14–20h</td><td>Bài mới theo mùa, pin cho bài mới + pin mới cho bài cũ có tín hiệu, tối ưu nhẹ bài cũ 2h, email 1–2h, review tháng + nộp Journey.</td></tr>
+<tr><td>Tháng 7–12: Duy trì + tối ưu</td><td>10–15h</td><td>Tháng 7–9: 40% bài mới, 40% sửa bài cũ + video pin, 20% chuẩn bị Q4. Tháng 10–12: 30% bài mới, 50% tối ưu Q4, 20% digital bundle.</td></tr>
+</table>
+<p><strong>SOP 1 tuần mẫu:</strong> Thứ 2 — chốt chủ đề + outline từ khóa. Thứ 3–4 — viết bài (batch). Thứ 5 — làm pin batch bằng template Canva. Thứ 6 — lên lịch pin + internal link + gắn affiliate / disclosure. Cuối tuần — 30 phút xem số: impressions, outbound clicks, bài nào ở lại dưới 15 giây thì ghi vào danh sách sửa.</p>
+<p><strong>Nhịp đăng:</strong> 3 bài/tuần sau giai đoạn setup (tháng 1–3 khởi động 2 bài/tuần rồi tăng lên; tổng tích lũy theo quý ở bảng tháng mới là con số theo dõi). Pin: 3 pin tươi/bài + pin refresh mùa vụ; đăng đều 3–5 pin tươi/tuần, không bùng nổ số lượng, không lặp y hệt 1 pin. Tài khoản mới càng phải sạch.</p>
+
+<h3>Tiền theo quý (giữ nguyên v1 — ước tính, không cam kết)</h3>
+<table>
+<tr><th>Quý</th><th>Traffic mục tiêu</th><th>Thận trọng (tổng/tháng)</th><th>Lạc quan (tổng/tháng)</th></tr>
+<tr><td>Q1 11/2026–01/2027</td><td>40 bài, 120–150 pin · Sessions 300–800/tháng; chưa đủ Journey</td><td>$0–30 (ads ~$0; affiliate $0–20; printable $0–15)</td><td>$0–50</td></tr>
+<tr><td>Q2 02–04/2027</td><td>65–76 bài · Sessions 1.500–3.000; nộp Journey khi đủ 1.000 sessions Tier-1 + Grow 30 ngày + domain ~4 tháng</td><td>$70–200 (ads $22–60 ở RPM $11–15)</td><td>$150–350</td></tr>
+<tr><td>Q3 05–07/2027</td><td>90–112 bài · Sessions 5.000–8.000; tháng 7 RPM thấp theo mùa</td><td>$200–500 (ads $66–150)</td><td>$400–900</td></tr>
+<tr><td>Q4 08–10/2027</td><td>110–148 bài, 600+ pin ở nhịp căng · Sessions 10.000–15.000; nộp Raptive chỉ khi chạm 25.000 pageviews</td><td>$380–900 (ads $132–270 Journey; $300–630 nếu lên Raptive RPM $25–35)</td><td>$700–1.500</td></tr>
+</table>
+<p><strong>Mốc tiền rơi vào tháng nào:</strong> $100/tháng — tháng 7–9/2027 (thận trọng) / tháng 5–6/2027 (lạc quan). $300/tháng — tháng 11–12/2027, ngoài 12 tháng này (thận trọng) / tháng 8–9/2027 (lạc quan). $500/tháng — ngoài 12 tháng (thận trọng). <strong>Kill criteria tài chính:</strong> tổng thu &lt; chi phí hosting/domain/tool (~$150–250/năm) và sessions &lt;3.000/tháng thì không đổ thêm tiền và thời gian. Tiền ads trả chậm (Journey Net-65, Raptive Net-45) — tiền tháng 10 có thể tới tay tháng 12 hoặc tháng 1 năm sau.</p>
+
+<h3>Công cụ + chi phí năm 1</h3>
+<table>
+<tr><th>Công cụ</th><th>Khi nào mua</th><th>Chi phí</th></tr>
+<tr><td>Canva Pro (Bulk Create)</td><td>Tháng 3 trở đi, khi ≥20–30 pin/tháng (dùng trial trước)</td><td>~$144/năm (~$12/tháng) hoặc $18/tháng trả tháng — giá ở checkout mới là giá thật</td></tr>
+<tr><td>Tailwind Pro</td><td>Tháng 6, khi native scheduler chật</td><td>$17,99/tháng nếu trả năm ($215,88/năm) hoặc $29,99/tháng trả tháng; 150 post/tháng; 1 SmartPin tốn 5 credits — kiểm tra màn hình checkout</td></tr>
+<tr><td>MailerLite</td><td>Tháng 1, gói Free</td><td>$0 giai đoạn đầu; nâng cấp khi vượt ngưỡng free / cần automation đầy đủ</td></tr>
+<tr><td><strong>Tổng tool năm 1</strong></td><td></td><td><strong>~$270–355</strong> + domain + hosting. Tháng 1–2 chi phí tool = $0.</td></tr>
+</table>
+<p><strong>Tự động hóa — chỉ tool Pinterest phê duyệt, có checkpoint:</strong> tháng 1–3 tay hoàn toàn (Native Scheduler) — viết, chọn ảnh, đăng pin tay để học SEO Pinterest. Tháng 2–6 bán tự động: Canva Bulk Create (đổ tiêu đề + ảnh vào template → 20–30 biến thể), CSV Bulk Upload (đăng 30 ngày trong 1 lần) — duyệt từng lô pin trước khi upload; kiểm tra link, disclosure, board. Tháng 6–12: bán tự động có checkpoint.</p>
+<p><strong>Checkpoint rà lại:</strong> đối thủ (đặc biệt The Tidy Renter + The Small Apartment có mở Pinterest không) — rà lại tháng 01/2027 và 03/2027. Pinterest Predicts 2027 — kiểm tra tháng 12/2026. Từ khóa từng bài — kiểm chứng lại (Google Trends / Pinterest Search / Keyword Planner) vào thời điểm viết, vì dữ liệu 19/11/2026 có thể thay đổi.</p>
+
+<h2 id="gioihan">6. Giới hạn &amp; chưa kiểm chứng được</h2>
+<ul>
+<li><strong>Reddit trực tiếp:</strong> reddit.com bị chặn trong môi trường làm việc (browser.open "Domain reddit.com is blocked by policy"). Lời Reddit trong gói nghiên cứu đến qua bản mirror nguyên văn thread r/AskReddit và nguồn trích lại — đã ghi rõ từng chỗ. Muốn đọc Reddit trực tiếp cần trình duyệt thật.</li>
+<li><strong>Google Trends trực tiếp:</strong> pytrends timeout; trends.google.com HTTP 429 ngày 19/11/2026. Nhận xét từ khóa chỉ dựa trên bằng chứng thứ cấp.</li>
+<li><strong>Pinterest Search + profile đối thủ trực tiếp:</strong> pinterest.com/search và pinterest.com/shinesheets/ trả HTTP 403 ngày 19/11/2026. Mọi số Pinterest (follower, board, pin) là bằng chứng thứ cấp từ snippet tìm kiếm — cần kiểm tra lại bằng trình duyệt thật / tài khoản Pinterest thật.</li>
+<li><strong>Volume tuyệt đối US</strong> cho 40 từ khóa: cần Ahrefs/Semrush (trả phí) hoặc Google Keyword Planner (miễn phí, cần tài khoản Google Ads).</li>
+<li><strong>Amazon:</strong> 2 trang Amazon.com mở được là bản crawl cũ (07/2024) — số sao/review trên đó không phải số ngày 19/11/2026; số mới nhất từ roundup/mirror tháng 10–11/2026, một số từ amazon.ca (cùng ASIN, thị trường Canada).</li>
+<li><strong>Số liệu cọc 42% lấy lại đủ</strong> (Zillow 2024) và <strong>26% mất một phần, mức trừ trung bình $375</strong> (RentCafe 2023): chỉ đọc qua nguồn thứ cấp độc lập trích giống nhau, chưa mở được toàn văn gốc.</li>
+<li><strong>11 bài "chưa đủ bằng chứng"</strong> cần nghiên cứu riêng theo cụm (bathroom, entryway, home office, couples, living-room chi tiết) trước khi viết.</li>
+<li><strong>Một nguồn đã loại:</strong> joyulabs.com (tự nhận trích user Reddit với số tiền tròn trĩnh theo mẫu đáng ngờ) — không dùng làm bằng chứng. <strong>Ba khẳng định đã loại:</strong> "78% muốn cá nhân hóa nhưng bị lease cản", "60–70% lo mất cọc vì hỏng tường", "40% tranh chấp cọc do hỏng tường" — blog decor không dẫn được nguồn gốc.</li>
+<li><strong>Số liệu đối thủ thay đổi nhanh</strong> (blog nhỏ ra mắt 10–11/2026 đang cập nhật liên tục) — rà lại danh sách sau 1–2 tháng.</li>
+</ul>
+
+<h2 id="nguon">7. Nguồn</h2>
+<p class="src">File nghiên cứu gốc (đầy đủ link từng khẳng định): <a href="customer-research/pinterest-customer-research-pack.html">pinterest-customer-research-pack.html</a> · <a href="customer-research/reddit-renter-insights.md">reddit-renter-insights.md</a> · <a href="customer-research/amazon-storage-reviews.md">amazon-storage-reviews.md</a> · <a href="customer-research/pinterest-search-trends.md">pinterest-search-trends.md</a> · <a href="customer-research/us-renter-data.md">us-renter-data.md</a> · <a href="customer-research/competitors.md">competitors.md</a> · <a href="customer-research/pin-styles.md">pin-styles.md</a> · <a href="customer-research/content-expansion.md">content-expansion.md</a> · Bản v1: <a href="pinterest-12-month-strategy.html">pinterest-12-month-strategy.html</a> (11/11/2026).</p>
+<p class="src">Nguồn chính thức quan trọng nhất: Harvard JCHS <em>State of the Nation's Housing 2025</em> · Pew Research Center (19/03/2025) · RentCafe/Yardi Matrix (10/08/2026) · Rently/Pollfish 2025 (n=500) · Pinterest Newsroom — Predicts 2026 · Raptive Help Center (eligibility) · Pinterest Help Center (Gen AI labels) · LegalClarity + HUD (hao mòn bình thường) · Productive Blogging 2025 (survey RPM 187 blogger) · GenSumo Pinterest Benchmarks 2026 (148.000+ pin) · BoredListed (video pin test 30 ngày; AI pins).<br>
+Bản này làm ngày 19/11/2026. Số liệu có ngày công bố riêng trong từng file gốc — kiểm tra lại trước khi trích trong bài đăng.</p>
+
+</main>
+</body>
+</html>
