@@ -51,7 +51,7 @@ So với cờ ★ ghi sẵn trong bộ dày (310 dòng ★):
 - **0 mục thêm ★** (không có mốc nào Phụ lục 1 chọn mà bộ dày không đánh ★).
 - **1076:** ★ gắn ở A88 (chiến dịch Khâm–Liêm–Ung), không gắn ở A18 (Quốc Tử Giám) — xem mục 3.
 
-⚠️ **Mâu thuẫn cần chốt (không tự sửa): năm game của mốc kháng Nguyên lần 2 (1284–1285).** Phụ lục 1 ghi năm **1284**, nhưng ghi chú trong bộ dày ("Game dùng năm 1285") và file 83 (mục B2 ghi năm 1285) đều dùng **1285**. Mốc này vẫn được ★ theo cả hai cách (chỉ khác nhãn năm dùng cho game). Các mốc khoảng khác không mâu thuẫn: Phụ lục 1 dùng năm đầu khoảng cho 1352–1353, 1367–1368, 1384–1385, 1505–1509, 1510–1516, nhưng dùng năm cuối khoảng cho 1257–1258 (→1258) và 1287–1288 (→1288), 1591–1592 (→1592), 1693–1697 (→1697) — cách lấy năm không thống nhất trong chính Phụ lục 1, nhưng việc gán ★ cho mốc nào thì không đổi. Nếu đưa bộ chi tiết lên trang game, cần chốt nhãn năm cho mốc 1284–1285 là 1284 hay 1285.
+✅ **Đã chốt 21/11 (John): năm game của mốc kháng Nguyên lần 2 là 1285.** Phụ lục 1 đã sửa từ 1284 sang 1285; mục chi tiết B2 đã thêm chú thích giao tranh bắt đầu từ cuối năm 1284 âm lịch (tháng Chạp Giáp Thân), tức cuối tháng 1/1285 dương lịch. Mốc vẫn được ★, chỉ đổi nhãn năm. Các mốc khoảng khác không mâu thuẫn: Phụ lục 1 dùng năm đầu khoảng cho 1352–1353, 1367–1368, 1384–1385, 1505–1509, 1510–1516, nhưng dùng năm cuối khoảng cho 1257–1258 (→1258) và 1287–1288 (→1288), 1591–1592 (→1592), 1693–1697 (→1697) — cách lấy năm không thống nhất trong chính Phụ lục 1, nhưng việc gán ★ cho mốc nào thì không đổi. Nhãn năm đã chốt là 1285 (21/11).
 
 ## 5. Danh sách đầy đủ các mục "Cần tra thêm" (106 mục)
 

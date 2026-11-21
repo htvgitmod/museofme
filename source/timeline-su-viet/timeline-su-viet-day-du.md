@@ -2262,7 +2262,7 @@ dùng danh sách này.
 - **1271** — Hốt Tất Liệt đổi quốc hiệu thành Nguyên (B)
 - **1272** — Lê Văn Hưu làm xong Đại Việt sử (30 quyển) (B)
 - **1278** — Trần Nhân Tông lên ngôi (B)
-- **1284** — Kháng chiến chống Nguyên lần 2 (B)
+- **1285** — Kháng chiến chống Nguyên lần 2 (B)
 - **1288** — Kháng chiến chống Nguyên lần 3; Bạch Đằng 1288 (B)
 - **1290** — Nhân Tông đánh Ai Lao (B)
 - **1293** — Trần Anh Tông lên ngôi (B)

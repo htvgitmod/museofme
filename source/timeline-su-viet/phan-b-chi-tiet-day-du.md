@@ -237,7 +237,7 @@
 **Tin cậy:** Cao.
 
 ## B2. 1285 — Kháng chiến chống quân Nguyên-Mông lần thứ hai ★
-**Năm:** 1285 (tháng 1 đến tháng 5/1285; khoảng 4 tháng, từ cuối tháng Chạp năm Giáp Thân đến cuối tháng 4 năm Ất Dậu).
+**Năm:** 1285 (tháng 1 đến tháng 5/1285; khoảng 4 tháng, từ cuối tháng Chạp năm Giáp Thân đến cuối tháng 4 năm Ất Dậu). Giao tranh bắt đầu từ cuối năm 1284 âm lịch (tháng Chạp năm Giáp Thân), tức cuối tháng 1/1285 dương lịch.
 **Bối cảnh:** Sau thất bại 1258, Hốt Tất Liệt lập nhà Nguyên, diệt nhà Tống (1279) và quyết đánh Đại Việt lẫn Chiêm Thành. Năm 1282, vua Trần Nhân Tông triệu tập hội nghị Bình Than (Hải Dương) bàn kế đánh giặc; Trần Quốc Tuấn được cử làm Quốc công Tiết chế, viết "Hịch tướng sĩ" khích lệ ba quân. Đầu năm 1285, hội nghị Diên Hồng triệu tập các bô lão cả nước, thống nhất quyết tâm kháng chiến; binh sĩ thích hai chữ "Sát Thát" lên tay.
 **Diễn biến chính:**
 - Năm 1283, Hốt Tất Liệt quyết định tấn công Đại Việt; cuối tháng 1/1285, quân Nguyên do Thoát Hoan chỉ huy tiến vào, đồng thời Toa Đô dẫn 10 vạn quân từ Chiêm Thành đánh lên Thanh Hóa, tạo thế gọng kìm.
