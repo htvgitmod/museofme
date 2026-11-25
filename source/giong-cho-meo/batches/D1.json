@@ -1,0 +1,1933 @@
+[
+ {
+  "id": "cho-affenpinscher",
+  "loai": "cho",
+  "ten_en": "Affenpinscher",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Giống chó đồ chơi nhỏ của Đức, mặt giống khỉ, xưa dùng bắt chuột trong chuồng ngựa, nay nuôi làm chó cưng trong nhà.",
+  "kich_co": "Nho",
+  "can_nang": "4-6 kg",
+  "chieu_cao": "25-30 cm",
+  "tuoi_tho": "9.3 năm",
+  "tinh_cach": [
+   "Tự tin",
+   "Vui vẻ",
+   "Bướng bỉnh"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-affenpinscher.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Affenpinscher.jpg",
+   "license": "GPL",
+   "tac_gia": "Không rõ"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Affenpinscher",
+   "http://www.fci.be/Nomenclature/Standards/186g02-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ dạng số thập phân đơn (vd 11.1 năm) là tuổi thọ trung bình theo nghiên cứu VetCompass (Anh) trích trong bài Wikipedia. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-afghan-hound",
+  "loai": "cho",
+  "ten_en": "Afghan Hound",
+  "ten_vi": "Chó săn Afghanistan",
+  "fci_group": 10,
+  "mo_ta_ngan": "Giống chó săn thị giác lông dài mượt từ Afghanistan, dáng thanh thoát, kiêu hãnh và độc lập.",
+  "kich_co": "Vua",
+  "can_nang": "20-27 kg",
+  "chieu_cao": "61-73 cm",
+  "tuoi_tho": "11.1 năm",
+  "tinh_cach": [
+   "Độc lập",
+   "Kiêu hãnh",
+   "Dịu dàng"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-afghan-hound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Afghan_dog_-_cropped.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Weaveravel"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Afghan_Hound",
+   "http://www.fci.be/Nomenclature/Standards/228g10-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ dạng số thập phân đơn (vd 11.1 năm) là tuổi thọ trung bình theo nghiên cứu VetCompass (Anh) trích trong bài Wikipedia. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-aidi",
+  "loai": "cho",
+  "ten_en": "Aidi",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó núi Atlas của Maroc, giống chó canh gác to khỏe, trung thành và bảo vệ đàn gia súc lẫn gia đình.",
+  "kich_co": "Lon",
+  "can_nang": "25 kg",
+  "chieu_cao": "52-62 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Trung thành",
+   "Cảnh giác",
+   "Bảo vệ"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-aidi.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Aidi_Atlas.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "HichamB"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Aidi",
+   "http://www.fci.be/Nomenclature/Standards/247g02-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa kiểm chứng (không có trong bài Wikipedia; giống hiếm, AKC không công nhận nên không tra được). Số liệu ghi đè: Wikipedia (bài viết: weighing around 25 kg). Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-airedale-terrier",
+  "loai": "cho",
+  "ten_en": "Airedale Terrier",
+  "ten_vi": "Chó sục Airedale",
+  "fci_group": 3,
+  "mo_ta_ngan": "Giống sục lớn nhất, từ Anh, thông minh và gan dạ, từng dùng làm chó làm việc, chó săn và chó nghiệp vụ.",
+  "kich_co": "Vua",
+  "can_nang": "18.1-22.7 kg",
+  "chieu_cao": "58-61 cm",
+  "tuoi_tho": "12 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Tự tin",
+   "Năng động"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-airedale-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Airedale.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Michail Jungierek"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Airedale_Terrier",
+   "http://www.fci.be/Nomenclature/Standards/007g03-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn. Ảnh thay thế ảnh chính Wikipedia (quá nhỏ) bằng ảnh Commons cùng giống đã xác minh mô tả."
+ },
+ {
+  "id": "cho-akita",
+  "loai": "cho",
+  "ten_en": "Akita",
+  "ten_vi": "Chó Akita",
+  "fci_group": 5,
+  "mo_ta_ngan": "Giống chó Nhật to lớn, trung thành tuyệt đối với chủ, cảnh giác với người lạ và có bản tính lãnh thổ mạnh.",
+  "kich_co": "Lon",
+  "can_nang": "24.9-59 kg",
+  "chieu_cao": "58-71 cm",
+  "tuoi_tho": "11.4 năm",
+  "tinh_cach": [
+   "Trung thành",
+   "Cảnh giác",
+   "Độc lập"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-akita.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Akita_hiking_in_Shpella_e_P%C3%ABllumbasit.JPG",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Mr. Bunker"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Akita_%28dog_breed%29",
+   "https://www.fci.be/Nomenclature/Standards/255g05-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ dạng số thập phân đơn (vd 11.1 năm) là tuổi thọ trung bình theo nghiên cứu VetCompass (Anh) trích trong bài Wikipedia. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-alaskan-malamute",
+  "loai": "cho",
+  "ten_en": "Alaskan Malamute",
+  "ten_vi": "Chó Alaska",
+  "fci_group": 5,
+  "mo_ta_ngan": "Chó kéo xe trượt tuyết cổ xưa của Alaska, khỏe mạnh, thân thiện và chịu lạnh rất tốt.",
+  "kich_co": "Lon",
+  "can_nang": "34-38 kg",
+  "chieu_cao": "58-64 cm",
+  "tuoi_tho": "11.3 năm",
+  "tinh_cach": [
+   "Thân thiện",
+   "Trung thành",
+   "Năng động"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-alaskan-malamute.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Alaskan_Malamute.jpg",
+   "license": "CC BY 3.0",
+   "tac_gia": "SCMW"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Alaskan_Malamute",
+   "http://www.fci.be/Nomenclature/Standards/243g05-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ dạng số thập phân đơn (vd 11.1 năm) là tuổi thọ trung bình theo nghiên cứu VetCompass (Anh) trích trong bài Wikipedia. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-alpine-dachsbracke",
+  "loai": "cho",
+  "ten_en": "Alpine Dachsbracke",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi núi Alps của Áo, chân ngắn, bền bỉ, chuyên lần dấu thú bị thương trên địa hình hiểm trở.",
+  "kich_co": "Vua",
+  "can_nang": "15-18 kg",
+  "chieu_cao": "34-42 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Kiên trì",
+   "Bình tĩnh",
+   "Trung thành"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-alpine-dachsbracke.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Alpejski_go%C5%84czy_kr%C3%B3tkono%C5%BCny_g99.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Pleple2000"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Alpine_Dachsbracke",
+   "http://www.fci.be/Nomenclature/Standards/254g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa kiểm chứng (không có trong bài Wikipedia; giống hiếm, AKC không công nhận nên không tra được). Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-american-cocker-spaniel",
+  "loai": "cho",
+  "ten_en": "American Cocker Spaniel",
+  "ten_vi": "Chó Cocker Mỹ",
+  "fci_group": 8,
+  "mo_ta_ngan": "Giống spaniel nhỏ của Mỹ, vui vẻ và dịu dàng, nổi tiếng với bộ lông dài mượt và tính cách luôn vui.",
+  "kich_co": "Vua",
+  "can_nang": "11-14 kg",
+  "chieu_cao": "37-39 cm",
+  "tuoi_tho": "13.3 năm",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Thân thiện",
+   "Dịu dàng"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-american-cocker-spaniel.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:PointbreakHoneyimHome.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Kulala"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/American_Cocker_Spaniel",
+   "http://www.fci.be/Nomenclature/Standards/167g08-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu ghi đè: Wikipedia (weigh 24-30 lb / 11-14 kg; cao 37-39 cm). Tuổi thọ dạng số thập phân đơn (vd 11.1 năm) là tuổi thọ trung bình theo nghiên cứu VetCompass (Anh) trích trong bài Wikipedia. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-american-foxhound",
+  "loai": "cho",
+  "ten_en": "American Foxhound",
+  "ten_vi": "Chó săn cáo Mỹ",
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn cáo của Mỹ, hiền lành và độc lập, cần vận động nhiều, thích hợp với nhà có sân vườn rộng.",
+  "kich_co": "Lon",
+  "can_nang": "24.9-32.2 kg",
+  "chieu_cao": "53-64 cm",
+  "tuoi_tho": "11-13 năm",
+  "tinh_cach": [
+   "Hiền lành",
+   "Độc lập",
+   "Thân thiện"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-american-foxhound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:AmericanFoxhound2.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Không rõ"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/American_Foxhound",
+   "http://www.fci.be/Nomenclature/Standards/303g06-en.pdf",
+   "https://www.akc.org/dog-breeds/american-foxhound/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-american-staffordshire-terrier",
+  "loai": "cho",
+  "ten_en": "American Staffordshire Terrier",
+  "ten_vi": "Chó Amstaff",
+  "fci_group": 3,
+  "mo_ta_ngan": "Giống chó cơ bắp, thông minh và tự tin, trung thành với gia đình, cần chủ có kinh nghiệm huấn luyện.",
+  "kich_co": "Lon",
+  "can_nang": "22.7-36.3 kg",
+  "chieu_cao": "43-48 cm",
+  "tuoi_tho": "12.5 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Tự tin",
+   "Thân thiện"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-american-staffordshire-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:AMERICAN_STAFFORDSHIRE_TERRIER,_Zican%E2%80%99s_Bz_Ez_Dragon_(24208348891).2.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Svenska Mässan from Sweden"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/American_Staffordshire_Terrier",
+   "http://www.fci.be/Nomenclature/Standards/286g03-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ dạng số thập phân đơn (vd 11.1 năm) là tuổi thọ trung bình theo nghiên cứu VetCompass (Anh) trích trong bài Wikipedia. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-american-water-spaniel",
+  "loai": "cho",
+  "ten_en": "American Water Spaniel",
+  "ten_vi": "Chó săn nước Mỹ",
+  "fci_group": 8,
+  "mo_ta_ngan": "Chó săn nước của Mỹ, lông xoăn chống nước, thông minh và năng động, giỏi bơi lội và tha mồi.",
+  "kich_co": "Vua",
+  "can_nang": "13.6-20.4 kg",
+  "chieu_cao": "38-46 cm",
+  "tuoi_tho": "10-13 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Năng động",
+   "Trung thành"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-american-water-spaniel.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Chien_d%27eau_americain_champion_1.JPG",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Awsguy1"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/American_Water_Spaniel",
+   "http://www.fci.be/Nomenclature/Standards/301g08-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-andalusian-terrier",
+  "loai": "cho",
+  "ten_en": "Andalusian Terrier",
+  "ten_vi": null,
+  "fci_group": 3,
+  "mo_ta_ngan": "Giống sục nhỏ nhanh nhẹn của vùng Andalusia (Tây Ban Nha), sống động, thông minh và có bản năng săn mạnh.",
+  "kich_co": "Vua",
+  "can_nang": "8-12 kg",
+  "chieu_cao": "35-43 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Sống động",
+   "Thông minh",
+   "Nhanh nhẹn"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-andalusian-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Bodeguero_young.jpg",
+   "license": "CC BY-SA 3.0 de",
+   "tac_gia": "Torsten Dickmann"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Andalusian_Terrier",
+   "https://fci.be/Nomenclature/Standards/371g03-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa kiểm chứng (không có trong bài Wikipedia; giống hiếm, AKC không công nhận nên không tra được). Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-anglo-francais-de-petite-venerie",
+  "loai": "cho",
+  "ten_en": "Anglo-Français de Petite Vénerie",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi cỡ vừa của Pháp, cân đối và bền bỉ, nuôi theo bầy để săn thỏ và các loài thú nhỏ.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "48-56 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thân thiện",
+   "Kiên trì",
+   "Năng động"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-anglo-francais-de-petite-venerie.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Anglo-fran%C3%A7ais_de_petite_v%C3%A9nerie,_Derrida-101.jpg",
+   "license": "CC BY-SA 3.0 lu",
+   "tac_gia": "Jwh"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Anglo-Fran%C3%A7ais_de_Petite_V%C3%A9nerie",
+   "http://www.fci.be/Nomenclature/Standards/325g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng chưa kiểm chứng (không có trong bài Wikipedia và chuẩn FCI). Tuổi thọ chưa kiểm chứng (không có trong bài Wikipedia; giống hiếm, AKC không công nhận nên không tra được). Kích cỡ suy ra từ chiều cao/dáng giống do chưa có cân nặng trong nguồn. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-appenzeller-sennenhund",
+  "loai": "cho",
+  "ten_en": "Appenzeller Sennenhund",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó núi Thụy Sĩ nhanh nhẹn và thông minh, vừa chăn gia súc vừa canh gác, gắn bó với gia đình.",
+  "kich_co": "Lon",
+  "can_nang": "22-32 kg",
+  "chieu_cao": "50-56 cm",
+  "tuoi_tho": "13-15 năm",
+  "tinh_cach": [
+   "Năng động",
+   "Thông minh",
+   "Cảnh giác"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-appenzeller-sennenhund.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Eisa_Kessy_v_Br%C3%BCnggberg.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Appenzeller Blaess"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Appenzeller_Sennenhund",
+   "http://www.fci.be/Nomenclature/Standards/046g02-en.pdf",
+   "https://www.akc.org/dog-breeds/appenzeller-sennenhund/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-ariege-pointer",
+  "loai": "cho",
+  "ten_en": "Ariège Pointer",
+  "ten_vi": null,
+  "fci_group": 7,
+  "mo_ta_ngan": "Chó săn chỉ điểm của vùng Ariège (Pháp), hiền lành và nhạy cảm, làm việc bền bỉ trên đồng cỏ và rừng núi.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "56-67 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hiền lành",
+   "Nhạy cảm",
+   "Năng động"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-ariege-pointer.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Pointer_of_Ariege_from_1915.JPG",
+   "license": "Public domain",
+   "tac_gia": "not specified (except those with signature on image)"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Ari%C3%A8ge_Pointer",
+   "http://www.fci.be/Nomenclature/Standards/177g07-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng chưa kiểm chứng (không có trong bài Wikipedia và chuẩn FCI). Tuổi thọ chưa kiểm chứng (không có trong bài Wikipedia; giống hiếm, AKC không công nhận nên không tra được). Kích cỡ suy ra từ chiều cao/dáng giống do chưa có cân nặng trong nguồn. Số liệu ghi đè: Wikipedia (60-67 cm; infobox 56-67 cm). Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-ariegeois",
+  "loai": "cho",
+  "ten_en": "Ariégeois",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi cỡ vừa của Pháp, hiền lành và thân thiện, giỏi lần dấu thỏ rừng theo bầy.",
+  "kich_co": "Lon",
+  "can_nang": "25-27 kg",
+  "chieu_cao": "52-58 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hiền lành",
+   "Thân thiện",
+   "Kiên trì"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-ariegeois.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Ariegehound3.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Canarian"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Ari%C3%A9geois",
+   "http://www.fci.be/Nomenclature/Standards/020g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa kiểm chứng (không có trong bài Wikipedia; giống hiếm, AKC không công nhận nên không tra được). Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-artois-hound",
+  "loai": "cho",
+  "ten_en": "Artois Hound",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi cổ của vùng Artois (Pháp), khỏe mạnh và kiên trì, chuyên săn thỏ rừng theo bầy.",
+  "kich_co": "Lon",
+  "can_nang": "28-30 kg",
+  "chieu_cao": "53-58 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thân thiện",
+   "Kiên trì",
+   "Năng động"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-artois-hound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Artois_from_1915.JPG",
+   "license": "Public domain",
+   "tac_gia": "not specified (except those with signature on image)"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Artois_Hound",
+   "http://www.fci.be/Nomenclature/Standards/028g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa kiểm chứng (không có trong bài Wikipedia; giống hiếm, AKC không công nhận nên không tra được). Số liệu ghi đè: FCI Standard N° 28. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-australian-cattle-dog",
+  "loai": "cho",
+  "ten_en": "Australian Cattle Dog",
+  "ten_vi": "Chó chăn bò Úc",
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn bò Úc cực kỳ năng động và thông minh, cần việc để làm mỗi ngày, trung thành với chủ.",
+  "kich_co": "Vua",
+  "can_nang": "15-22 kg",
+  "chieu_cao": "43-51 cm",
+  "tuoi_tho": "14 năm",
+  "tinh_cach": [
+   "Năng động",
+   "Thông minh",
+   "Trung thành"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-australian-cattle-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:ACD-blue-spud.jpg",
+   "license": "CC BY 3.0",
+   "tac_gia": "Zingpix"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Australian_Cattle_Dog",
+   "http://www.fci.be/Nomenclature/Standards/287g01-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-australian-kelpie",
+  "loai": "cho",
+  "ten_en": "Australian Kelpie",
+  "ten_vi": "Chó Kelpie",
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn cừu Úc nhanh nhẹn và bền bỉ, thông minh, làm việc độc lập tốt trên đồng cỏ rộng.",
+  "kich_co": "Vua",
+  "can_nang": "13-19 kg",
+  "chieu_cao": "39-51 cm",
+  "tuoi_tho": "12 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Năng động",
+   "Trung thành"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-australian-kelpie.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Hilu_the_Australian_Kelpie_dog.jpg",
+   "license": "Public domain",
+   "tac_gia": "Pertti Kärppä "
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Australian_Kelpie",
+   "http://www.fci.be/Nomenclature/Standards/293g01-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-australian-shepherd",
+  "loai": "cho",
+  "ten_en": "Australian Shepherd",
+  "ten_vi": "Chó chăn cừu Úc",
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn cừu Mỹ (dù tên gọi Úc), thông minh, năng động và trung thành, giỏi các môn thể thao cho chó.",
+  "kich_co": "Vua",
+  "can_nang": "16-32 kg",
+  "chieu_cao": "46-58 cm",
+  "tuoi_tho": "13.7 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Năng động",
+   "Trung thành"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-australian-shepherd.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Australian_Shepherd_Blue_Merle.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Martin Voss"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Australian_Shepherd",
+   "http://www.fci.be/Nomenclature/Standards/342g01-en.pdf<!-----Notes----->"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu ghi đè: Wikipedia (16-32 kg; 46-58 cm). Tuổi thọ dạng số thập phân đơn (vd 11.1 năm) là tuổi thọ trung bình theo nghiên cứu VetCompass (Anh) trích trong bài Wikipedia. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-australian-silky-terrier",
+  "loai": "cho",
+  "ten_en": "Australian Silky Terrier",
+  "ten_vi": "Chó sục Silky",
+  "fci_group": 3,
+  "mo_ta_ngan": "Giống sục nhỏ lông mượt óng ả của Úc, nhanh nhẹn, thân thiện và cảnh giác, hợp nuôi trong nhà.",
+  "kich_co": "Nho",
+  "can_nang": "4.5 kg",
+  "chieu_cao": "23-26 cm",
+  "tuoi_tho": "13.3 năm",
+  "tinh_cach": [
+   "Nhanh nhẹn",
+   "Thân thiện",
+   "Cảnh giác"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-australian-silky-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Australian_Silky_Terrier_Alana_Of_Silky%27s_Dream.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Ofsilkysdream"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Australian_Silky_Terrier",
+   "http://www.fci.be/Nomenclature/Standards/236g03-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu ghi đè: AKC (around 10 pounds). Tuổi thọ dạng số thập phân đơn (vd 11.1 năm) là tuổi thọ trung bình theo nghiên cứu VetCompass (Anh) trích trong bài Wikipedia. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-australian-stumpy-tail-cattle-dog",
+  "loai": "cho",
+  "ten_en": "Australian Stumpy Tail Cattle Dog",
+  "ten_vi": null,
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn bò Úc đuôi cụt tự nhiên, cảnh giác và thông minh, làm việc bền bỉ, trung thành với chủ.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "43-51 cm",
+  "tuoi_tho": "12-15 năm",
+  "tinh_cach": [
+   "Cảnh giác",
+   "Thông minh",
+   "Trung thành"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-australian-stumpy-tail-cattle-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Australian_Stumpy_Tail_Cattle_Dog.jpg",
+   "license": "CC BY 2.0",
+   "tac_gia": "Wendy Hodges"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Australian_Stumpy_Tail_Cattle_Dog",
+   "https://www.fci.be/Nomenclature/Standards/351g01-en.pdf",
+   "https://www.akc.org/dog-breeds/australian-stumpy-tail-cattle-dog/"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng chưa kiểm chứng (không có trong bài Wikipedia và chuẩn FCI). Kích cỡ suy ra từ chiều cao/dáng giống do chưa có cân nặng trong nguồn. Số liệu ghi đè: FCI Standard N° 351. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-australian-terrier",
+  "loai": "cho",
+  "ten_en": "Australian Terrier",
+  "ten_vi": "Chó sục Úc",
+  "fci_group": 3,
+  "mo_ta_ngan": "Giống sục nhỏ của Úc, nhanh nhẹn và tự tin, lông dài thô, tính cách vui vẻ và thân thiện.",
+  "kich_co": "Nho",
+  "can_nang": "6.5 kg",
+  "chieu_cao": "25 cm",
+  "tuoi_tho": "11-15 năm",
+  "tinh_cach": [
+   "Nhanh nhẹn",
+   "Tự tin",
+   "Thân thiện"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-australian-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Australian_Terrier_adult_male.jpg",
+   "license": "Public domain",
+   "tac_gia": "Chuck in MA"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Australian_Terrier",
+   "http://www.fci.be/Nomenclature/Standards/008g03-en.pdf",
+   "https://www.akc.org/dog-breeds/australian-terrier/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-austrian-black-and-tan-hound",
+  "loai": "cho",
+  "ten_en": "Austrian Black and Tan Hound",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi đen-vàng của Áo, dáng thanh thoát, hiền lành, chuyên lần dấu thú trên núi.",
+  "kich_co": "Vua",
+  "can_nang": "15-22.2 kg",
+  "chieu_cao": "48-56 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hiền lành",
+   "Kiên trì",
+   "Thân thiện"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-austrian-black-and-tan-hound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Brandlbracke.JPG",
+   "license": "CC BY-SA 2.5",
+   "tac_gia": "Steffen Heinz (Caronna)"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Austrian_Black_and_Tan_Hound",
+   "http://www.fci.be/Nomenclature/Standards/063g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa kiểm chứng (không có trong bài Wikipedia; giống hiếm, AKC không công nhận nên không tra được). Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-azawakh",
+  "loai": "cho",
+  "ten_en": "Azawakh",
+  "ten_vi": null,
+  "fci_group": 10,
+  "mo_ta_ngan": "Chó săn thị giác mảnh mai của sa mạc Sahara, nhanh nhẹn, độc lập và rất gắn bó với chủ.",
+  "kich_co": "Vua",
+  "can_nang": "15-25 kg",
+  "chieu_cao": "60-74 cm",
+  "tuoi_tho": "12-15 năm",
+  "tinh_cach": [
+   "Độc lập",
+   "Trung thành",
+   "Cảnh giác"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-azawakh.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Bistrita_2015_(22).jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Cristian.vantu"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Azawakh",
+   "http://www.fci.be/Nomenclature/Standards/307g10-en.pdf",
+   "https://www.akc.org/dog-breeds/azawakh/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-barak-hound",
+  "loai": "cho",
+  "ten_en": "Barak hound",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi lông xù của Bosnia, sống động và dũng cảm, chuyên săn thú trong rừng núi.",
+  "kich_co": "Vua",
+  "can_nang": "16-27 kg",
+  "chieu_cao": "46-56 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Sống động",
+   "Dũng cảm",
+   "Trung thành"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-barak-hound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:BIR_Grupp_6-_BOSANSKI_OSTRODLAKI_GONIC-BARAK,_Sandy_(23866392689).jpg",
+   "license": "CC BY 2.0",
+   "tac_gia": "Svenska Mässan from Sweden"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Barak_hound",
+   "http://www.fci.be/Nomenclature/Standards/155g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa kiểm chứng (không có trong bài Wikipedia; giống hiếm, AKC không công nhận nên không tra được). Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-barbet",
+  "loai": "cho",
+  "ten_en": "Barbet",
+  "ten_vi": null,
+  "fci_group": 8,
+  "mo_ta_ngan": "Chó săn nước lông xoăn của Pháp, thân thiện, vâng lời và thông minh, giỏi bơi lội.",
+  "kich_co": "Vua",
+  "can_nang": "18-27 kg",
+  "chieu_cao": "53-65 cm",
+  "tuoi_tho": "13-15 năm",
+  "tinh_cach": [
+   "Thân thiện",
+   "Vâng lời",
+   "Thông minh"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-barbet.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Barbet-brown.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Canarian"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Barbet_%28dog_breed%29",
+   "http://www.fci.be/Nomenclature/Standards/105g08-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu ghi đè: Wikipedia (40-60 lb / 18-27 kg). Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn. Ảnh thay thế ảnh chính Wikipedia (quá nhỏ) bằng ảnh Commons cùng giống đã xác minh mô tả."
+ },
+ {
+  "id": "cho-basenji",
+  "loai": "cho",
+  "ten_en": "Basenji",
+  "ten_vi": "Chó Basenji",
+  "fci_group": 5,
+  "mo_ta_ngan": "Giống chó cổ từ châu Phi, không sủa, độc lập và tò mò, sạch sẽ như mèo và tự chải chuốt.",
+  "kich_co": "Vua",
+  "can_nang": "11 kg",
+  "chieu_cao": "40-43 cm",
+  "tuoi_tho": "13-14 năm",
+  "tinh_cach": [
+   "Độc lập",
+   "Thông minh",
+   "Tò mò"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-basenji.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Basenji_Profile_(loosercrop).jpg",
+   "license": "CC BY 2.0",
+   "tac_gia": "fugzu"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Basenji",
+   "http://www.fci.be/Nomenclature/Standards/043g05-en.pdf",
+   "https://www.akc.org/dog-breeds/basenji/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-basset-artesien-normand",
+  "loai": "cho",
+  "ten_en": "Basset Artésien Normand",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi chân ngắn của Pháp, hiền lành và thân thiện, lần dấu thỏ chậm mà chắc.",
+  "kich_co": "Vua",
+  "can_nang": "15-20 kg",
+  "chieu_cao": "30-36 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hiền lành",
+   "Thân thiện",
+   "Kiên trì"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-basset-artesien-normand.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Grupp_6_BASSET_ART%C3%89SIEN_NORMAND,_Skogvaktarens_Queen_Sally_(24180074612).jpg",
+   "license": "CC BY 2.0",
+   "tac_gia": "Svenska Mässan from Sweden"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Basset_Art%C3%A9sien_Normand",
+   "http://www.fci.be/Nomenclature/Standards/034g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa kiểm chứng (không có trong bài Wikipedia; giống hiếm, AKC không công nhận nên không tra được). Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-basset-bleu-de-gascogne",
+  "loai": "cho",
+  "ten_en": "Basset Bleu de Gascogne",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi xanh lam của Pháp, hiền lành và bền bỉ, chuyên săn thỏ rừng theo bầy.",
+  "kich_co": "Vua",
+  "can_nang": "16-18 kg",
+  "chieu_cao": "34-38 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hiền lành",
+   "Thân thiện",
+   "Kiên trì"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-basset-bleu-de-gascogne.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Basset_bleu_de_Gascogne.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "M.W. Reichert (Eingestellt von Caronna 10:10, 25 January 2006)"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Basset_Bleu_de_Gascogne",
+   "http://www.fci.be/Nomenclature/Standards/035g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa kiểm chứng (không có trong bài Wikipedia; giống hiếm, AKC không công nhận nên không tra được). Số liệu ghi đè: Wikipedia (16-18 kg). Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-basset-fauve-de-bretagne",
+  "loai": "cho",
+  "ten_en": "Basset Fauve de Bretagne",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi lông xù màu vàng hung của Brittany, vui vẻ và kiên trì, săn thỏ rất giỏi.",
+  "kich_co": "Vua",
+  "can_nang": "16-18 kg",
+  "chieu_cao": "32-38 cm",
+  "tuoi_tho": "13-16 năm",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Thân thiện",
+   "Kiên trì"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-basset-fauve-de-bretagne.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Basset_Fauve_de_Bretagne_600.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Không rõ"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Basset_Fauve_de_Bretagne",
+   "http://www.fci.be/Nomenclature/Standards/036g06-en.pdf",
+   "https://www.akc.org/dog-breeds/basset-fauve-de-bretagne/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu ghi đè: Wikipedia (36-40 lb / 16-18 kg). Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-basset-hound",
+  "loai": "cho",
+  "ten_en": "Basset Hound",
+  "ten_vi": "Chó Basset",
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi chân ngắn tai dài nổi tiếng, thân thiện, hiền lành và kiên trì lần dấu.",
+  "kich_co": "Lon",
+  "can_nang": "24.9-34 kg",
+  "chieu_cao": "30-38 cm",
+  "tuoi_tho": "10-12 năm",
+  "tinh_cach": [
+   "Thân thiện",
+   "Hiền lành",
+   "Vui vẻ"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-basset-hound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:BassetHound_profil.jpg",
+   "license": "Public domain",
+   "tac_gia": "Cali1008"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Basset_Hound",
+   "http://www.fci.be/Nomenclature/Standards/163g06-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-bavarian-mountain-hound",
+  "loai": "cho",
+  "ten_en": "Bavarian Mountain Hound",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi núi Bavaria, bình tĩnh và gắn bó với chủ, chuyên lần dấu thú bị thương.",
+  "kich_co": "Lon",
+  "can_nang": "20-30 kg",
+  "chieu_cao": "44-52 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Bình tĩnh",
+   "Trung thành",
+   "Kiên trì"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-bavarian-mountain-hound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Zoran_Spod_Ruskiej_Granicy_the_Bavarian_Mountain_Hound.jpg",
+   "license": "CC BY 3.0",
+   "tac_gia": "Ralf Lotys (Sicherlich)"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Bavarian_Mountain_Hound",
+   "http://www.fci.be/Nomenclature/Standards/217g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa kiểm chứng (không có trong bài Wikipedia; giống hiếm, AKC không công nhận nên không tra được). Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-beagle",
+  "loai": "cho",
+  "ten_en": "Beagle",
+  "ten_vi": "Chó Beagle",
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn thỏ nhỏ của Anh, thân thiện, hiền lành và tò mò, khứu giác cực tốt, rất hợp gia đình.",
+  "kich_co": "Vua",
+  "can_nang": "10-11.3 kg",
+  "chieu_cao": "33-41 cm",
+  "tuoi_tho": "12.5 năm",
+  "tinh_cach": [
+   "Thân thiện",
+   "Hiền lành",
+   "Tò mò"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-beagle.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Beagle_600.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Không rõ"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Beagle",
+   "http://www.fci.be/Nomenclature/Standards/161g06-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ dạng số thập phân đơn (vd 11.1 năm) là tuổi thọ trung bình theo nghiên cứu VetCompass (Anh) trích trong bài Wikipedia. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-beagle-harrier",
+  "loai": "cho",
+  "ten_en": "Beagle-Harrier",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi cỡ vừa của Pháp, lai giữa Beagle và Harrier, thân thiện và năng động.",
+  "kich_co": "Vua",
+  "can_nang": "19-21 kg",
+  "chieu_cao": "45-50 cm",
+  "tuoi_tho": "12-13 năm",
+  "tinh_cach": [
+   "Thân thiện",
+   "Năng động",
+   "Kiên trì"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-beagle-harrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Beagle_harrier.JPG",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Grzes1966"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Beagle-Harrier",
+   "http://www.fci.be/Nomenclature/Standards/290g06-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu ghi đè: Wikipedia (19-21 kg). Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-bearded-collie",
+  "loai": "cho",
+  "ten_en": "Bearded Collie",
+  "ten_vi": "Chó Collie râu",
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn cừu lông dài của Scotland, vui vẻ và thông minh, cần chải lông thường xuyên.",
+  "kich_co": "Vua",
+  "can_nang": "18-27 kg",
+  "chieu_cao": "51-56 cm",
+  "tuoi_tho": "13.9 năm",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Thông minh",
+   "Năng động"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-bearded-collie.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Bearded_Collie_600.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Không rõ"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Bearded_Collie",
+   "http://www.fci.be/Nomenclature/Standards/271g01-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ dạng số thập phân đơn (vd 11.1 năm) là tuổi thọ trung bình theo nghiên cứu VetCompass (Anh) trích trong bài Wikipedia. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-beauceron",
+  "loai": "cho",
+  "ten_en": "Beauceron",
+  "ten_vi": "Chó Beauceron",
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn cừu lớn của Pháp, thông minh, trung thành và cảnh giác, vừa chăn gia súc vừa canh gác.",
+  "kich_co": "Lon",
+  "can_nang": "30-45 kg",
+  "chieu_cao": "61-70 cm",
+  "tuoi_tho": "10-12 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Trung thành",
+   "Cảnh giác"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-beauceron.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:BeauceronStand.jpg",
+   "license": "CC BY-SA 3.0 de",
+   "tac_gia": "Stefan Schmitz"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Beauceron",
+   "http://www.fci.be/Nomenclature/Standards/044g01-en.pdf",
+   "https://www.akc.org/dog-breeds/beauceron/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-bedlington-terrier",
+  "loai": "cho",
+  "ten_en": "Bedlington Terrier",
+  "ten_vi": "Chó sục Bedlington",
+  "fci_group": 3,
+  "mo_ta_ngan": "Giống sục lông xoăn giống cừu non, nhanh nhẹn và dũng cảm, ít rụng lông, hợp người dị ứng nhẹ.",
+  "kich_co": "Nho",
+  "can_nang": "7.7-10.4 kg",
+  "chieu_cao": "39-42 cm",
+  "tuoi_tho": "13.7 năm",
+  "tinh_cach": [
+   "Nhanh nhẹn",
+   "Thân thiện",
+   "Dũng cảm"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-bedlington-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Boutchie_apres_championnat_004.JPG",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "David Owsiany"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Bedlington_Terrier",
+   "http://www.fci.be/Nomenclature/Standards/009g03-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ dạng số thập phân đơn (vd 11.1 năm) là tuổi thọ trung bình theo nghiên cứu VetCompass (Anh) trích trong bài Wikipedia. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-belgian-shepherd",
+  "loai": "cho",
+  "ten_en": "Belgian Shepherd",
+  "ten_vi": "Chó chăn cừu Bỉ",
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn cừu Bỉ thông minh và nhạy cảm, gồm 4 biến thể lông, giỏi nghiệp vụ và thể thao.",
+  "kich_co": "Lon",
+  "can_nang": "25-30 kg",
+  "chieu_cao": "56-66 cm",
+  "tuoi_tho": "12 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Cảnh giác",
+   "Nhạy cảm"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-belgian-shepherd.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:04_-_Belgian_shepherd_dog_varieties_-_Groenendael,Tervuren,_Malinois,_Laekenois.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Various, see description. Compiled by User:Adventurous36"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Belgian_Shepherd",
+   "http://www.fci.be/Nomenclature/Standards/015g01-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-bergamasco-shepherd-dog",
+  "loai": "cho",
+  "ten_en": "Bergamasco Shepherd Dog",
+  "ten_vi": "Chó chăn cừu Bergamasco",
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn cừu Ý lông bện thành tấm như thảm, thông minh, kiên nhẫn và ít rụng lông.",
+  "kich_co": "Lon",
+  "can_nang": "32-38 kg",
+  "chieu_cao": "58-62 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thông minh",
+   "Kiên nhẫn",
+   "Trung thành"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-bergamasco-shepherd-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Ortensia_di_Valle_Scrivia_(cropped).jpg",
+   "license": "CC BY 3.0",
+   "tac_gia": "Luigi Guidobono Cavalchini (Josephine06)"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Bergamasco_Shepherd_Dog",
+   "https://www.fci.be/Nomenclature/Standards/194g01-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa kiểm chứng (không có trong bài Wikipedia; giống hiếm, AKC không công nhận nên không tra được). Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-berger-picard",
+  "loai": "cho",
+  "ten_en": "Berger Picard",
+  "ten_vi": "Chó chăn cừu Picard",
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn cừu cổ của Pháp, sống động và thông minh, trung thành, lông xù thô chống thời tiết.",
+  "kich_co": "Lon",
+  "can_nang": "23.1-32.2 kg",
+  "chieu_cao": "61-66 cm",
+  "tuoi_tho": "12-14 năm",
+  "tinh_cach": [
+   "Sống động",
+   "Thông minh",
+   "Trung thành"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-berger-picard.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Picard_Delice_Stacked.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Cufleadh"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Berger_Picard",
+   "https://www.fci.be/Nomenclature/Standards/176g01-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-bernese-mountain-dog",
+  "loai": "cho",
+  "ten_en": "Bernese Mountain Dog",
+  "ten_vi": "Chó núi Bern",
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó núi Bernese to lớn và hiền lành, trung thành, lông dài ba màu, hợp gia đình có sân vườn.",
+  "kich_co": "Khong lo",
+  "can_nang": "36-55 kg",
+  "chieu_cao": "58-70 cm",
+  "tuoi_tho": "8 năm",
+  "tinh_cach": [
+   "Hiền lành",
+   "Trung thành",
+   "Bình tĩnh"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-bernese-mountain-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:3-BerneseMountainDogInGrass.jpg",
+   "license": "CC BY 4.0",
+   "tac_gia": "FriendlyToaster"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Bernese_Mountain_Dog",
+   "http://www.fci.be/Nomenclature/Standards/045g02-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-bichon-frise",
+  "loai": "cho",
+  "ten_en": "Bichon Frisé",
+  "ten_vi": "Chó Bichon",
+  "fci_group": 9,
+  "mo_ta_ngan": "Chó cưng nhỏ lông trắng xoăn như bông, vui vẻ và thân thiện, ít rụng lông, hợp nuôi chung cư.",
+  "kich_co": "Nho",
+  "can_nang": "5 kg",
+  "chieu_cao": "23-30 cm",
+  "tuoi_tho": "12.5 năm",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Thân thiện",
+   "Dịu dàng"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-bichon-frise.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Bichon_Fris%C3%A9_-_studdogbichon.jpg",
+   "license": "CC BY-SA 3.0 de",
+   "tac_gia": "Heike Andres"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Bichon_Fris%C3%A9",
+   "http://www.fci.be/Nomenclature/Standards/215g09-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu ghi đè: Wikipedia (weighing approximately 5 kg). Tuổi thọ dạng số thập phân đơn (vd 11.1 năm) là tuổi thọ trung bình theo nghiên cứu VetCompass (Anh) trích trong bài Wikipedia. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-billy",
+  "loai": "cho",
+  "ten_en": "Billy",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi lớn màu trắng của Pháp, thân thiện và năng động, chuyên săn hươu theo bầy.",
+  "kich_co": "Lon",
+  "can_nang": "33-47 kg",
+  "chieu_cao": "58-70 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thân thiện",
+   "Năng động",
+   "Kiên trì"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-billy.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Tivoli_au_Rallye_Gaillardet_en_2023_(cropped).jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "MylèneTM"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Billy_%28dog_breed%29",
+   "http://www.fci.be/Nomenclature/Standards/025g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa kiểm chứng (không có trong bài Wikipedia; giống hiếm, AKC không công nhận nên không tra được). Số liệu ghi đè: Wikipedia (72-104 lb / 33-47 kg). Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-black-and-tan-coonhound",
+  "loai": "cho",
+  "ten_en": "Black and Tan Coonhound",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn gấu mèo của Mỹ, hiền lành và bình tĩnh, khứu giác tốt, thích lần dấu ban đêm.",
+  "kich_co": "Lon",
+  "can_nang": "22.7-34 kg",
+  "chieu_cao": "53-69 cm",
+  "tuoi_tho": "10-12 năm",
+  "tinh_cach": [
+   "Hiền lành",
+   "Thân thiện",
+   "Bình tĩnh"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-black-and-tan-coonhound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Black_and_Tan_Coonhound.jpg",
+   "license": "CC BY-SA 2.5",
+   "tac_gia": "Steffen Heinz (Caronna)"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Black_and_Tan_Coonhound",
+   "http://www.fci.be/Nomenclature/Standards/300g06-en.pdf",
+   "https://www.akc.org/dog-breeds/black-and-tan-coonhound/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-black-norwegian-elkhound",
+  "loai": "cho",
+  "ten_en": "Black Norwegian Elkhound",
+  "ten_vi": null,
+  "fci_group": 5,
+  "mo_ta_ngan": "Chó săn nai đen của Na Uy, thông minh và trung thành, lông đôi dày chống lạnh, làm chó gia đình tốt.",
+  "kich_co": "Vua",
+  "can_nang": "16-20 kg",
+  "chieu_cao": "43-49 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thông minh",
+   "Trung thành",
+   "Năng động"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-black-norwegian-elkhound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:BlackNorwegianElkhound.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Rvenes"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Black_Norwegian_Elkhound",
+   "http://www.fci.be/Nomenclature/Standards/268g05-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa kiểm chứng (không có trong bài Wikipedia; giống hiếm, AKC không công nhận nên không tra được). Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-black-russian-terrier",
+  "loai": "cho",
+  "ten_en": "Black Russian Terrier",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó canh gác lớn của Nga, tự tin và trung thành, lông thô dày, cần huấn luyện kiên định.",
+  "kich_co": "Khong lo",
+  "can_nang": "45-60 kg",
+  "chieu_cao": "68-76 cm",
+  "tuoi_tho": "10.9 năm",
+  "tinh_cach": [
+   "Tự tin",
+   "Trung thành",
+   "Cảnh giác"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-black-russian-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Wystawa_Rybnik_02.10.2011_czarny_terier_rosyjski_2pl.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Pleple2000"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Black_Russian_Terrier",
+   "http://www.fci.be/Nomenclature/Standards/327g02-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ dạng số thập phân đơn (vd 11.1 năm) là tuổi thọ trung bình theo nghiên cứu VetCompass (Anh) trích trong bài Wikipedia. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-bloodhound",
+  "loai": "cho",
+  "ten_en": "Bloodhound",
+  "ten_vi": "Chó đánh hơi",
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó đánh hơi nổi tiếng nhất thế giới, hiền lành và kiên trì, khứu giác vượt trội, dùng truy vết.",
+  "kich_co": "Khong lo",
+  "can_nang": "40-54 kg",
+  "chieu_cao": "58-72 cm",
+  "tuoi_tho": "9.3 năm",
+  "tinh_cach": [
+   "Hiền lành",
+   "Kiên trì",
+   "Độc lập"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-bloodhound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Bloodhound_Erland22.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "User:Erland22"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Bloodhound",
+   "http://www.fci.be/Nomenclature/Standards/084g06-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu ghi đè: Wikipedia infobox (đực 46-54 kg, cái 40-48 kg); tuổi thọ trung bình 9.3 năm theo nghiên cứu Anh. Tuổi thọ dạng số thập phân đơn (vd 11.1 năm) là tuổi thọ trung bình theo nghiên cứu VetCompass (Anh) trích trong bài Wikipedia. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-blue-picardy-spaniel",
+  "loai": "cho",
+  "ten_en": "Blue Picardy Spaniel",
+  "ten_vi": null,
+  "fci_group": 7,
+  "mo_ta_ngan": "Chó săn chim lông xanh xám của Pháp, hiền lành và bình tĩnh, cần vận động nhiều ngoài trời.",
+  "kich_co": "Vua",
+  "can_nang": "19.5-20.4 kg",
+  "chieu_cao": "56-61 cm",
+  "tuoi_tho": "11-12 năm",
+  "tinh_cach": [
+   "Hiền lành",
+   "Thông minh",
+   "Bình tĩnh"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-blue-picardy-spaniel.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Epagneul_bleu_de_picardie_868.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Pleple2000"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Blue_Picardy_Spaniel",
+   "http://www.fci.be/Nomenclature/Standards/106g07-en.pdf",
+   "https://www.akc.org/dog-breeds/blue-picardy-spaniel/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-bohemian-shepherd",
+  "loai": "cho",
+  "ten_en": "Bohemian Shepherd",
+  "ten_vi": null,
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn cừu Séc năng động và thông minh, trung thành, vừa làm chó gia đình vừa làm việc tốt.",
+  "kich_co": "Vua",
+  "can_nang": "19-27 kg",
+  "chieu_cao": "52-55 cm",
+  "tuoi_tho": "12-14 năm",
+  "tinh_cach": [
+   "Năng động",
+   "Thông minh",
+   "Trung thành"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-bohemian-shepherd.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:OREADY_KROSANDRA_(14).JPG",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Krosandra"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Bohemian_Shepherd",
+   "http://www.fci.be/Nomenclature/Standards/364g01-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-bolognese",
+  "loai": "cho",
+  "ten_en": "Bolognese",
+  "ten_vi": null,
+  "fci_group": 9,
+  "mo_ta_ngan": "Chó cưng nhỏ lông trắng dài của Ý, dịu dàng và thân thiện, ít rụng lông, hợp nuôi trong căn hộ.",
+  "kich_co": "Nho",
+  "can_nang": "2.5-4 kg",
+  "chieu_cao": "25-30 cm",
+  "tuoi_tho": "12-14 năm",
+  "tinh_cach": [
+   "Dịu dàng",
+   "Thân thiện",
+   "Bình tĩnh"
+  ],
+  "rung_long": "It",
+  "van_dong": "Thap",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-bolognese.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Male_adult_bolognese_dog_(cropped).jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Mrtibbs1999"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Bolognese_%28dog_breed%29",
+   "https://www.fci.be/Nomenclature/Standards/196g09-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-border-collie",
+  "loai": "cho",
+  "ten_en": "Border Collie",
+  "ten_vi": "Chó Border Collie",
+  "fci_group": 1,
+  "mo_ta_ngan": "Giống chó chăn cừu thông minh nhất thế giới, năng động cực cao, cần việc và vận động mỗi ngày.",
+  "kich_co": "Vua",
+  "can_nang": "12-25 kg",
+  "chieu_cao": "46-60 cm",
+  "tuoi_tho": "12.1 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Năng động",
+   "Trung thành"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-border-collie.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Border_Collie_600.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Không rõ"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Border_Collie",
+   "http://www.fci.be/Nomenclature/Standards/297g01-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ dạng số thập phân đơn (vd 11.1 năm) là tuổi thọ trung bình theo nghiên cứu VetCompass (Anh) trích trong bài Wikipedia. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-border-terrier",
+  "loai": "cho",
+  "ten_en": "Border Terrier",
+  "ten_vi": "Chó sục Border",
+  "fci_group": 3,
+  "mo_ta_ngan": "Giống sục nhỏ cứng cáp của vùng biên Anh-Scotland, thân thiện, năng động và dũng cảm.",
+  "kich_co": "Nho",
+  "can_nang": "5.9-7.1 kg",
+  "chieu_cao": "28-41 cm",
+  "tuoi_tho": "14.2 năm",
+  "tinh_cach": [
+   "Thân thiện",
+   "Năng động",
+   "Dũng cảm"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-border-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Border_Terrier.jpg",
+   "license": "GPL",
+   "tac_gia": "Không rõ"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Border_Terrier",
+   "http://www.fci.be/Nomenclature/Standards/010g03-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu ghi đè: Wikipedia (5.9-7.1 kg; cao 28-41 cm). Tuổi thọ dạng số thập phân đơn (vd 11.1 năm) là tuổi thọ trung bình theo nghiên cứu VetCompass (Anh) trích trong bài Wikipedia. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-borzoi",
+  "loai": "cho",
+  "ten_en": "Borzoi",
+  "ten_vi": "Chó Borzoi",
+  "fci_group": 10,
+  "mo_ta_ngan": "Chó săn sói Nga lông dài mượt, dịu dàng và bình tĩnh, chạy rất nhanh, cần sân rộng để chạy.",
+  "kich_co": "Lon",
+  "can_nang": "27-48 kg",
+  "chieu_cao": "68-85 cm",
+  "tuoi_tho": "12 năm",
+  "tinh_cach": [
+   "Dịu dàng",
+   "Bình tĩnh",
+   "Độc lập"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-borzoi.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Chart_rosyjski_borzoj_rybnik-kamien_pl.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Pleple2000"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Borzoi",
+   "https://www.fci.be/nomenclature/Standards/193g10-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu ghi đè: AKC (60-105 lb / 27-48 kg). Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-boston-terrier",
+  "loai": "cho",
+  "ten_en": "Boston Terrier",
+  "ten_vi": "Chó sục Boston",
+  "fci_group": 9,
+  "mo_ta_ngan": "Chó sục nhỏ mặt ngắn của Mỹ, thân thiện và vui vẻ, dễ huấn luyện, hợp nuôi chung cư.",
+  "kich_co": "Nho",
+  "can_nang": "2.7-11.3 kg",
+  "chieu_cao": "23-38 cm",
+  "tuoi_tho": "11.8 năm",
+  "tinh_cach": [
+   "Thân thiện",
+   "Vui vẻ",
+   "Thông minh"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-boston-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Boston-terrier-carlos-de.JPG",
+   "license": "CC BY 3.0",
+   "tac_gia": "Andreas Schlaugat"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Boston_Terrier",
+   "http://www.fci.be/Nomenclature/Standards/140g09-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ dạng số thập phân đơn (vd 11.1 năm) là tuổi thọ trung bình theo nghiên cứu VetCompass (Anh) trích trong bài Wikipedia. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-bouvier-des-ardennes",
+  "loai": "cho",
+  "ten_en": "Bouvier des Ardennes",
+  "ten_vi": null,
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn bò vùng Ardennes (Bỉ), thông minh và cảnh giác, lông xù thô, làm việc bền bỉ.",
+  "kich_co": "Lon",
+  "can_nang": "28-35 kg",
+  "chieu_cao": "52-62 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thông minh",
+   "Trung thành",
+   "Cảnh giác"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-bouvier-des-ardennes.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Boyero-de-las-ardenas7.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Andreagenial"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Bouvier_des_Ardennes",
+   "http://www.fci.be/Nomenclature/Standards/171g01-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa kiểm chứng (không có trong bài Wikipedia; giống hiếm, AKC không công nhận nên không tra được). Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-bouvier-des-flandres",
+  "loai": "cho",
+  "ten_en": "Bouvier des Flandres",
+  "ten_vi": null,
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn bò lớn của Flanders, hiền lành và trung thành, lông xù dày, vừa canh gác vừa làm bạn.",
+  "kich_co": "Lon",
+  "can_nang": "27-55 kg",
+  "chieu_cao": "59-68 cm",
+  "tuoi_tho": "11.3 năm",
+  "tinh_cach": [
+   "Hiền lành",
+   "Trung thành",
+   "Bình tĩnh"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-bouvier-des-flandres.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Bouvier.JPG",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Basco at Dutch Wikipedia\n\n(Original text: annekedirven@tiscali.nl)"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Bouvier_des_Flandres",
+   "https://www.fci.be/Nomenclature/Standards/191g01-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ dạng số thập phân đơn (vd 11.1 năm) là tuổi thọ trung bình theo nghiên cứu VetCompass (Anh) trích trong bài Wikipedia. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-boxer",
+  "loai": "cho",
+  "ten_en": "Boxer",
+  "ten_vi": "Chó Boxer",
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó Đức cơ bắp và vui vẻ, trung thành, năng động, rất quấn trẻ con và hợp gia đình năng động.",
+  "kich_co": "Lon",
+  "can_nang": "29.9-31.8 kg",
+  "chieu_cao": "56-64 cm",
+  "tuoi_tho": "11.3 năm",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Trung thành",
+   "Năng động"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-boxer.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Male_fawn_Boxer_undocked.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Mood210"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Boxer_%28dog_breed%29",
+   "http://www.fci.be/Nomenclature/Standards/144g02-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ dạng số thập phân đơn (vd 11.1 năm) là tuổi thọ trung bình theo nghiên cứu VetCompass (Anh) trích trong bài Wikipedia. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-bracco-italiano",
+  "loai": "cho",
+  "ten_en": "Bracco Italiano",
+  "ten_vi": null,
+  "fci_group": 7,
+  "mo_ta_ngan": "Chó săn chỉ điểm cổ của Ý, hiền lành và thông minh, kiên trì làm việc trên đồng cỏ.",
+  "kich_co": "Lon",
+  "can_nang": "25-40 kg",
+  "chieu_cao": "55-67 cm",
+  "tuoi_tho": "10-14 năm",
+  "tinh_cach": [
+   "Hiền lành",
+   "Thông minh",
+   "Kiên trì"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-bracco-italiano.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Bracco_Italiano_(cropped).jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Mohawk28 at German Wikipedia"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Bracco_Italiano",
+   "http://www.fci.be/Nomenclature/Standards/202g07-en.pdf",
+   "https://www.akc.org/dog-breeds/bracco-italiano/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-braque-francais",
+  "loai": "cho",
+  "ten_en": "Braque Français",
+  "ten_vi": null,
+  "fci_group": 7,
+  "mo_ta_ngan": "Chó săn chỉ điểm của Pháp (2 loại Gascogne và Pyrénées), hiền lành và nhạy cảm, làm việc bền bỉ.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "56-69 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hiền lành",
+   "Nhạy cảm",
+   "Thông minh"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-braque-francais.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Wy%C5%BCe%C5%82_Gasko%C5%84ski.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Kasiablanka"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Braque_Fran%C3%A7ais",
+   "http://www.fci.be/Nomenclature/Standards/133g07-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng chưa kiểm chứng (không có trong bài Wikipedia và chuẩn FCI). Tuổi thọ chưa kiểm chứng (không có trong bài Wikipedia; giống hiếm, AKC không công nhận nên không tra được). Kích cỡ suy ra từ chiều cao/dáng giống do chưa có cân nặng trong nguồn. Rụng lông, nhu cầu vận động, hợp chung cư là phân loại theo mô tả của Wikipedia (bộ lông, mục đích sử dụng, kích cỡ, năng lượng) — không phải số liệu chuẩn."
+ }
+]

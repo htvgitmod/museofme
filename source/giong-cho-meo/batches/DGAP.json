@@ -1,0 +1,266 @@
+[
+ {
+  "id": "cho-dachshund",
+  "loai": "cho",
+  "ten_en": "Dachshund",
+  "ten_vi": "Chó Dachshund",
+  "fci_group": 4,
+  "mo_ta_ngan": "Giống chó săn chân ngắn, thân dài của Đức, chuyên săn lửng và thú trong hang; còn gọi là chó lạp xưởng, có 3 loại lông (ngắn, dài, cứng) và 3 cỡ (chuẩn, miniature, thỏ).",
+  "kich_co": "Nho",
+  "can_nang": "5–14 kg (miniature ≤5 kg, chuẩn 7–14 kg)",
+  "chieu_cao": "13–23 cm (miniature 13–15 cm, chuẩn 20–23 cm)",
+  "tuoi_tho": "12–14 năm",
+  "tinh_cach": [
+   "Bướng bỉnh",
+   "Dũng cảm",
+   "Thân thiện",
+   "Kiên trì"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-dachshund.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:%EB%8B%A5%EC%8A%A4%ED%9B%88%ED%8A%B8(%EB%8B%A8%EB%AA%A8%EC%A2%85)_(Dachshund_(Short)).jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Katemil94"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Dachshund",
+   "https://www.fci.be/en/nomenclature/DACHSHUND-148.html"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ theo nghiên cứu: Anh 2024: 13,2 năm (miniature 14); Nhật 2018: 13,9 (miniature); Ý 2024: 11,5 — ghi khoảng 12–14 năm. Chuẩn FCI phân cỡ theo vòng ngực, không theo chiều cao. Rụng lông / vận động / hợp chung cư là phân loại suy ra từ mô tả lông, năng lượng và mục đích giống trong bài Wikipedia / chuẩn FCI, không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-cardigan-welsh-corgi",
+  "loai": "cho",
+  "ten_en": "Cardigan Welsh Corgi",
+  "ten_vi": "Chó Corgi Cardigan",
+  "fci_group": 1,
+  "mo_ta_ngan": "Một trong hai giống Corgi xứ Wales, giống chó chăn gia súc chân ngắn lâu đời, trung thành và dễ huấn luyện; khác Pembroke ở đuôi dài và tai lớn hơn.",
+  "kich_co": "Vua",
+  "can_nang": "11–17 kg",
+  "chieu_cao": "25–33 cm",
+  "tuoi_tho": "12–14 năm",
+  "tinh_cach": [
+   "Trung thành",
+   "Thông minh",
+   "Cảnh giác",
+   "Vui vẻ"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-cardigan-welsh-corgi.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Cardigan_Welsh_Corgi,_Profile.png",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "FatFairfax"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Cardigan_Welsh_Corgi",
+   "https://www.fci.be/en/nomenclature/WELSH-CORGI-CARDIGAN-38.html"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ theo nghiên cứu Anh 2024: 13,1 năm. Cân nặng: đực 14–17 kg, cái 11–15 kg (Wikipedia EN). Rụng lông / vận động / hợp chung cư là phân loại suy ra từ mô tả lông, năng lượng và mục đích giống trong bài Wikipedia / chuẩn FCI, không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-austrian-pinscher",
+  "loai": "cho",
+  "ten_en": "Austrian Pinscher",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Giống chó nông trại Áo, khỏe mạnh và chắc nịch, từng suýt tuyệt chủng sau Thế chiến II và được phục hồi từ những năm 1970; hiện vẫn rất ít cá thể (chỉ 6–12 con giống theo Ark Austria).",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "42–50 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hoạt bát",
+   "Cảnh giác",
+   "Trung thành",
+   "Quả quyết"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-austrian-pinscher.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Pinczer_austiacki_678.jpg",
+   "license": "CC BY-SA 2.5",
+   "tac_gia": "Przykuta"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Austrian_Pinscher",
+   "https://www.fci.be/en/nomenclature/AUSTRIAN-PINSCHER-64.html"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ: không có trong bài Wikipedia lẫn chuẩn FCI (chuẩn FCI chỉ ghi chiều cao 42–50 cm), không bịa số. Tính cách theo chuẩn FCI: quả quyết, hoạt bát, cảnh giác, vui vẻ, tận tụy với người quen, nghi ngờ người lạ. Rụng lông / vận động / hợp chung cư là phân loại suy ra từ mô tả lông, năng lượng và mục đích giống trong bài Wikipedia / chuẩn FCI, không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-dutch-smoushond",
+  "loai": "cho",
+  "ten_en": "Dutch Smoushond",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Giống chó bắt chuột nhỏ của Hà Lan, lông xù màu vàng, suýt biến mất trong Thế chiến II và được tái tạo từ 1973; hiếm, ít người biết ngoài Hà Lan, được FCI công nhận chính thức năm 1981.",
+  "kich_co": "Nho",
+  "can_nang": "7–11 kg",
+  "chieu_cao": "35–42 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thân thiện",
+   "Vui vẻ",
+   "Hoạt bát",
+   "Tình cảm"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-dutch-smoushond.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Hollandse_Smoushond_Amsterdam_cropped.jpg",
+   "license": "CC BY 2.0",
+   "tac_gia": "ZeppWeb"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Dutch_Smoushond",
+   "https://www.fci.be/en/nomenclature/DUTCH-SMOUSHOND-308.html"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ: không có trong bài Wikipedia lẫn chuẩn FCI, không bịa số. Ảnh chính nhỏ (308×231, ảnh gốc trên Commons chỉ có cỡ này). Tính cách theo chuẩn FCI: trìu mến, vui vẻ, thân thiện, hoạt bát nhưng không quá khích. Rụng lông / vận động / hợp chung cư là phân loại suy ra từ mô tả lông, năng lượng và mục đích giống trong bài Wikipedia / chuẩn FCI, không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-hokkaido",
+  "loai": "cho",
+  "ten_en": "Hokkaido",
+  "ten_vi": "Chó Hokkaido",
+  "fci_group": 5,
+  "mo_ta_ngan": "Giống chó Nhật Bản cổ từ đảo Hokkaido, lông dày hai lớp, trung thành và dũng cảm, được công nhận là 'di sản thiên nhiên sống' của Nhật từ 1937; rất hiếm ngoài Nhật Bản.",
+  "kich_co": "Vua",
+  "can_nang": "khoảng 20 kg",
+  "chieu_cao": "46–52 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Trung thành",
+   "Dũng cảm",
+   "Cảnh giác",
+   "Điềm tĩnh"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-hokkaido.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Hokkaidou_inu.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "しでん (Japanese Wikipedia)"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Hokkaido_(dog_breed)",
+   "https://www.fci.be/en/nomenclature/HOKKAIDO-261.html"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ: không có trong bài Wikipedia lẫn chuẩn FCI, không bịa số. Cân nặng 'khoảng 20 kg' theo bài Wikipedia ('body masses in the 20 kg range'). Ảnh chính nhỏ (311×300, ảnh gốc trên Commons chỉ có cỡ này). Lưu ý sức khỏe: tỉ lệ mắc Collie eye anomaly (CEA) rất cao (~1/3 mắc, 2/3 mang gen). Rụng lông / vận động / hợp chung cư là phân loại suy ra từ mô tả lông, năng lượng và mục đích giống trong bài Wikipedia / chuẩn FCI, không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-taiwan-dog",
+  "loai": "cho",
+  "ten_en": "Taiwan Dog",
+  "ten_vi": "Chó Đài Loan",
+  "fci_group": 5,
+  "mo_ta_ngan": "Giống chó bản địa Đài Loan, còn gọi là chó núi Formosan, một trong những giống chó cổ nhất thế giới, trung thành tuyệt đối với chủ nhưng dè chừng người lạ; từng sống bán hoang dã trước khi được thuần hóa làm chó săn, chó canh và chó cứu hộ.",
+  "kich_co": "Vua",
+  "can_nang": "12–18 kg",
+  "chieu_cao": "43–52 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Trung thành",
+   "Cảnh giác",
+   "Thông minh",
+   "Dũng cảm"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-taiwan-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Dog_With_Yellow_Rapeseed_(242833099).jpeg",
+   "license": "CC BY 3.0",
+   "tac_gia": "Cho Hsun Lu"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Taiwan_Dog",
+   "https://www.fci.be/en/nomenclature/TAIWAN-DOG-348.html"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ: không có trong bài Wikipedia lẫn chuẩn FCI, không bịa số. Cân nặng: đực 14–18 kg, cái 12–16 kg; chiều cao: đực 48–52 cm, cái 43–47 cm (infobox Wikipedia, khớp chuẩn FCI). Rụng lông / vận động / hợp chung cư là phân loại suy ra từ mô tả lông, năng lượng và mục đích giống trong bài Wikipedia / chuẩn FCI, không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-deutsch-stichelhaar",
+  "loai": "cho",
+  "ten_en": "Deutsch Stichelhaar",
+  "ten_vi": null,
+  "fci_group": 7,
+  "mo_ta_ngan": "Giống chó săn lông cứng của Đức (tên nghĩa là 'lông cứng Đức'), điềm tĩnh, dũng cảm và tự chủ; không có bài riêng trên Wikipedia tiếng Anh — dữ liệu theo chuẩn FCI số 232 và ảnh trên Wikimedia Commons.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "58–70 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Dũng cảm",
+   "Cân bằng",
+   "Tự chủ"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-deutsch-stichelhaar.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:03030288_Deutsch_Stichelhaa.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Alephalpha"
+  },
+  "nguon": [
+   "https://www.fci.be/en/nomenclature/DEUTSCH-STICHELHAAR-232.html",
+   "https://www.fci.be/Nomenclature/Standards/232g07-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "KHÔNG có bài Wikipedia tiếng Anh (cũng không có trong 'List of dog breeds'); toàn bộ số liệu từ chuẩn FCI số 232. Cân nặng và tuổi thọ: chuẩn FCI không công bố, không bịa số. Chiều cao: đực 60–70 cm, cái 58–68 cm. Tính cách theo chuẩn FCI: cân bằng, điềm tĩnh, dẻo dai, dũng cảm nhưng tự chủ, không nhút nhát cũng không hung dữ. Ảnh đã đối chiếu mô tả trên Commons ('The german pointing dog Deutsch Stichelhaar'). Rụng lông / vận động / hợp chung cư là phân loại suy ra từ mô tả lông, năng lượng và mục đích giống trong bài Wikipedia / chuẩn FCI, không phải số liệu chuẩn."
+ },
+ {
+  "id": "cho-phu-quoc-ridgeback",
+  "loai": "cho",
+  "ten_en": "Phu Quoc Ridgeback",
+  "ten_vi": "Chó Phú Quốc",
+  "fci_group": null,
+  "mo_ta_ngan": "Một trong 'tứ đại quốc khuyển' của Việt Nam, giống chó xoáy lưng hiếm từ đảo Phú Quốc, chạy nhanh, bơi giỏi, săn mồi đa năng; KHÔNG thuộc FCI, được Hiệp hội Chó giống Việt Nam (VKA) công nhận.",
+  "kich_co": "Vua",
+  "can_nang": "12–20 kg",
+  "chieu_cao": "48–55 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Nhanh nhẹn",
+   "Cảnh giác",
+   "Đa năng",
+   "Dũng cảm"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-phu-quoc-ridgeback.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Phu_Quoc_breed.JPG",
+   "license": "Public domain",
+   "tac_gia": "Phó Nháy"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Phu_Quoc_Ridgeback",
+   "http://vka.vn/sdm_downloads/cho-phu-quoc-ban-tieu-chuan-so-001vn20-09-2009-cua-vka/"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "BONUS ngoài FCI (theo brief gap-fill): KHÔNG thuộc FCI và không được câu lạc bộ lớn nào công nhận — ghi rõ trong mô tả, fci_group=null. Cân nặng: đực 15–20 kg, cái 12–18 kg; chiều cao: đực 50–55 cm, cái 48–52 cm (infobox Wikipedia, theo chuẩn VKA). Tuổi thọ: không có trong bài Wikipedia, không bịa số. Rụng lông / vận động / hợp chung cư là phân loại suy ra từ mô tả lông, năng lượng và mục đích giống trong bài Wikipedia / chuẩn FCI, không phải số liệu chuẩn."
+ }
+]

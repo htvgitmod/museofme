@@ -1,0 +1,1389 @@
+[
+ {
+  "id": "meo-lykoi",
+  "loai": "meo",
+  "ten_en": "Lykoi",
+  "ten_vi": "Mèo Lykoi",
+  "fci_group": null,
+  "mo_ta_ngan": "Mèo 'người sói' với bộ lông roan thưa, loang lổ quanh mặt do đột biến tự nhiên gây rụng lông từng đợt; hay mắc nang và các vấn đề về da.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Ngọt ngào",
+   "Năng động",
+   "Độc lập",
+   "Dè dặt"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-lykoi.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:8-month-old_male_Lykoi.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "steptacular"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Lykoi",
+   "https://cfa.org/wp-content/uploads/2019/06/lykoi-standard.pdf",
+   "https://tica.org/phocadownload/ly.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng/tuổi thọ: bài Wikipedia không ghi số liệu. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-maine-coon",
+  "loai": "meo",
+  "ten_en": "Maine Coon",
+  "ten_vi": "Mèo Maine Coon",
+  "fci_group": null,
+  "mo_ta_ngan": "Một trong những giống mèo nhà lớn nhất, được gọi là 'người khổng lồ hiền lành'; lông dài dày, tính cách hòa đồng, có nhiều nét giống chó.",
+  "kich_co": "Lon",
+  "can_nang": "5-10 kg",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "12-13 năm",
+  "tinh_cach": [
+   "Hiền lành",
+   "Hòa đồng",
+   "Thông minh",
+   "Giống chó"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/meo-maine-coon.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:M%C3%A2le_Black_Silver_Blotched_Tabby.jpeg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "chưa rõ"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Maine_Coon",
+   "https://cfa.org/wp-content/uploads/2024/03/maine-coon-standard.pdf",
+   "https://tica.org/phocadownload/mc.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ: trung vị trên 12,5 năm theo dữ liệu bảo hiểm Thụy Điển 2003-2006 (bài Wikipedia). Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-manx",
+  "loai": "meo",
+  "ten_en": "Manx",
+  "ten_vi": "Mèo Manx",
+  "fci_group": null,
+  "mo_ta_ngan": "Giống mèo đảo Man nổi tiếng gần như không có đuôi (do đột biến rút ngắn đuôi), chân sau dài, là thợ săn chuột cừ khôi.",
+  "kich_co": "Vua",
+  "can_nang": "3,5-5,5 kg",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thợ săn giỏi",
+   "Trung thành",
+   "Hiền lành"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-manx.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Manx_cat_Latte.jpg",
+   "license": "CC0",
+   "tac_gia": "Hekl01999"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Manx_cat",
+   "http://www.cfa.org/Portals/0/documents/breeds/standards/manx.pdf",
+   "https://www.tica.org/phocadownload/mx.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng theo ghi nhận của Lane trong bài Wikipedia (đực 4,5-5,5 kg, cái 3,5-4,5 kg); tuổi thọ không có số liệu trong bài. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-mekong-bobtail",
+  "loai": "meo",
+  "ten_en": "Mekong Bobtail",
+  "ten_vi": "Mèo Mekong Bobtail",
+  "fci_group": null,
+  "mo_ta_ngan": "Giống mèo đuôi cộc tự nhiên ở vùng sông Mekong, cỡ trung bình, được phát triển thành giống ở Nga và WCF công nhận năm 2004.",
+  "kich_co": "Vua",
+  "can_nang": "3,6-4,5 kg",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thân thiện",
+   "Thông minh",
+   "Hoạt bát"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-mekong-bobtail.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Mekong_bobtail_(Thai_bobtail)._Tabby-point..jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Alex Opryatin"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Mekong_Bobtail",
+   "https://wcf.de/pdf-en/breed/MBT_en_2010-01-01.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ: bài Wikipedia không ghi số liệu. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-mexican-hairless",
+  "loai": "meo",
+  "ten_en": "Mexican Hairless",
+  "ten_vi": "Mèo không lông Mexico",
+  "fci_group": null,
+  "mo_ta_ngan": "Giống mèo không lông gây tranh cãi, lần đầu ghi nhận năm 1902 với một cặp mèo ở New Mexico; vì không có lông nên rất hay tìm hơi ấm.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Tìm hơi ấm",
+   "Hiền lành"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-mexican-hairless.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Mexican_Hairless_cats.JPG",
+   "license": "Public domain",
+   "tac_gia": "Unknown authorUnknown author"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Mexican_Hairless_Cat"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Giống gây tranh cãi ('purported breed'), hiện không còn được công nhận rộng rãi; cân nặng/tuổi thọ không có số liệu trong bài. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-minskin",
+  "loai": "meo",
+  "ten_en": "Minskin",
+  "ten_vi": "Mèo Minskin",
+  "fci_group": null,
+  "mo_ta_ngan": "Mèo chân ngắn, lông cực ngắn (thường bị nhầm là không lông), lai giữa Munchkin, Burmese, Sphynx và Devon Rex.",
+  "kich_co": "Nho",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thân thiện",
+   "Hiền lành"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-minskin.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Minskin_Kitten_Female_blue_tabby_color-pattern.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Paulmcsorley"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Minskin"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Việc nhân giống Minskin bị cấm ở một số nước (EU cấm trên thực tế); cân nặng/tuổi thọ không có số liệu trong bài. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-minuet",
+  "loai": "meo",
+  "ten_en": "Minuet",
+  "ten_vi": "Mèo Minuet",
+  "fci_group": null,
+  "mo_ta_ngan": "Còn gọi là Napoleon, lai giữa Ba Tư và Munchkin: chân ngắn, lông dài mềm, tính cách hiền như Ba Tư.",
+  "kich_co": "Nho",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hiền lành",
+   "Quấn chủ"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-minuet.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:White_Gray_Minuet_Cat.png",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "William Parker"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Minuet_cat",
+   "https://www.tica.org/phocadownload/mnt.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng/tuổi thọ không có số liệu trong bài Wikipedia. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-munchkin",
+  "loai": "meo",
+  "ten_en": "Munchkin",
+  "ten_vi": "Mèo Munchkin",
+  "fci_group": null,
+  "mo_ta_ngan": "Giống mèo chân ngắn nổi tiếng do đột biến lùn; dù chân ngắn vẫn chạy nhảy, leo trèo tốt, tính cách vui vẻ, tò mò.",
+  "kich_co": "Nho",
+  "can_nang": "1,8-4,1 kg",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hoạt bát",
+   "Tò mò",
+   "Thân thiện"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-munchkin.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Longhairedmunchkin.jpg",
+   "license": "CC BY 3.0",
+   "tac_gia": "Sg0668commons"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Munchkin_cat",
+   "https://tica.org/phocadownload/mk.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Việc nhân giống gây tranh cãi, bị cấm ở một số nước vì lo ngại sức khỏe; tuổi thọ không có số liệu trong bài. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-nebelung",
+  "loai": "meo",
+  "ten_en": "Nebelung",
+  "ten_vi": "Mèo Nebelung",
+  "fci_group": null,
+  "mo_ta_ngan": "Mèo lông dài màu xanh xám, mắt xanh lá, tính tình dịu dàng, hơi dè dặt; họ hàng lông dài của mèo Nga xanh.",
+  "kich_co": "Vua",
+  "can_nang": "3,5-6,5 kg",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Dịu dàng",
+   "Dè dặt",
+   "Trung thành"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Thap",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-nebelung.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Aleksandr_van_Song_de_Chine.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Nebelung"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Nebelung",
+   "https://tica.org/breeds/browse-all-breeds?view=article&id=1663:the-nebelung-breed&catid=48",
+   "https://wcf.de/pdf-en/breed/NEB_en_2010-01-01.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ không có số liệu trong bài Wikipedia. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-neva-masquerade",
+  "loai": "meo",
+  "ten_en": "Neva Masquerade",
+  "ten_vi": "Mèo Neva Masquerade",
+  "fci_group": null,
+  "mo_ta_ngan": "Dạng colourpoint mắt xanh của mèo Siberia, lông bán dài, thân hình cơ bắp, cỡ trung bình tới lớn.",
+  "kich_co": "Lon",
+  "can_nang": "4,5-9 kg",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hiền lành",
+   "Thông minh",
+   "Quấn chủ"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/meo-neva-masquerade.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:NevaMasqueradeFiona_(cropped).jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Burgerhus"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Neva_Masquerade",
+   "https://www.fifeweb.org/dnld/std/SIB-NEM.pdf",
+   "https://wcf.de/pdf-en/breed/SIB_en_2022-02-24.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ không có số liệu trong bài Wikipedia. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-ocicat",
+  "loai": "meo",
+  "ten_en": "Ocicat",
+  "ten_vi": "Mèo Ocicat",
+  "fci_group": null,
+  "mo_ta_ngan": "Mèo nhà thuần chủng nhưng có bộ lông đốm như báo ocelot; lai giữa Xiêm, Abyssinian và American Shorthair, rất năng động và thích giao tiếp.",
+  "kich_co": "Vua",
+  "can_nang": "2,5-6,5 kg",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Năng động",
+   "Thông minh",
+   "Hòa đồng"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-ocicat.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Topspot_La_Colombina_(Liina)_OCI_c_24_female_kitten_EX1.JPG",
+   "license": "CC BY 3.0",
+   "tac_gia": "Heikki Siltala - catza.net"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Ocicat",
+   "https://cfa.org/wp-content/uploads/2024/03/ocicat-standard.pdf",
+   "https://tica.org/wp-content/uploads/2024/02/oc.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ không có số liệu trong bài Wikipedia. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-ojos-azules",
+  "loai": "meo",
+  "ten_en": "Ojos Azules",
+  "ten_vi": "Mèo Ojos Azules",
+  "fci_group": null,
+  "mo_ta_ngan": "Giống mèo Mỹ mắt xanh nổi bật do đột biến gene mắt xanh trội; chỉ cho phép màu bicolour, colourpoint và đầu đuôi trắng.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hiền lành",
+   "Dè dặt"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-ojos-azules.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Ojos_Azules_from_the_USA.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "cats.fandom.com"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Ojos_Azules",
+   "https://ia904709.us.archive.org/view_archive.php?archive=/35/items/httpswww.tica.orgphocadownload2001-semi_2001.pdf/2001-semi_2001_jp2.zip&file=2001-semi_2001_jp2%2F2001-semi_2001_0034.jp2"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Giống ĐÃ TUYỆT CHỦNG chính thức: gene gây tác dụng phụ gây chết nên các nhà nhân giống đã dừng lại; cân nặng/tuổi thọ không có số liệu. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo. Tính cách ít tài liệu do giống đã tuyệt chủng."
+ },
+ {
+  "id": "meo-oriental-bicolour",
+  "loai": "meo",
+  "ten_en": "Oriental Bicolour",
+  "ten_vi": "Mèo Oriental Bicolour",
+  "fci_group": null,
+  "mo_ta_ngan": "Mèo kiểu Oriental có mảng trắng trên lông; hầu hết các hiệp hội chỉ coi là biến thể màu lông, riêng GCCF (Anh) công nhận là giống riêng.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Năng động",
+   "Hay nói",
+   "Quấn chủ"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/meo-oriental-bicolour.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Oriental_shorthair_20070130_caroline.jpg",
+   "license": "Public domain",
+   "tac_gia": "en:User:Cats rule"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Oriental_Bicolour",
+   "https://www.gccfcats.org/wp-content/uploads/2022/07/OriBi-SOP-July-2022.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng/tuổi thọ không có số liệu trong bài Wikipedia; giống chỉ được GCCF công nhận riêng, các hiệp hội khác coi là biến thể màu của Oriental. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-oriental-longhair",
+  "loai": "meo",
+  "ten_en": "Oriental Longhair",
+  "ten_vi": "Mèo Oriental Longhair",
+  "fci_group": null,
+  "mo_ta_ngan": "Còn gọi là Javanese hay Mandarin, là dạng lông dài của mèo Oriental; TICA coi là giống riêng, CFA gộp chung vào giống Oriental.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Năng động",
+   "Hay nói",
+   "Thông minh"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/meo-oriental-longhair.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Solid_black_Javanese_cat.jpg",
+   "license": "FAL",
+   "tac_gia": "Violetta  Belyanskaya"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Oriental_Longhair",
+   "https://cfa.org/oriental/",
+   "https://tica.org/breeds/browse-all-breeds?view=article&id=862:oriental-longhair-breed&catid=79"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng/tuổi thọ không có số liệu trong bài Wikipedia. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-oriental-shorthair",
+  "loai": "meo",
+  "ten_en": "Oriental Shorthair",
+  "ten_vi": "Mèo Oriental Shorthair",
+  "fci_group": null,
+  "mo_ta_ngan": "Họ hàng gần của mèo Xiêm với cùng thân hình mảnh mai, tai lớn, nhưng có đủ mọi màu lông và thường mắt xanh lá; rất hay trò chuyện.",
+  "kich_co": "Vua",
+  "can_nang": "3,5-5,5 kg",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Năng động",
+   "Hay nói",
+   "Quấn chủ"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/meo-oriental-shorthair.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Fatale_de_la_l%C3%A9gende_d%27ali.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Daly69"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Oriental_Shorthair",
+   "https://tica.org/phocadownload/si.pdf",
+   "http://www1.fifeweb.org/dnld/std/BAL-SIA-OLH-OSH.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng theo bài Wikipedia (đực 3,5-5,5 kg, cái dưới 3,5 kg); tuổi thọ không có số liệu. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-persian",
+  "loai": "meo",
+  "ten_en": "Persian",
+  "ten_vi": "Mèo Ba Tư",
+  "fci_group": null,
+  "mo_ta_ngan": "Giống mèo lông dài cổ điển mặt tròn; bản truyền thống mũi nhỏ thở bình thường, còn dòng mũi tẹt do lai tạo ở Mỹ dễ khó thở.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "11-14 năm",
+  "tinh_cach": [
+   "Điềm đạm",
+   "Hiền lành",
+   "Quấn chủ"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Thap",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-persian.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Persialainen.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "The original uploader was Lajoma at Finnish Wikipedia."
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Persian_cat",
+   "https://cfa.org/wp-content/uploads/2024/03/persian-standard.pdf",
+   "https://tica.org/phocadownload/ps.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ: trung vị trên 12,5 năm (Thụy Điển), trung bình 14,1 năm (Anh, 2015), nghiên cứu Anh 2024 là 10,93 năm; cân nặng không có số liệu trong bài. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-peterbald",
+  "loai": "meo",
+  "ten_en": "Peterbald",
+  "ten_vi": "Mèo Peterbald",
+  "fci_group": null,
+  "mo_ta_ngan": "Mèo không lông Nga, lai tạo năm 1994 ở St. Petersburg từ Don Sphynx và Oriental Shorthair; thân hình mảnh mai kiểu Oriental.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Năng động",
+   "Quấn chủ",
+   "Thông minh"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-peterbald.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Tamila_the_lilac_tabby_Peterbald_cat.jpg",
+   "license": "Public domain",
+   "tac_gia": "Peterbald"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Peterbald"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng/tuổi thọ không có số liệu trong bài Wikipedia. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-pixie-bob",
+  "loai": "meo",
+  "ten_en": "Pixie-bob",
+  "ten_vi": "Mèo Pixie-bob",
+  "fci_group": null,
+  "mo_ta_ngan": "Mèo đuôi cộc, thường nhiều ngón, lông đốm như linh miêu; từng được cho là lai với linh miêu nhưng xét nghiệm ADN cho thấy là mèo nhà thuần chủng.",
+  "kich_co": "Vua",
+  "can_nang": "3,5-5 kg",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hiền lành",
+   "Trung thành",
+   "Điềm tĩnh"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-pixie-bob.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Jarnac_Bepacific_feb07.jpg",
+   "license": "CC BY 2.5",
+   "tac_gia": "Nathalie Bent"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Pixie-bob",
+   "https://tica.org/phocadownload/pb.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng: trung bình không quá 5 kg theo bài Wikipedia (mèo nhà trung bình khoảng 3,5 kg); tuổi thọ không có số liệu. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-ragamuffin",
+  "loai": "meo",
+  "ten_en": "Ragamuffin",
+  "ten_vi": "Mèo Ragamuffin",
+  "fci_group": null,
+  "mo_ta_ngan": "Từng được coi là biến thể của Ragdoll, tách thành giống riêng năm 1994; nổi tiếng thân thiện, lông dày mềm.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thân thiện",
+   "Hiền lành",
+   "Quấn chủ"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Thap",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-ragamuffin.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:20050922AmarilloRes.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "\"Iris Preyler-Hamertinger\""
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Ragamuffin_cat",
+   "https://cfa.org/wp-content/uploads/2024/03/ragamuffin-standard.pdf",
+   "https://www.gccfcats.org/wp-content/uploads/2021/10/RagaMuffin.SOP_.Template.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng/tuổi thọ không có số liệu trong bài Wikipedia; kích cỡ Lớn suy ra từ quan hệ họ hàng và mô tả giống Ragdoll. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-ragdoll",
+  "loai": "meo",
+  "ten_en": "Ragdoll",
+  "ten_vi": "Mèo Ragdoll",
+  "fci_group": null,
+  "mo_ta_ngan": "Mèo mắt xanh, lông bán dài mềm như lụa, nổi tiếng ngoan ngoãn, hay mềm người khi được bế và đi theo chủ như chó.",
+  "kich_co": "Lon",
+  "can_nang": "3,6-9,1 kg",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "10-11 năm",
+  "tinh_cach": [
+   "Hiền lành",
+   "Ngoan ngoãn",
+   "Quấn chủ"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Thap",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-ragdoll.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Ragdoll_from_Gatil_Ragbelas.jpg",
+   "license": "CC BY-SA 2.0",
+   "tac_gia": "Simone Johnsson"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Ragdoll",
+   "https://cfa.org/wp-content/uploads/2024/03/ragdoll-standard.pdf",
+   "https://www.tica.org/phocadownload/rd.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ: nghiên cứu Anh ghi 10,31 năm (bài Wikipedia); cân nặng cái 3,6-6,8 kg, đực 5,4-9,1 kg trở lên. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-russian-blue",
+  "loai": "meo",
+  "ten_en": "Russian Blue",
+  "ten_vi": "Mèo xanh Nga",
+  "fci_group": null,
+  "mo_ta_ngan": "Mèo lông ngắn màu xanh lam có ánh bạc, mắt xanh lá; dè dặt với người lạ nhưng rất gắn bó với chủ, vẫn ham chơi tới khi trưởng thành.",
+  "kich_co": "Vua",
+  "can_nang": "3,6-6,8 kg",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Dè dặt",
+   "Trung thành",
+   "Hiền lành"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-russian-blue.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Russian_blue_kitten_(cropped).jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Anna Utekhina http://kidsphoto.ru/"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Russian_Blue",
+   "https://cfa.org/wp-content/uploads/2024/03/russian-blue-standard.pdf",
+   "https://tica.org/wp-content/uploads/2024/02/rb.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ không có số liệu trong bài Wikipedia. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-russian-white-black-and-tabby",
+  "loai": "meo",
+  "ten_en": "Russian White, Black, and Tabby",
+  "ten_vi": "Mèo Nga trắng/đen/tabby",
+  "fci_group": null,
+  "mo_ta_ngan": "Nhóm giống tạo ra năm 1971 từ mèo Nga xanh, chỉ khác màu lông: trắng, đen hoặc tabby.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Dè dặt",
+   "Hiền lành"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-russian-white-black-and-tabby.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Russian_Black_and_Russian_White.png",
+   "license": "CC BY 4.0",
+   "tac_gia": "LaesaMajestas"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Russian_White,_Black,_and_Tabby"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng/tuổi thọ không có số liệu trong bài Wikipedia. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-savannah",
+  "loai": "meo",
+  "ten_en": "Savannah",
+  "ten_vi": "Mèo Savannah",
+  "fci_group": null,
+  "mo_ta_ngan": "Mèo lai giữa mèo nhà và linh miêu đồng cỏ serval châu Phi: cao, mảnh, tai lớn, lông đốm đen; thế hệ F1-F2 có thể rất lớn.",
+  "kich_co": "Lon",
+  "can_nang": "5-8,2 kg",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Năng động",
+   "Thông minh",
+   "Tò mò"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/meo-savannah.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Savannah_Cat_portrait.jpg",
+   "license": "Public domain",
+   "tac_gia": "Jason Douglas"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Savannah_cat",
+   "https://tica.org/phocadownload/sv.pdf",
+   "https://wcf.de/pdf-de/rasse/Standard_Savannah_DE_22112020.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng thế hệ F4-F5 là 5-8,2 kg (F1-F2 thường 4,5-11 kg); tuổi thọ không có số liệu. Cần không gian và vận động nhiều; một số nơi hạn chế nuôi mèo lai serval. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-selkirk-rex",
+  "loai": "meo",
+  "ten_en": "Selkirk Rex",
+  "ten_vi": "Mèo Selkirk Rex",
+  "fci_group": null,
+  "mo_ta_ngan": "Mèo lông xoăn dày khác biệt với các giống Rex khác; tính tình điềm đạm, thích ôm ấp, được phát triển ở Mỹ từ cuối thập niên 1980.",
+  "kich_co": "Vua",
+  "can_nang": "5,4-6,8 kg",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Điềm đạm",
+   "Quấn chủ",
+   "Hòa đồng"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Thap",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-selkirk-rex.jpg",
+   "commons_url": "https://en.wikipedia.org/wiki/File:PolloSelkirkRex.jpg",
+   "license": "CC-BY-SA-3.0",
+   "tac_gia": "chưa rõ"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Selkirk_Rex",
+   "https://cfa.org/wp-content/uploads/2024/03/selkirk-rex-standard.pdf",
+   "https://tica.org/wp-content/uploads/2024/08/sr.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng đực 12-15 pound (5,4-6,8 kg), cái nhỏ hơn; tuổi thọ không có số liệu trong bài. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-serengeti",
+  "loai": "meo",
+  "ten_en": "Serengeti",
+  "ten_vi": "Mèo Serengeti",
+  "fci_group": null,
+  "mo_ta_ngan": "Mèo lai giữa Bengal và Oriental Shorthair, chân dài, lông đốm, ngoại hình hoang dã nhưng hoàn toàn là mèo nhà.",
+  "kich_co": "Vua",
+  "can_nang": "4-7 kg",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Năng động",
+   "Tò mò",
+   "Hòa đồng"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-serengeti.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Serengetimalecat.jpg",
+   "license": "Public domain",
+   "tac_gia": "Shandris at English Wikipedia"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Serengeti_cat",
+   "http://tica.org/public/breeds/se/intro.php"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng đực 5-7 kg, cái 4-5 kg theo bài Wikipedia; tuổi thọ không có số liệu. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-siamese",
+  "loai": "meo",
+  "ten_en": "Siamese",
+  "ten_vi": "Mèo Xiêm",
+  "fci_group": null,
+  "mo_ta_ngan": "Một trong những giống mèo được công nhận sớm nhất, từ mèo Wichianmat của Thái Lan; lông colourpoint, mắt xanh hạnh nhân, rất hay trò chuyện và bám chủ.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "11-12 năm",
+  "tinh_cach": [
+   "Hay nói",
+   "Thông minh",
+   "Quấn chủ"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/meo-siamese.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Siamese_cat_Vaillante.JPG",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Meekahoo"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Siamese_cat",
+   "https://cfa.org/wp-content/uploads/2024/03/siamese-standard.pdf",
+   "https://tica.org/wp-content/uploads/2018/08/si.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ: nghiên cứu Anh ghi 11,69 năm (bài Wikipedia); cân nặng không có số liệu trong bài. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-siberian",
+  "loai": "meo",
+  "ten_en": "Siberian",
+  "ten_vi": "Mèo Siberia",
+  "fci_group": null,
+  "mo_ta_ngan": "Giống mèo rừng Siberia lâu đời của Nga, lông bán dài dày chống lạnh; dạng colourpoint của nó là Neva Masquerade.",
+  "kich_co": "Lon",
+  "can_nang": "4,5-9 kg",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hiền lành",
+   "Thông minh",
+   "Hoạt bát"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/meo-siberian.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Samiha%27s_Siberian_cat_Moon_Pie.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Floofymarshmallow"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Siberian_cat",
+   "https://cfa.org/wp-content/uploads/2019/06/siberian-standard.pdf",
+   "https://tica.org/phocadownload/sb.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ không có số liệu trong bài Wikipedia. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-singapura",
+  "loai": "meo",
+  "ten_en": "Singapura",
+  "ten_vi": "Mèo Singapura",
+  "fci_group": null,
+  "mo_ta_ngan": "Được coi là giống mèo thuần chủng nhẹ và nhỏ nhất; mắt và tai lớn, lông ticked, đuôi cụt, xuất xứ từ những con mèo đường phố Singapore.",
+  "kich_co": "Nho",
+  "can_nang": "1,8-2,7 kg",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hoạt bát",
+   "Tò mò",
+   "Quấn chủ"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-singapura.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Singapura_Cats.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Straits Singapuras"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Singapura_cat",
+   "https://cfa.org/wp-content/uploads/2024/03/singapura-standard.pdf",
+   "https://tica.org/phocadownload/sg.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng cái 1,8 kg, đực 2,7 kg theo bài Wikipedia; tuổi thọ không có số liệu. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-snowshoe",
+  "loai": "meo",
+  "ten_en": "Snowshoe",
+  "ten_vi": "Mèo Snowshoe",
+  "fci_group": null,
+  "mo_ta_ngan": "Giống mèo hiếm của Mỹ từ thập niên 1960, lông colourpoint hai màu với bốn 'chiếc giày' trắng đặc trưng và mắt xanh.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hiền lành",
+   "Hoạt bát",
+   "Quấn chủ"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-snowshoe.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Hattikatin_Lumipyry.JPG",
+   "license": "CC BY 3.0",
+   "tac_gia": "Heikki Siltala"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Snowshoe_cat",
+   "https://tica.org/phocadownload/sn.pdf",
+   "https://fifeweb.org/wp-content/uploads/2023/10/SNO.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng/tuổi thọ không có số liệu trong bài Wikipedia. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-sokoke",
+  "loai": "meo",
+  "ten_en": "Sokoke",
+  "ten_vi": "Mèo Sokoke",
+  "fci_group": null,
+  "mo_ta_ngan": "Giống mèo tự nhiên từ rừng Arabuko Sokoke ở Kenya, chân dài, lông ngắn thô, thường có vằn blotched tabby; được chuẩn hóa từ cuối thập niên 1970.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "15 năm",
+  "tinh_cach": [
+   "Năng động",
+   "Thông minh",
+   "Độc lập"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-sokoke.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Kimburu_Sungura_Sana_of_Moosegrove_SOK_n_22_(cropped).jpg",
+   "license": "CC BY 3.0",
+   "tac_gia": "Heikki Siltala https://catza.net/"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Sokoke",
+   "http://www.fifeweb.org/dnld/std/SOK.pdf",
+   "https://www.gccfcats.org/wp-content/uploads/2021/10/SOKOKE.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ trung bình khoảng 15 năm theo bài Wikipedia; cân nặng không có số liệu. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-somali",
+  "loai": "meo",
+  "ten_en": "Somali",
+  "ten_vi": "Mèo Somali",
+  "fci_group": null,
+  "mo_ta_ngan": "Được gọi là 'Abyssinian lông dài': bộ lông dài mềm lộng lẫy, tính cách năng động, ham chơi như họ hàng Abyssinian.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hoạt bát",
+   "Thông minh",
+   "Tò mò"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-somali.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D1%88%D0%BA%D0%B0.jpg",
+   "license": "Public domain",
+   "tac_gia": "Матвеева Ирина Владимировна"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Somali_cat",
+   "https://cfa.org/wp-content/uploads/2024/05/somali-presentation.pdf",
+   "https://www.tica.org/phocadownload/ab.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng/tuổi thọ không có số liệu trong bài Wikipedia. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-sphynx",
+  "loai": "meo",
+  "ten_en": "Sphynx",
+  "ten_vi": "Mèo Sphynx",
+  "fci_group": null,
+  "mo_ta_ngan": "Mèo không lông nổi tiếng của Canada, da mịn như da lộn, tai và mắt lớn; rất quấn người, hay tìm hơi ấm vì không có lông giữ nhiệt.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Quấn chủ",
+   "Hoạt bát",
+   "Thân thiện"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-sphynx.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Sphynx_-_cat._img_031.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Dmitry Makeev"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Sphynx_cat",
+   "https://cfa.org/wp-content/uploads/2024/05/sphynx-presentation.pdf",
+   "https://www.tica.org/phocadownload/sx.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng/tuổi thọ không có số liệu trong bài Wikipedia; rụng lông 'Ít' vì gần như không có lông (da vẫn tiết dầu, cần lau thường xuyên). Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-suphalak",
+  "loai": "meo",
+  "ten_en": "Suphalak",
+  "ten_vi": "Mèo Suphalak",
+  "fci_group": null,
+  "mo_ta_ngan": "Mèo lông ngắn màu nâu đỏ đồng của Thái Lan, ghi trong bản thảo cổ Tamra Maew; có người coi là tổ tiên của mèo Burmese hiện đại.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hiền lành",
+   "Thông minh"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-suphalak.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Suphalak_Female_in_Thailand_named_AumDaengManee.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Maewboran"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Suphalak",
+   "https://wcf.de/pdf-en/breed/SUP_en_2024-11-01.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Một số nguồn coi Suphalak là đồng nghĩa/biến thể màu của mèo Thái cổ (Maew Boran), chưa được công nhận rộng rãi là giống riêng; cân nặng/tuổi thọ không có số liệu. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-thai",
+  "loai": "meo",
+  "ten_en": "Thai",
+  "ten_vi": "Mèo Thái (Xiêm cổ điển)",
+  "fci_group": null,
+  "mo_ta_ngan": "Còn gọi là Xiêm cổ điển hay Wichien Maat, là dạng Xiêm truyền thống của Thái Lan, tách khỏi Xiêm hiện đại từ thập niên 1980; đầu tròn hơn, thân hình vừa phải.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hay nói",
+   "Thông minh",
+   "Quấn chủ"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/meo-thai.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:%D0%A2%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%82_%D0%9B%D1%83%D0%BB%D0%B0%D0%BC%D0%B5%D0%B9_%D0%A2%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B0,_%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B5_WCF,_%D0%BE%D0%BA%D1%80%D0%B0%D1%81_%D0%B1%D0%BB%D1%8E_%D0%BF%D0%BE%D0%B8%D0%BD%D1%82_01_(cropped).jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Talar"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Thai_cat",
+   "https://tica.org/phocadownload/th.pdf",
+   "https://fifeweb.org/app/uploads/2023/10/THA.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng/tuổi thọ không có số liệu trong bài Wikipedia. (Mục 'Traditional Siamese cat' là redirect tới bài này nên không lập mục riêng.) Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-tiffanie",
+  "loai": "meo",
+  "ten_en": "Tiffanie",
+  "ten_vi": "Mèo Tiffanie",
+  "fci_group": null,
+  "mo_ta_ngan": "Dạng lông bán dài của nhóm mèo Asian, lai giữa Persian Chinchilla và Burmese ở Anh thập niên 1980; ở một số hiệp hội gọi là Asian Longhair.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hiền lành",
+   "Quấn chủ",
+   "Điềm đạm"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-tiffanie.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Tiffanie_at_cat_show.jpg",
+   "license": "CC BY 3.0",
+   "tac_gia": "Heikki Siltala"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Tiffanie",
+   "http://wcf.info/WCF-EN/standard/semi-longhair/tiffanie.html",
+   "https://gccfcats.org/wp-content/uploads/2021/10/SOP.final_.July2021.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng/tuổi thọ không có số liệu trong bài Wikipedia. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-tonkinese",
+  "loai": "meo",
+  "ten_en": "Tonkinese",
+  "ten_vi": "Mèo Tonkinese",
+  "fci_group": null,
+  "mo_ta_ngan": "Lai giữa Xiêm và Burmese, nổi tiếng với màu lông 'mink' đặc trưng; thân thiện, ham chơi, thích trò chuyện nhưng dịu hơn Xiêm.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thân thiện",
+   "Hoạt bát",
+   "Hay nói"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-tonkinese.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Tonkinese_Cat_-_Leo.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Luigi Leahy"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Tonkinese_cat",
+   "https://cfa.org/wp-content/uploads/2024/03/tonkinese-standard.pdf",
+   "https://tica.org/wp-content/uploads/2024/02/to.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng/tuổi thọ không có số liệu trong bài Wikipedia. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-toybob",
+  "loai": "meo",
+  "ten_en": "Toybob",
+  "ten_vi": "Mèo Toybob",
+  "fci_group": null,
+  "mo_ta_ngan": "Giống mèo Nga nhỏ bé, đuôi ngắn xoắn, thường được coi là giống mèo nhỏ nhất thế giới do đột biến tự phát; mang gene colourpoint của Xiêm.",
+  "kich_co": "Nho",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hiền lành",
+   "Quấn chủ"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-toybob.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:TOB_Velena-Kutc_(15818956518)_(cropped).jpg",
+   "license": "CC BY-SA 2.0",
+   "tac_gia": "Nickolas Titkov from Moscow, Russian Federation"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Toybob",
+   "https://cfa.org/toybob/toybob-breed-standard/"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng/tuổi thọ không có số liệu trong bài Wikipedia (bài chỉ dài 664 ký tự). Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-toyger",
+  "loai": "meo",
+  "ten_en": "Toyger",
+  "ten_vi": "Mèo Toyger",
+  "fci_group": null,
+  "mo_ta_ngan": "Mèo 'hổ đồ chơi': lai tạo từ mèo tabby lông ngắn để có bộ lông sọc giống hổ, nhằm gợi sự quan tâm tới bảo tồn hổ hoang dã; TICA công nhận đầy đủ năm 2007.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hoạt bát",
+   "Thân thiện",
+   "Thông minh"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-toyger.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Toyger_-_Cornish_Rex_presentation_show_Riihim%C3%A4ki_2008-11-16_IMG_0101.JPG",
+   "license": "CC BY 3.0",
+   "tac_gia": "Heikki Siltala"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Toyger",
+   "https://tica.org/breed/toyger/",
+   "https://www.gccfcats.org/wp-content/uploads/2021/10/Toyger.SOP_.March2020.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng/tuổi thọ không có số liệu trong bài Wikipedia. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-traditional-persian",
+  "loai": "meo",
+  "ten_en": "Traditional Persian",
+  "ten_vi": "Mèo Ba Tư truyền thống",
+  "fci_group": null,
+  "mo_ta_ngan": "Tên gọi cho mèo Ba Tư nguyên bản trước khi lai tạo mũi tẹt: mũi nhỏ dài, thở bình thường, ngoại hình gần như không đổi từ cuối thế kỷ 19.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Điềm đạm",
+   "Hiền lành",
+   "Quấn chủ"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Thap",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-traditional-persian.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Persian_in_Cat_Cafe.jpg",
+   "license": "CC BY-SA 2.0",
+   "tac_gia": "Takashi(aes256)"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Traditional_Persian",
+   "http://www.wcf-online.de/WCF-EN/standard/longhair/traditionelle-langhaar.html"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Không phải giống đăng ký riêng mà là kiểu truyền thống của mèo Ba Tư; cân nặng/tuổi thọ không có số liệu trong bài. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-turkish-angora",
+  "loai": "meo",
+  "ten_en": "Turkish Angora",
+  "ten_vi": "Mèo Angora Thổ Nhĩ Kỳ",
+  "fci_group": null,
+  "mo_ta_ngan": "Một trong những giống mèo tự nhiên cổ xưa nhất, từ vùng Ankara, Thổ Nhĩ Kỳ, ghi nhận từ thế kỷ 17; thân hình mảnh mai, thanh lịch, lông bán dài mượt.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thông minh",
+   "Hoạt bát",
+   "Quấn chủ"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-turkish-angora.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Turkish_Angora_in_Ankara_Zoo_(AO%C3%87).JPG",
+   "license": "CC BY 3.0",
+   "tac_gia": "Ankarakediler"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Turkish_Angora",
+   "https://cfa.org/wp-content/uploads/2019/06/turkish-angora-standard.pdf",
+   "https://tica.org/phocadownload/ta.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng/tuổi thọ không có số liệu trong bài Wikipedia. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-turkish-van",
+  "loai": "meo",
+  "ten_en": "Turkish Van",
+  "ten_vi": "Mèo Turkish Van",
+  "fci_group": null,
+  "mo_ta_ngan": "Còn gọi là 'mèo biết bơi': lông bán dài, màu trắng với mảng màu chỉ ở đầu và đuôi (kiểu Van); một trong những giống mèo lớn hơn, mắt xanh, cam hoặc hai màu.",
+  "kich_co": "Lon",
+  "can_nang": "3-9 kg",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Năng động",
+   "Thông minh",
+   "Thích nước"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/meo-turkish-van.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Turkish_Van_cat_transparent_(cropped).png",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Matsu1024"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Turkish_Van",
+   "https://web.archive.org/web/20060118003851/http://www.cfainc.org/breeds/standards/turkish-van.html",
+   "https://tica.org/phocadownload/tv.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng đực 5-9 kg, cái 3-5 kg theo bài Wikipedia; tuổi thọ không có số liệu. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-ukrainian-levkoy",
+  "loai": "meo",
+  "ten_en": "Ukrainian Levkoy",
+  "ten_vi": "Mèo Ukrainian Levkoy",
+  "fci_group": null,
+  "mo_ta_ngan": "Lai giữa Scottish Fold và Donskoy: tai cụp vào trong, gần như không có lông, da mềm nhăn, đầu góc cạnh với sống mũi 'bậc thang' đặc trưng.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hiền lành",
+   "Quấn chủ",
+   "Điềm đạm"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/meo-ukrainian-levkoy.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Ukrainian_Levkoy_cat.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Alena Ivanchuk"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Ukrainian_Levkoy"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng/tuổi thọ không có số liệu trong bài Wikipedia. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ },
+ {
+  "id": "meo-york-chocolate",
+  "loai": "meo",
+  "ten_en": "York Chocolate",
+  "ten_vi": "Mèo York Chocolate",
+  "fci_group": null,
+  "mo_ta_ngan": "Giống mèo hiếm của Mỹ, tạo ra từ 1983 từ mèo lông dài không thuần chủng; lông dài xù, màu sô-cô-la đặc hoặc lilac, đặt tên theo bang New York.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hiền lành",
+   "Quấn chủ"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": null,
+  "nguon": [
+   "https://en.wikipedia.org/wiki/York_Chocolate",
+   "https://wcf.de/pdf-en/breed/YOR_en_2010-01-01.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa có ảnh: no verified purebred photo: Wikipedia infobox has no image; Commons only has a kitten filed as 'York Chocolate mix cats' CHƯA CÓ ẢNH: infobox Wikipedia không có ảnh; trên Commons chỉ có một ảnh mèo con ghi là 'York Chocolate mix'. Số lượng cực ít hoặc đã tuyệt chủng tính đến 2026; chỉ WCF công nhận rộng rãi. Các trường rung_long/van_dong/hop_chung_cu/tinh_cach là phân loại suy ra từ mô tả lông, năng lượng và tính cách trong bài Wikipedia EN, không phải số liệu trực tiếp của nguồn. Chiều cao: bài Wikipedia và chuẩn giống không công bố chiều cao cho mèo."
+ }
+]

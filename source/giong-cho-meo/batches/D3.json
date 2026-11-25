@@ -1,0 +1,2000 @@
+[
+ {
+  "id": "cho-english-springer-spaniel",
+  "loai": "cho",
+  "ten_en": "English Springer Spaniel",
+  "ten_vi": null,
+  "fci_group": 8,
+  "mo_ta_ngan": "Chó săn chim cỡ vừa của Anh, chuyên lùa và tha mồi; rất gắn bó với gia đình và hay được dùng làm chó nghiệp vụ đánh hơi.",
+  "kich_co": "Vua",
+  "can_nang": "18-27 kg",
+  "chieu_cao": "48-53 cm",
+  "tuoi_tho": "12-14 năm",
+  "tinh_cach": [
+   "Thân thiện",
+   "Vui vẻ",
+   "Thông minh",
+   "Vâng lời"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-english-springer-spaniel.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Springer_Spaniel_Wide_Shot.jpg",
+   "license": "CC0",
+   "tac_gia": "Ratsniffer"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/English_Springer_Spaniel",
+   "https://www.fci.be/Nomenclature/Standards/125g08-en.pdf",
+   "https://www.akc.org/dog-breeds/english-springer-spaniel/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ: AKC 12-14 năm; nghiên cứu Anh trên Wikipedia ghi 11 năm."
+ },
+ {
+  "id": "cho-english-toy-terrier-black-tan",
+  "loai": "cho",
+  "ten_en": "English Toy Terrier (Black & Tan)",
+  "ten_vi": null,
+  "fci_group": 3,
+  "mo_ta_ngan": "Giống chó sục đồ chơi nhỏ của Anh, nhanh nhẹn và lanh lợi, có nguồn gốc từ chó sục đen-nâu thời Victoria.",
+  "kich_co": "Nho",
+  "can_nang": "2,7-3,6 kg",
+  "chieu_cao": "25-30 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Nhanh nhẹn",
+   "Thông minh",
+   "Trung thành"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-english-toy-terrier-black-tan.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:ENGLISH_TOY_TERRIER,_NO_JV-14_NO_UCH_X-Pected_Dine_Mites_X-Factor_(23995274170).jpg",
+   "license": "CC BY 2.0",
+   "tac_gia": "Svenska Mässan from Sweden"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/English_Toy_Terrier_(Black_&_Tan)",
+   "https://www.fci.be/Nomenclature/Standards/013g03-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa kiểm chứng: không có trong bài Wikipedia EN và AKC không có trang cho giống này."
+ },
+ {
+  "id": "cho-entlebucher-mountain-dog",
+  "loai": "cho",
+  "ten_en": "Entlebucher Mountain Dog",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó chăn gia súc cỡ vừa của Thụy Sĩ, nhỏ nhất trong bốn giống Sennenhund; lanh lợi, gan dạ và rất gắn bó với chủ.",
+  "kich_co": "Vua",
+  "can_nang": "18-29 kg",
+  "chieu_cao": "42-50 cm",
+  "tuoi_tho": "11-13 năm",
+  "tinh_cach": [
+   "Tốt bụng",
+   "Trung thành",
+   "Năng động",
+   "Tự tin"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-entlebucher-mountain-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Elio_v_Schaerlig_im_Juni_2007_klein.jpg",
+   "license": "CC BY-SA 2.0 de",
+   "tac_gia": "Serge Renggli"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Entlebucher_Mountain_Dog",
+   "https://www.fci.be/Nomenclature/Standards/047g02-en.pdf",
+   "https://www.akc.org/dog-breeds/entlebucher-mountain-dog/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao theo chuẩn FCI 047; cân nặng theo AKC (50-65 lb đực, 40-55 lb cái)."
+ },
+ {
+  "id": "cho-estonian-hound",
+  "loai": "cho",
+  "ten_en": "Estonian Hound",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Giống chó săn mùi duy nhất của Estonia, được lai tạo từ năm 1947 và được FCI công nhận năm 2019.",
+  "kich_co": "Vua",
+  "can_nang": "15-20 kg",
+  "chieu_cao": "43-53 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Bình tĩnh",
+   "Thân thiện",
+   "Thông minh"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-estonian-hound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Go%C5%84czy_esto%C5%84ski_MB_01.jpg",
+   "license": "Public domain",
+   "tac_gia": "Marcin Błaszkowski"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Estonian_Hound",
+   "https://www.fci.be/Nomenclature/Standards/366g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa kiểm chứng: không có trong bài Wikipedia EN và AKC không có trang cho giống này."
+ },
+ {
+  "id": "cho-estrela-mountain-dog",
+  "loai": "cho",
+  "ten_en": "Estrela Mountain Dog",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó canh bầy lớn của Bồ Đào Nha, xuất thân từ dãy núi Serra da Estrela; điềm tĩnh, trung thành và rất bảo vệ gia đình.",
+  "kich_co": "Khong lo",
+  "can_nang": "35-60 kg",
+  "chieu_cao": "62-73 cm",
+  "tuoi_tho": "10-14 năm",
+  "tinh_cach": [
+   "Trung thành",
+   "Bảo vệ",
+   "Điềm tĩnh",
+   "Độc lập"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-estrela-mountain-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Estrela_Mountain_Dog_6_month_old_male.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Traceywashere at English Wikipedia"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Estrela_Mountain_Dog",
+   "https://www.fci.be/Nomenclature/Standards/173g02-en.pdf",
+   "https://www.akc.org/dog-breeds/estrela-mountain-dog/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao và cân nặng theo chuẩn FCI 173 (đực 45-60 kg, cái 35-45 kg); tuổi thọ theo AKC."
+ },
+ {
+  "id": "cho-eurasier",
+  "loai": "cho",
+  "ten_en": "Eurasier",
+  "ten_vi": null,
+  "fci_group": 5,
+  "mo_ta_ngan": "Giống chó spitz của Đức, lai giữa spitz châu Âu và châu Á; điềm tĩnh, dè dặt với người lạ nhưng gắn bó sâu sắc với gia đình.",
+  "kich_co": "Lon",
+  "can_nang": "18-32 kg",
+  "chieu_cao": "48-60 cm",
+  "tuoi_tho": "12-16 năm",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Gắn bó",
+   "Cảnh giác",
+   "Dè dặt"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-eurasier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Eurasier_BailyWtatze.jpg",
+   "license": "CC0",
+   "tac_gia": "Kerstin Kühnel Wuppertatzen"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Eurasier",
+   "https://www.fci.be/Nomenclature/Standards/291g05-en.pdf",
+   "https://www.akc.org/dog-breeds/eurasier/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và chiều cao theo bài Wikipedia EN (đực 23-32 kg, cái 18-26 kg); tuổi thọ theo AKC."
+ },
+ {
+  "id": "cho-field-spaniel",
+  "loai": "cho",
+  "ten_en": "Field Spaniel",
+  "ten_vi": null,
+  "fci_group": 8,
+  "mo_ta_ngan": "Chó spaniel cỡ vừa của Anh, ban đầu được lai tạo làm chó trình diễn, sau được phát triển lại thành chó săn đồng ruộng; nay là giống hiếm.",
+  "kich_co": "Vua",
+  "can_nang": "16-23 kg",
+  "chieu_cao": "40-48 cm",
+  "tuoi_tho": "12-13 năm",
+  "tinh_cach": [
+   "Năng động",
+   "Tò mò",
+   "Thông minh",
+   "Tình cảm"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-field-spaniel.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Field_spaniel_581.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Pleple2000"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Field_Spaniel",
+   "https://www.fci.be/Nomenclature/Standards/123g08-en.pdf",
+   "https://www.akc.org/dog-breeds/field-spaniel/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Cân nặng theo AKC (35-50 lb); bài Wikipedia EN ghi khoảng rộng hơn, tới 27 kg."
+ },
+ {
+  "id": "cho-fila-brasileiro",
+  "loai": "cho",
+  "ten_en": "Fila Brasileiro",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó ngao lớn của Brazil, dùng làm chó canh gác, chăn gia súc và săn thú lớn; cực kỳ trung thành nhưng dè dặt với người lạ.",
+  "kich_co": "Khong lo",
+  "can_nang": "40 kg trở lên",
+  "chieu_cao": "60-75 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Trung thành",
+   "Bảo vệ",
+   "Dũng cảm",
+   "Dè dặt"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-fila-brasileiro.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Fila_brasileiro_ppk9.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Pleple2000"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Fila_Brasileiro",
+   "https://www.fci.be/Nomenclature/Standards/225g02-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa kiểm chứng: không có trong bài Wikipedia EN và AKC không có trang cho giống này. Cân nặng: chuẩn FCI chỉ ghi mức tối thiểu (đực 50 kg, cái 40 kg). Giống này bị hạn chế/cấm nuôi ở một số nước."
+ },
+ {
+  "id": "cho-finnish-hound",
+  "loai": "cho",
+  "ten_en": "Finnish Hound",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi của Phần Lan, chuyên săn thỏ và cáo; điềm tĩnh, thân thiện và không bao giờ hung hăng.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "52-61 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Thân thiện",
+   "Năng động"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-finnish-hound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Finnish_Hound.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "EtäKärppä"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Finnish_Hound",
+   "https://www.fci.be/Nomenclature/Standards/051g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa kiểm chứng: chuẩn FCI 051 không ghi cân nặng, bài Wikipedia EN không ghi, AKC không có trang cho giống này. Kích cỡ suy từ chiều cao 52-61 cm."
+ },
+ {
+  "id": "cho-finnish-lapphund",
+  "loai": "cho",
+  "ten_en": "Finnish Lapphund",
+  "ten_vi": null,
+  "fci_group": 5,
+  "mo_ta_ngan": "Chó spitz cỡ vừa khỏe mạnh của Phần Lan, truyền thống dùng để chăn tuần lộc; hiền lành, dễ tính và rất được yêu thích ở quê nhà.",
+  "kich_co": "Vua",
+  "can_nang": "15-24 kg",
+  "chieu_cao": "41-52 cm",
+  "tuoi_tho": "12-15 năm",
+  "tinh_cach": [
+   "Hiền lành",
+   "Thông minh",
+   "Trung thành",
+   "Năng động"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-finnish-lapphund.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Finnish_Lapphund_Glenchess_Revontuli.jpg",
+   "license": "CC BY-SA 2.5",
+   "tac_gia": "Apdevries [2]"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Finnish_Lapphund",
+   "https://www.fci.be/Nomenclature/Standards/189g05-en.pdf",
+   "https://www.akc.org/dog-breeds/finnish-lapphund/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao và cân nặng theo bài Wikipedia EN; tuổi thọ và cân nặng theo AKC (33-53 lb)."
+ },
+ {
+  "id": "cho-finnish-spitz",
+  "loai": "cho",
+  "ten_en": "Finnish Spitz",
+  "ten_vi": null,
+  "fci_group": 5,
+  "mo_ta_ngan": "Chó săn của Phần Lan, nổi tiếng là 'chó chỉ điểm bằng tiếng sủa': sủa để báo vị trí con mồi cho thợ săn.",
+  "kich_co": "Vua",
+  "can_nang": "9-15 kg",
+  "chieu_cao": "39-50 cm",
+  "tuoi_tho": "13-15 năm",
+  "tinh_cach": [
+   "Năng động",
+   "Cảnh giác",
+   "Thông minh",
+   "Hay sủa"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-finnish-spitz.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Finnish_Spitz_600.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": ""
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Finnish_Spitz",
+   "https://www.fci.be/Nomenclature/Standards/049g05-en.pdf",
+   "https://www.akc.org/dog-breeds/finnish-spitz/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Cân nặng theo AKC (đực 25-33 lb, cái 20-28 lb); chiều cao theo bài Wikipedia EN. Giống hay sủa, cần lưu ý khi nuôi chung cư."
+ },
+ {
+  "id": "cho-flat-coated-retriever",
+  "loai": "cho",
+  "ten_en": "Flat-coated Retriever",
+  "ten_vi": null,
+  "fci_group": 8,
+  "mo_ta_ngan": "Chó tha mồi của Anh, làm việc tốt cả trên cạn và dưới nước; vui vẻ, tràn đầy năng lượng và rất ham làm hài lòng chủ.",
+  "kich_co": "Lon",
+  "can_nang": "25-36 kg",
+  "chieu_cao": "56-62 cm",
+  "tuoi_tho": "8-10 năm",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Thân thiện",
+   "Năng động",
+   "Ham học"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-flat-coated-retriever.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Flat_Coated_Retriever_-_black.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Gunnandreassen"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Flat-coated_Retriever",
+   "https://www.fci.be/Nomenclature/Standards/121g08-en.pdf",
+   "https://www.akc.org/dog-breeds/flat-coated-retriever/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ: AKC 8-10 năm; nghiên cứu Anh trên Wikipedia ghi 11 năm."
+ },
+ {
+  "id": "cho-french-bulldog",
+  "loai": "cho",
+  "ten_en": "French Bulldog",
+  "ten_vi": "Chó Bull Pháp",
+  "fci_group": 9,
+  "mo_ta_ngan": "Chó bầu bạn nhỏ của Pháp, xuất hiện ở Paris giữa thế kỷ 19; vui vẻ, tình cảm và là một trong những giống chó nuôi phổ biến nhất thế giới.",
+  "kich_co": "Vua",
+  "can_nang": "8-14 kg",
+  "chieu_cao": "24-35 cm",
+  "tuoi_tho": "10-12 năm",
+  "tinh_cach": [
+   "Thân thiện",
+   "Vui vẻ",
+   "Tình cảm",
+   "Nghịch ngợm"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Thap",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-french-bulldog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:2008-07-28_Dog_at_Frolick_Field.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Ildar Sagdejev (Specious)"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/French_Bulldog",
+   "https://www.fci.be/Nomenclature/Standards/101g09-en.pdf",
+   "https://www.akc.org/dog-breeds/french-bulldog/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao và cân nặng theo chuẩn FCI 101; tuổi thọ theo AKC. Giống mõm ngắn, không chịu được nóng và vận động mạnh."
+ },
+ {
+  "id": "cho-french-spaniel",
+  "loai": "cho",
+  "ten_en": "French Spaniel",
+  "ten_vi": null,
+  "fci_group": 7,
+  "mo_ta_ngan": "Một trong những giống spaniel lớn nhất, chó săn của Pháp có từ thế kỷ 14, từng suýt tuyệt chủng rồi được cứu vào đầu thế kỷ 20.",
+  "kich_co": "Vua",
+  "can_nang": "20-27 kg",
+  "chieu_cao": "54-63 cm",
+  "tuoi_tho": "10-12 năm",
+  "tinh_cach": [
+   "Thân thiện",
+   "Kiên nhẫn",
+   "Ham học",
+   "Gắn bó"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-french-spaniel.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:04031137_Epagneul_Francais.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Alephalpha"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/French_Spaniel",
+   "https://www.fci.be/Nomenclature/Standards/175g07-en.pdf",
+   "https://www.akc.org/dog-breeds/french-spaniel/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao và cân nặng theo bài Wikipedia EN (45-60 lb); tuổi thọ theo AKC."
+ },
+ {
+  "id": "cho-galgo-espanol",
+  "loai": "cho",
+  "ten_en": "Galgo Español",
+  "ten_vi": null,
+  "fci_group": 10,
+  "mo_ta_ngan": "Chó săn thị giác của Tây Ban Nha, chuyên săn thỏ bằng tốc độ; hiền lành, điềm tĩnh và nhạy cảm.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "60-70 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hiền lành",
+   "Điềm tĩnh",
+   "Nhạy cảm",
+   "Trung thành"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-galgo-espanol.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Galgo_espagnol_006_(lightened).jpg",
+   "license": "CC0",
+   "tac_gia": "Tux-Man"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Galgo_Español",
+   "https://www.fci.be/Nomenclature/Standards/285g10-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa kiểm chứng: chuẩn FCI 285 không ghi cân nặng, bài Wikipedia EN không ghi, AKC không có trang cho giống này (trang 'spanish-greyhound' không tồn tại). Kích cỡ suy từ chiều cao 60-70 cm."
+ },
+ {
+  "id": "cho-gascon-saintongeois",
+  "loai": "cho",
+  "ten_en": "Gascon Saintongeois",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi của Pháp, có hai biến thể Grand (lớn) và Petit (nhỏ hơn); chuyên săn theo bầy, xuất thân từ giống chó Saintonge cổ.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "54-72 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thân thiện",
+   "Kiên trì",
+   "Năng động"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-gascon-saintongeois.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Isogascognesaintonge.jpg",
+   "license": "CC BY 4.0",
+   "tac_gia": "Canarian"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Gascon_Saintongeois",
+   "https://www.fci.be/Nomenclature/Standards/021g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa kiểm chứng: chuẩn FCI 021 không ghi cân nặng, bài Wikipedia EN không ghi, AKC không có trang cho giống này. Kích cỡ suy từ chiều cao 54-72 cm."
+ },
+ {
+  "id": "cho-german-hound",
+  "loai": "cho",
+  "ten_en": "German Hound",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi của Đức, xuất thân từ Westphalia; dùng để săn cả thú lớn và thú nhỏ.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "40-53 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Kiên trì",
+   "Thân thiện"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-german-hound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:German_Hound_from_1915.JPG",
+   "license": "Public domain",
+   "tac_gia": "not specified (except those with signature on image)"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/German_Hound",
+   "https://www.fci.be/Nomenclature/Standards/299g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa kiểm chứng: chuẩn FCI 299 không ghi cân nặng, bài Wikipedia EN không ghi, AKC không có trang cho giống này. Kích cỡ suy từ chiều cao 40-53 cm."
+ },
+ {
+  "id": "cho-german-longhaired-pointer",
+  "loai": "cho",
+  "ten_en": "German Longhaired Pointer",
+  "ten_vi": null,
+  "fci_group": 7,
+  "mo_ta_ngan": "Chó chỉ điểm lông dài của Đức, họ hàng gần với các giống pointer Đức khác; chó săn đa năng, được FCI công nhận chính thức năm 1954.",
+  "kich_co": "Lon",
+  "can_nang": "25-36 kg",
+  "chieu_cao": "58-70 cm",
+  "tuoi_tho": "12-14 năm",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Trung thành",
+   "Thông minh",
+   "Năng động"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-german-longhaired-pointer.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:DeutschLanghaarneu.jpg",
+   "license": "Public domain",
+   "tac_gia": "Ottilie Stüwe"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/German_Longhaired_Pointer",
+   "https://www.fci.be/Nomenclature/Standards/117g07-en.pdf",
+   "https://www.akc.org/dog-breeds/german-longhaired-pointer/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao theo chuẩn FCI 117 (đực 60-70 cm, cái 58-66 cm); cân nặng theo AKC (55-80 lb); chuẩn FCI ghi trung bình khoảng 30 kg."
+ },
+ {
+  "id": "cho-german-pinscher",
+  "loai": "cho",
+  "ten_en": "German Pinscher",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó pinscher của Đức, họ hàng gần với chó Schnauzer nhưng lông ngắn; thông minh, cảnh giác và là giống đang có nguy cơ mai một.",
+  "kich_co": "Vua",
+  "can_nang": "11-20 kg",
+  "chieu_cao": "45-50 cm",
+  "tuoi_tho": "12-14 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Năng động",
+   "Cảnh giác",
+   "Trung thành"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-german-pinscher.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Bvdb-duitse_pincher.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Bonnie van den Born, http://www.bonfoto.nl"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/German_Pinscher",
+   "https://www.fci.be/Nomenclature/Standards/184g02-en.pdf",
+   "https://www.akc.org/dog-breeds/german-pinscher/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao và cân nặng theo chuẩn FCI 184 (14-20 kg); AKC ghi 25-45 lb."
+ },
+ {
+  "id": "cho-german-roughhaired-pointer",
+  "loai": "cho",
+  "ten_en": "German Roughhaired Pointer",
+  "ten_vi": null,
+  "fci_group": 7,
+  "mo_ta_ngan": "Chó chỉ điểm lông ráp của Đức, tên quốc tế là Deutsch Stichelhaar; giống chó chỉ điểm cỡ vừa, được lai tạo ở Đức.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "58-70 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Kiên định",
+   "Thông minh",
+   "Năng động"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-german-roughhaired-pointer.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:03030288_Deutsch_Stichelhaa.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Alephalpha"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/German_Roughhaired_Pointer",
+   "https://www.fci.be/Nomenclature/Standards/232g07-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa kiểm chứng: chuẩn FCI 232 không ghi cân nặng, bài Wikipedia EN không ghi, AKC không có trang cho giống này. Kích cỡ suy từ chiều cao 58-70 cm."
+ },
+ {
+  "id": "cho-german-shepherd",
+  "loai": "cho",
+  "ten_en": "German Shepherd",
+  "ten_vi": "Chó Becgie Đức",
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn cừu Đức, nổi tiếng thông minh và vâng lời; được dùng rộng rãi làm chó nghiệp vụ, chó dẫn đường và chó gia đình.",
+  "kich_co": "Lon",
+  "can_nang": "22-40 kg",
+  "chieu_cao": "55-65 cm",
+  "tuoi_tho": "12-14 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Trung thành",
+   "Tự tin",
+   "Vâng lời"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-german-shepherd.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:German_Shepherd_-_DSC_0346_(10096362833).jpg",
+   "license": "CC BY-SA 2.5",
+   "tac_gia": "gomagoti"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/German_Shepherd",
+   "https://www.fci.be/Nomenclature/Standards/166g01-en.pdf",
+   "https://www.akc.org/dog-breeds/german-shepherd-dog/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao và cân nặng theo chuẩn FCI 166 (đực 30-40 kg, cái 22-32 kg); tuổi thọ theo AKC."
+ },
+ {
+  "id": "cho-german-shorthaired-pointer",
+  "loai": "cho",
+  "ten_en": "German Shorthaired Pointer",
+  "ten_vi": null,
+  "fci_group": 7,
+  "mo_ta_ngan": "Chó chỉ điểm lông ngắn của Đức, chó săn đa năng dùng được cả trên cạn và dưới nước; cũng được nuôi làm chó bầu bạn.",
+  "kich_co": "Lon",
+  "can_nang": "20-32 kg",
+  "chieu_cao": "58-66 cm",
+  "tuoi_tho": "10-12 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Năng động",
+   "Thân thiện",
+   "Ham học"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-german-shorthaired-pointer.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Duitse_staande_korthaar_10-10-2.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Bonnie van den Born, http://www.bonfoto.nl"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/German_Shorthaired_Pointer",
+   "https://www.fci.be/Nomenclature/Standards/119g07-en.pdf",
+   "https://www.akc.org/dog-breeds/german-shorthaired-pointer/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao theo chuẩn FCI 119 (đực 62-66 cm, cái 58-63 cm); cân nặng và tuổi thọ theo AKC. Chuẩn FCI không ghi cân nặng."
+ },
+ {
+  "id": "cho-german-spaniel",
+  "loai": "cho",
+  "ten_en": "German Spaniel",
+  "ten_vi": null,
+  "fci_group": 8,
+  "mo_ta_ngan": "Chó săn Đức có tên Deutscher Wachtelhund (chó săn chim cút), được lai tạo khoảng năm 1890 từ giống Stöberer cổ.",
+  "kich_co": "Vua",
+  "can_nang": "18-25 kg",
+  "chieu_cao": "45-54 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Đa năng",
+   "Thông minh",
+   "Kiên trì",
+   "Thân thiện"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-german-spaniel.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Plochacz_niemiecki_2_pl.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Pleple2000"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/German_Spaniel",
+   "https://www.fci.be/Nomenclature/Standards/104g08-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa kiểm chứng: không có trong bài Wikipedia EN và AKC không có trang cho giống này."
+ },
+ {
+  "id": "cho-german-spitz",
+  "loai": "cho",
+  "ten_en": "German Spitz",
+  "ten_vi": null,
+  "fci_group": 5,
+  "mo_ta_ngan": "Giống chó spitz của Đức, được FCI tính là một giống duy nhất với năm biến thể theo kích cỡ và màu lông: Wolfsspitz, Spitz lớn, Spitz vừa, Spitz nhỏ và Pomeranian.",
+  "kich_co": "Vua",
+  "can_nang": "2-30 kg",
+  "chieu_cao": "18-55 cm",
+  "tuoi_tho": "13-15 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Cảnh giác",
+   "Gắn bó",
+   "Hay sủa"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-german-spitz.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Un_chien_Spitz_allemand.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Teuteul (French Wikipedia)"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/German_Spitz",
+   "https://www.fci.be/Nomenclature/Standards/097g05-en.pdf",
+   "https://www.akc.org/dog-breeds/german-spitz/"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và chiều cao là khoảng gộp của cả 5 biến thể (từ Pomeranian ~2 kg tới Wolfsspitz ~30 kg); kích cỡ Vua là mức giữa, xem ghi chú biến thể. Ảnh chính trên Wikipedia là tranh minh họa cũ không đúng giống nên đã thay bằng ảnh thật 'Un chien Spitz allemand.jpg' (CC BY-SA 3.0) từ chính bài viết."
+ },
+ {
+  "id": "cho-german-wirehaired-pointer",
+  "loai": "cho",
+  "ten_en": "German Wirehaired Pointer",
+  "ten_vi": null,
+  "fci_group": 7,
+  "mo_ta_ngan": "Chó chỉ điểm lông cứng của Đức (Deutsch Drahthaar), họ hàng gần với các giống pointer Đức khác; được FCI công nhận năm 1954.",
+  "kich_co": "Lon",
+  "can_nang": "23-32 kg",
+  "chieu_cao": "57-68 cm",
+  "tuoi_tho": "14-16 năm",
+  "tinh_cach": [
+   "Kiên định",
+   "Thông minh",
+   "Năng động",
+   "Trung thành"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-german-wirehaired-pointer.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Dan_vom_hardenberg_(cropped).jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "JainaKo"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/German_Wirehaired_Pointer",
+   "https://www.fci.be/Nomenclature/Standards/098g07-en.pdf",
+   "https://www.akc.org/dog-breeds/german-wirehaired-pointer/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao theo chuẩn FCI 098 (đực 61-68 cm, cái 57-64 cm); cân nặng và tuổi thọ theo AKC."
+ },
+ {
+  "id": "cho-giant-schnauzer",
+  "loai": "cho",
+  "ten_en": "Giant Schnauzer",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Giống Schnauzer lớn nhất của Đức, ban đầu chăn gia súc và canh gác nông trại, sau làm việc trong thành phố canh nhà máy bia và lò mổ.",
+  "kich_co": "Lon",
+  "can_nang": "25-43 kg",
+  "chieu_cao": "60-70 cm",
+  "tuoi_tho": "10-13 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Trung thành",
+   "Bảo vệ",
+   "Năng động"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-giant-schnauzer.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Nev_Lemar_Barbara1.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Petrucha"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Giant_Schnauzer",
+   "https://www.fci.be/Nomenclature/Standards/181g02-en.pdf",
+   "https://www.akc.org/dog-breeds/giant-schnauzer/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao theo bài Wikipedia EN; cân nặng và tuổi thọ theo AKC. Tuổi thọ: nghiên cứu Anh trên Wikipedia ghi 12 năm."
+ },
+ {
+  "id": "cho-glen-of-imaal-terrier",
+  "loai": "cho",
+  "ten_en": "Glen of Imaal Terrier",
+  "ten_vi": null,
+  "fci_group": 3,
+  "mo_ta_ngan": "Giống chó sục hiếm của Ireland, một trong bốn giống sục Ireland gốc; chuyên săn chuột và làm việc nông trại ở hạt Wicklow.",
+  "kich_co": "Vua",
+  "can_nang": "16 kg",
+  "chieu_cao": "35 cm",
+  "tuoi_tho": "10-15 năm",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Dũng cảm",
+   "Trung thành",
+   "Độc lập"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-glen-of-imaal-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Blue_Brindle_Adult_Glen_of_Imaal_Terrier.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Irish-Terrier-2023"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Glen_of_Imaal_Terrier",
+   "https://www.fci.be/Nomenclature/Standards/302g03-en.pdf",
+   "https://www.akc.org/dog-breeds/glen-of-imaal-terrier/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao tối đa 35,5 cm và cân nặng khoảng 16 kg theo chuẩn FCI 302; tuổi thọ theo AKC."
+ },
+ {
+  "id": "cho-golden-retriever",
+  "loai": "cho",
+  "ten_en": "Golden Retriever",
+  "ten_vi": "Chó Golden Retriever",
+  "fci_group": 8,
+  "mo_ta_ngan": "Chó tha mồi của Anh, nổi tiếng hiền lành và tình cảm; chó gia đình phổ biến hàng đầu thế giới, cũng làm chó dẫn đường và chó trị liệu.",
+  "kich_co": "Lon",
+  "can_nang": "25-34 kg",
+  "chieu_cao": "51-61 cm",
+  "tuoi_tho": "10-12 năm",
+  "tinh_cach": [
+   "Hiền lành",
+   "Thông minh",
+   "Thân thiện",
+   "Tình cảm"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-golden-retriever.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Golden_Retriever_Dukedestiny01_drvd.jpg",
+   "license": "Public domain",
+   "tac_gia": "Dukedestiny01.jpg: \"Janneke Vreugdenhil\" derivative work: Anka Friedrich ([[User talk:Ankaaswe Trix Friedrich|talk]])"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Golden_Retriever",
+   "https://www.fci.be/Nomenclature/Standards/111g08-en.pdf",
+   "https://www.akc.org/dog-breeds/golden-retriever/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ theo AKC; chiều cao theo bài Wikipedia EN. Tuổi thọ: nghiên cứu Anh trên Wikipedia ghi 10 năm, một nghiên cứu khác ghi 13 năm."
+ },
+ {
+  "id": "cho-gordon-setter",
+  "loai": "cho",
+  "ten_en": "Gordon Setter",
+  "ten_vi": null,
+  "fci_group": 7,
+  "mo_ta_ngan": "Giống setter lớn của Scotland, chuyên săn chim; trung thành tuyệt đối với chủ và mạnh mẽ, dẻo dai khi huấn luyện.",
+  "kich_co": "Lon",
+  "can_nang": "20-36 kg",
+  "chieu_cao": "58-69 cm",
+  "tuoi_tho": "12-13 năm",
+  "tinh_cach": [
+   "Trung thành",
+   "Tự tin",
+   "Thông minh",
+   "Tình cảm"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-gordon-setter.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Orrvilas_enska_w800px.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": ""
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Gordon_Setter",
+   "https://www.fci.be/Nomenclature/Standards/006g07-en.pdf",
+   "https://www.akc.org/dog-breeds/gordon-setter/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ theo AKC; chiều cao theo bài Wikipedia EN. Tuổi thọ: bài Wikipedia ghi khoảng 10-15 năm."
+ },
+ {
+  "id": "cho-gonczy-polski",
+  "loai": "cho",
+  "ten_en": "Gończy Polski",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi hiếm của Ba Lan, còn gọi là Polish Hound; ổn định, bền bỉ và ít tốn công chăm sóc.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "50-59 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Ổn định",
+   "Kiên cường",
+   "Trung thành"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-gonczy-polski.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:PolishScenthound-%22NUTKA_Klusujaca_Sfora_wl_A.Balcerzak.jpg",
+   "license": "CC BY 2.5",
+   "tac_gia": ""
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Gończy_Polski",
+   "https://www.fci.be/Nomenclature/Standards/354g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa kiểm chứng: chuẩn FCI 354 không ghi cân nặng, bài Wikipedia EN không ghi, AKC không có trang cho giống này. Kích cỡ suy từ chiều cao 50-59 cm."
+ },
+ {
+  "id": "cho-grand-anglo-francais-blanc-et-noir",
+  "loai": "cho",
+  "ten_en": "Grand Anglo-Français Blanc et Noir",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi lớn của Pháp (Great Anglo-French White and Black Hound), lai giữa chó săn mùi Pháp và Foxhound Anh; săn theo bầy.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "62-72 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thân thiện",
+   "Kiên trì",
+   "Năng động"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-grand-anglo-francais-blanc-et-noir.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Grand_anglo_francais_noir.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Alephalpha"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Grand_Anglo-Français_Blanc_et_Noir",
+   "https://www.fci.be/Nomenclature/Standards/323g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa kiểm chứng: chuẩn FCI 323 không ghi cân nặng, bài Wikipedia EN không ghi, AKC không có trang cho giống này. Kích cỡ suy từ chiều cao 62-72 cm."
+ },
+ {
+  "id": "cho-grand-anglo-francais-blanc-et-orange",
+  "loai": "cho",
+  "ten_en": "Grand Anglo-Français Blanc et Orange",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi lớn của Pháp (Great Anglo-French White and Orange Hound), một trong các giống chó Anglo-Pháp lai giữa chó săn mùi Pháp và Foxhound Anh.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "60-70 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thân thiện",
+   "Kiên trì",
+   "Năng động"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-grand-anglo-francais-blanc-et-orange.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:06101298_Grand_anglo_francais_orange.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Alephalpha"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Grand_Anglo-Français_Blanc_et_Orange",
+   "https://www.fci.be/Nomenclature/Standards/324g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa kiểm chứng: chuẩn FCI 324 không ghi cân nặng, bài Wikipedia EN không ghi, AKC không có trang cho giống này. Kích cỡ suy từ chiều cao 60-70 cm."
+ },
+ {
+  "id": "cho-grand-anglo-francais-tricolore",
+  "loai": "cho",
+  "ten_en": "Grand Anglo-Français Tricolore",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi lớn của Pháp (Great Anglo-French Tricolore), giống chó Anglo-Pháp săn theo bầy.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "60-70 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thân thiện",
+   "Kiên trì",
+   "Năng động"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-grand-anglo-francais-tricolore.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Grand_anglo_francais_tricol.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Alephalpha"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Grand_Anglo-Français_Tricolore",
+   "https://www.fci.be/Nomenclature/Standards/322g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa kiểm chứng: chuẩn FCI 322 không ghi cân nặng, bài Wikipedia EN không ghi, AKC không có trang cho giống này. Kích cỡ suy từ chiều cao 60-70 cm."
+ },
+ {
+  "id": "cho-grand-basset-griffon-vendeen",
+  "loai": "cho",
+  "ten_en": "Grand Basset Griffon Vendéen",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi chân ngắn của Pháp (GBGV); thân thiện, hòa đồng nhờ nền tảng săn theo bầy, nhưng săn mồi mạnh và khá ồn ào.",
+  "kich_co": "Vua",
+  "can_nang": "18-20 kg",
+  "chieu_cao": "39-44 cm",
+  "tuoi_tho": "13-15 năm",
+  "tinh_cach": [
+   "Thân thiện",
+   "Hòa đồng",
+   "Tò mò",
+   "Hay sủa"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-grand-basset-griffon-vendeen.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:GrandBassettGriffonVend%C3%A9en.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Walbharri"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Grand_Basset_Griffon_Vendéen",
+   "https://www.fci.be/Nomenclature/Standards/033g06-en.pdf",
+   "https://www.akc.org/dog-breeds/grand-basset-griffon-vendeen/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao theo bài Wikipedia EN; cân nặng và tuổi thọ theo AKC (40-45 lb)."
+ },
+ {
+  "id": "cho-grand-bleu-de-gascogne",
+  "loai": "cho",
+  "ten_en": "Grand Bleu de Gascogne",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi lớn của Pháp, hậu duệ của giống chó săn cổ xưa và là tổ tiên quan trọng của nhiều giống chó săn khác.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "62-72 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Thân thiện",
+   "Kiên trì"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-grand-bleu-de-gascogne.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Grand_Bleu_de_Gascogne_in_a_blue_dogcollar.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "RanchoRosco"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Grand_Bleu_de_Gascogne",
+   "https://www.fci.be/Nomenclature/Standards/022g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa kiểm chứng: chuẩn FCI 022 không ghi cân nặng, bài Wikipedia EN không ghi, AKC không có trang cho giống này. Kích cỡ suy từ chiều cao 62-72 cm."
+ },
+ {
+  "id": "cho-grand-griffon-vendeen",
+  "loai": "cho",
+  "ten_en": "Grand Griffon Vendéen",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn của vùng Vendée, Pháp; giống đầu tiên trong các giống griffon Vendée, dòng dõi từ thế kỷ 16.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "60-68 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Năng động",
+   "Kiên trì",
+   "Thân thiện"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-grand-griffon-vendeen.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Grand_griffon_vend%C3%A9en_aka_Large_Vend%C3%A9en_Griffon.JPG",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Canarian"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Grand_Griffon_Vendéen",
+   "https://www.fci.be/Nomenclature/Standards/282g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa kiểm chứng: chuẩn FCI 282 không ghi cân nặng, bài Wikipedia EN không ghi, AKC không có trang cho giống này. Kích cỡ suy từ chiều cao 60-68 cm."
+ },
+ {
+  "id": "cho-great-dane",
+  "loai": "cho",
+  "ten_en": "Great Dane",
+  "ten_vi": "Chó Great Dane",
+  "fci_group": 2,
+  "mo_ta_ngan": "Giống chó lớn của Đức, dòng dõi chó săn thời Trung cổ; cùng với Irish Wolfhound là một trong những giống chó cao nhất thế giới.",
+  "kich_co": "Khong lo",
+  "can_nang": "50-79 kg",
+  "chieu_cao": "71-76 cm",
+  "tuoi_tho": "7-10 năm",
+  "tinh_cach": [
+   "Hiền lành",
+   "Thân thiện",
+   "Tự tin",
+   "Điềm tĩnh"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-great-dane.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Dog_niemiecki_%C5%BC%C3%B3%C5%82ty_LM980.jpg",
+   "license": "CC BY-SA 2.5",
+   "tac_gia": "Lilly M"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Great_Dane",
+   "https://www.fci.be/Nomenclature/Standards/235g02-en.pdf",
+   "https://www.akc.org/dog-breeds/great-dane/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ theo AKC; chiều cao tối thiểu theo bài Wikipedia EN (đực 76 cm, cái 71 cm). Tuổi thọ: nghiên cứu Anh trên Wikipedia ghi 10 năm."
+ },
+ {
+  "id": "cho-greater-swiss-mountain-dog",
+  "loai": "cho",
+  "ten_en": "Greater Swiss Mountain Dog",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó núi lớn của dãy Alps Thụy Sĩ, thuộc nhóm Sennenhund; nhiệt tình, gắn bó với người và trẻ em, không cần không gian quá lớn.",
+  "kich_co": "Khong lo",
+  "can_nang": "39-64 kg",
+  "chieu_cao": "60-72 cm",
+  "tuoi_tho": "8-11 năm",
+  "tinh_cach": [
+   "Nhiệt tình",
+   "Thân thiện",
+   "Trung thành",
+   "Điềm tĩnh"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-greater-swiss-mountain-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Greater_Swiss_Mountain_Dog_2018.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Canarian"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Greater_Swiss_Mountain_Dog",
+   "https://www.fci.be/Nomenclature/Standards/058g02-en.pdf",
+   "https://www.akc.org/dog-breeds/greater-swiss-mountain-dog/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao và cân nặng theo bài Wikipedia EN và AKC; tuổi thọ theo AKC (nghiên cứu trên Wikipedia ghi 10-11 năm)."
+ },
+ {
+  "id": "cho-greek-harehound",
+  "loai": "cho",
+  "ten_en": "Greek Harehound",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi hiếm của Hy Lạp, chỉ có màu đen-nâu; chuyên lần dấu và rượt thỏ ở miền nam Hy Lạp.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "45-56 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thông minh",
+   "Năng động",
+   "Kiên trì"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-greek-harehound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Hellinikos_Ichnilatis_(Georging)_cropped.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Hellinikos_Ichnilatis_(Georging).jpg: Georging (Georging91) derivative work: Anka Friedrich (talk)"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Greek_Harehound",
+   "https://www.fci.be/Nomenclature/Standards/214g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa kiểm chứng: chuẩn FCI 214 không ghi cân nặng, bài Wikipedia EN không ghi, AKC không có trang cho giống này. Kích cỡ suy từ chiều cao 45-56 cm."
+ },
+ {
+  "id": "cho-greenland-dog",
+  "loai": "cho",
+  "ten_en": "Greenland Dog",
+  "ten_vi": null,
+  "fci_group": 5,
+  "mo_ta_ngan": "Chó kéo xe lớn của Greenland, hậu duệ của chó mà người Thule mang từ Siberia tới Bắc Mỹ cách đây 1.000 năm; quốc khuyển của Greenland.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "55 cm trở lên",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Trung thành",
+   "Mạnh mẽ",
+   "Độc lập",
+   "Kiên cường"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-greenland-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Greenland_dog_upernavik_2007-06-02_sample.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Slaunger, edited by Thegreenj"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Greenland_Dog",
+   "https://www.fci.be/Nomenclature/Standards/274g05-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa kiểm chứng: chuẩn FCI 274 không ghi cân nặng (chỉ ghi chiều cao tối thiểu đực 60 cm, cái 55 cm), bài Wikipedia EN không ghi, AKC không có trang cho giống này. Kích cỡ suy từ chiều cao."
+ },
+ {
+  "id": "cho-greyhound",
+  "loai": "cho",
+  "ten_en": "Greyhound",
+  "ten_vi": null,
+  "fci_group": 10,
+  "mo_ta_ngan": "Chó săn thị giác cổ xưa, nổi tiếng về tốc độ; sau được dùng trong đua chó và nay rất được nuôi làm thú cưng vì tính điềm tĩnh.",
+  "kich_co": "Lon",
+  "can_nang": "25-40 kg",
+  "chieu_cao": "68-76 cm",
+  "tuoi_tho": "10-13 năm",
+  "tinh_cach": [
+   "Hiền lành",
+   "Điềm tĩnh",
+   "Tình cảm",
+   "Nhạy cảm"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-greyhound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:GraceTheGreyhound.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Neurodoc"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Greyhound",
+   "https://www.fci.be/Nomenclature/Standards/158g10-en.pdf",
+   "https://www.akc.org/dog-breeds/greyhound/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và chiều cao theo bài Wikipedia EN; tuổi thọ theo AKC (nghiên cứu Anh trên Wikipedia ghi 11 năm). Dù là chó đua, Greyhound rất điềm tĩnh trong nhà."
+ },
+ {
+  "id": "cho-griffon-bleu-de-gascogne",
+  "loai": "cho",
+  "ten_en": "Griffon Bleu de Gascogne",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi của Pháp, lông đốm màu xanh xám; chó săn đa năng, dùng cho cả thú nhỏ và thú lớn, săn theo bầy hoặc đơn lẻ.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "48-57 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Đa năng",
+   "Kiên trì",
+   "Thân thiện"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-griffon-bleu-de-gascogne.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:04031124_Griffon_Bleu_de_Gascogne.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Alephalpha"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Griffon_Bleu_de_Gascogne",
+   "https://www.fci.be/Nomenclature/Standards/032g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa kiểm chứng: chuẩn FCI 032 không ghi cân nặng, bài Wikipedia EN không ghi, AKC không có trang cho giống này. Kích cỡ suy từ chiều cao 48-57 cm."
+ },
+ {
+  "id": "cho-griffon-bruxellois",
+  "loai": "cho",
+  "ten_en": "Griffon Bruxellois",
+  "ten_vi": null,
+  "fci_group": 9,
+  "mo_ta_ngan": "Chó đồ chơi của Brussels, Bỉ; còn gọi là Brussels Griffon. Tự hào, cảnh giác và rất gắn bó với chủ, không chịu được cô đơn.",
+  "kich_co": "Nho",
+  "can_nang": "3,6-4,5 kg",
+  "chieu_cao": "18-25 cm",
+  "tuoi_tho": "12-15 năm",
+  "tinh_cach": [
+   "Tự hào",
+   "Cảnh giác",
+   "Gắn bó",
+   "Nhạy cảm"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Thap",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-griffon-bruxellois.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Monkey_Bizniz_Drama_Queen.jpg",
+   "license": "CC BY 3.0",
+   "tac_gia": "Arne Fagerholt"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Griffon_Bruxellois",
+   "https://www.fci.be/Nomenclature/Standards/080g09-en.pdf",
+   "https://www.akc.org/dog-breeds/brussels-griffon/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ theo AKC (8-10 lb); chiều cao theo AKC (7-10 inch). Tuổi thọ: nghiên cứu Anh trên Wikipedia ghi 13 năm. Giống có hai biến thể lông (trơn và ráp)."
+ },
+ {
+  "id": "cho-griffon-fauve-de-bretagne",
+  "loai": "cho",
+  "ten_en": "Griffon Fauve de Bretagne",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi lông vàng nâu của vùng Brittany, Pháp; giống chó săn mùi cổ của vùng này.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "48-56 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Năng động",
+   "Thân thiện",
+   "Kiên trì"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-griffon-fauve-de-bretagne.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:08115500_Griffon_Fauve_Bretagne.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Alephalpha"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Griffon_Fauve_de_Bretagne",
+   "https://www.fci.be/Nomenclature/Standards/066g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa kiểm chứng: chuẩn FCI 066 không ghi cân nặng, bài Wikipedia EN không ghi, AKC không có trang cho giống này. Kích cỡ suy từ chiều cao 48-56 cm."
+ },
+ {
+  "id": "cho-griffon-nivernais",
+  "loai": "cho",
+  "ten_en": "Griffon Nivernais",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi của vùng Nivernais, Pháp; giống chó săn đa năng được tái tạo từ giống cổ của vùng.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "53-62 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Đa năng",
+   "Kiên trì",
+   "Độc lập"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-griffon-nivernais.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Griffon_nivernais.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Alephalpha"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Griffon_Nivernais",
+   "https://www.fci.be/Nomenclature/Standards/017g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa kiểm chứng: chuẩn FCI 017 không ghi cân nặng, bài Wikipedia EN không ghi, AKC không có trang cho giống này. Kích cỡ suy từ chiều cao 53-62 cm."
+ },
+ {
+  "id": "cho-halden-hound",
+  "loai": "cho",
+  "ten_en": "Halden Hound",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi cỡ vừa của Na Uy, đặt tên theo thị trấn Halden; chó gia đình yêu thương, khỏe mạnh và bền bỉ, hợp nhà có sân rộng.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "50-60 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thân thiện",
+   "Tình cảm",
+   "Năng động",
+   "Bền bỉ"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-halden-hound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Haldenstovare.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Sabine (dogwiki) on http://www.profi1a.de/dogwiki/index.php/Benutzer:Sabine"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Halden_Hound",
+   "https://www.fci.be/Nomenclature/Standards/267g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa kiểm chứng: chuẩn FCI 267 không ghi cân nặng, bài Wikipedia EN không ghi, AKC không có trang cho giống này. Kích cỡ suy từ chiều cao 50-60 cm."
+ },
+ {
+  "id": "cho-hamiltonstovare",
+  "loai": "cho",
+  "ten_en": "Hamiltonstövare",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi của Thụy Điển, do người sáng lập Câu lạc bộ Chó giống Thụy Điển phát triển; khứu giác nhạy bén, chuyên săn thỏ và cáo.",
+  "kich_co": "Lon",
+  "can_nang": "18-34 kg",
+  "chieu_cao": "49-61 cm",
+  "tuoi_tho": "14-17 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Thân thiện",
+   "Năng động",
+   "Kiên trì"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-hamiltonstovare.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Hamiltonstovare_600.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "sannse"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Hamiltonstövare",
+   "https://www.fci.be/Nomenclature/Standards/132g06-en.pdf",
+   "https://www.akc.org/dog-breeds/hamiltonstovare/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao theo bài Wikipedia EN; cân nặng và tuổi thọ theo AKC (40-75 lb)."
+ },
+ {
+  "id": "cho-hanover-hound",
+  "loai": "cho",
+  "ten_en": "Hanover Hound",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi của Đức, chuyên lần dấu máu của thú bị thương; điềm tĩnh, tự tin và kiên trì khi lần dấu, không hợp sống ở thành phố.",
+  "kich_co": "Lon",
+  "can_nang": "25-40 kg",
+  "chieu_cao": "48-55 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Kiên trì",
+   "Tự tin"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-hanover-hound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Hannoverscher_Schweisshund.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Dojkungern"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Hanover_Hound",
+   "https://www.fci.be/Nomenclature/Standards/213g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa kiểm chứng: chuẩn FCI 213 không ghi, bài Wikipedia EN không ghi, AKC không có trang cho giống này. Cân nặng và chiều cao theo chuẩn FCI 213."
+ },
+ {
+  "id": "cho-harrier",
+  "loai": "cho",
+  "ten_en": "Harrier",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi cỡ vừa của Anh, chuyên săn thỏ; giống Foxhound nhưng nhỏ hơn, được dùng từ thế kỷ 13; vui vẻ, hiền lành và tốt với trẻ em.",
+  "kich_co": "Vua",
+  "can_nang": "20-27 kg",
+  "chieu_cao": "48-55 cm",
+  "tuoi_tho": "12-15 năm",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Hiền lành",
+   "Thân thiện",
+   "Năng động"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-harrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Harrier_Hound_-Pedigree_Harrier.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Evforce"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Harrier_(dog_breed)",
+   "https://www.fci.be/Nomenclature/Standards/295g06-en.pdf",
+   "https://www.akc.org/dog-breeds/harrier/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao theo chuẩn FCI 295; cân nặng và tuổi thọ theo AKC (45-60 lb)."
+ },
+ {
+  "id": "cho-havanese-dog",
+  "loai": "cho",
+  "ten_en": "Havanese",
+  "ten_vi": null,
+  "fci_group": 9,
+  "mo_ta_ngan": "Chó bichon của Cuba, quốc khuyển của nước này; vui vẻ, thông minh và rất tình cảm, được lai tạo từ giống Blanquito de la Habana nay đã tuyệt chủng.",
+  "kich_co": "Nho",
+  "can_nang": "3-6 kg",
+  "chieu_cao": "23 cm",
+  "tuoi_tho": "14-16 năm",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Thân thiện",
+   "Thông minh",
+   "Tình cảm"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-havanese-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:A_Havanese_judging.jpg",
+   "license": "CC BY-SA 2.0",
+   "tac_gia": "audrey_sel"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Havanese_dog",
+   "https://www.fci.be/Nomenclature/Standards/250g09-en.pdf",
+   "https://www.akc.org/dog-breeds/havanese/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ theo AKC (7-13 lb); chiều cao khoảng 23 cm theo bài Wikipedia EN. Tuổi thọ: nghiên cứu Anh trên Wikipedia ghi 14 năm."
+ },
+ {
+  "id": "cho-hovawart",
+  "loai": "cho",
+  "ten_en": "Hovawart",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó canh gác cỡ vừa-lớn của Đức, tên có nghĩa là 'người canh sân'; trung thành, tự tin và bảo vệ gia đình.",
+  "kich_co": "Lon",
+  "can_nang": "29-41 kg",
+  "chieu_cao": "58-73 cm",
+  "tuoi_tho": "10-14 năm",
+  "tinh_cach": [
+   "Trung thành",
+   "Bảo vệ",
+   "Tự tin",
+   "Thông minh"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-hovawart.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Helos_11.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Ursula Schneider / Nürmbrecht"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Hovawart",
+   "https://www.fci.be/Nomenclature/Standards/190g02-en.pdf",
+   "https://www.akc.org/dog-breeds/hovawart/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao theo bài Wikipedia EN; cân nặng và tuổi thọ theo AKC (65-90 lb). Bài Wikipedia EN ghi cân nặng 30-50 kg."
+ },
+ {
+  "id": "cho-hygen-hound",
+  "loai": "cho",
+  "ten_en": "Hygen Hound",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi của Na Uy, được lai tạo trong thế kỷ 19; chó săn bền bỉ, có thể di chuyển trên địa hình Bắc Cực trong thời gian dài mà không mệt.",
+  "kich_co": "Vua",
+  "can_nang": "20-25 kg",
+  "chieu_cao": "47-58 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Bền bỉ",
+   "Năng động",
+   "Thân thiện"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-hygen-hound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Norwegian_Hygenhound.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Bjørn Konestabo"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Hygen_Hound",
+   "https://www.fci.be/Nomenclature/Standards/266g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa kiểm chứng: chuẩn FCI 266 không ghi, bài Wikipedia EN không ghi, AKC không có trang cho giống này."
+ },
+ {
+  "id": "cho-ibizan-hound",
+  "loai": "cho",
+  "ten_en": "Ibizan Hound",
+  "ten_vi": null,
+  "fci_group": 5,
+  "mo_ta_ngan": "Chó săn thon thả, nhanh nhẹn của đảo Ibiza; thông minh, năng động và nổi tiếng là 'chú hề' vì tính hài hước, thích giải đố.",
+  "kich_co": "Vua",
+  "can_nang": "20-23 kg",
+  "chieu_cao": "60-72 cm",
+  "tuoi_tho": "11-14 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Năng động",
+   "Hài hước",
+   "Nhạy cảm"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-ibizan-hound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Podenco_z_ibizy_645.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Jan Eduard, corrected by Pleple2000"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Ibizan_Hound",
+   "https://www.fci.be/Nomenclature/Standards/089g05-en.pdf",
+   "https://www.akc.org/dog-breeds/ibizan-hound/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao theo chuẩn FCI 089 (đực 66-72 cm, cái 60-67 cm); cân nặng và tuổi thọ theo AKC (đực 50 lb, cái 45 lb)."
+ },
+ {
+  "id": "cho-icelandic-sheepdog",
+  "loai": "cho",
+  "ten_en": "Icelandic Sheepdog",
+  "ten_vi": null,
+  "fci_group": 5,
+  "mo_ta_ngan": "Giống chó duy nhất của Iceland, chó spitz Bắc Âu do người Viking mang tới từ thế kỷ 9; thân thiện, vui vẻ và là chó chăn cừu.",
+  "kich_co": "Vua",
+  "can_nang": "9-14 kg",
+  "chieu_cao": "42-46 cm",
+  "tuoi_tho": "12-14 năm",
+  "tinh_cach": [
+   "Thân thiện",
+   "Vui vẻ",
+   "Thông minh",
+   "Năng động"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-icelandic-sheepdog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Icelandic_Sheepdog_Alisa_von_Lehenberg.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Veronica Druk"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Icelandic_Sheepdog",
+   "https://www.fci.be/Nomenclature/Standards/289g05-en.pdf",
+   "https://www.akc.org/dog-breeds/icelandic-sheepdog/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao và cân nặng theo bài Wikipedia EN; tuổi thọ và cân nặng theo AKC (đực 30 lb, cái 25 lb)."
+ },
+ {
+  "id": "cho-irish-red-and-white-setter",
+  "loai": "cho",
+  "ten_en": "Irish Red and White Setter",
+  "ten_vi": null,
+  "fci_group": 7,
+  "mo_ta_ngan": "Chó setter đỏ-trắng của Ireland, gần như giống hệt Irish Setter về công dụng và tính cách nhưng thường được dùng làm chó săn làm việc hơn.",
+  "kich_co": "Vua",
+  "can_nang": "16-27 kg",
+  "chieu_cao": "57-66 cm",
+  "tuoi_tho": "11-15 năm",
+  "tinh_cach": [
+   "Tận tụy",
+   "Tình cảm",
+   "Thông minh",
+   "Năng động"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-irish-red-and-white-setter.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Irish_Red_And_White_Setter_2005.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Missledwidge"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Irish_Red_and_White_Setter",
+   "https://www.fci.be/Nomenclature/Standards/330g07-en.pdf",
+   "https://www.akc.org/dog-breeds/irish-red-and-white-setter/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao theo bài Wikipedia EN; cân nặng và tuổi thọ theo AKC (đực 42-60 lb, cái 35-50 lb)."
+ },
+ {
+  "id": "cho-irish-setter",
+  "loai": "cho",
+  "ten_en": "Irish Setter",
+  "ten_vi": null,
+  "fci_group": 7,
+  "mo_ta_ngan": "Chó setter đỏ nổi tiếng của Ireland; thân thiện, vui vẻ, có bộ lông đỏ đặc trưng và tính cách 'rollicking' đầy hài hước.",
+  "kich_co": "Lon",
+  "can_nang": "25-34 kg",
+  "chieu_cao": "58-71 cm",
+  "tuoi_tho": "12-15 năm",
+  "tinh_cach": [
+   "Thân thiện",
+   "Vui vẻ",
+   "Hiền lành",
+   "Năng động"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-irish-setter.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Can_Setter_dog_GFDL.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Luis Miguel Bugallo Sánchez (Lmbuga Commons)(Lmbuga Galipedia) Publicada por/Publish by: Luis Miguel Bugallo Sánchez"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Irish_Setter",
+   "https://www.fci.be/Nomenclature/Standards/120g07-en.pdf",
+   "https://www.akc.org/dog-breeds/irish-setter/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao và cân nặng theo bài Wikipedia EN; tuổi thọ theo AKC. Tuổi thọ: nghiên cứu Anh trên Wikipedia ghi 11-12 năm."
+ },
+ {
+  "id": "cho-irish-terrier",
+  "loai": "cho",
+  "ten_en": "Irish Terrier",
+  "ten_vi": null,
+  "fci_group": 3,
+  "mo_ta_ngan": "Một trong những giống chó sục lâu đời nhất của Ireland; năng động, dũng cảm và từng là giống chó phổ biến thứ tư ở Anh-Ireland vào thập niên 1880.",
+  "kich_co": "Vua",
+  "can_nang": "11-12 kg",
+  "chieu_cao": "41-46 cm",
+  "tuoi_tho": "13-15 năm",
+  "tinh_cach": [
+   "Năng động",
+   "Dũng cảm",
+   "Thông minh",
+   "Trung thành"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-irish-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:IrishTerrierSydenhamHillWoods.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Andrew Clark"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Irish_Terrier",
+   "https://www.fci.be/Nomenclature/Standards/139g03-en.pdf",
+   "https://www.akc.org/dog-breeds/irish-terrier/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao và cân nặng theo bài Wikipedia EN; tuổi thọ theo AKC. Tuổi thọ: nghiên cứu Anh trên Wikipedia ghi 13 năm."
+ },
+ {
+  "id": "cho-irish-water-spaniel",
+  "loai": "cho",
+  "ten_en": "Irish Water Spaniel",
+  "ten_vi": null,
+  "fci_group": 8,
+  "mo_ta_ngan": "Giống spaniel cao nhất, một trong chín giống chó bản địa của Ireland, còn gọi là 'chó đầm lầy'; chó săn đa năng, bơi giỏi.",
+  "kich_co": "Lon",
+  "can_nang": "20-31 kg",
+  "chieu_cao": "51-59 cm",
+  "tuoi_tho": "12-13 năm",
+  "tinh_cach": [
+   "Năng động",
+   "Thông minh",
+   "Tình cảm",
+   "Ham học"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-irish-water-spaniel.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Ierse_Water_Spaniel.jpg",
+   "license": "CC BY 4.0",
+   "tac_gia": "Roete002"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Irish_Water_Spaniel",
+   "https://www.fci.be/Nomenclature/Standards/124g08-en.pdf",
+   "https://www.akc.org/dog-breeds/irish-water-spaniel/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao theo chuẩn FCI 124 (đực 53-59 cm, cái 51-56 cm); cân nặng và tuổi thọ theo AKC. Tuổi thọ: bài Wikipedia EN ghi 10 năm."
+ },
+ {
+  "id": "cho-irish-wolfhound",
+  "loai": "cho",
+  "ten_en": "Irish Wolfhound",
+  "ten_vi": null,
+  "fci_group": 10,
+  "mo_ta_ngan": "Chó săn thị giác khổng lồ của Ireland, một trong những giống chó lớn nhất thế giới; hiền lành, điềm tĩnh và là linh vật trung đoàn Ireland từ năm 1902.",
+  "kich_co": "Khong lo",
+  "can_nang": "40-55 kg",
+  "chieu_cao": "71-86 cm",
+  "tuoi_tho": "6-8 năm",
+  "tinh_cach": [
+   "Hiền lành",
+   "Điềm tĩnh",
+   "Trung thành",
+   "Nhạy cảm"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-irish-wolfhound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:(2)_Irish_Wolfhound_4.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Dux"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Irish_Wolfhound",
+   "https://www.fci.be/Nomenclature/Standards/160g10-en.pdf",
+   "https://www.akc.org/dog-breeds/irish-wolfhound/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chiều cao và cân nặng theo bài Wikipedia EN; tuổi thọ theo AKC. Tuổi thọ: bài Wikipedia EN ghi 9 năm."
+ },
+ {
+  "id": "cho-istrian-coarse-haired-hound",
+  "loai": "cho",
+  "ten_en": "Istrian Coarse-haired Hound",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi lông ráp của Croatia (Istria); vẫn chủ yếu được nuôi làm chó săn hơn là thú cưng, nên khá bướng bỉnh và khó huấn luyện hơn nhiều giống khác.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "48-54 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Cứng đầu",
+   "Độc lập",
+   "Kiên trì"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-istrian-coarse-haired-hound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Istrian_hound2.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": ""
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Istrian_Coarse-haired_Hound",
+   "https://www.fci.be/Nomenclature/Standards/152g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa kiểm chứng: chuẩn FCI 152 không ghi cân nặng, bài Wikipedia EN không ghi, AKC không có trang cho giống này. Kích cỡ suy từ chiều cao 48-54 cm."
+ }
+]

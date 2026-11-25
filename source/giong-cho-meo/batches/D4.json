@@ -1,0 +1,1991 @@
+[
+ {
+  "id": "cho-istrian-shorthaired-hound",
+  "loai": "cho",
+  "ten_en": "Istrian Shorthaired Hound",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi gốc Croatia, từ vùng Istria; nhỏ hơn họ hàng lông dài cùng vùng, nhanh nhẹn và bền bỉ khi săn trên địa hình đồi núi.",
+  "kich_co": "Vua",
+  "can_nang": "18 kg",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Bền bỉ",
+   "Nhanh nhẹn",
+   "Độc lập",
+   "Trung thành"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-istrian-shorthaired-hound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Istrische_Bracke.jpg",
+   "license": "Public domain",
+   "tac_gia": "No machine-readable author provided. Cazadero assumed (based on copyright claims)."
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Istrian_Shorthaired_Hound",
+   "https://www.fci.be/Nomenclature/Standards/151g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: chiều cao, tuổi thọ (không có trong infobox/bài Wikipedia EN). tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-italian-greyhound",
+  "loai": "cho",
+  "ten_en": "Italian Greyhound",
+  "ten_vi": null,
+  "fci_group": 10,
+  "mo_ta_ngan": "Giống chó săn thị giác nhỏ nhất, gốc Ý, được nuôi chủ yếu làm chó cưng; thanh mảnh, nhạy cảm và rất gắn bó với chủ.",
+  "kich_co": "Nho",
+  "can_nang": "dưới 5 kg",
+  "chieu_cao": "32–38 cm",
+  "tuoi_tho": "14–15 năm",
+  "tinh_cach": [
+   "Dịu dàng",
+   "Tình cảm",
+   "Nhạy cảm"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-italian-greyhound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Italian_Greyhound_standing_gray_(cropped).jpg",
+   "license": "CC BY 2.0",
+   "tac_gia": "christina"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Italian_Greyhound",
+   "http://www.fci.be/en/nomenclature/ITALIAN-SIGHTHOUND-200.html",
+   "https://www.akc.org/dog-breeds/italian-greyhound/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-jack-russell-terrier",
+  "loai": "cho",
+  "ten_en": "Jack Russell Terrier",
+  "ten_vi": null,
+  "fci_group": 3,
+  "mo_ta_ngan": "Chó sục nhỏ người Anh, lông trắng với mảng màu, nổi tiếng lanh lợi, gan dạ và cực kỳ hiếu động; ban đầu được lai tạo để săn cáo.",
+  "kich_co": "Nho",
+  "can_nang": "5–6 kg",
+  "chieu_cao": "25–30 cm",
+  "tuoi_tho": "khoảng 12 năm",
+  "tinh_cach": [
+   "Lanh lợi",
+   "Gan dạ",
+   "Hiếu động",
+   "Thông minh"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-jack-russell-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Jack_Russell_Terrier_1.jpg",
+   "license": "CC BY 3.0",
+   "tac_gia": "Plank"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Jack_Russell_Terrier",
+   "http://www.fci.be/Nomenclature/Standards/345g03-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-jagdterrier",
+  "loai": "cho",
+  "ten_en": "Jagdterrier",
+  "ten_vi": null,
+  "fci_group": 3,
+  "mo_ta_ngan": "Chó sục săn của Đức, dùng để săn cả trên mặt đất lẫn trong hang; nhỏ con nhưng cứng cỏi, quyết liệt và rất năng động.",
+  "kich_co": "Nho",
+  "can_nang": "7.5–10 kg",
+  "chieu_cao": "33–40 cm",
+  "tuoi_tho": "12–14 năm",
+  "tinh_cach": [
+   "Quyết liệt",
+   "Gan dạ",
+   "Năng động",
+   "Cứng cỏi"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-jagdterrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Grupp_3,_TYSK_JAKTTERRIER,_Stollfors_Larionov_(23942381219).jpg",
+   "license": "CC BY 2.0",
+   "tac_gia": "Svenska Mässan from Sweden"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Jagdterrier",
+   "http://www.fci.be/Nomenclature/Standards/103g03-en.pdf",
+   "https://www.akc.org/dog-breeds/jagdterrier/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-japanese-chin",
+  "loai": "cho",
+  "ten_en": "Japanese Chin",
+  "ten_vi": "Chó Nhật",
+  "fci_group": 9,
+  "mo_ta_ngan": "Chó cảnh cỡ nhỏ của Nhật, nổi tiếng làm chó ôm ấp trong lòng; mặt ngắn, lông dài mượt, tính tình dịu dàng và điềm đạm.",
+  "kich_co": "Nho",
+  "can_nang": "3–5 kg",
+  "chieu_cao": "20–28 cm",
+  "tuoi_tho": "10–12 năm",
+  "tinh_cach": [
+   "Dịu dàng",
+   "Điềm đạm",
+   "Tình cảm",
+   "Nhạy cảm"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Thap",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-japanese-chin.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Chin_posing.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Joliot"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Japanese_Chin",
+   "http://www.fci.be/Nomenclature/Standards/206g09-en.pdf",
+   "https://www.akc.org/dog-breeds/japanese-chin/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu cân nặng, chiều cao, tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-japanese-spitz",
+  "loai": "cho",
+  "ten_en": "Japanese Spitz",
+  "ten_vi": "Chó Spitz Nhật",
+  "fci_group": 5,
+  "mo_ta_ngan": "Chó Spitz cỡ nhỏ đến vừa của Nhật, lông trắng xù dày; thông minh, vui vẻ và trung thành, thường được nuôi làm chó gia đình.",
+  "kich_co": "Nho",
+  "can_nang": "5–11 kg",
+  "chieu_cao": "30–38 cm",
+  "tuoi_tho": "khoảng 13 năm",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Thông minh",
+   "Trung thành",
+   "Thân thiện"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-japanese-spitz.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:BIR_Grupp_5-_JAPANSK_SPETS,_Chezzay%E2%80%99s_Nice_N%E2%80%99Easy_(23938629860).jpg",
+   "license": "CC BY 2.0",
+   "tac_gia": "Svenska Mässan from Sweden"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Japanese_Spitz",
+   "http://www.fci.be/Nomenclature/Standards/262g05-en.pdf",
+   "https://www.akc.org/dog-breeds/japanese-spitz/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu cân nặng, chiều cao lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-japanese-terrier",
+  "loai": "cho",
+  "ten_en": "Japanese Terrier",
+  "ten_vi": null,
+  "fci_group": 3,
+  "mo_ta_ngan": "Chó sục nhỏ gốc Nhật, một trong những giống chó hiếm nhất; lông ngắn mượt, nhanh nhẹn và thân thiện.",
+  "kich_co": "Nho",
+  "can_nang": "2.2–4.5 kg",
+  "chieu_cao": "25–33 cm",
+  "tuoi_tho": "13–15 năm",
+  "tinh_cach": [
+   "Nhanh nhẹn",
+   "Thân thiện",
+   "Lanh lợi"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-japanese-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Japanese_Terrier_22.04.2012_2pl.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Pleple2000"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Japanese_Terrier",
+   "http://www.fci.be/Nomenclature/Standards/259g03-en.pdf",
+   "https://www.akc.org/dog-breeds/japanese-terrier/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu chiều cao, tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-jamthund",
+  "loai": "cho",
+  "ten_en": "Jämthund",
+  "ten_vi": null,
+  "fci_group": 5,
+  "mo_ta_ngan": "Chó Spitz lớn của Thụy Điển, còn gọi là chó nai Thụy Điển; giống chó săn khỏe mạnh, trung thành, gắn với vùng Jämtland.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "52–65 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Trung thành",
+   "Dũng cảm",
+   "Điềm tĩnh",
+   "Độc lập"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-jamthund.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Swedish_Elkhound.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Canarian"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/J%C3%A4mthund",
+   "http://www.fci.be/Nomenclature/Standards/042g05-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: cân nặng, tuổi thọ, kích cỡ suy ra từ chiều cao/loại giống (không có trong infobox/bài Wikipedia EN). tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-kai-ken",
+  "loai": "cho",
+  "ten_en": "Kai Ken",
+  "ten_vi": null,
+  "fci_group": 5,
+  "mo_ta_ngan": "Chó quý hiếm của Nhật, còn gọi là chó hổ vì bộ lông vằn; thông minh, trung thành và là báu vật quốc gia của vùng Kai.",
+  "kich_co": "Vua",
+  "can_nang": "11–25 kg",
+  "chieu_cao": "45–56 cm",
+  "tuoi_tho": "12–15 năm",
+  "tinh_cach": [
+   "Trung thành",
+   "Thông minh",
+   "Độc lập",
+   "Cảnh giác"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-kai-ken.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Kai-front.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Kei87c1"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Kai_Ken",
+   "http://www.fci.be/Nomenclature/Standards/317g05-en.pdf",
+   "https://www.akc.org/dog-breeds/kai-ken/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-kangal-shepherd-dog",
+  "loai": "cho",
+  "ten_en": "Kangal Shepherd Dog",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó chăn gia súc khổng lồ của Thổ Nhĩ Kỳ, nổi tiếng bảo vệ đàn trước thú dữ; điềm tĩnh, can đảm và rất trung thành.",
+  "kich_co": "Khong lo",
+  "can_nang": "40–60 kg",
+  "chieu_cao": "63–80 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Can đảm",
+   "Trung thành",
+   "Bảo vệ"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-kangal-shepherd-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Kangal_front_on.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Kangalshepherddog"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Kangal_Shepherd_Dog",
+   "http://www.fci.be/Nomenclature/Standards/331g02-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: tuổi thọ (không có trong infobox/bài Wikipedia EN). tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-karelian-bear-dog",
+  "loai": "cho",
+  "ten_en": "Karelian Bear Dog",
+  "ten_vi": null,
+  "fci_group": 5,
+  "mo_ta_ngan": "Chó săn Phần Lan được coi là quốc bảo, chuyên săn thú lớn như gấu; dũng cảm, độc lập và rất năng động.",
+  "kich_co": "Vua",
+  "can_nang": "20–22 kg",
+  "chieu_cao": "54–60 cm",
+  "tuoi_tho": "11–13 năm",
+  "tinh_cach": [
+   "Dũng cảm",
+   "Độc lập",
+   "Năng động",
+   "Cảnh giác"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-karelian-bear-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Karelski_pies_na_nied%C5%BAwiedzie_sylwetka.JPG",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Fraczek.marcin"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Karelian_Bear_Dog",
+   "http://www.fci.be/en/nomenclature/KARELIAN-BEAR-DOG-48.html",
+   "https://www.akc.org/dog-breeds/karelian-bear-dog/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu cân nặng, tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-karst-shepherd",
+  "loai": "cho",
+  "ten_en": "Karst Shepherd",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó chăn gia súc vùng Karst, Slovenia; giống chó bảo vệ đàn truyền thống, điềm tĩnh, cảnh giác và gắn bó với lãnh thổ.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Cảnh giác",
+   "Trung thành",
+   "Bảo vệ"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-karst-shepherd.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Owczarek_kraski_654.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Pleple2000"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Karst_Shepherd",
+   "https://www.fci.be/nomenclature/Standards/278g02-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: cân nặng, chiều cao, tuổi thọ, kích cỡ suy ra từ chiều cao/loại giống (không có trong infobox/bài Wikipedia EN). tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-kazakh-tazy",
+  "loai": "cho",
+  "ten_en": "Kazakh Tazy",
+  "ten_vi": null,
+  "fci_group": 10,
+  "mo_ta_ngan": "Chó săn thị giác của Kazakhstan, họ hàng gần với Saluki; thanh mảnh, nhanh nhẹn, dùng chủ yếu để săn trên thảo nguyên.",
+  "kich_co": "Lon",
+  "can_nang": "20–35 kg",
+  "chieu_cao": "55–72 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Nhanh nhẹn",
+   "Độc lập",
+   "Điềm tĩnh",
+   "Trung thành"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-kazakh-tazy.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Chart_%C5%9Brodkowoazjatycki_Zeila.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Marcin Błaszkowski"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Kazakh_Tazy",
+   "https://fci.be/Nomenclature/Standards/372g10-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: tuổi thọ (không có trong infobox/bài Wikipedia EN). tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-keeshond",
+  "loai": "cho",
+  "ten_en": "Keeshond",
+  "ten_vi": null,
+  "fci_group": 5,
+  "mo_ta_ngan": "Chó Spitz cỡ vừa lông xù bạc-đen, đuôi cuộn; vui vẻ, thân thiện và thông minh, từng là chó trên xà lan ở Hà Lan.",
+  "kich_co": "Vua",
+  "can_nang": "15–20 kg",
+  "chieu_cao": "40–48 cm",
+  "tuoi_tho": "12–15 năm",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Thân thiện",
+   "Thông minh",
+   "Tình cảm"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-keeshond.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Keeshond_Majic_standing_cropped.jpg",
+   "license": "CC BY 2.0",
+   "tac_gia": "dancing with wolves"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Keeshond",
+   "http://www.fci.be/Nomenclature/Standards/097g05-en.pdf",
+   "https://www.akc.org/dog-breeds/keeshond/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-kerry-blue-terrier",
+  "loai": "cho",
+  "ten_en": "Kerry Blue Terrier",
+  "ten_vi": null,
+  "fci_group": 3,
+  "mo_ta_ngan": "Chó sục Ireland lông xanh xám xoăn mềm; ban đầu diệt chuột và săn thú, nay là chó gia đình thông minh, năng động.",
+  "kich_co": "Vua",
+  "can_nang": "10–15 kg",
+  "chieu_cao": "44–48 cm",
+  "tuoi_tho": "12–15 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Năng động",
+   "Vui vẻ",
+   "Trung thành"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-kerry-blue-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Kerry_Blue_Terrier.jpg",
+   "license": "CC BY-SA 3.0 de",
+   "tac_gia": "Peter Kumpert, Germany"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Kerry_Blue_Terrier",
+   "https://www.fci.be/Nomenclature/Standards/003g03-en.pdf",
+   "https://www.akc.org/dog-breeds/kerry-blue-terrier/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-king-charles-spaniel",
+  "loai": "cho",
+  "ten_en": "King Charles Spaniel",
+  "ten_vi": "Chó King Charles",
+  "fci_group": 9,
+  "mo_ta_ngan": "Chó cảnh cỡ nhỏ của Anh, còn gọi là English Toy Spaniel; hiền lành, tình cảm, thích nằm trong lòng chủ.",
+  "kich_co": "Nho",
+  "can_nang": "3.6–6.4 kg",
+  "chieu_cao": "23–28 cm",
+  "tuoi_tho": "10–12 năm",
+  "tinh_cach": [
+   "Hiền lành",
+   "Tình cảm",
+   "Điềm đạm",
+   "Quấn chủ"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Thap",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-king-charles-spaniel.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:King_Charles_Spaniel_200.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Pleple2000 10:18, 5 April 2006 (UTC)"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/King_Charles_Spaniel",
+   "https://www.fci.be/Nomenclature/Standards/128g09-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-kintamani",
+  "loai": "cho",
+  "ten_en": "Kintamani",
+  "ten_vi": null,
+  "fci_group": 5,
+  "mo_ta_ngan": "Chó bản địa đảo Bali, Indonesia; lông dày vừa, tai dựng, tính độc lập nhưng trung thành với gia đình.",
+  "kich_co": "Vua",
+  "can_nang": "13–18 kg",
+  "chieu_cao": "44–57 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Độc lập",
+   "Trung thành",
+   "Cảnh giác",
+   "Thông minh"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-kintamani.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Kintamani.jpg",
+   "license": "Public domain",
+   "tac_gia": "Imk0278 en.wikipedia"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Kintamani_%28dog_breed%29",
+   "https://www.fci.be/Nomenclature/Standards/362g05-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: tuổi thọ (không có trong infobox/bài Wikipedia EN). tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-kishu",
+  "loai": "cho",
+  "ten_en": "Kishu",
+  "ten_vi": null,
+  "fci_group": 5,
+  "mo_ta_ngan": "Chó Nhật cỡ vừa từ vùng Kishu, hậu duệ của giống chó cổ; trắng là màu phổ biến nhất, điềm tĩnh và trung thành.",
+  "kich_co": "Vua",
+  "can_nang": "14–27 kg",
+  "chieu_cao": "43–56 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Trung thành",
+   "Cảnh giác",
+   "Độc lập"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-kishu.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Kishu.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Sabine, user of DogWiki"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Kishu",
+   "http://www.fci.be/Nomenclature/Standards/318g05-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: tuổi thọ (không có trong infobox/bài Wikipedia EN). tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-komondor",
+  "loai": "cho",
+  "ten_en": "Komondor",
+  "ten_vi": null,
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn cừu Hungary khổng lồ với bộ lông thừng trắng đặc trưng; điềm tĩnh, cảnh giác, bảo vệ đàn rất giỏi.",
+  "kich_co": "Khong lo",
+  "can_nang": "từ 45 kg",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "10–12 năm",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Cảnh giác",
+   "Dũng cảm",
+   "Bảo vệ"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-komondor.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Komondor_delvin.jpg",
+   "license": "CC BY 2.5",
+   "tac_gia": "Nikki68 at Russian Wikipedia"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Komondor",
+   "http://www.fci.be/Nomenclature/Standards/053g01-en.pdf",
+   "https://www.akc.org/dog-breeds/komondor/"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: chiều cao (không có trong infobox/bài Wikipedia EN, cũng không có trên AKC). Số liệu cân nặng, tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-kooikerhondje",
+  "loai": "cho",
+  "ten_en": "Kooikerhondje",
+  "ten_vi": null,
+  "fci_group": 8,
+  "mo_ta_ngan": "Chó spaniel nhỏ của Hà Lan, xưa dùng làm chó nhử vịt trong bẫy; thông minh, vui vẻ và nhanh nhẹn.",
+  "kich_co": "Vua",
+  "can_nang": "9–14 kg",
+  "chieu_cao": "38–41 cm",
+  "tuoi_tho": "12–15 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Vui vẻ",
+   "Nhanh nhẹn",
+   "Nhạy cảm"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-kooikerhondje.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Kooiker03.jpg",
+   "license": "CC BY 2.5",
+   "tac_gia": "Không rõ"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Kooikerhondje",
+   "http://www.fci.be/Nomenclature/Standards/314g08-en.pdf",
+   "https://www.akc.org/dog-breeds/nederlandse-kooikerhondje/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu cân nặng, chiều cao lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-korean-jindo",
+  "loai": "cho",
+  "ten_en": "Korean Jindo",
+  "ten_vi": "Chó Jindo",
+  "fci_group": 5,
+  "mo_ta_ngan": "Chó bản địa đảo Jindo, Hàn Quốc, được công nhận là di sản quốc gia; thông minh, trung thành tuyệt đối và rất độc lập.",
+  "kich_co": "Vua",
+  "can_nang": "15–23 kg",
+  "chieu_cao": "45–55 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Trung thành",
+   "Thông minh",
+   "Độc lập",
+   "Cảnh giác"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-korean-jindo.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:ARIRANG.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Herocosmos"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Korean_Jindo",
+   "https://www.fci.be/Nomenclature/Standards/334g05-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: tuổi thọ (không có trong infobox/bài Wikipedia EN). tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-kromfohrlander",
+  "loai": "cho",
+  "ten_en": "Kromfohrländer",
+  "ten_vi": null,
+  "fci_group": 9,
+  "mo_ta_ngan": "Chó cưng hiện đại của Đức, xuất hiện sau Thế chiến II; lông trắng với mảng nâu, hiền lành và gắn bó với gia đình.",
+  "kich_co": "Vua",
+  "can_nang": "9–16 kg",
+  "chieu_cao": "38–46 cm",
+  "tuoi_tho": "13–15 năm",
+  "tinh_cach": [
+   "Hiền lành",
+   "Tình cảm",
+   "Nhạy cảm",
+   "Trung thành"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-kromfohrlander.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Kromfohrlaender_glatt.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Không rõ"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Kromfohrl%C3%A4nder",
+   "https://www.fci.be/Nomenclature/Standards/192g09-en.pdf",
+   "https://www.akc.org/dog-breeds/kromfohrlander/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-kuvasz",
+  "loai": "cho",
+  "ten_en": "Kuvasz",
+  "ten_vi": null,
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó bảo vệ đàn Hungary, từng là chó của hoàng gia; trắng, to lớn, dũng cảm và độc lập.",
+  "kich_co": "Khong lo",
+  "can_nang": "37–62 kg",
+  "chieu_cao": "66–76 cm",
+  "tuoi_tho": "10–12 năm",
+  "tinh_cach": [
+   "Dũng cảm",
+   "Độc lập",
+   "Trung thành",
+   "Bảo vệ"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-kuvasz.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Kuvasz_named_Kan.jpg",
+   "license": "Public domain",
+   "tac_gia": "Erdelyi kopo"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Kuvasz",
+   "http://www.fci.be/Nomenclature/Standards/054g01-en.pdf",
+   "https://www.akc.org/dog-breeds/kuvasz/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-labrador-retriever",
+  "loai": "cho",
+  "ten_en": "Labrador Retriever",
+  "ten_vi": "Chó Labrador",
+  "fci_group": 8,
+  "mo_ta_ngan": "Chó tha mồi nổi tiếng của Anh, thân thiện, thông minh và dễ huấn luyện; được nuôi rộng rãi làm chó gia đình, chó dẫn đường và chó nghiệp vụ.",
+  "kich_co": "Lon",
+  "can_nang": "25–36 kg",
+  "chieu_cao": "54–57 cm",
+  "tuoi_tho": "khoảng 11 năm",
+  "tinh_cach": [
+   "Thân thiện",
+   "Thông minh",
+   "Trung thành",
+   "Hiền lành"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-labrador-retriever.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Labrador_on_Quantock_(2175262184).jpg",
+   "license": "CC BY-SA 2.0",
+   "tac_gia": "IDS.photos from Tiverton, UK"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Labrador_Retriever",
+   "http://www.fci.be/Nomenclature/Standards/122g08-en.pdf",
+   "https://www.akc.org/dog-breeds/labrador-retriever/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-lagotto-romagnolo",
+  "loai": "cho",
+  "ten_en": "Lagotto Romagnolo",
+  "ten_vi": null,
+  "fci_group": 8,
+  "mo_ta_ngan": "Chó nước Ý lông xoăn, xưa săn vịt ở đồng bằng sông Po, nay nổi tiếng là giống chó tìm nấm truffle giỏi nhất.",
+  "kich_co": "Vua",
+  "can_nang": "11–16 kg",
+  "chieu_cao": "41–48 cm",
+  "tuoi_tho": "15–17 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Vui vẻ",
+   "Nhanh nhẹn",
+   "Trung thành"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-lagotto-romagnolo.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Bellalagotto4.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Entheta"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Lagotto_Romagnolo",
+   "http://www.fci.be/Nomenclature/Standards/298g08-en.pdf",
+   "https://www.akc.org/dog-breeds/lagotto-romagnolo/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-lakeland-terrier",
+  "loai": "cho",
+  "ten_en": "Lakeland Terrier",
+  "ten_vi": null,
+  "fci_group": 3,
+  "mo_ta_ngan": "Chó sục nhỏ đến vừa từ vùng Lake District, Anh; độc lập, lanh lợi và gan dạ, được lai tạo để săn cáo trên địa hình núi.",
+  "kich_co": "Nho",
+  "can_nang": "khoảng 8 kg",
+  "chieu_cao": "37–38 cm",
+  "tuoi_tho": "12–15 năm",
+  "tinh_cach": [
+   "Độc lập",
+   "Lanh lợi",
+   "Gan dạ",
+   "Tự tin"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-lakeland-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Lakeland_Terrier.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "sannse"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Lakeland_Terrier",
+   "https://www.fci.be/Nomenclature/Standards/070g03-en.pdf",
+   "https://www.akc.org/dog-breeds/lakeland-terrier/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu cân nặng lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-lancashire-heeler",
+  "loai": "cho",
+  "ten_en": "Lancashire Heeler",
+  "ten_vi": null,
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn bò nhỏ của Anh, chân ngắn lưng dài; lanh lợi, vui vẻ và là giống đang có nguy cơ tuyệt chủng theo Kennel Club Anh.",
+  "kich_co": "Nho",
+  "can_nang": "4–8 kg",
+  "chieu_cao": "25–30 cm",
+  "tuoi_tho": "12–15 năm",
+  "tinh_cach": [
+   "Lanh lợi",
+   "Vui vẻ",
+   "Thông minh",
+   "Trung thành"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-lancashire-heeler.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Grupp_1,_LANCASHIRE_HEELER,_NO_UCH_NO_V-14_NO_V-15_SE_UCH_St%C3%A5hlskyttens_Longed_For_Antony_(24284065606).jpg",
+   "license": "CC BY 2.0",
+   "tac_gia": "Svenska Mässan from Sweden"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Lancashire_Heeler",
+   "http://www.fci.be/Nomenclature/Standards/360g01-en.pdf",
+   "https://www.akc.org/dog-breeds/lancashire-heeler/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu cân nặng, chiều cao, tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-landseer",
+  "loai": "cho",
+  "ten_en": "Landseer",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó đen-trắng gốc Đức và Thụy Sĩ, họ hàng gần với Newfoundland; to lớn, hiền lành và bơi rất giỏi.",
+  "kich_co": "Khong lo",
+  "can_nang": "45–68 kg",
+  "chieu_cao": "66–71 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hiền lành",
+   "Điềm tĩnh",
+   "Trung thành",
+   "Thân thiện"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-landseer.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Landseer.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Không rõ"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Landseer_%28dog_breed%29",
+   "http://www.fci.be/Nomenclature/Standards/226g02-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: tuổi thọ (không có trong infobox/bài Wikipedia EN). tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-lapponian-herder",
+  "loai": "cho",
+  "ten_en": "Lapponian Herder",
+  "ten_vi": null,
+  "fci_group": 5,
+  "mo_ta_ngan": "Một trong ba giống chó Lapphund của Phần Lan, chó chăn tuần lộc của người Sami; điềm tĩnh, thân thiện và chăm chỉ.",
+  "kich_co": "Vua",
+  "can_nang": "khoảng 32 kg",
+  "chieu_cao": "46–51 cm",
+  "tuoi_tho": "10–14 năm",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Thân thiện",
+   "Chăm chỉ",
+   "Trung thành"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-lapponian-herder.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Lapskvallhund.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Patrik Fors"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Lapponian_Herder",
+   "http://www.fci.be/en/nomenclature/LAPPONIAN-HERDER-284.html",
+   "https://www.akc.org/dog-breeds/lapponian-herder/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu cân nặng lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-large-munsterlander",
+  "loai": "cho",
+  "ten_en": "Large Münsterländer",
+  "ten_vi": null,
+  "fci_group": 7,
+  "mo_ta_ngan": "Chó săn chỉ điểm cỡ lớn của Đức, vùng Münsterland; lông đen-trắng dài vừa, điềm tĩnh và làm việc bền bỉ.",
+  "kich_co": "Lon",
+  "can_nang": "khoảng 30 kg",
+  "chieu_cao": "58–67 cm",
+  "tuoi_tho": "12–14 năm",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Thông minh",
+   "Trung thành",
+   "Bền bỉ"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-large-munsterlander.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:GrosserMuensterlaender.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Pia C. Groening"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Large_M%C3%BCnsterl%C3%A4nder",
+   "https://www.fci.be/Nomenclature/Standards/118g07-en.pdf",
+   "https://www.akc.org/dog-breeds/large-munsterlander/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-leonberger",
+  "loai": "cho",
+  "ten_en": "Leonberger",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó khổng lồ của Đức, lai tạo ở thành phố Leonberg; lông dài có bờm, hiền lành, điềm tĩnh và rất tình cảm.",
+  "kich_co": "Khong lo",
+  "can_nang": "50–77 kg",
+  "chieu_cao": "65–80 cm",
+  "tuoi_tho": "khoảng 10 năm",
+  "tinh_cach": [
+   "Hiền lành",
+   "Điềm tĩnh",
+   "Tình cảm",
+   "Trung thành"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-leonberger.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Leonberger_male.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Kurre92"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Leonberger",
+   "http://www.fci.be/Nomenclature/Standards/145g02-en.pdf",
+   "https://www.akc.org/dog-breeds/leonberger/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu cân nặng lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-lhasa-apso",
+  "loai": "cho",
+  "ten_en": "Lhasa Apso",
+  "ten_vi": "Chó Lhasa Apso",
+  "fci_group": 9,
+  "mo_ta_ngan": "Chó cảnh Tây Tạng lông dài, xưa làm chó canh gác trong tu viện; độc lập, cảnh giác và trung thành.",
+  "kich_co": "Nho",
+  "can_nang": "5–8 kg",
+  "chieu_cao": "khoảng 25 cm",
+  "tuoi_tho": "khoảng 14 năm",
+  "tinh_cach": [
+   "Độc lập",
+   "Cảnh giác",
+   "Trung thành",
+   "Tự tin"
+  ],
+  "rung_long": "It",
+  "van_dong": "Thap",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-lhasa-apso.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Aishia.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Elminjas at Dutch Wikipedia"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Lhasa_Apso",
+   "http://www.fci.be/Nomenclature/Standards/227g09-en.pdf",
+   "https://www.akc.org/dog-breeds/lhasa-apso/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu cân nặng lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-lowchen",
+  "loai": "cho",
+  "ten_en": "Löwchen",
+  "ten_vi": null,
+  "fci_group": 9,
+  "mo_ta_ngan": "Chó sư tử nhỏ, còn gọi là Little Lion Dog; lông dài thường được cắt tỉa như bờm sư tử, vui vẻ và tình cảm.",
+  "kich_co": "Nho",
+  "can_nang": "4.5–8.1 kg",
+  "chieu_cao": "28–35.6 cm",
+  "tuoi_tho": "14–18 năm",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Tình cảm",
+   "Thông minh",
+   "Thân thiện"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-lowchen.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Adult_Lowchen_Gaiting.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Jk9dat"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/L%C3%B6wchen",
+   "http://www.fci.be/Nomenclature/Standards/233g09-en.pdf",
+   "https://www.akc.org/dog-breeds/lowchen/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-macedonian-shepherd-dog",
+  "loai": "cho",
+  "ten_en": "Macedonian Shepherd Dog",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó chăn cừu truyền thống của Bắc Macedonia, còn gọi là Karaman; lông đen dày, to lớn và uy nghi.",
+  "kich_co": "Lon",
+  "can_nang": "37–45 kg",
+  "chieu_cao": "62–68 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Cảnh giác",
+   "Trung thành",
+   "Bảo vệ"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-macedonian-shepherd-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Karaman_dog_(4).jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Тиверополник"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Macedonian_Shepherd_Dog",
+   "https://fci.be/Nomenclature/Standards/378g02-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: tuổi thọ (không có trong infobox/bài Wikipedia EN). tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-magyar-agar",
+  "loai": "cho",
+  "ten_en": "Magyar Agár",
+  "ten_vi": null,
+  "fci_group": 10,
+  "mo_ta_ngan": "Chó săn thị giác Hungary, họ hàng với Greyhound nhưng cứng cáp hơn; thanh lịch, bền bỉ, dùng để săn và đua coursing.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "62–70 cm",
+  "tuoi_tho": "12–14 năm",
+  "tinh_cach": [
+   "Thanh lịch",
+   "Bền bỉ",
+   "Điềm tĩnh",
+   "Trung thành"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-magyar-agar.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Magyar_ag%C3%A1r_male.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Kacer at Hungarian Wikipedia"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Magyar_Ag%C3%A1r",
+   "http://www.fci.be/en/nomenclature/HUNGARIAN-GREYHOUND-240.html"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: cân nặng, kích cỡ suy ra từ chiều cao/loại giống (không có trong infobox/bài Wikipedia EN). tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-maltese-dog",
+  "loai": "cho",
+  "ten_en": "Maltese",
+  "ten_vi": "Chó Maltese",
+  "fci_group": 9,
+  "mo_ta_ngan": "Chó cảnh cổ xưa lông trắng dài mượt, gắn với đảo Malta; nhỏ nhắn, hiền lành và rất quấn chủ.",
+  "kich_co": "Nho",
+  "can_nang": "3–4 kg",
+  "chieu_cao": "20–25 cm",
+  "tuoi_tho": "khoảng 11 năm",
+  "tinh_cach": [
+   "Hiền lành",
+   "Tình cảm",
+   "Vui vẻ",
+   "Quấn chủ"
+  ],
+  "rung_long": "It",
+  "van_dong": "Thap",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-maltese-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Maltese_600.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Sannse"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Maltese_dog",
+   "http://www.fci.be/Nomenclature/Standards/065g09-en.pdf",
+   "https://www.akc.org/dog-breeds/maltese/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-manchester-terrier",
+  "loai": "cho",
+  "ten_en": "Manchester Terrier",
+  "ten_vi": null,
+  "fci_group": 3,
+  "mo_ta_ngan": "Chó sục lông mượt của Anh, lai tạo thế kỷ 19 để diệt chuột; nhanh nhẹn, thông minh và rất trung thành.",
+  "kich_co": "Nho",
+  "can_nang": "5–10 kg",
+  "chieu_cao": "38–41 cm",
+  "tuoi_tho": "khoảng 12 năm",
+  "tinh_cach": [
+   "Nhanh nhẹn",
+   "Thông minh",
+   "Trung thành",
+   "Lanh lợi"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-manchester-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Anchor,_the_Manchester_Terrier0.jpg",
+   "license": "CC BY 2.0",
+   "tac_gia": "Roger Ahlbrand"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Manchester_Terrier",
+   "http://www.fci.be/Nomenclature/Standards/071g03-en.pdf",
+   "https://www.akc.org/dog-breeds/manchester-terrier/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu cân nặng, chiều cao lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-maremmano-abruzzese-sheepdog",
+  "loai": "cho",
+  "ten_en": "Maremmano-Abruzzese Sheepdog",
+  "ten_vi": null,
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn cừu vùng Maremma và Abruzzo, miền trung Ý; lông trắng dày, điềm tĩnh và bảo vệ đàn kiên quyết.",
+  "kich_co": "Lon",
+  "can_nang": "30–45 kg",
+  "chieu_cao": "60–73 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Trung thành",
+   "Bảo vệ",
+   "Cảnh giác"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-maremmano-abruzzese-sheepdog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Pastore_Maremmano-Abruzzese,_young_dog_(cropped).jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Justlettersandnumbers"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Maremmano-Abruzzese_Sheepdog",
+   "http://www.fci.be/Nomenclature/Standards/201g01-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: tuổi thọ (không có trong infobox/bài Wikipedia EN). tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-miniature-american-shepherd",
+  "loai": "cho",
+  "ten_en": "Miniature American Shepherd",
+  "ten_vi": null,
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn cừu cỡ nhỏ của Mỹ, bản thu nhỏ của Australian Shepherd; thông minh, nhanh nhẹn và rất ham học.",
+  "kich_co": "Vua",
+  "can_nang": "9–18 kg",
+  "chieu_cao": "33–46 cm",
+  "tuoi_tho": "13–15 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Nhanh nhẹn",
+   "Ham học",
+   "Trung thành"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-miniature-american-shepherd.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Blue_Merle_Miniature_American_Shepherd_in_Grass.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Lextergrace"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Miniature_American_Shepherd",
+   "https://www.fci.be/Nomenclature/Standards/367g01-en.pdf",
+   "https://www.akc.org/dog-breeds/miniature-american-shepherd/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu cân nặng lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-miniature-bull-terrier",
+  "loai": "cho",
+  "ten_en": "Miniature Bull Terrier",
+  "ten_vi": null,
+  "fci_group": 3,
+  "mo_ta_ngan": "Bản thu nhỏ của Bull Terrier, lai tạo từ thế kỷ 19; nhỏ con, cơ bắp, vui vẻ và bướng bỉnh đáng yêu.",
+  "kich_co": "Vua",
+  "can_nang": "8–13 kg",
+  "chieu_cao": "tối đa 35 cm",
+  "tuoi_tho": "11–13 năm",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Bướng bỉnh",
+   "Can đảm",
+   "Tình cảm"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-miniature-bull-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Minibull_2_Moletai_May_2014.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Томасина"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Miniature_Bull_Terrier",
+   "http://www.fci.be/Nomenclature/Standards/359g03-en.pdf",
+   "https://www.akc.org/dog-breeds/miniature-bull-terrier/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu cân nặng, tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-miniature-pinscher",
+  "loai": "cho",
+  "ten_en": "Miniature Pinscher",
+  "ten_vi": "Chó Pinscher mini",
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó Pinscher thu nhỏ của Đức, dáng nhỏ gọn, tai dựng; lanh lợi, tự tin và rất năng động.",
+  "kich_co": "Nho",
+  "can_nang": "4–6 kg",
+  "chieu_cao": "25–30 cm",
+  "tuoi_tho": "khoảng 11 năm",
+  "tinh_cach": [
+   "Lanh lợi",
+   "Tự tin",
+   "Năng động",
+   "Cảnh giác"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-miniature-pinscher.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Miniature_pinscher.jpg",
+   "license": "CC BY 3.0",
+   "tac_gia": "Sebastian Wallin. Sebastian Wallin. Sebwal"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Miniature_Pinscher",
+   "http://www.fci.be/Nomenclature/Standards/185g02-en.pdf",
+   "https://www.akc.org/dog-breeds/miniature-pinscher/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-miniature-schnauzer",
+  "loai": "cho",
+  "ten_en": "Miniature Schnauzer",
+  "ten_vi": "Chó Schnauzer mini",
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó Schnauzer cỡ nhỏ của Đức, râu ria đặc trưng; thông minh, vui vẻ và cảnh giác, là chó gia đình phổ biến.",
+  "kich_co": "Nho",
+  "can_nang": "4–8 kg",
+  "chieu_cao": "30–35 cm",
+  "tuoi_tho": "12–15 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Vui vẻ",
+   "Cảnh giác",
+   "Thân thiện"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-miniature-schnauzer.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Miniature_Schnauzer_salt_%26_pepper_(cropped).jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Canarian"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Miniature_Schnauzer",
+   "https://www.fci.be/Nomenclature/Standards/183g02-en.pdf",
+   "https://www.akc.org/dog-breeds/miniature-schnauzer/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-montenegrin-mountain-hound",
+  "loai": "cho",
+  "ten_en": "Montenegrin Mountain Hound",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn núi hiếm của Montenegro, lông đen-vàng mượt; bền bỉ, trung thành và chuyên săn trên địa hình núi.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Bền bỉ",
+   "Trung thành",
+   "Cảnh giác",
+   "Điềm tĩnh"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-montenegrin-mountain-hound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Montenegrinhound2.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Canarian"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Montenegrin_Mountain_Hound",
+   "http://www.google.com/search?q=cache:v9hOzvSytigJ:www.fci.be/uploaded_files/279GB98_en.doc+site:www.fci.be+%22279+/+07.+08.+1998%22&hl=en&ie=UTF-8"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: cân nặng, chiều cao, tuổi thọ, kích cỡ suy ra từ chiều cao/loại giống (không có trong infobox/bài Wikipedia EN). tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-mudi",
+  "loai": "cho",
+  "ten_en": "Mudi",
+  "ten_vi": null,
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn cừu Hungary, tách ra từ Puli và Pumi từ thập niên 1930; thông minh, nhanh nhẹn và ham vận động.",
+  "kich_co": "Vua",
+  "can_nang": "8–13 kg",
+  "chieu_cao": "38–47 cm",
+  "tuoi_tho": "12–14 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Nhanh nhẹn",
+   "Ham vận động",
+   "Trung thành"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-mudi.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Hondenras_Mudi.jpg",
+   "license": "Public domain",
+   "tac_gia": "Vulpes at Dutch Wikipedia"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Mudi",
+   "http://www.fci.be/Nomenclature/Standards/238g01-en.pdf",
+   "https://www.akc.org/dog-breeds/mudi/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-neapolitan-mastiff",
+  "loai": "cho",
+  "ten_en": "Neapolitan Mastiff",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó ngao khổng lồ của Ý, da chùng và mặt nhăn đặc trưng; điềm tĩnh, trung thành và là chó bảo vệ đáng gờm.",
+  "kich_co": "Khong lo",
+  "can_nang": "50–70 kg",
+  "chieu_cao": "60–75 cm",
+  "tuoi_tho": "7–9 năm",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Trung thành",
+   "Bảo vệ",
+   "Can đảm"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Thap",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-neapolitan-mastiff.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:5_Year_old_male_in_Napoli_Stance_(2).jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Philip Thompson"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Neapolitan_Mastiff",
+   "https://www.fci.be/Nomenclature/Standards/197g02-en.pdf",
+   "https://www.akc.org/dog-breeds/neapolitan-mastiff/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-newfoundland-dog",
+  "loai": "cho",
+  "ten_en": "Newfoundland",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó làm việc khổng lồ, lông dày, bơi giỏi và nổi tiếng cứu người đuối nước; hiền lành, điềm tĩnh và rất tình cảm.",
+  "kich_co": "Khong lo",
+  "can_nang": "55–80 kg",
+  "chieu_cao": "66–71 cm",
+  "tuoi_tho": "khoảng 11 năm",
+  "tinh_cach": [
+   "Hiền lành",
+   "Điềm tĩnh",
+   "Tình cảm",
+   "Trung thành"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-newfoundland-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Newfoundland_dog_Smoky.jpg",
+   "license": "CC BY 2.0",
+   "tac_gia": "Flickr user DanDee Shots"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Newfoundland_dog",
+   "http://www.fci.be/Nomenclature/Standards/050g02-en.pdf",
+   "https://www.akc.org/dog-breeds/newfoundland/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-norfolk-terrier",
+  "loai": "cho",
+  "ten_en": "Norfolk Terrier",
+  "ten_vi": null,
+  "fci_group": 3,
+  "mo_ta_ngan": "Chó sục nhỏ của Anh, tai cụp, lông cứng; vui vẻ, gan dạ và thân thiện, là một trong những giống sục nhỏ nhất.",
+  "kich_co": "Nho",
+  "can_nang": "5–7 kg",
+  "chieu_cao": "25–30 cm",
+  "tuoi_tho": "12–16 năm",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Gan dạ",
+   "Thân thiện",
+   "Tự tin"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-norfolk-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Norfolk_terrier_CAC.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Nutak at Dutch Wikipedia ( Original text: NTCN, mw.G. Hajnova )"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Norfolk_Terrier",
+   "https://www.fci.be/Nomenclature/Standards/272g03-en.pdf<!--",
+   "https://www.akc.org/dog-breeds/norfolk-terrier/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-norrbottenspets",
+  "loai": "cho",
+  "ten_en": "Norrbottenspets",
+  "ten_vi": null,
+  "fci_group": 5,
+  "mo_ta_ngan": "Chó Spitz nhỏ đến vừa của Thụy Điển, dùng để săn thú nhỏ; nhanh nhẹn, cảnh giác và rất bền bỉ.",
+  "kich_co": "Vua",
+  "can_nang": "11–15 kg",
+  "chieu_cao": "40–47 cm",
+  "tuoi_tho": "14–17 năm",
+  "tinh_cach": [
+   "Nhanh nhẹn",
+   "Cảnh giác",
+   "Bền bỉ",
+   "Độc lập"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-norrbottenspets.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Nordic_Spitz.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Không rõ"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Norrbottenspets",
+   "http://www.fci.be/Nomenclature/Standards/276g05-en.pdf",
+   "https://www.akc.org/dog-breeds/norrbottenspets/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-norwegian-buhund",
+  "loai": "cho",
+  "ten_en": "Norwegian Buhund",
+  "ten_vi": null,
+  "fci_group": 5,
+  "mo_ta_ngan": "Chó Spitz Na Uy, họ hàng gần với Icelandic Sheepdog; dùng làm chó canh gác và chó chăn gia súc đa năng.",
+  "kich_co": "Vua",
+  "can_nang": "14–18 kg",
+  "chieu_cao": "43–47 cm",
+  "tuoi_tho": "12–15 năm",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Thông minh",
+   "Cảnh giác",
+   "Trung thành"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-norwegian-buhund.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Norwegian_Buhund_600.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Không rõ"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Norwegian_Buhund",
+   "http://www.fci.be/Nomenclature/Standards/237g05-en.pdf",
+   "https://www.akc.org/dog-breeds/norwegian-buhund/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu cân nặng, chiều cao, tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-norwegian-elkhound",
+  "loai": "cho",
+  "ten_en": "Norwegian Elkhound",
+  "ten_vi": null,
+  "fci_group": 5,
+  "mo_ta_ngan": "Quốc khuyển của Na Uy, chó Spitz phương Bắc; dũng cảm, trung thành, nổi tiếng săn nai sừng tấm.",
+  "kich_co": "Vua",
+  "can_nang": "22–25 kg",
+  "chieu_cao": "52 cm",
+  "tuoi_tho": "12–15 năm",
+  "tinh_cach": [
+   "Dũng cảm",
+   "Trung thành",
+   "Độc lập",
+   "Cảnh giác"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-norwegian-elkhound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Elkhound2020_(cropped).jpg",
+   "license": "CC BY 4.0",
+   "tac_gia": "HawkNightingale175"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Norwegian_Elkhound",
+   "http://www.fci.be/Nomenclature/Standards/242g05-en.pdf",
+   "https://www.akc.org/dog-breeds/norwegian-elkhound/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu cân nặng lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-norwegian-lundehund",
+  "loai": "cho",
+  "ten_en": "Norwegian Lundehund",
+  "ten_vi": null,
+  "fci_group": 5,
+  "mo_ta_ngan": "Chó Spitz nhỏ của Na Uy, tên nghĩa là 'chó hải âu'; có 6 ngón chân, dùng để săn chim hải âu trên vách đá.",
+  "kich_co": "Nho",
+  "can_nang": "5–8 kg",
+  "chieu_cao": "30–40 cm",
+  "tuoi_tho": "12–15 năm",
+  "tinh_cach": [
+   "Nhanh nhẹn",
+   "Tò mò",
+   "Độc lập",
+   "Vui vẻ"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-norwegian-lundehund.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Lundehund-2003.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Karen Elise Dahlmo"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Norwegian_Lundehund",
+   "http://www.fci.be/Nomenclature/Standards/265g05-en.pdf",
+   "https://www.akc.org/dog-breeds/norwegian-lundehund/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-norwich-terrier",
+  "loai": "cho",
+  "ten_en": "Norwich Terrier",
+  "ten_vi": null,
+  "fci_group": 3,
+  "mo_ta_ngan": "Chó sục nhỏ của Anh, tai dựng, lông cứng; vui vẻ, thân thiện và là một trong những giống sục nhỏ nhất.",
+  "kich_co": "Nho",
+  "can_nang": "5–5.5 kg",
+  "chieu_cao": "24–25.5 cm",
+  "tuoi_tho": "khoảng 14 năm",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Thân thiện",
+   "Gan dạ",
+   "Tự tin"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-norwich-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Norwichterrier.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "H. Gisin"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Norwich_Terrier",
+   "http://www.fci.be/Nomenclature/Standards/072g03-en.pdf",
+   "https://www.akc.org/dog-breeds/norwich-terrier/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-nova-scotia-duck-tolling-retriever",
+  "loai": "cho",
+  "ten_en": "Nova Scotia Duck Tolling Retriever",
+  "ten_vi": null,
+  "fci_group": 8,
+  "mo_ta_ngan": "Chó tha mồi nhỏ nhất trong họ retriever, từ Nova Scotia, Canada; thông minh, vui vẻ và rất ham chơi.",
+  "kich_co": "Vua",
+  "can_nang": "17–23 kg",
+  "chieu_cao": "45–51 cm",
+  "tuoi_tho": "12–14 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Vui vẻ",
+   "Ham chơi",
+   "Trung thành"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-nova-scotia-duck-tolling-retriever.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Duck_Toller.jpg",
+   "license": "Public domain",
+   "tac_gia": "Cal119 at English Wikipedia"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Nova_Scotia_Duck_Tolling_Retriever",
+   "https://www.fci.be/Nomenclature/Standards/312g08-en.pdf",
+   "https://www.akc.org/dog-breeds/nova-scotia-duck-tolling-retriever/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-old-danish-pointer",
+  "loai": "cho",
+  "ten_en": "Old Danish Pointer",
+  "ten_vi": null,
+  "fci_group": 7,
+  "mo_ta_ngan": "Chó săn chỉ điểm cỡ vừa của Đan Mạch, trắng với mảng nâu; điềm tĩnh, trung thành và làm việc bền bỉ.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Trung thành",
+   "Bền bỉ",
+   "Thân thiện"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-old-danish-pointer.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Wy%C5%BCe%C5%82_du%C5%84ski_123.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Pleple2000"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Old_Danish_Pointer",
+   "http://www.fci.be/Nomenclature/Standards/281g07-en.pdf",
+   "https://www.akc.org/dog-breeds/old-danish-pointer/"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: cân nặng, chiều cao, tuổi thọ, kích cỡ suy ra từ chiều cao/loại giống (không có trong infobox/bài Wikipedia EN). tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-old-english-sheepdog",
+  "loai": "cho",
+  "ten_en": "Old English Sheepdog",
+  "ten_vi": null,
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn cừu lớn của Anh, lông xù dày, đuôi cụt; vui vẻ, hiền lành và rất tình cảm với trẻ em.",
+  "kich_co": "Lon",
+  "can_nang": "30–46 kg",
+  "chieu_cao": "từ 56 cm",
+  "tuoi_tho": "10–12 năm",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Hiền lành",
+   "Tình cảm",
+   "Thông minh"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-old-english-sheepdog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Old_English_Sheepdog_(side).jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "AKS.9955"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Old_English_Sheepdog",
+   "http://www.fci.be/Nomenclature/Standards/016g01-en.pdf",
+   "https://www.akc.org/dog-breeds/old-english-sheepdog/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-otterhound",
+  "loai": "cho",
+  "ten_en": "Otterhound",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi của Anh, lông xù hơi dầu; hiền lành, vui vẻ, bơi giỏi, hiện là giống quý hiếm với chỉ khoảng 600 cá thể.",
+  "kich_co": "Lon",
+  "can_nang": "36–52 kg",
+  "chieu_cao": "61–69 cm",
+  "tuoi_tho": "10–13 năm",
+  "tinh_cach": [
+   "Hiền lành",
+   "Vui vẻ",
+   "Bền bỉ",
+   "Thân thiện"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-otterhound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Two_otterhounds.jpg",
+   "license": "Public domain",
+   "tac_gia": "No machine-readable author provided. Machinecha~commonswiki assumed (based on copyright claims)."
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Otterhound",
+   "http://www.fci.be/Nomenclature/Standards/294g06-en.pdf",
+   "https://www.akc.org/dog-breeds/otterhound/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-parson-russell-terrier",
+  "loai": "cho",
+  "ten_en": "Parson Russell Terrier",
+  "ten_vi": null,
+  "fci_group": 3,
+  "mo_ta_ngan": "Chó sục trắng nhỏ của Anh, giống chó săn cáo nguyên bản thế kỷ 18; lanh lợi, gan dạ và rất hiếu động.",
+  "kich_co": "Nho",
+  "can_nang": "6–8 kg",
+  "chieu_cao": "36 cm",
+  "tuoi_tho": "13–15 năm",
+  "tinh_cach": [
+   "Lanh lợi",
+   "Gan dạ",
+   "Hiếu động",
+   "Thông minh"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-parson-russell-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:05052881_PRT_braun_rau.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Alephalpha"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Parson_Russell_Terrier",
+   "http://www.fci.be/Nomenclature/Standards/339g03-en.pdf",
+   "https://www.akc.org/dog-breeds/parson-russell-terrier/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu cân nặng, chiều cao, tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-pekingese",
+  "loai": "cho",
+  "ten_en": "Pekingese",
+  "ten_vi": "Chó Bắc Kinh",
+  "fci_group": 9,
+  "mo_ta_ngan": "Chó cảnh của hoàng gia Trung Hoa, mặt ngắn, lông dài; điềm đạm, tự tin và rất trung thành với chủ.",
+  "kich_co": "Nho",
+  "can_nang": "tối đa 6 kg",
+  "chieu_cao": "15–23 cm",
+  "tuoi_tho": "12–14 năm",
+  "tinh_cach": [
+   "Điềm đạm",
+   "Tự tin",
+   "Trung thành",
+   "Độc lập"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Thap",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-pekingese.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:1AKC_Pekingese_Dog_Show_2011.jpg",
+   "license": "CC BY 2.0",
+   "tac_gia": "SheltieBoy"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Pekingese",
+   "http://www.fci.be/Nomenclature/Standards/207g09-en.pdf",
+   "https://www.akc.org/dog-breeds/pekingese/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu cân nặng lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ },
+ {
+  "id": "cho-pembroke-welsh-corgi",
+  "loai": "cho",
+  "ten_en": "Pembroke Welsh Corgi",
+  "ten_vi": "Chó Corgi",
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn bò xứ Wales, chân ngắn lưng dài, tai dựng; thông minh, vui vẻ và rất được yêu thích làm chó gia đình.",
+  "kich_co": "Vua",
+  "can_nang": "11–14 kg",
+  "chieu_cao": "25–30 cm",
+  "tuoi_tho": "12–13 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Vui vẻ",
+   "Trung thành",
+   "Lanh lợi"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-pembroke-welsh-corgi.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Welsh_Pembroke_Corgi.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Dog breed facts"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Pembroke_Welsh_Corgi",
+   "http://www.fci.be/Nomenclature/Standards/039g01-en.pdf",
+   "https://www.akc.org/dog-breeds/pembroke-welsh-corgi/"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số liệu tuổi thọ lấy từ AKC (akc.org) ngày 25/11/2026, do bài Wikipedia EN không ghi. tinh_cach/rung_long/van_dong/hop_chung_cu: suy luận từ mô tả bộ lông, năng lượng và mục đích sử dụng trong bài Wikipedia EN, không phải số liệu trực tiếp từ FCI/AKC."
+ }
+]

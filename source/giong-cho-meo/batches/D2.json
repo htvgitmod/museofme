@@ -1,0 +1,1956 @@
+[
+ {
+  "id": "cho-braque-saint-germain",
+  "loai": "cho",
+  "ten_en": "Braque Saint-Germain",
+  "ten_vi": null,
+  "fci_group": 7,
+  "mo_ta_ngan": "Chó săn chỉ điểm cỡ vừa-lớn của Pháp, dùng để săn chim và thú nhỏ; hiền hòa, quấn chủ và cần vận động nhiều.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "54-62 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hòa đồng",
+   "Điềm tĩnh",
+   "Tình cảm",
+   "Dễ huấn luyện"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-braque-saint-germain.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Braque_saint-germain_666.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Pleple2000"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Braque_Saint-Germain",
+   "http://www.fci.be/Nomenclature/Standards/115g07-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia. Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI (lông ngắn, giống săn chỉ điểm)."
+ },
+ {
+  "id": "cho-braque-d-auvergne",
+  "loai": "cho",
+  "ten_en": "Braque d'Auvergne",
+  "ten_vi": null,
+  "fci_group": 7,
+  "mo_ta_ngan": "Chó săn chỉ điểm vùng Auvergne, Pháp; khỏe khoắn, khứu giác tốt, vừa làm chó săn vừa làm chó gia đình.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "53-63 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hiền lành",
+   "Tình cảm",
+   "Thông minh",
+   "Vâng lời"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-braque-d-auvergne.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Braque_d_Auvergne.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Mrsthurlow"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Braque_d%27Auvergne",
+   "http://www.fci.be/Nomenclature/Standards/180g07-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia. Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI."
+ },
+ {
+  "id": "cho-braque-du-bourbonnais",
+  "loai": "cho",
+  "ten_en": "Braque du Bourbonnais",
+  "ten_vi": null,
+  "fci_group": 7,
+  "mo_ta_ngan": "Chó săn chỉ điểm của Pháp, đôi khi sinh ra đã cụt đuôi ngắn; lông đốm nâu/trắng, hiền lành trong nhà.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "48-57 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hiền lành",
+   "Tình cảm",
+   "Thông minh"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-braque-du-bourbonnais.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Braque_du_Bourbonnais.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Mic comte at English Wikipedia"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Braque_du_Bourbonnais",
+   "http://www.fci.be/Nomenclature/Standards/179g07-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia. Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI."
+ },
+ {
+  "id": "cho-brazilian-terrier",
+  "loai": "cho",
+  "ten_en": "Brazilian Terrier",
+  "ten_vi": "Chó sục Brazil",
+  "fci_group": 3,
+  "mo_ta_ngan": "Một trong hai giống chó bản địa Brazil được công nhận toàn cầu; nhỏ con, lanh lợi, cảnh giác với người lạ.",
+  "kich_co": "Nho",
+  "can_nang": "khoảng 10 kg",
+  "chieu_cao": "33-40 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Nhanh nhẹn",
+   "Cảnh giác",
+   "Thân thiện"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-brazilian-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Terrier_brazylijski_2.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Ludax91"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Brazilian_Terrier",
+   "http://www.fci.be/Nomenclature/Standards/341g03-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia. Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI (lông ngắn mịn, giống sục rất hiếu động)."
+ },
+ {
+  "id": "cho-briard",
+  "loai": "cho",
+  "ten_en": "Briard",
+  "ten_vi": "Chó Briard",
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn cừu lớn của Pháp, vừa chăn dắt vừa bảo vệ đàn; lông dài hơi gợn sóng, tính cách vững vàng, không hung dữ cũng không nhút nhát.",
+  "kich_co": "Lon",
+  "can_nang": "25-45 kg",
+  "chieu_cao": "56-68 cm",
+  "tuoi_tho": "12 năm",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Can đảm",
+   "Trung thành"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-briard.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Briard_fauve.JPG",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Birgit Balzer, Deutschland (uploaded by Caronna 17:00, 10 Feb 2005 (UTC))"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Briard",
+   "https://www.akc.org/dog-breeds/briard/",
+   "https://www.fci.be/Nomenclature/Standards/113g01-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cân nặng 55-100 lb) và tiêu chuẩn FCI (cao 56-68 cm). Rụng lông/vận động theo thang điểm AKC (shedding 1/5, energy 3/5)."
+ },
+ {
+  "id": "cho-briquet-griffon-vendeen",
+  "loai": "cho",
+  "ten_en": "Briquet Griffon Vendéen",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi cỡ vừa vùng Vendée, Pháp; mũi thính, chạy nhanh, rất nhanh nhẹn trên địa hình gồ ghề.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "48-55 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Nhanh nhẹn",
+   "Chủ động",
+   "Kiên trì"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-briquet-griffon-vendeen.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Briquet_Griffon_Vendeen.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Alephalpha"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Briquet_Griffon_Vend%C3%A9en",
+   "https://www.fci.be/Nomenclature/Standards/019g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia. Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI (lông dài, giống săn mùi chạy nhanh)."
+ },
+ {
+  "id": "cho-brittany-spaniel",
+  "loai": "cho",
+  "ten_en": "Brittany Spaniel",
+  "ten_vi": "Chó Brittany",
+  "fci_group": 7,
+  "mo_ta_ngan": "Chó săn chim kiểu spaniel của vùng Brittany, Pháp; hòa đồng, thông minh, thích nghi tốt với nhiều môi trường.",
+  "kich_co": "Vua",
+  "can_nang": "14-18 kg",
+  "chieu_cao": "44-52 cm",
+  "tuoi_tho": "12-14 năm",
+  "tinh_cach": [
+   "Hòa đồng",
+   "Thông minh",
+   "Cân bằng"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-brittany-spaniel.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Zuri_txakurra_1_(cropped).JPG",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Olatz / souligne"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Brittany_Spaniel",
+   "https://www.akc.org/dog-breeds/brittany/",
+   "http://www.fci.be/Nomenclature/Standards/095g07-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 17,5-20,5 inch; nặng 30-40 lb) và tiêu chuẩn FCI (cao 47-51 cm). Rụng lông/vận động theo thang điểm AKC (shedding 3/5, energy 5/5)."
+ },
+ {
+  "id": "cho-broholmer",
+  "loai": "cho",
+  "ten_en": "Broholmer",
+  "ten_vi": "Chó Broholmer",
+  "fci_group": 2,
+  "mo_ta_ngan": "Giống chó mastiff lớn của Đan Mạch, từng suýt tuyệt chủng sau Thế chiến II; điềm tĩnh, thân thiện nhưng luôn cảnh giác.",
+  "kich_co": "Khong lo",
+  "can_nang": "40-70 kg",
+  "chieu_cao": "70-75 cm",
+  "tuoi_tho": "7-12 năm",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Thân thiện",
+   "Cảnh giác"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-broholmer.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Male_Broholmer.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Thrudgelmir"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Broholmer",
+   "http://www.fci.be/Nomenclature/Standards/315g02-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ 'trung bình khoảng 7-12 năm' theo bài Wikipedia. Rụng lông/vận động suy luận từ tiêu chuẩn FCI (lông ngắn có lớp lót dày, giống mastiff điềm tĩnh)."
+ },
+ {
+  "id": "cho-bucovina-shepherd-dog",
+  "loai": "cho",
+  "ten_en": "Bucovina Shepherd Dog",
+  "ten_vi": "Chó chăn cừu Bucovina",
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó bảo vệ đàn gia súc vùng Bucovina, Romania; dũng cảm chống thú dữ như gấu, sói, tiếng sủa trầm và vang xa.",
+  "kich_co": "Khong lo",
+  "can_nang": "80-90 kg",
+  "chieu_cao": "64-78 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Trung thành",
+   "Can đảm"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-bucovina-shepherd-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Bucovina_Sheepdog.jpg",
+   "license": "Public domain",
+   "tac_gia": "P.Marlow at English Wikipedia"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Bucovina_Shepherd_Dog",
+   "http://www.fci.be/Nomenclature/Standards/357g02-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia. Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI (giống chó bảo vệ đàn lớn, lông dày)."
+ },
+ {
+  "id": "cho-bull-terrier",
+  "loai": "cho",
+  "ten_en": "Bull Terrier",
+  "ten_vi": "Chó Bull Terrier",
+  "fci_group": 3,
+  "mo_ta_ngan": "Giống chó sục Anh nổi tiếng với đầu hình trứng đặc trưng; can đảm, vui vẻ, rất quấn người.",
+  "kich_co": "Lon",
+  "can_nang": "23-32 kg",
+  "chieu_cao": "53-56 cm",
+  "tuoi_tho": "12-13 năm",
+  "tinh_cach": [
+   "Can đảm",
+   "Vui vẻ",
+   "Điềm tĩnh"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-bull-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Bullterrier-3453301920.jpg",
+   "license": "CC0",
+   "tac_gia": "Pixabay User TC-TORRES"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Bull_Terrier",
+   "https://www.akc.org/dog-breeds/bull-terrier/",
+   "http://www.fci.be/Nomenclature/Standards/011g03-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 21-22 inch; nặng 50-70 lb). Tiêu chuẩn FCI không giới hạn cân nặng/chiều cao. Rụng lông/vận động theo thang điểm AKC (shedding 3/5, energy 4/5)."
+ },
+ {
+  "id": "cho-bulldog",
+  "loai": "cho",
+  "ten_en": "Bulldog",
+  "ten_vi": "Chó Bull Anh",
+  "fci_group": 2,
+  "mo_ta_ngan": "Giống chó mastiff Anh mặt nhăn, thân hình chắc nịch; vẻ ngoài dữ dằn nhưng tính tình hiền lành, trung thành.",
+  "kich_co": "Vua",
+  "can_nang": "18-23 kg",
+  "chieu_cao": "36-38 cm",
+  "tuoi_tho": "8-10 năm",
+  "tinh_cach": [
+   "Trung thành",
+   "Dũng cảm",
+   "Tình cảm"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-bulldog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Whitebulldog.jpg",
+   "license": "GFDL",
+   "tac_gia": "Av3553 at English Wikipedia"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Bulldog",
+   "https://www.akc.org/dog-breeds/bulldog/",
+   "http://www.fci.be/Nomenclature/Standards/149g02-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 14-15 inch; đực 50 lb, cái 40 lb). Rụng lông/vận động theo thang điểm AKC (shedding 3/5, energy 3/5)."
+ },
+ {
+  "id": "cho-bullmastiff",
+  "loai": "cho",
+  "ten_en": "Bullmastiff",
+  "ten_vi": "Chó Bullmastiff",
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó giữ nhà lớn của Anh, lai giữa Mastiff và Bulldog; mạnh mẽ, bền bỉ, cảnh giác và rất trung thành.",
+  "kich_co": "Khong lo",
+  "can_nang": "41-59 kg",
+  "chieu_cao": "61-69 cm",
+  "tuoi_tho": "7-9 năm",
+  "tinh_cach": [
+   "Trung thành",
+   "Cảnh giác",
+   "Điềm tĩnh"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-bullmastiff.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Bullmastiff_edited.JPG",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Fausto Moreno"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Bullmastiff",
+   "https://www.akc.org/dog-breeds/bullmastiff/",
+   "http://www.fci.be/Nomenclature/Standards/157g02-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (nặng 100-130 lb) và tiêu chuẩn FCI (cao 61-69 cm, nặng 41-59 kg). Rụng lông/vận động theo thang điểm AKC (shedding 3/5, energy 4/5)."
+ },
+ {
+  "id": "cho-burgos-pointer",
+  "loai": "cho",
+  "ten_en": "Burgos Pointer",
+  "ten_vi": null,
+  "fci_group": 7,
+  "mo_ta_ngan": "Chó săn chỉ điểm vùng Burgos, Tây Ban Nha; khỏe mạnh, điềm tĩnh, rất tốt với trẻ em nhưng không hợp sống ở đô thị.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "59-67 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Hiền lành",
+   "Thông minh"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-burgos-pointer.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Burgos_Pointer_or_Perdiguero_de_Burgos.JPG",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Canarian"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Burgos_Pointer",
+   "http://www.fci.be/Nomenclature/Standards/090g07-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia (infobox ghi cân nặng dở dang '30 to'). Bài Wikipedia ghi rõ giống này 'không hợp môi trường đô thị'. Rụng lông/vận động suy luận từ tiêu chuẩn FCI."
+ },
+ {
+  "id": "cho-ca-de-bestiar",
+  "loai": "cho",
+  "ten_en": "Ca de Bestiar",
+  "ten_vi": null,
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn cừu bản địa đảo Mallorca, Tây Ban Nha; chỉ trung thành với một chủ, thông minh, dũng cảm và rất tình cảm.",
+  "kich_co": "Lon",
+  "can_nang": "khoảng 40 kg",
+  "chieu_cao": "62-73 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Trung thành",
+   "Thông minh",
+   "Can đảm"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-ca-de-bestiar.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Ca_de_bestiar_(cropped).jpg",
+   "license": "Public domain",
+   "tac_gia": "Kriegerkalle"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Ca_de_Bestiar",
+   "https://www.fci.be/Nomenclature/Standards/321g01-es.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Nhóm FCI 1 theo số tiêu chuẩn 321g01. Tuổi thọ chưa có trong tiêu chuẩn FCI (bản tiếng Tây Ban Nha) hay bài Wikipedia. Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI."
+ },
+ {
+  "id": "cho-ca-de-bou",
+  "loai": "cho",
+  "ten_en": "Ca de Bou",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó bắt mồi đảo Mallorca, Tây Ban Nha; trầm tính, dũng cảm khi cần, trung thành tuyệt đối với chủ.",
+  "kich_co": "Lon",
+  "can_nang": "30-38 kg",
+  "chieu_cao": "52-58 cm",
+  "tuoi_tho": "10-12 năm",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Trung thành",
+   "Can đảm"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-ca-de-bou.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:ZarcoBruno2015.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Elizaveta.ustinova"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Ca_de_Bou",
+   "https://www.fci.be/Nomenclature/Standards/249g02-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ 'thường 10-12 năm' theo bài Wikipedia. Rụng lông/vận động suy luận từ tiêu chuẩn FCI (lông ngắn thô, giống canh gác trầm tính)."
+ },
+ {
+  "id": "cho-cairn-terrier",
+  "loai": "cho",
+  "ten_en": "Cairn Terrier",
+  "ten_vi": "Chó Cairn Terrier",
+  "fci_group": 3,
+  "mo_ta_ngan": "Chó sục nhỏ vùng cao nguyên Scotland, một trong những giống chó làm việc lâu đời nhất Scotland; lanh lợi, gan dạ.",
+  "kich_co": "Nho",
+  "can_nang": "6-7 kg",
+  "chieu_cao": "24-25 cm",
+  "tuoi_tho": "13-15 năm",
+  "tinh_cach": [
+   "Hoạt bát",
+   "Can đảm",
+   "Vui vẻ"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-cairn-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Cairn-Terrier-Garten1.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Ronald Müller-Hagen (Ketterechts)"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Cairn_Terrier",
+   "https://www.akc.org/dog-breeds/cairn-terrier/",
+   "http://www.fci.be/Nomenclature/Standards/004g03-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 9,5-10 inch; nặng 13-14 lb). Rụng lông/vận động theo thang điểm AKC (shedding 2/5, energy 3/5). Hợp chung cư 'Hạn chế' vì giống sủa nhiều (AKC bark 4/5)."
+ },
+ {
+  "id": "cho-campeiro-bulldog",
+  "loai": "cho",
+  "ten_en": "Campeiro Bulldog",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Giống bulldog của Brazil; đa năng, có bản năng canh gác, rất trung thành, điềm tĩnh và ngoan ngoãn.",
+  "kich_co": "Lon",
+  "can_nang": "37-42 kg",
+  "chieu_cao": "54-56 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Trung thành",
+   "Cảnh giác",
+   "Điềm tĩnh"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-campeiro-bulldog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Buldogue_Campeiro.jpg",
+   "license": "Public domain",
+   "tac_gia": "Tacosunday (talk)"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Campeiro_Bulldog",
+   "https://www.fci.be/Nomenclature/Standards/374g02-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia. Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI (lông ngắn, giống bulldog canh gác)."
+ },
+ {
+  "id": "cho-canaan-dog",
+  "loai": "cho",
+  "ten_en": "Canaan Dog",
+  "ten_vi": "Chó Canaan",
+  "fci_group": 5,
+  "mo_ta_ngan": "Giống chó quốc gia của Israel, phát triển từ chó hoang Canaan; cảnh giác, phản ứng nhanh, rất tận tụy với chủ.",
+  "kich_co": "Vua",
+  "can_nang": "16-25 kg",
+  "chieu_cao": "48-61 cm",
+  "tuoi_tho": "12-15 năm",
+  "tinh_cach": [
+   "Cảnh giác",
+   "Nhanh nhẹn",
+   "Trung thành"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-canaan-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:CanaanDogChakede.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Canaan Dog, Hodowla Samorodok Hanaana http://www.ruscanaan.ru"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Canaan_Dog",
+   "https://www.akc.org/dog-breeds/canaan-dog/",
+   "http://www.fci.be/Nomenclature/Standards/273g05-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Nhóm FCI 5 theo số tiêu chuẩn 273g05. Số đo theo AKC và tiêu chuẩn FCI (cao 50-60 cm, nặng 18-25 kg). Rụng lông/vận động theo thang điểm AKC (shedding 4/5, energy 3/5). Hợp chung cư 'Hạn chế' vì sủa nhiều (AKC bark 5/5)."
+ },
+ {
+  "id": "cho-canadian-eskimo-dog",
+  "loai": "cho",
+  "ten_en": "Canadian Eskimo Dog",
+  "ten_vi": "Chó Eskimo Canada",
+  "fci_group": 5,
+  "mo_ta_ngan": "Chó kéo xe vùng Bắc Cực của người Inuit; cứng cỏi, chịu lạnh tốt, là chó làm việc nguyên thủy chứ không phải thú cưng trong nhà.",
+  "kich_co": "Lon",
+  "can_nang": "18-40 kg",
+  "chieu_cao": "50-70 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Cần cù",
+   "Cứng cỏi",
+   "Độc lập"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-canadian-eskimo-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Spoonsced.jpg",
+   "license": "Public domain",
+   "tac_gia": "Exhaustfumes at English Wikipedia"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Canadian_Eskimo_Dog",
+   "http://www.fci.be/Nomenclature/Standards/211g05-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia. Tiêu chuẩn FCI ghi rõ giống này 'không nên xem là thú cưng trong nhà'. Rụng lông/vận động suy luận từ tiêu chuẩn FCI (lông dày hai lớp, chó kéo xe Bắc Cực)."
+ },
+ {
+  "id": "cho-cane-corso",
+  "loai": "cho",
+  "ten_en": "Cane Corso",
+  "ten_vi": "Chó Cane Corso",
+  "fci_group": 2,
+  "mo_ta_ngan": "Giống mastiff Ý, giữ nhà và bảo vệ gia súc; nhanh nhẹn, phản ứng tốt, rất gắn bó với gia đình.",
+  "kich_co": "Lon",
+  "can_nang": "40-50 kg",
+  "chieu_cao": "60-68 cm",
+  "tuoi_tho": "9-12 năm",
+  "tinh_cach": [
+   "Cảnh giác",
+   "Trung thành",
+   "Nhanh nhẹn"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-cane-corso.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Cane_corso_temi_1_1024x768x24_(cropped).png",
+   "license": "CC BY-SA 2.5",
+   "tac_gia": "Claudio Domiziani"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Cane_Corso",
+   "https://www.akc.org/dog-breeds/cane-corso/",
+   "http://www.fci.be/Nomenclature/Standards/343g02-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC và tiêu chuẩn FCI (cao 60-68 cm, nặng 40-50 kg). Rụng lông/vận động theo thang điểm AKC (shedding 2/5, energy 4/5)."
+ },
+ {
+  "id": "cho-carpathian-shepherd-dog",
+  "loai": "cho",
+  "ten_en": "Carpathian Shepherd Dog",
+  "ten_vi": "Chó chăn cừu Carpathian",
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó bảo vệ đàn lớn vùng núi Carpathian, Romania; điềm tĩnh, trang nghiêm, gắn bó tuyệt đối với đàn và chủ.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "59-73 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Can đảm",
+   "Trung thành"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-carpathian-shepherd-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Carpatin.jpg",
+   "license": "Public domain",
+   "tac_gia": "Ionete"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Carpathian_Shepherd_Dog",
+   "http://www.fci.be/Nomenclature/Standards/350g01-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia (FCI chỉ ghi 'cân nặng hài hòa với chiều cao'). Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI (lông hai lớp, chó bảo vệ đàn)."
+ },
+ {
+  "id": "cho-castro-laboreiro-dog",
+  "loai": "cho",
+  "ten_en": "Castro Laboreiro Dog",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó bảo vệ đàn vùng núi Castro Laboreiro, Bồ Đào Nha; trung thành, ngoan ngoãn, canh gác đàn chống sói.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "chưa kiểm chứng",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Trung thành",
+   "Cảnh giác",
+   "Hiền lành"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-castro-laboreiro-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Cao_de_Castro_Laboreiro_Ruede.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Schiowa"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Castro_Laboreiro_Dog",
+   "http://www.fci.be/Nomenclature/Standards/170g02-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chiều cao, cân nặng và tuổi thọ chưa có trong tiêu chuẩn FCI (số 170) hay bài Wikipedia. Kích cỡ 'Lớn' là ước theo mô tả giống chó chăn gia súc lớn, chưa có số đo kiểm chứng. Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI."
+ },
+ {
+  "id": "cho-catalan-sheepdog",
+  "loai": "cho",
+  "ten_en": "Catalan Sheepdog",
+  "ten_vi": "Chó chăn cừu Catalan",
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn cừu vùng Pyrenees, Catalonia; trầm tính, thông minh, tận tụy với người chăn và đàn, dè dặt với người lạ.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "45-55 cm",
+  "tuoi_tho": "12-14 năm",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Thông minh",
+   "Trung thành"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-catalan-sheepdog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Gos-d%27Atura-Catala.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Không rõ tác giả — xem link Commons"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Catalan_Sheepdog",
+   "http://www.fci.be/Nomenclature/Standards/087g01-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng chưa có trong tiêu chuẩn FCI hay bài Wikipedia. Tuổi thọ 'trung bình 12-14 năm' theo bài Wikipedia. Rụng lông suy luận từ mô tả lông dài (FCI), vận động/hợp chung cư suy luận từ tiêu chuẩn FCI."
+ },
+ {
+  "id": "cho-caucasian-shepherd-dog",
+  "loai": "cho",
+  "ten_en": "Caucasian Shepherd Dog",
+  "ten_vi": "Chó chăn cừu Kavkaz",
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó bảo vệ đàn khổng lồ vùng Kavkaz; mạnh mẽ, cảnh giác, là một trong những giống chó giữ nhà đáng gờm nhất.",
+  "kich_co": "Khong lo",
+  "can_nang": "45-77 kg",
+  "chieu_cao": "58-76 cm",
+  "tuoi_tho": "10-12 năm",
+  "tinh_cach": [
+   "Cảnh giác",
+   "Can đảm",
+   "Trung thành"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-caucasian-shepherd-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Owczarek_kaukaski_65556.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Pleple2000"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Caucasian_Shepherd_Dog",
+   "https://www.akc.org/dog-breeds/caucasian-shepherd-dog/",
+   "http://www.fci.be/Nomenclature/Standards/328g02-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (nặng 99-170 lb) và tiêu chuẩn FCI (cao 67-75 cm). Tuổi thọ theo AKC 10-12 năm; lưu ý một nghiên cứu 2024 ghi median tuổi thọ chỉ 5 năm — con số này còn tranh cãi. Rụng lông/vận động theo thang điểm AKC (shedding 4/5, energy 3/5)."
+ },
+ {
+  "id": "cho-cavalier-king-charles-spaniel",
+  "loai": "cho",
+  "ten_en": "Cavalier King Charles Spaniel",
+  "ten_vi": "Chó Cavalier",
+  "fci_group": 9,
+  "mo_ta_ngan": "Chó cảnh cỡ nhỏ của Anh, nổi tiếng hiền lành và tình cảm; thích nghi nhanh với nhiều gia đình, rất tốt với trẻ em.",
+  "kich_co": "Nho",
+  "can_nang": "6-8 kg",
+  "chieu_cao": "30-33 cm",
+  "tuoi_tho": "12-15 năm",
+  "tinh_cach": [
+   "Tình cảm",
+   "Vui vẻ",
+   "Thân thiện"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-cavalier-king-charles-spaniel.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:CarterBIS.Tiki.13.6.09.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Andreweatock"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel",
+   "https://www.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+   "http://www.fci.be/Nomenclature/Standards/136g09-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 12-13 inch; nặng 13-18 lb). Tuổi thọ theo AKC 12-15 năm (một nghiên cứu Ý 2024 ghi 10 năm). Rụng lông/vận động theo thang điểm AKC (shedding 2/5, energy 3/5)."
+ },
+ {
+  "id": "cho-central-asian-shepherd-dog",
+  "loai": "cho",
+  "ten_en": "Central Asian Shepherd Dog",
+  "ten_vi": "Chó chăn cừu Trung Á",
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó bảo vệ đàn khổng lồ Trung Á, còn gọi là Alabai; to lớn, mạnh mẽ, bản năng canh gác rất cao.",
+  "kich_co": "Khong lo",
+  "can_nang": "40-50 kg trở lên",
+  "chieu_cao": "65-70 cm trở lên",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Cảnh giác",
+   "Can đảm",
+   "Trung thành"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-central-asian-shepherd-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:2.CAO_in_Hungary.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Halalosirambankiskecskek"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Central_Asian_Shepherd_Dog",
+   "https://www.akc.org/dog-breeds/central-asian-shepherd-dog/",
+   "http://www.fci.be/Nomenclature/Standards/335g02-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa có trong tiêu chuẩn FCI, trang AKC hay bài Wikipedia (AKC để trống mục này). Rụng lông/vận động theo thang điểm AKC (shedding 3/5, energy 3/5)."
+ },
+ {
+  "id": "cho-cesky-terrier",
+  "loai": "cho",
+  "ten_en": "Cesky Terrier",
+  "ten_vi": "Chó Cesky Terrier",
+  "fci_group": 3,
+  "mo_ta_ngan": "Chó sục nhỏ của Séc; cân bằng, vui vẻ, dễ huấn luyện, hơi dè dặt với người lạ.",
+  "kich_co": "Nho",
+  "can_nang": "6-10 kg",
+  "chieu_cao": "25-33 cm",
+  "tuoi_tho": "12-15 năm",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Hiền lành",
+   "Dễ huấn luyện"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-cesky-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Terier_czeski_suka_2009_pl2.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Pleple2000"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Cesky_Terrier",
+   "https://www.akc.org/dog-breeds/cesky-terrier/",
+   "http://www.fci.be/Nomenclature/Standards/246g03-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 10-13 inch; nặng 14-24 lb) và tiêu chuẩn FCI (nặng 6-10 kg). Rụng lông/vận động theo thang điểm AKC (shedding 2/5, energy 3/5)."
+ },
+ {
+  "id": "cho-chesapeake-bay-retriever",
+  "loai": "cho",
+  "ten_en": "Chesapeake Bay Retriever",
+  "ten_vi": "Chó Chesapeake",
+  "fci_group": 8,
+  "mo_ta_ngan": "Chó tha mồi lớn vùng vịnh Chesapeake, Mỹ; thông minh, vui vẻ, yêu nước, từng dùng để kéo lưới và cứu hộ.",
+  "kich_co": "Lon",
+  "can_nang": "25-36 kg",
+  "chieu_cao": "53-66 cm",
+  "tuoi_tho": "10-13 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Vui vẻ",
+   "Tình cảm"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-chesapeake-bay-retriever.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:CH_Chesapeake.jpg",
+   "license": "Public domain",
+   "tac_gia": "George Makatura"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Chesapeake_Bay_Retriever",
+   "https://www.akc.org/dog-breeds/chesapeake-bay-retriever/",
+   "http://www.fci.be/Nomenclature/Standards/263g08-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 21-26 inch; nặng 55-80 lb). Rụng lông/vận động theo thang điểm AKC (shedding 3/5, energy 4/5)."
+ },
+ {
+  "id": "cho-chien-francais-blanc-et-noir",
+  "loai": "cho",
+  "ten_en": "Chien Français Blanc et Noir",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi lớn của Pháp, dùng để săn theo bầy; mũi thính, siêng năng, thân thiện và gần gũi với người.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "62-72 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thân thiện",
+   "Kiên trì",
+   "Gắn bó"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-chien-francais-blanc-et-noir.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ais_noir_et_blanc.JPG",
+   "license": "CC BY 4.0",
+   "tac_gia": "Abujoy"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Chien_Fran%C3%A7ais_Blanc_et_Noir",
+   "http://www.fci.be/Nomenclature/Standards/220g06-fr.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Nhóm FCI 6 theo số tiêu chuẩn 220g06. Cân nặng và tuổi thọ chưa có trong tiêu chuẩn FCI (bản tiếng Pháp) hay bài Wikipedia. Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI (chó săn mùi lớn, lông ngắn)."
+ },
+ {
+  "id": "cho-chien-francais-blanc-et-orange",
+  "loai": "cho",
+  "ten_en": "Chien Français Blanc et Orange",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi lớn của Pháp, săn theo bầy, hậu duệ dòng chó Saintonge cổ; cao lớn, bền bỉ.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "62-70 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thân thiện",
+   "Kiên trì",
+   "Nghiêm túc"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-chien-francais-blanc-et-orange.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Grand_Anglo-Fran%C3%A7ais_Blanc_Et_Orange.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Desaix83, d'après le travail de Alephalpha"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Chien_Fran%C3%A7ais_Blanc_et_Orange",
+   "http://www.fci.be/Nomenclature/Standards/316g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia. Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI (chó săn mùi lớn)."
+ },
+ {
+  "id": "cho-chien-francais-tricolore",
+  "loai": "cho",
+  "ten_en": "Chien Français Tricolore",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi ba màu của Pháp, săn theo bầy; cao lớn, bền bỉ, tính tình điển hình của dòng chó săn mùi.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "60-72 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Thân thiện",
+   "Kiên trì",
+   "Bền bỉ"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-chien-francais-tricolore.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Frenchhoundtricolore.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Canarian"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Chien_Fran%C3%A7ais_Tricolore",
+   "http://www.fci.be/Nomenclature/Standards/219g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia. Tính cách suy luận từ nhóm chó săn mùi Pháp cùng họ. Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI."
+ },
+ {
+  "id": "cho-chihuahua",
+  "loai": "cho",
+  "ten_en": "Chihuahua",
+  "ten_vi": "Chó Chihuahua",
+  "fci_group": 9,
+  "mo_ta_ngan": "Giống chó nhỏ nhất thế giới, đến từ Mexico; nhanh nhẹn, cảnh giác, can đảm và rất quấn chủ.",
+  "kich_co": "Nho",
+  "can_nang": "1-3 kg",
+  "chieu_cao": "13-20 cm",
+  "tuoi_tho": "14-16 năm",
+  "tinh_cach": [
+   "Nhanh nhẹn",
+   "Cảnh giác",
+   "Can đảm"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-chihuahua.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Chihuahua1_bvdb.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Bonnie van den Born, http://www.bonfoto.nl. The original uploader was Cwazi at Dutch Wikipedia."
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Chihuahua_%28dog_breed%29",
+   "https://www.akc.org/dog-breeds/chihuahua/",
+   "http://www.fci.be/Nomenclature/Standards/218g09-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 5-8 inch; nặng không quá 6 lb) và tiêu chuẩn FCI (nặng 1-3 kg, lý tưởng 1,5-2,5 kg). Rụng lông/vận động theo thang điểm AKC (shedding 2/5, energy 4/5). Hợp chung cư 'Hạn chế' vì sủa nhiều (AKC bark 5/5)."
+ },
+ {
+  "id": "cho-chinese-crested-dog",
+  "loai": "cho",
+  "ten_en": "Chinese Crested Dog",
+  "ten_vi": "Chó không lông Trung Quốc",
+  "fci_group": 9,
+  "mo_ta_ngan": "Giống chó không lông (có cả biến thể có lông Powderpuff); vui vẻ, hiền lành, gần như không rụng lông.",
+  "kich_co": "Nho",
+  "can_nang": "4-5 kg",
+  "chieu_cao": "23-33 cm",
+  "tuoi_tho": "13-18 năm",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Hiền lành",
+   "Tình cảm"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-chinese-crested-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:IndyStands.jpg",
+   "license": "CC BY 3.0",
+   "tac_gia": "Tommy Gildseth"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Chinese_Crested_Dog",
+   "https://www.akc.org/dog-breeds/chinese-crested/",
+   "http://www.fci.be/Nomenclature/Standards/288g09-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 11-13 inch; nặng 8-12 lb) và tiêu chuẩn FCI (cao 23-33 cm). Rụng lông/vận động theo thang điểm AKC (shedding 1/5, energy 3/5)."
+ },
+ {
+  "id": "cho-chow-chow",
+  "loai": "cho",
+  "ten_en": "Chow Chow",
+  "ten_vi": "Chó Chow Chow",
+  "fci_group": 5,
+  "mo_ta_ngan": "Giống chó spitz cổ xưa miền Bắc Trung Quốc, lông dày hai lớp, lưỡi xanh đen đặc trưng; độc lập, trung thành nhưng xa cách.",
+  "kich_co": "Lon",
+  "can_nang": "20-32 kg",
+  "chieu_cao": "43-56 cm",
+  "tuoi_tho": "8-12 năm",
+  "tinh_cach": [
+   "Độc lập",
+   "Trung thành",
+   "Điềm tĩnh"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-chow-chow.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Chow-chow_in_Tallinn.JPG",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Томасина"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Chow_Chow",
+   "https://www.akc.org/dog-breeds/chow-chow/",
+   "http://www.fci.be/Nomenclature/Standards/205g05-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 17-20 inch; nặng 45-70 lb) và tiêu chuẩn FCI (cao 46-56 cm). Rụng lông/vận động theo thang điểm AKC (shedding 3/5, energy 3/5)."
+ },
+ {
+  "id": "cho-cimarron-uruguayo",
+  "loai": "cho",
+  "ten_en": "Cimarrón Uruguayo",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Giống chó molosser duy nhất của Uruguay; cân bằng, thông minh, rất can đảm, cần được xã hội hóa sớm.",
+  "kich_co": "Lon",
+  "can_nang": "33-45 kg",
+  "chieu_cao": "55-61 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Cân bằng",
+   "Thông minh",
+   "Can đảm"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-cimarron-uruguayo.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Inti_de_Los_Atigrados_et_Gardel_de_Las_Pitangas_etwas_verkleinert.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Los atigrados"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Cimarr%C3%B3n_Uruguayo",
+   "http://www.fci.be/Nomenclature/Standards/353g02-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Nhóm FCI 2 theo tiêu chuẩn 353 (bài Wikipedia). Tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia. Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI (molosser lông ngắn, cần vận động nhiều)."
+ },
+ {
+  "id": "cho-cirneco-dell-etna",
+  "loai": "cho",
+  "ten_en": "Cirneco dell'Etna",
+  "ten_vi": "Chó Cirneco",
+  "fci_group": 5,
+  "mo_ta_ngan": "Chó săn thỏ cổ xưa đảo Sicily, đặt tên theo núi lửa Etna; ý chí mạnh, tình cảm, khứu giác cực thính.",
+  "kich_co": "Vua",
+  "can_nang": "8-13 kg",
+  "chieu_cao": "43-51 cm",
+  "tuoi_tho": "15-16 năm",
+  "tinh_cach": [
+   "Tình cảm",
+   "Cảnh giác",
+   "Kiên định"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-cirneco-dell-etna.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Cirneco_dell_Etna_611.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "de:Benutzer:Jan Eduard, contrast Pleple2000"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Cirneco_dell%27Etna",
+   "https://www.akc.org/dog-breeds/cirneco-delletna/",
+   "https://www.fci.be/Nomenclature/Standards/199g05-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 17-20 inch; nặng 19-28 lb) và tiêu chuẩn FCI (cao 44-50 cm, nặng 8-13 kg). Rụng lông/vận động theo thang điểm AKC (shedding 1/5, energy 3/5)."
+ },
+ {
+  "id": "cho-clumber-spaniel",
+  "loai": "cho",
+  "ten_en": "Clumber Spaniel",
+  "ten_vi": "Chó Clumber Spaniel",
+  "fci_group": 8,
+  "mo_ta_ngan": "Giống spaniel lớn nhất, phát triển ở Anh; điềm tĩnh, tốt bụng, làm việc lặng lẽ với khứu giác xuất sắc.",
+  "kich_co": "Lon",
+  "can_nang": "25-39 kg",
+  "chieu_cao": "43-51 cm",
+  "tuoi_tho": "10-12 năm",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Hiền lành",
+   "Thông minh"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-clumber-spaniel.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Clumber_spaniel_rybnik_kamien_pppl.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Pleple2000"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Clumber_Spaniel",
+   "https://www.akc.org/dog-breeds/clumber-spaniel/",
+   "https://www.fci.be/Nomenclature/Standards/109g08-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 17-20 inch; nặng 55-85 lb) và tiêu chuẩn FCI (nặng lý tưởng 29,5-34 kg). Rụng lông/vận động theo thang điểm AKC (shedding 3/5, energy 3/5)."
+ },
+ {
+  "id": "cho-colombian-fino-hound",
+  "loai": "cho",
+  "ten_en": "Colombian Fino Hound",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Giống chó duy nhất bản địa Colombia, được FCI công nhận năm 2026; bướng bỉnh khi săn nhưng tình cảm ở nhà.",
+  "kich_co": "Lon",
+  "can_nang": "15-35 kg",
+  "chieu_cao": "45-58 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Tình cảm",
+   "Thân thiện",
+   "Kiên trì"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-colombian-fino-hound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Colombian_Fino_Hound.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "D1090"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Colombian_Fino_Hound",
+   "https://www.fci.be/Nomenclature/Standards/376g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia (giống mới được FCI công nhận 2026). Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI (lông ngắn, chó săn mùi)."
+ },
+ {
+  "id": "cho-continental-bulldog",
+  "loai": "cho",
+  "ten_en": "Continental Bulldog",
+  "ten_vi": "Chó Bulldog Lục địa",
+  "fci_group": 2,
+  "mo_ta_ngan": "Giống bulldog mới của Thụy Sĩ, được FCI công nhận 2022; chú ý, tự tin, thân thiện, không hung dữ cũng không nhút nhát.",
+  "kich_co": "Lon",
+  "can_nang": "25-30 kg",
+  "chieu_cao": "40-50 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Tự tin",
+   "Thân thiện",
+   "Điềm tĩnh"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-continental-bulldog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Pitsch-Dog.jpg",
+   "license": "CC0",
+   "tac_gia": "Pitsch"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Continental_Bulldog",
+   "https://fci.be/Nomenclature/Standards/369g02-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia (giống mới, công nhận 2022). Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI (lông ngắn bóng mượt)."
+ },
+ {
+  "id": "cho-continental-toy-spaniel",
+  "loai": "cho",
+  "ten_en": "Continental Toy Spaniel",
+  "ten_vi": "Chó Papillon",
+  "fci_group": 9,
+  "mo_ta_ngan": "Chó cảnh tí hon Bỉ-Pháp, có hai dạng tai dựng (Papillon) và tai cụp (Phalène); nhỏ nhắn, nhanh nhẹn, thông minh.",
+  "kich_co": "Nho",
+  "can_nang": "1,5-5 kg",
+  "chieu_cao": "20-28 cm",
+  "tuoi_tho": "14-16 năm",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Thông minh",
+   "Thân thiện"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-continental-toy-spaniel.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Outdoor_Continental_Toy_Spaniel_Papillon.jpeg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Gvdmoort"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Continental_Toy_Spaniel",
+   "https://www.akc.org/dog-breeds/papillon/",
+   "http://www.fci.be/Nomenclature/Standards/077g09-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC trang Papillon (cao 8-11 inch; nặng 5-10 lb) và tiêu chuẩn FCI (cao khoảng 28 cm, nặng 1,5-5 kg). AKC và FCI coi Papillon/Phalène là một giống. Rụng lông/vận động theo thang điểm AKC (shedding 3/5, energy 4/5). Hợp chung cư 'Hạn chế' vì sủa nhiều (AKC bark 5/5)."
+ },
+ {
+  "id": "cho-coton-de-tulear",
+  "loai": "cho",
+  "ten_en": "Coton de Tulear",
+  "ten_vi": "Chó Coton de Tulear",
+  "fci_group": 9,
+  "mo_ta_ngan": "Chó nhỏ lông như bông đến từ Madagascar; vui vẻ, ổn định, rất hòa đồng với người và chó khác.",
+  "kich_co": "Nho",
+  "can_nang": "4-6 kg",
+  "chieu_cao": "23-28 cm",
+  "tuoi_tho": "15-19 năm",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Hòa đồng",
+   "Ổn định"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-coton-de-tulear.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Coton_de_Tular_1.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Uschi Goess (eingestellt von Caronna)"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Coton_de_Tulear",
+   "https://www.akc.org/dog-breeds/coton-de-tulear/",
+   "http://www.fci.be/Nomenclature/Standards/283g09-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 9-11 inch; nặng 8-15 lb) và tiêu chuẩn FCI (cao 23-28 cm, nặng 4-6 kg). Rụng lông/vận động theo thang điểm AKC (shedding 2/5, energy 3/5)."
+ },
+ {
+  "id": "cho-croatian-sheepdog",
+  "loai": "cho",
+  "ten_en": "Croatian Sheepdog",
+  "ten_vi": "Chó chăn cừu Croatia",
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn cừu Croatia, họ hàng gần với giống Mudi của Hungary; lanh lợi, cân bằng, tận tụy với chủ.",
+  "kich_co": "Vua",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "43-50 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hoạt bát",
+   "Trung thành",
+   "Cân bằng"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-croatian-sheepdog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Gera062005sed.jpg",
+   "license": "Public domain",
+   "tac_gia": "Michala Mračková"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Croatian_Sheepdog",
+   "http://www.fci.be/Nomenclature/Standards/277g01-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia. Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI (chó chăn cừu lông vừa, tính tình lanh lợi)."
+ },
+ {
+  "id": "cho-curly-coated-retriever",
+  "loai": "cho",
+  "ten_en": "Curly-coated Retriever",
+  "ten_vi": "Chó Curly",
+  "fci_group": 8,
+  "mo_ta_ngan": "Giống retriever cao nhất, nổi bật với bộ lông xoăn chặt; thông minh, vững vàng, độc lập, hơi xa cách với người lạ.",
+  "kich_co": "Lon",
+  "can_nang": "27-43 kg",
+  "chieu_cao": "58-69 cm",
+  "tuoi_tho": "10-12 năm",
+  "tinh_cach": [
+   "Thông minh",
+   "Điềm tĩnh",
+   "Tự tin"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-curly-coated-retriever.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Curly_Coated_Retriever.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Không rõ tác giả — xem link Commons"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Curly-coated_Retriever",
+   "https://www.akc.org/dog-breeds/curly-coated-retriever/",
+   "http://www.fci.be/Nomenclature/Standards/110g08-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 23-27 inch; nặng 60-95 lb) và tiêu chuẩn FCI (cao lý tưởng 64-69 cm). Rụng lông/vận động theo thang điểm AKC (shedding 2/5, energy 4/5)."
+ },
+ {
+  "id": "cho-czechoslovakian-wolfdog",
+  "loai": "cho",
+  "ten_en": "Czechoslovakian Wolfdog",
+  "ten_vi": "Chó sói Tiệp Khắc",
+  "fci_group": 1,
+  "mo_ta_ngan": "Giống chó lai sói được tạo ra ở Tiệp Khắc từ 1955; sống động, bền bỉ, trung thành tuyệt đối, nghi ngờ người lạ.",
+  "kich_co": "Lon",
+  "can_nang": "20-26 kg trở lên",
+  "chieu_cao": "60-65 cm trở lên",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hoạt bát",
+   "Trung thành",
+   "Cảnh giác"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-czechoslovakian-wolfdog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Czechoslovakian-wolfdog-profile_big.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Pandora666"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Czechoslovakian_Wolfdog",
+   "http://www.fci.be/Nomenclature/Standards/332g01-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia. Cân nặng/chiều cao là mức tối thiểu theo tiêu chuẩn FCI (đực từ 65 cm/26 kg, cái từ 60 cm/20 kg). Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI; giống này cần chủ có kinh nghiệm."
+ },
+ {
+  "id": "cho-cao-de-gado-transmontano",
+  "loai": "cho",
+  "ten_en": "Cão de Gado Transmontano",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó bảo vệ đàn hiếm của vùng Trás-os-Montes, Bồ Đào Nha; hiền lành nhưng dè dặt, canh gác đàn chống sói xuất sắc.",
+  "kich_co": "Khong lo",
+  "can_nang": "50-75 kg",
+  "chieu_cao": "68-85 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Cảnh giác",
+   "Trung thành"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-cao-de-gado-transmontano.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:TRANSMONTANO.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "CARLOS"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/C%C3%A3o_de_Gado_Transmontano",
+   "http://www.fci.be/Nomenclature/Standards/368g02-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia. Rụng lông/vận động suy luận từ tiêu chuẩn FCI (lông hai lớp dài vừa, chó bảo vệ đàn lớn)."
+ },
+ {
+  "id": "cho-dalmatian-dog",
+  "loai": "cho",
+  "ten_en": "Dalmatian dog",
+  "ten_vi": "Chó Đốm",
+  "fci_group": 6,
+  "mo_ta_ngan": "Giống chó lông trắng đốm đen nổi tiếng, gốc Croatia; từng là chó săn, chó xe ngựa và chó cứu hỏa.",
+  "kich_co": "Lon",
+  "can_nang": "20-32 kg",
+  "chieu_cao": "48-62 cm",
+  "tuoi_tho": "11-13 năm",
+  "tinh_cach": [
+   "Thân thiện",
+   "Hoạt bát",
+   "Thông minh"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-dalmatian-dog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Sun_Dog_Dalmatian.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Bradlien"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Dalmatian_dog",
+   "https://www.akc.org/dog-breeds/dalmatian/",
+   "http://www.fci.be/Nomenclature/Standards/153g06-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 19-24 inch; nặng 45-70 lb) và tiêu chuẩn FCI (cao 54-62 cm). Rụng lông/vận động theo thang điểm AKC (shedding 4/5, energy 4/5). Tính cách suy luận từ vai trò chó săn/chó xe ngựa và mô tả chung của giống."
+ },
+ {
+  "id": "cho-dandie-dinmont-terrier",
+  "loai": "cho",
+  "ten_en": "Dandie Dinmont Terrier",
+  "ten_vi": "Chó Dandie Dinmont Terrier",
+  "fci_group": 3,
+  "mo_ta_ngan": "Chó sục nhỏ Scotland thân dài, chân ngắn, có chỏm lông đặc trưng trên đầu; thân thiện nhưng cứng cỏi, hợp với trẻ lớn.",
+  "kich_co": "Nho",
+  "can_nang": "8-11 kg",
+  "chieu_cao": "20-28 cm",
+  "tuoi_tho": "12-15 năm",
+  "tinh_cach": [
+   "Độc lập",
+   "Thông minh",
+   "Tình cảm"
+  ],
+  "rung_long": "It",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Co",
+  "anh": {
+   "file": "photos/cho-dandie-dinmont-terrier.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Dandie_Dinmont_Terrier_600.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "en:User:Sannse"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Dandie_Dinmont_Terrier",
+   "https://www.akc.org/dog-breeds/dandie-dinmont-terrier/",
+   "http://www.fci.be/Nomenclature/Standards/168g03-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 8-11 inch; nặng 18-24 lb). Rụng lông/vận động theo thang điểm AKC (shedding 2/5, energy 3/5)."
+ },
+ {
+  "id": "cho-danish-swedish-farmdog",
+  "loai": "cho",
+  "ten_en": "Danish–Swedish Farmdog",
+  "ten_vi": null,
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó nông trại đa năng Đan Mạch-Thụy Điển, từng gọi là Danish Pinscher; cảnh giác, lanh lợi, làm được nhiều việc nhà nông.",
+  "kich_co": "Nho",
+  "can_nang": "7-9 kg",
+  "chieu_cao": "32-37 cm",
+  "tuoi_tho": "11-13 năm",
+  "tinh_cach": [
+   "Cảnh giác",
+   "Hoạt bát",
+   "Chú ý"
+  ],
+  "rung_long": "It",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-danish-swedish-farmdog.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Danish_Farm_Dog1604fxcr_wb.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Ellen Levy Finch (User:Elf)"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Danish%E2%80%93Swedish_Farmdog",
+   "https://www.akc.org/dog-breeds/danish-swedish-farmdog/",
+   "http://www.fci.be/Nomenclature/Standards/356g02-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 12,5-14,5 inch; nặng 15-20 lb) và tiêu chuẩn FCI (cao 32-37 cm). Rụng lông/vận động theo thang điểm AKC (shedding 2/5, energy 4/5)."
+ },
+ {
+  "id": "cho-dobermann",
+  "loai": "cho",
+  "ten_en": "Dobermann",
+  "ten_vi": "Chó Doberman",
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó làm việc Đức do người thu thuế Louis Dobermann tạo ra khoảng 1890; thân thiện, điềm tĩnh, rất tận tụy với gia đình.",
+  "kich_co": "Lon",
+  "can_nang": "27-45 kg",
+  "chieu_cao": "61-72 cm",
+  "tuoi_tho": "10-12 năm",
+  "tinh_cach": [
+   "Trung thành",
+   "Điềm tĩnh",
+   "Cảnh giác"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-dobermann.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Dobermann_handling.jpg",
+   "license": "Copyrighted free use",
+   "tac_gia": "Miroslav Cacik"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Dobermann",
+   "https://www.akc.org/dog-breeds/doberman-pinscher/",
+   "http://www.fci.be/Nomenclature/Standards/143g02-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 24-28 inch; nặng 60-100 lb) và tiêu chuẩn FCI (cao 63-72 cm, nặng 32-45 kg). Tuổi thọ theo AKC 10-12 năm (một nghiên cứu Ý 2024 ghi 8 năm). Rụng lông/vận động theo thang điểm AKC (shedding 4/5, energy 5/5)."
+ },
+ {
+  "id": "cho-dogo-argentino",
+  "loai": "cho",
+  "ten_en": "Dogo Argentino",
+  "ten_vi": "Chó Dogo Argentino",
+  "fci_group": 2,
+  "mo_ta_ngan": "Chó mastiff lớn Argentina, lai tạo để săn thú lớn như lợn rừng và báo sư tử; trung thành, can đảm, cần xã hội hóa kỹ.",
+  "kich_co": "Lon",
+  "can_nang": "36-45 kg",
+  "chieu_cao": "60-68 cm",
+  "tuoi_tho": "10-12 năm",
+  "tinh_cach": [
+   "Trung thành",
+   "Can đảm",
+   "Cảnh giác"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-dogo-argentino.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Argentine_Dogo_(535032632)_(cropped).jpg",
+   "license": "CC BY 2.0",
+   "tac_gia": "Ricardo Martins from Gent, Belgium"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Dogo_Argentino",
+   "https://www.akc.org/dog-breeds/dogo-argentino/",
+   "http://www.fci.be/Nomenclature/Standards/292g02-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 24-26,5 inch; nặng 80-100 lb) và tiêu chuẩn FCI (cao 60-68 cm, nặng 40-45 kg). Tuổi thọ 'thường 10-12 năm' theo bài Wikipedia (AKC ghi 9-15 năm). Rụng lông/vận động theo thang điểm AKC (shedding 4/5, energy 5/5)."
+ },
+ {
+  "id": "cho-dogue-de-bordeaux",
+  "loai": "cho",
+  "ten_en": "Dogue de Bordeaux",
+  "ten_vi": "Chó Bordeaux",
+  "fci_group": 2,
+  "mo_ta_ngan": "Mastiff Pháp cổ xưa, còn gọi là French Mastiff; canh gác xuất sắc, rất gắn bó với chủ, tính tình bướng bỉnh nên cần huấn luyện sớm.",
+  "kich_co": "Khong lo",
+  "can_nang": "45-50 kg trở lên",
+  "chieu_cao": "58-68 cm",
+  "tuoi_tho": "5-8 năm",
+  "tinh_cach": [
+   "Trung thành",
+   "Cảnh giác",
+   "Can đảm"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-dogue-de-bordeaux.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:French_Mastiff_female_4.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "Canarian"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Dogue_de_Bordeaux",
+   "https://www.akc.org/dog-breeds/dogue-de-bordeaux/",
+   "http://www.fci.be/Nomenclature/Standards/116g02-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 23-26 inch; nặng từ 99 lb trở lên) và tiêu chuẩn FCI (cao 58-68 cm, nặng từ 50 kg). Rụng lông/vận động theo thang điểm AKC (shedding 4/5, energy 3/5)."
+ },
+ {
+  "id": "cho-drentse-patrijshond",
+  "loai": "cho",
+  "ten_en": "Drentse Patrijshond",
+  "ten_vi": null,
+  "fci_group": 7,
+  "mo_ta_ngan": "Chó săn chỉ điểm đa năng tỉnh Drenthe, Hà Lan, còn gọi là Dutch Partridge Dog; ở nhà thư giãn hơn nhiều giống săn khác, rất gắn bó với gia đình.",
+  "kich_co": "Lon",
+  "can_nang": "25-35 kg",
+  "chieu_cao": "55-63 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Trung thành",
+   "Điềm tĩnh",
+   "Gắn bó"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-drentse-patrijshond.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Drentse_Patrijshond.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Eric Broeksma"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Drentse_Patrijshond",
+   "https://www.fci.be/Nomenclature/Standards/224g07-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia. Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI (lông dày vừa, chó săn chỉ điểm)."
+ },
+ {
+  "id": "cho-drever",
+  "loai": "cho",
+  "ten_en": "Drever",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi chân ngắn Thụy Điển, dùng để săn hươu; nhạy bén, điềm tĩnh, không bao giờ hung dữ hay nhút nhát.",
+  "kich_co": "Nho",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "30-38 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Kiên trì",
+   "Thân thiện"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-drever.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Drever_NUCh_Tanjo.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Per Killingmo. Norway (dog owner)"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Drever",
+   "https://www.fci.be/nomenclature/Standards/130g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Nhóm FCI 6 theo tiêu chuẩn 130. Cân nặng và tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia. Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI (chó săn mùi chân ngắn)."
+ },
+ {
+  "id": "cho-dunker",
+  "loai": "cho",
+  "ten_en": "Dunker",
+  "ten_vi": null,
+  "fci_group": 6,
+  "mo_ta_ngan": "Chó săn mùi Na Uy, còn gọi là Norwegian Hound; cứng cỏi, khỏe mạnh, hòa đồng, tin người, làm chó săn và chó bầu bạn đều tốt.",
+  "kich_co": "Vua",
+  "can_nang": "khoảng 18 kg",
+  "chieu_cao": "47-58 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Hòa đồng",
+   "Tin người",
+   "Cứng cỏi"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-dunker.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Dunker.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "DogWiki picture pool, checked by DogWiki-Admin 14th June 2006"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Dunker",
+   "http://www.fci.be/Nomenclature/Standards/203g06-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Nhóm FCI 6 theo tiêu chuẩn 203. Cân nặng 39 lb theo infobox Wikipedia (khoảng 18 kg); tiêu chuẩn FCI không ghi cân nặng. Tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia. Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI."
+ },
+ {
+  "id": "cho-dutch-shepherd",
+  "loai": "cho",
+  "ten_en": "Dutch Shepherd",
+  "ten_vi": "Chó chăn cừu Hà Lan",
+  "fci_group": 1,
+  "mo_ta_ngan": "Chó chăn cừu Hà Lan; trung thành, đáng tin, luôn cảnh giác, thông minh và rất dễ huấn luyện.",
+  "kich_co": "Lon",
+  "can_nang": "19-34 kg",
+  "chieu_cao": "55-62 cm",
+  "tuoi_tho": "11-14 năm",
+  "tinh_cach": [
+   "Trung thành",
+   "Thông minh",
+   "Cảnh giác"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-dutch-shepherd.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Luna-orig-modified.Feb_2019.DSC_4339-SharpenAI-Softness.jpg",
+   "license": "CC BY-SA 4.0",
+   "tac_gia": "CaroleField"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/Dutch_Shepherd",
+   "https://www.akc.org/dog-breeds/dutch-shepherd/",
+   "http://www.fci.be/Nomenclature/Standards/223g01-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 21,5-24,5 inch; nặng 42-75 lb) và tiêu chuẩn FCI (cao 55-62 cm). Rụng lông/vận động theo thang điểm AKC (shedding 3/5, energy 5/5)."
+ },
+ {
+  "id": "cho-east-siberian-laika",
+  "loai": "cho",
+  "ten_en": "East Siberian Laika",
+  "ten_vi": "Chó Laika Đông Siberia",
+  "fci_group": 5,
+  "mo_ta_ngan": "Chó săn kiểu spitz vùng Siberia phía đông sông Yenisei; cứng cỏi, độc lập, thích nghi với khí hậu khắc nghiệt.",
+  "kich_co": "Lon",
+  "can_nang": "chưa kiểm chứng",
+  "chieu_cao": "53-64 cm",
+  "tuoi_tho": "chưa kiểm chứng",
+  "tinh_cach": [
+   "Độc lập",
+   "Cảnh giác",
+   "Trung thành"
+  ],
+  "rung_long": "Nhieu",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-east-siberian-laika.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:East_Siberian_Laika.jpg",
+   "license": "Public domain",
+   "tac_gia": "No machine-readable author provided. PrzemekL assumed (based on copyright claims)."
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/East_Siberian_Laika",
+   "https://www.fci.be/Nomenclature/Standards/305g05-en.pdf"
+  ],
+  "trang_thai": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Cân nặng và tuổi thọ chưa có trong tiêu chuẩn FCI hay bài Wikipedia. Tính cách suy luận từ vai trò chó săn spitz. Rụng lông/vận động/hợp chung cư suy luận từ tiêu chuẩn FCI (lông dày, chó săn vùng lạnh cần vận động nhiều)."
+ },
+ {
+  "id": "cho-english-cocker-spaniel",
+  "loai": "cho",
+  "ten_en": "English Cocker Spaniel",
+  "ten_vi": "Chó Cocker Spaniel Anh",
+  "fci_group": 8,
+  "mo_ta_ngan": "Chó săn chim Anh vui vẻ, đuôi lúc nào cũng vẫy; hiền lành, tình cảm nhưng đầy sức sống.",
+  "kich_co": "Vua",
+  "can_nang": "12-15 kg",
+  "chieu_cao": "38-43 cm",
+  "tuoi_tho": "12-14 năm",
+  "tinh_cach": [
+   "Vui vẻ",
+   "Tình cảm",
+   "Hiền lành"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-english-cocker-spaniel.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:%22Bill%22_-_Cocker_spaniel_anglais_2.JPG",
+   "license": "CC BY 4.0",
+   "tac_gia": "Jean-Pol GRANDMONT"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/English_Cocker_Spaniel",
+   "https://www.akc.org/dog-breeds/english-cocker-spaniel/",
+   "http://www.fci.be/Nomenclature/Standards/005g08-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 15-17 inch; nặng 26-34 lb) và tiêu chuẩn FCI (cao 38-41 cm, nặng khoảng 13-14,5 kg). Rụng lông/vận động theo thang điểm AKC (shedding 3/5, energy 3/5)."
+ },
+ {
+  "id": "cho-english-foxhound",
+  "loai": "cho",
+  "ten_en": "English Foxhound",
+  "ten_vi": "Chó săn cáo Anh",
+  "fci_group": 6,
+  "mo_ta_ngan": "Một trong bốn giống foxhound, chuyên săn cáo bằng mùi; bền bỉ, thân thiện, không hung dữ, nhưng sủa rất nhiều.",
+  "kich_co": "Lon",
+  "can_nang": "27-34 kg",
+  "chieu_cao": "61 cm",
+  "tuoi_tho": "10-13 năm",
+  "tinh_cach": [
+   "Thân thiện",
+   "Bền bỉ",
+   "Hiền lành"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Cao",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-english-foxhound.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:English_Foxhound_portrait.jpg",
+   "license": "CC BY 2.0",
+   "tac_gia": "Flickr user Thowra_uk"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/English_Foxhound",
+   "https://www.akc.org/dog-breeds/english-foxhound/",
+   "https://www.fci.be/Nomenclature/Standards/159g06-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 24 inch; nặng 60-75 lb). Rụng lông/vận động theo thang điểm AKC (shedding 3/5, energy 4/5). Hợp chung cư 'Không' vì là chó săn theo bầy, sủa nhiều (AKC bark 5/5) và cần vận động rất nhiều."
+ },
+ {
+  "id": "cho-english-mastiff",
+  "loai": "cho",
+  "ten_en": "English Mastiff",
+  "ten_vi": "Chó Ngao Anh",
+  "fci_group": 2,
+  "mo_ta_ngan": "Giống chó mastiff Anh khổng lồ, một trong những giống chó nặng nhất thế giới; điềm tĩnh, dũng cảm, hiền lành với chủ.",
+  "kich_co": "Khong lo",
+  "can_nang": "54-104 kg",
+  "chieu_cao": "70-76 cm trở lên",
+  "tuoi_tho": "6-10 năm",
+  "tinh_cach": [
+   "Điềm tĩnh",
+   "Can đảm",
+   "Tình cảm"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Khong",
+  "anh": {
+   "file": "photos/cho-english-mastiff.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:Westgort_Anticipation_17_months.JPG",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Radovan Rohovsky"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/English_Mastiff",
+   "https://www.akc.org/dog-breeds/mastiff/",
+   "http://www.fci.be/Nomenclature/Standards/264g02-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao từ 27,5 inch trở lên; nặng 120-230 lb). Tuổi thọ theo AKC 6-10 năm (một nghiên cứu Anh ghi 9 năm). Rụng lông/vận động theo thang điểm AKC (shedding 3/5, energy 3/5)."
+ },
+ {
+  "id": "cho-english-setter",
+  "loai": "cho",
+  "ten_en": "English Setter",
+  "ten_vi": "Chó Setter Anh",
+  "fci_group": 7,
+  "mo_ta_ngan": "Chó săn chỉ điểm cỡ vừa, lông trắng dài mượt; rất thân thiện, tốt bụng, năng động với khứu giác săn mồi nhạy bén.",
+  "kich_co": "Lon",
+  "can_nang": "20-36 kg",
+  "chieu_cao": "58-69 cm",
+  "tuoi_tho": "12 năm",
+  "tinh_cach": [
+   "Thân thiện",
+   "Hoạt bát",
+   "Hiền lành"
+  ],
+  "rung_long": "Trung binh",
+  "van_dong": "Trung binh",
+  "hop_chung_cu": "Han che",
+  "anh": {
+   "file": "photos/cho-english-setter.jpg",
+   "commons_url": "https://commons.wikimedia.org/wiki/File:EnglishSetter9_fx_wb.jpg",
+   "license": "CC BY-SA 3.0",
+   "tac_gia": "Elf at English Wikipedia"
+  },
+  "nguon": [
+   "https://en.wikipedia.org/wiki/English_Setter",
+   "https://www.akc.org/dog-breeds/english-setter/",
+   "https://www.fci.be/Nomenclature/Standards/002g07-en.pdf"
+  ],
+  "trang_thai": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Số đo theo AKC (cao 23-27 inch; nặng 45-80 lb) và tiêu chuẩn FCI (cao 61-68 cm). Tuổi thọ theo AKC 12 năm (một nghiên cứu Ý 2024 ghi 10 năm). Rụng lông/vận động theo thang điểm AKC (shedding 3/5, energy 3/5)."
+ }
+]
