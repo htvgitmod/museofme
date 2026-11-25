@@ -1,0 +1,217 @@
+[
+ [
+  "G043",
+  "DROP-PREVIEW",
+  "no clean same-artist audio on iTunes (US/VN/JP/GB)"
+ ],
+ [
+  "G064",
+  "SWAP",
+  "Plastic Love",
+  "->",
+  "Plastic Love",
+  "Mariya Takeuchi"
+ ],
+ [
+  "G075",
+  "SWAP",
+  "Ye",
+  "->",
+  "Last Last",
+  "Burna Boy"
+ ],
+ [
+  "G085",
+  "DROP-PREVIEW",
+  "no clean same-artist audio on iTunes (US/VN/JP/GB)"
+ ],
+ [
+  "G098",
+  "SWAP",
+  "Blue and White Porcelain",
+  "->",
+  "Blue and White Porcelain",
+  "Jay Chou"
+ ],
+ [
+  "G110",
+  "DROP-PREVIEW",
+  "no clean same-artist audio on iTunes (US/VN/JP/GB)"
+ ],
+ [
+  "G111",
+  "DROP-PREVIEW",
+  "no clean same-artist audio on iTunes (US/VN/JP/GB)"
+ ],
+ [
+  "G138",
+  "SWAP",
+  "Harbor",
+  "->",
+  "Monday Loop",
+  "tomppabeats"
+ ],
+ [
+  "G147",
+  "DROP-PREVIEW",
+  "no clean same-artist audio on iTunes (US/VN/JP/GB)"
+ ],
+ [
+  "G182",
+  "SWAP-exact-track",
+  "Chạy Ngay Đi",
+  "Sơn Tùng M-TP"
+ ],
+ [
+  "G195",
+  "DROP-PREVIEW",
+  "no clean same-artist audio on iTunes (US/VN/JP/GB)"
+ ],
+ [
+  "G196",
+  "DROP-PREVIEW",
+  "no clean same-artist audio on iTunes (US/VN/JP/GB)"
+ ],
+ [
+  "G197",
+  "DROP-PREVIEW",
+  "no clean same-artist audio on iTunes (US/VN/JP/GB)"
+ ],
+ [
+  "G198",
+  "DROP-PREVIEW",
+  "no clean same-artist audio on iTunes (US/VN/JP/GB)"
+ ],
+ [
+  "G200",
+  "DROP-PREVIEW",
+  "no clean same-artist audio on iTunes (US/VN/JP/GB)"
+ ],
+ [
+  "G201",
+  "DROP-PREVIEW",
+  "no clean same-artist audio on iTunes (US/VN/JP/GB)"
+ ],
+ [
+  "G210",
+  "DROP-PREVIEW",
+  "no clean same-artist audio on iTunes (US/VN/JP/GB)"
+ ],
+ [
+  "G223",
+  "DROP-PREVIEW",
+  "no clean same-artist audio on iTunes (US/VN/JP/GB)"
+ ],
+ [
+  "G046",
+  "SWAP",
+  "Closer",
+  "->",
+  "Head Like a Hole",
+  "Nine Inch Nails"
+ ],
+ [
+  "G043",
+  "SWAP",
+  "Unanswered",
+  "->",
+  "You Only Live Once",
+  "Suicide Silence"
+ ],
+ [
+  "G085",
+  "SWAP",
+  "Vroom Vroom",
+  "->",
+  "Boom Clap",
+  "Charli xcx"
+ ],
+ [
+  "G110",
+  "SWAP",
+  "Shut Up",
+  "->",
+  "Own It",
+  "Mack Wilds"
+ ],
+ [
+  "G111",
+  "SWAP",
+  "Close Eyes",
+  "->",
+  "Still Breathing",
+  "DVRST"
+ ],
+ [
+  "G147",
+  "SWAP",
+  "One Night",
+  "->",
+  "the BLACK seminole.",
+  "Lil Yachty"
+ ],
+ [
+  "G195",
+  "SWAP",
+  "Sky",
+  "->",
+  "ALL RED",
+  "Playboi Carti"
+ ],
+ [
+  "G196",
+  "SWAP",
+  "Murder In My Mind",
+  "->",
+  "FATALITY",
+  "Kordhell"
+ ],
+ [
+  "G197",
+  "SWAP",
+  "Paris",
+  "->",
+  "THE_EVIL_THAT_MEN_DO",
+  "$uicideboy$"
+ ],
+ [
+  "G198",
+  "SWAP",
+  "Magnolia",
+  "->",
+  "Timeless",
+  "The Weeknd & Playboi Carti"
+ ],
+ [
+  "G200",
+  "SWAP",
+  "Mine",
+  "->",
+  "DANGEROUS",
+  "1nonly"
+ ],
+ [
+  "G201",
+  "SWAP",
+  "Be Nice 2 Me",
+  "->",
+  "Reality Surf",
+  "Bladee"
+ ],
+ [
+  "G210",
+  "SWAP",
+  "Do They Owe Us a Living?",
+  "->",
+  "Bata Motel",
+  "Crass"
+ ],
+ [
+  "G223",
+  "SWAP",
+  "Kawa no Nagare no Yō ni",
+  "->",
+  "Kawa No Nagare No Youni",
+  "Hibari Misora"
+ ]
+]

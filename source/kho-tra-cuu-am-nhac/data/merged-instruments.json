@@ -1,0 +1,1202 @@
+[
+ {
+  "example_piece": "The Four Seasons – Spring, Antonio Vivaldi",
+  "family": "Dây",
+  "id": "I001",
+  "level": "co_ban",
+  "mood": [
+   "lãng mạn",
+   "da diết",
+   "sang trọng"
+  ],
+  "name_en": "violin",
+  "name_vi": "Violin",
+  "orchestra_position": "Hàng đầu, bên trái nhạc trưởng, cùng nhóm violin 1 ở ngoài cùng bên trái; violin 2 ngồi ngay sau hoặc bên cạnh violin 1",
+  "sound": "Âm thanh trong, sáng và giàu cảm xúc, có thể ngân dài da diết hoặc chạy nhanh lanh lảnh. Đây là giọng hát chính của dàn dây.",
+  "use_when": "Dùng khi video cần cảm xúc dâng trào, khoảnh khắc lãng mạn, đám cưới, hoặc cảnh quay đẹp cần nhạc nền sang trọng."
+ },
+ {
+  "example_piece": "Harold in Italy, Hector Berlioz",
+  "family": "Dây",
+  "id": "I002",
+  "level": "trung_cap",
+  "mood": [
+   "trầm buồn",
+   "ấm áp",
+   "sâu lắng"
+  ],
+  "name_en": "viola",
+  "name_vi": "Viola",
+  "orchestra_position": "Hàng đầu đến hàng giữa, ở trung tâm, ngay bên phải nhóm violin, trước nhóm cello",
+  "sound": "Âm trầm ấm và dày hơn violin, hơi khàn và buồn, như giọng nữ trầm. Thường làm nền, đệm hòa âm cho violin.",
+  "use_when": "Dùng khi cần sắc thái trầm buồn, hoài niệm mà violin nghe quá sáng, hoặc muốn lớp nhạc nền dày và ấm hơn."
+ },
+ {
+  "example_piece": "Cello Suite No. 1 in G major – Prelude, Johann Sebastian Bach",
+  "family": "Dây",
+  "id": "I003",
+  "level": "co_ban",
+  "mood": [
+   "sâu lắng",
+   "bi tráng",
+   "quyền lực"
+  ],
+  "name_en": "cello",
+  "name_vi": "Cello",
+  "orchestra_position": "Hàng đầu, bên phải nhạc trưởng, đối diện nhóm violin, ngồi phía trước nhóm double bass",
+  "sound": "Âm trầm, ấm và rất gần giọng hát con người, vừa có thể trầm buồn vừa có thể mạnh mẽ, hùng tráng.",
+  "use_when": "Dùng cho cảnh cảm xúc nặng, phim ngắn, trailer, hoặc khi cần một giai điệu trầm mà vẫn hát được như giọng người."
+ },
+ {
+  "example_piece": "The Elephant (Carnival of the Animals), Camille Saint-Saëns",
+  "family": "Dây",
+  "id": "I004",
+  "level": "trung_cap",
+  "mood": [
+   "trầm hùng",
+   "chắc nịch",
+   "bí ẩn"
+  ],
+  "name_en": "double bass",
+  "name_vi": "Double bass",
+  "orchestra_position": "Hàng cuối cùng, bên phải dàn nhạc, đứng sau nhóm cello, gần bộ gõ",
+  "sound": "Âm trầm nhất trong họ dây, sâu, nặng và rung, làm nền móng cho toàn bộ dàn nhạc. Khi chơi pizzicato nghe chắc và nảy.",
+  "use_when": "Dùng khi cần nhịp bass chắc cho nhạc jazz, nhạc phim hồi hộp, hoặc muốn tạo cảm giác nặng nề, trang nghiêm."
+ },
+ {
+  "example_piece": "Asturias, Isaac Albéniz (bản thu của Andrés Segovia)",
+  "family": "Dây",
+  "id": "I005",
+  "level": "co_ban",
+  "mood": [
+   "gần gũi",
+   "linh hoạt",
+   "trữ tình"
+  ],
+  "name_en": "guitar",
+  "name_vi": "Guitar",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc thính phòng, ban nhạc pop, rock, jazz và nhạc cổ điển độc tấu",
+  "sound": "Âm thanh linh hoạt, vừa đệm vừa solo được, từ nhẹ nhàng thủ thỉ đến rộn ràng, sôi động tùy cách chơi.",
+  "use_when": "Dùng cho vlog, nhạc nền đời thường, cover, hoặc bất cứ video nào cần cảm giác gần gũi, dễ nghe."
+ },
+ {
+  "example_piece": "Tears in Heaven, Eric Clapton (bản Unplugged)",
+  "family": "Dây",
+  "id": "I006",
+  "level": "co_ban",
+  "mood": [
+   "mộc mạc",
+   "ấm áp",
+   "chill"
+  ],
+  "name_en": "acoustic guitar",
+  "name_vi": "Guitar acoustic",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc folk, country, pop acoustic và biểu diễn unplugged",
+  "sound": "Âm mộc, ấm và trong, vang tự nhiên từ thùng đàn, nghe chân thật và gần gũi, rất hợp để hát cùng.",
+  "use_when": "Dùng cho video chill, acoustic cover, vlog du lịch, hoặc cảnh cần không khí mộc mạc, thư giãn."
+ },
+ {
+  "example_piece": "Stairway to Heaven, Led Zeppelin (solo của Jimmy Page)",
+  "family": "Dây",
+  "id": "I007",
+  "level": "co_ban",
+  "mood": [
+   "mạnh mẽ",
+   "nổi loạn",
+   "bùng nổ"
+  ],
+  "name_en": "electric guitar",
+  "name_vi": "Guitar điện",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong ban nhạc rock, metal, blues và pop hiện đại",
+  "sound": "Âm sắc đa dạng nhờ hiệu ứng: có thể trong trẻo, méo tiếng gai góc, hoặc gào thét đầy năng lượng. Tiếng solo điện rất dễ nhận ra.",
+  "use_when": "Dùng khi video cần năng lượng cao, cảm giác ngầu, cá tính, hoặc đoạn cao trào cần guitar solo bùng nổ."
+ },
+ {
+  "example_piece": "Another One Bites the Dust, Queen",
+  "family": "Dây",
+  "id": "I008",
+  "level": "co_ban",
+  "mood": [
+   "groovy",
+   "chắc nhịp",
+   "sôi động"
+  ],
+  "name_en": "bass guitar",
+  "name_vi": "Guitar bass",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong ban nhạc pop, rock, funk, jazz và R&B để giữ nhịp và nền trầm",
+  "sound": "Âm trầm, chắc và nảy, tạo groove khiến người nghe muốn nhún nhảy. Là xương sống nhịp điệu của ban nhạc hiện đại.",
+  "use_when": "Dùng khi video cần groove, nhịp điệu rõ ràng, nhạc nhảy, hoặc muốn phần bass nghe nổi bật, bắt tai."
+ },
+ {
+  "example_piece": "Clair de Lune, Claude Debussy (bản chuyển soạn cho harp)",
+  "family": "Dây",
+  "id": "I009",
+  "level": "nang_cao",
+  "mood": [
+   "mộng mơ",
+   "thiên thần",
+   "lấp lánh"
+  ],
+  "name_en": "harp",
+  "name_vi": "Harp",
+  "orchestra_position": "Hàng sau, bên trái dàn nhạc, gần bộ gõ và kèn gỗ, thường chỉ có 1–2 cây trong dàn giao hưởng",
+  "sound": "Âm trong như nước, lấp lánh và bay bổng, tiếng glissando chạy dọc dây nghe như mơ, rất thiên thần.",
+  "use_when": "Dùng cho cảnh mơ mộng, cổ tích, đám cưới, hoặc khi cần hiệu ứng lấp lánh, nhẹ như sương."
+ },
+ {
+  "example_piece": "Dueling Banjos, Arthur Smith",
+  "family": "Dây",
+  "id": "I010",
+  "level": "trung_cap",
+  "mood": [
+   "vui nhộn",
+   "đồng quê",
+   "rộn ràng"
+  ],
+  "name_en": "banjo",
+  "name_vi": "Banjo",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc bluegrass, country, folk và nhạc đồng quê Mỹ",
+  "sound": "Âm sáng, giòn, nảy tưng tưng rất đặc trưng, nghe vui tai và rộn ràng, gợi hình ảnh miền quê nước Mỹ.",
+  "use_when": "Dùng cho video vui vẻ, đồng quê, du lịch miền quê, hoặc cần nhịp nhanh, giòn giã tạo không khí rộn ràng."
+ },
+ {
+  "example_piece": "Mandolin Concerto in C major, Antonio Vivaldi",
+  "family": "Dây",
+  "id": "I011",
+  "level": "trung_cap",
+  "mood": [
+   "trong trẻo",
+   "dân gian",
+   "du dương"
+  ],
+  "name_en": "mandolin",
+  "name_vi": "Mandolin",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc dân gian Ý, bluegrass, folk và nhạc thính phòng",
+  "sound": "Âm cao, trong và rung nhẹ nhờ dây kép, nghe lanh lảnh như tiếng chuông nhỏ, rất hợp giai điệu dân gian.",
+  "use_when": "Dùng cho video mang hơi thở châu Âu, Ý, dân gian, hoặc cần giai điệu cao, trong và lạ tai."
+ },
+ {
+  "example_piece": "Somewhere Over the Rainbow, Israel Kamakawiwo'ole",
+  "family": "Dây",
+  "id": "I012",
+  "level": "co_ban",
+  "mood": [
+   "vui vẻ",
+   "nhẹ nhàng",
+   "biển cả"
+  ],
+  "name_en": "ukulele",
+  "name_vi": "Ukulele",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc pop, nhạc Hawaii, nhạc thiếu nhi và biểu diễn đường phố",
+  "sound": "Âm nhỏ, sáng, vui và nhẹ như nắng, nghe là thấy thư giãn và lạc quan, rất dễ thương.",
+  "use_when": "Dùng cho video du lịch biển, vlog vui vẻ, nội dung trẻ em, hoặc khi cần cảm giác nhẹ nhàng, tích cực."
+ },
+ {
+  "example_piece": "Recuerdos de la Alhambra, Francisco Tárrega",
+  "family": "Dây",
+  "id": "I013",
+  "level": "trung_cap",
+  "mood": [
+   "tinh tế",
+   "lãng mạn",
+   "cổ điển"
+  ],
+  "name_en": "classical guitar",
+  "name_vi": "Guitar cổ điển",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc cổ điển độc tấu, nhạc thính phòng và nhạc flamenco",
+  "sound": "Âm ấm, tròn và tinh tế nhờ dây nylon, chơi được cả giai điệu lẫn hòa âm cùng lúc, nghe sang và sâu.",
+  "use_when": "Dùng cho video cần sự tinh tế, lãng mạn kiểu châu Âu cổ điển, hoặc cảnh quay chậm, nghệ thuật."
+ },
+ {
+  "example_piece": "Syrinx, Claude Debussy",
+  "family": "Gỗ",
+  "id": "I014",
+  "level": "co_ban",
+  "mood": [
+   "bay bổng",
+   "trong trẻo",
+   "thơ mộng"
+  ],
+  "name_en": "flute",
+  "name_vi": "Sáo flute",
+  "orchestra_position": "Hàng giữa, trung tâm, phía trái, ngồi trước nhóm oboe và cạnh piccolo trong dàn giao hưởng",
+  "sound": "Âm trong, nhẹ và bay, cao vút mà vẫn mềm, như tiếng chim hót hoặc làn gió mát.",
+  "use_when": "Dùng cho cảnh thiên nhiên, buổi sáng, video nhẹ nhàng, hoặc khi cần giai điệu cao, trong và bay bổng."
+ },
+ {
+  "example_piece": "Clarinet Concerto in A major, Wolfgang Amadeus Mozart",
+  "family": "Gỗ",
+  "id": "I015",
+  "level": "co_ban",
+  "mood": [
+   "mượt mà",
+   "tình cảm",
+   "linh hoạt"
+  ],
+  "name_en": "clarinet",
+  "name_vi": "Clarinet",
+  "orchestra_position": "Hàng giữa, trung tâm, ngồi cạnh oboe và bassoon trong dàn giao hưởng",
+  "sound": "Âm ấm, mượt và linh hoạt, từ trầm khàn đến cao sáng, có thể chơi rất tình cảm hoặc rất vui nhộn.",
+  "use_when": "Dùng cho nhạc jazz nhẹ, video tình cảm, hoặc khi cần giai điệu mượt, ấm và dễ nghe."
+ },
+ {
+  "example_piece": "Gabriel's Oboe, Ennio Morricone",
+  "family": "Gỗ",
+  "id": "I016",
+  "level": "trung_cap",
+  "mood": [
+   "man mác",
+   "xuyên thấu",
+   "cổ điển"
+  ],
+  "name_en": "oboe",
+  "name_vi": "Oboe",
+  "orchestra_position": "Hàng giữa, trung tâm dàn nhạc, ngồi giữa flute và clarinet, là nhạc cụ lên dây chuẩn cho cả dàn",
+  "sound": "Âm hơi nasal, trong và xuyên, giàu cảm xúc, nghe buồn man mác và rất đặc trưng, khó lẫn với nhạc cụ khác.",
+  "use_when": "Dùng cho cảnh buồn nhẹ, hoài niệm, nhạc phim, hoặc khi cần một giọng solo da diết, khác biệt."
+ },
+ {
+  "example_piece": "The Sorcerer's Apprentice, Paul Dukas (đoạn mở đầu bassoon)",
+  "family": "Gỗ",
+  "id": "I017",
+  "level": "trung_cap",
+  "mood": [
+   "hài hước",
+   "trầm ấm",
+   "kể chuyện"
+  ],
+  "name_en": "bassoon",
+  "name_vi": "Bassoon",
+  "orchestra_position": "Hàng giữa, bên phải dàn nhạc, ngồi cạnh clarinet và gần nhóm kèn đồng",
+  "sound": "Âm trầm, ấm và hơi khàn, có thể hài hước, vụng về hoặc trầm tư, sâu lắng tùy đoạn nhạc.",
+  "use_when": "Dùng cho video kể chuyện, hoạt hình, nhân vật hài hước, hoặc khi cần giọng trầm, ấm mà vẫn vui."
+ },
+ {
+  "example_piece": "Take Five, Dave Brubeck (saxophone alto của Paul Desmond)",
+  "family": "Gỗ",
+  "id": "I018",
+  "level": "co_ban",
+  "mood": [
+   "gợi cảm",
+   "mượt mà",
+   "jazz"
+  ],
+  "name_en": "saxophone",
+  "name_vi": "Saxophone",
+  "orchestra_position": "Không thuộc biên chế chuẩn của dàn giao hưởng, dùng trong ban nhạc jazz, big band, dàn nhạc gió và nhạc pop",
+  "sound": "Âm ấm, mượt và rất tình, từ alto sáng đến tenor khàn, nghe vừa sang vừa gợi cảm, là giọng của nhạc jazz.",
+  "use_when": "Dùng cho video đêm, quán cà phê, thời trang, hoặc khi cần cảm giác sang, gợi cảm kiểu jazz."
+ },
+ {
+  "example_piece": "Brandenburg Concerto No. 4, Johann Sebastian Bach",
+  "family": "Gỗ",
+  "id": "I019",
+  "level": "co_ban",
+  "mood": [
+   "trong sáng",
+   "giản dị",
+   "tuổi thơ"
+  ],
+  "name_en": "recorder",
+  "name_vi": "Sáo recorder",
+  "orchestra_position": "Không thuộc dàn giao hưởng hiện đại, dùng trong nhạc cổ điển thời Baroque, nhạc thiếu nhi và nhạc dân gian",
+  "sound": "Âm trong, nhẹ và hơi thở, cao và đơn giản, nghe trong sáng như tiếng trẻ con, dễ chơi và dễ nghe.",
+  "use_when": "Dùng cho video thiếu nhi, giáo dục, nội dung nhẹ nhàng, hoặc khi cần âm sáo đơn giản, trong trẻo."
+ },
+ {
+  "example_piece": "Stars and Stripes Forever, John Philip Sousa",
+  "family": "Gỗ",
+  "id": "I020",
+  "level": "trung_cap",
+  "mood": [
+   "chói sáng",
+   "lanh lảnh",
+   "rộn ràng"
+  ],
+  "name_en": "piccolo",
+  "name_vi": "Piccolo",
+  "orchestra_position": "Hàng giữa, ngồi cùng nhóm flute, ở trung tâm dàn nhạc, là nhạc cụ cao nhất trong dàn giao hưởng",
+  "sound": "Âm rất cao, sắc và chói, xuyên qua cả dàn nhạc, nghe lanh lảnh như tiếng huýt sáo, dùng để tạo điểm nhấn chói sáng.",
+  "use_when": "Dùng cho đoạn cao trào, diễu hành, lễ hội, hoặc khi cần một tiếng cao vút nổi bật trên nền nhạc."
+ },
+ {
+  "example_piece": "Symphony No. 9 (New World) – Largo, Antonín Dvořák",
+  "family": "Gỗ",
+  "id": "I021",
+  "level": "nang_cao",
+  "mood": [
+   "hoài niệm",
+   "buồn man mác",
+   "thơ mộng"
+  ],
+  "name_en": "english horn",
+  "name_vi": "English horn",
+  "orchestra_position": "Hàng giữa, ngồi cùng nhóm oboe ở trung tâm dàn nhạc, thường chỉ xuất hiện khi tác phẩm yêu cầu",
+  "sound": "Âm trầm hơn oboe, ấm, buồn và rất thơ, như tiếng hát xa vọng lại, gợi cảm giác hoài niệm sâu.",
+  "use_when": "Dùng cho cảnh hoài hương, nhớ quê, nhạc phim buồn nhẹ, hoặc khi cần giọng solo trầm buồn đầy chất thơ."
+ },
+ {
+  "example_piece": "Piano Man, Billy Joel",
+  "family": "Gỗ",
+  "id": "I022",
+  "level": "co_ban",
+  "mood": [
+   "mộc mạc",
+   "buồn da diết",
+   "lang thang"
+  ],
+  "name_en": "harmonica",
+  "name_vi": "Harmonica",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc blues, country, folk, rock và nhạc phim",
+  "sound": "Âm khàn, mộc và rất tình, có thể thổi ra giai điệu buồn da diết hoặc vui rộn ràng, nghe như tiếng thở dài.",
+  "use_when": "Dùng cho video đường phố, du lịch bụi, nhạc blues, hoặc cảnh cần cảm giác lang thang, tự do."
+ },
+ {
+  "example_piece": "The Lonely Shepherd, Gheorghe Zamfir",
+  "family": "Gỗ",
+  "id": "I023",
+  "level": "trung_cap",
+  "mood": [
+   "hoang dã",
+   "bay bổng",
+   "thiên nhiên"
+  ],
+  "name_en": "pan flute",
+  "name_vi": "Sáo pan",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc dân gian Andean, nhạc New Age và nhạc phim",
+  "sound": "Âm nhẹ như hơi thở, bay và hơi hoang dã, gợi núi cao, đồng cỏ và không gian rộng lớn.",
+  "use_when": "Dùng cho video thiên nhiên, núi non, du lịch, hoặc cảnh cần cảm giác rộng lớn, hoang sơ và bình yên."
+ },
+ {
+  "example_piece": "The Rite of Spring, Igor Stravinsky",
+  "family": "Gỗ",
+  "id": "I024",
+  "level": "nang_cao",
+  "mood": [
+   "bí ẩn",
+   "trầm tối",
+   "căng thẳng"
+  ],
+  "name_en": "bass clarinet",
+  "name_vi": "Clarinet bass",
+  "orchestra_position": "Hàng giữa, ngồi cùng nhóm clarinet ở trung tâm dàn nhạc, thường chỉ xuất hiện khi tác phẩm yêu cầu",
+  "sound": "Âm trầm, ấm và hơi tối, sâu hơn clarinet thường, nghe bí ẩn và đầy sức nặng, rất hợp đoạn nhạc căng thẳng.",
+  "use_when": "Dùng cho cảnh hồi hộp, bí ẩn, nhạc phim căng thẳng, hoặc khi cần lớp trầm tối mà không nặng như tuba."
+ },
+ {
+  "example_piece": "Trumpet Concerto in E-flat major, Joseph Haydn",
+  "family": "Đồng",
+  "id": "I025",
+  "level": "co_ban",
+  "mood": [
+   "hào hùng",
+   "chói sáng",
+   "chiến thắng"
+  ],
+  "name_en": "trumpet",
+  "name_vi": "Trumpet",
+  "orchestra_position": "Hàng sau, trung tâm đến bên phải dàn nhạc, ngồi cùng nhóm kèn đồng, phía sau kèn gỗ",
+  "sound": "Âm sáng, vang và đầy uy lực, có thể chói lọi như hiệu lệnh hoặc mượt mà, tình cảm khi chơi nhỏ.",
+  "use_when": "Dùng cho khoảnh khắc chiến thắng, mở đầu hoành tráng, video thể thao, hoặc khi cần tiếng kèn vang dội, đầy năng lượng."
+ },
+ {
+  "example_piece": "Boléro, Maurice Ravel (đoạn solo trombone)",
+  "family": "Đồng",
+  "id": "I026",
+  "level": "co_ban",
+  "mood": [
+   "trang trọng",
+   "hài hước",
+   "mạnh mẽ"
+  ],
+  "name_en": "trombone",
+  "name_vi": "Trombone",
+  "orchestra_position": "Hàng sau, trung tâm đến bên phải dàn nhạc, ngồi sau kèn gỗ, cạnh trumpet và tuba",
+  "sound": "Âm trầm, ấm và uy lực, có thể trượt nốt mượt mà nhờ ống trượt, nghe vừa trang trọng vừa hài hước khi cần.",
+  "use_when": "Dùng cho video cần tiếng kèn trầm, mạnh, nhạc jazz, hoặc đoạn nhạc cần điểm nhấn hài hước, trượt nốt vui tai."
+ },
+ {
+  "example_piece": "Horn Concerto No. 4 in E-flat major, Wolfgang Amadeus Mozart",
+  "family": "Đồng",
+  "id": "I027",
+  "level": "trung_cap",
+  "mood": [
+   "lãng mạn",
+   "hùng tráng",
+   "mơ màng"
+  ],
+  "name_en": "french horn",
+  "name_vi": "Kèn French horn",
+  "orchestra_position": "Hàng sau, bên trái dàn nhạc, ngồi giữa kèn gỗ và trumpet, gần nhóm kèn đồng",
+  "sound": "Âm tròn, ấm và sang, vừa có thể hùng tráng vừa có thể mềm mại, mơ màng, là giọng kèn lãng mạn nhất.",
+  "use_when": "Dùng cho cảnh thiên nhiên rộng lớn, phim phiêu lưu, hoặc khi cần tiếng kèn vừa hùng tráng vừa lãng mạn."
+ },
+ {
+  "example_piece": "Tuba Concerto in F minor, Ralph Vaughan Williams",
+  "family": "Đồng",
+  "id": "I028",
+  "level": "trung_cap",
+  "mood": [
+   "oai nghiêm",
+   "trầm hùng",
+   "hài hước"
+  ],
+  "name_en": "tuba",
+  "name_vi": "Tuba",
+  "orchestra_position": "Hàng sau cùng, bên phải dàn nhạc, ở cuối nhóm kèn đồng, cạnh bộ gõ",
+  "sound": "Âm trầm nhất họ đồng, sâu, nặng và uy lực, làm nền móng cho cả dàn kèn, nghe vừa oai vừa hơi hài hước.",
+  "use_when": "Dùng khi cần nền trầm nặng cho dàn kèn, video hài hước với tiếng trầm vụng về, hoặc cảnh cần sự oai nghiêm."
+ },
+ {
+  "example_piece": "Carnival of Venice, Jean-Baptiste Arban",
+  "family": "Đồng",
+  "id": "I029",
+  "level": "trung_cap",
+  "mood": [
+   "dịu dàng",
+   "trữ tình",
+   "cổ điển"
+  ],
+  "name_en": "cornet",
+  "name_vi": "Cornet",
+  "orchestra_position": "Không thuộc biên chế chuẩn dàn giao hưởng, dùng trong dàn nhạc gió, brass band và nhạc jazz truyền thống",
+  "sound": "Âm mềm và ấm hơn trumpet, tròn và tình cảm, nghe dịu dàng hơn, rất hợp giai điệu trữ tình.",
+  "use_when": "Dùng cho video cổ điển, diễu hành nhẹ nhàng, hoặc khi muốn tiếng kèn sáng mà mềm hơn trumpet."
+ },
+ {
+  "example_piece": "Harlequin, Philip Sparke",
+  "family": "Đồng",
+  "id": "I030",
+  "level": "nang_cao",
+  "mood": [
+   "ấm áp",
+   "trữ tình",
+   "mượt mà"
+  ],
+  "name_en": "euphonium",
+  "name_vi": "Euphonium",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong dàn nhạc gió, brass band và nhạc quân đội",
+  "sound": "Âm ấm, tròn và mượt như giọng hát nam trầm, rất tình cảm, được gọi là cello của họ đồng.",
+  "use_when": "Dùng cho video cần giai điệu kèn ấm, tình cảm mà không chói, hoặc nhạc diễu hành, quân đội nhẹ nhàng."
+ },
+ {
+  "example_piece": "Taps (bản kèn hiệu quân đội Mỹ)",
+  "family": "Đồng",
+  "id": "I031",
+  "level": "co_ban",
+  "mood": [
+   "trang nghiêm",
+   "hiệu lệnh",
+   "thiêng liêng"
+  ],
+  "name_en": "bugle",
+  "name_vi": "Kèn bugle",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong quân đội, nghi lễ và diễu hành",
+  "sound": "Âm vang, rõ và trang nghiêm, chỉ chơi được vài nốt nhưng rất xuyên, nghe là thấy hiệu lệnh và nghi thức.",
+  "use_when": "Dùng cho video nghi lễ, tưởng niệm, quân đội, hoặc khi cần một tiếng hiệu lệnh ngắn, trang nghiêm."
+ },
+ {
+  "example_piece": "Feels So Good, Chuck Mangione",
+  "family": "Đồng",
+  "id": "I032",
+  "level": "nang_cao",
+  "mood": [
+   "mượt mà",
+   "ấm áp",
+   "jazz nhẹ"
+  ],
+  "name_en": "flugelhorn",
+  "name_vi": "Flugelhorn",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong ban nhạc jazz, brass band và nhạc pop",
+  "sound": "Âm mềm, tối và ấm hơn trumpet nhiều, nghe mượt và tình, rất hợp solo jazz nhẹ nhàng.",
+  "use_when": "Dùng cho video jazz nhẹ, buổi tối lãng mạn, hoặc khi muốn tiếng kèn đồng mà mềm, ấm, không chói."
+ },
+ {
+  "example_piece": "In the Air Tonight, Phil Collins",
+  "family": "Gõ",
+  "id": "I033",
+  "level": "co_ban",
+  "mood": [
+   "năng lượng",
+   "sôi động",
+   "mạnh mẽ"
+  ],
+  "name_en": "drums",
+  "name_vi": "Trống drums",
+  "orchestra_position": "Không thuộc dàn giao hưởng cổ điển, dùng trong ban nhạc rock, pop, jazz; trong dàn nhạc giao hưởng vị trí tương ứng là bộ gõ ở hàng cuối cùng",
+  "sound": "Âm mạnh, chắc và đầy năng lượng, giữ nhịp cho cả ban nhạc, từ nhẹ nhàng đến dồn dập bùng nổ.",
+  "use_when": "Dùng khi video cần nhịp mạnh, năng lượng cao, chuyển cảnh nhanh, hoặc đoạn cao trào cần trống dồn dập."
+ },
+ {
+  "example_piece": "Also sprach Zarathustra, Richard Strauss (đoạn mở đầu)",
+  "family": "Gõ",
+  "id": "I034",
+  "level": "trung_cap",
+  "mood": [
+   "hùng tráng",
+   "hồi hộp",
+   "kịch tính"
+  ],
+  "name_en": "timpani",
+  "name_vi": "Timpani",
+  "orchestra_position": "Hàng cuối cùng, trung tâm, phía sau dàn nhạc, là trung tâm của bộ gõ trong dàn giao hưởng",
+  "sound": "Âm trầm, vang và hùng tráng, từng tiếng như sấm rền, tạo cảm giác hồi hộp và kịch tính cho dàn nhạc.",
+  "use_when": "Dùng cho trailer, mở đầu hoành tráng, cảnh hồi hộp, hoặc khi cần tiếng trống trầm vang tạo kịch tính."
+ },
+ {
+  "example_piece": "Boléro, Maurice Ravel (nhịp snare drum lặp suốt bản nhạc)",
+  "family": "Gõ",
+  "id": "I035",
+  "level": "co_ban",
+  "mood": [
+   "kỷ luật",
+   "diễu hành",
+   "căng thẳng"
+  ],
+  "name_en": "snare drum",
+  "name_vi": "Trống snare",
+  "orchestra_position": "Hàng cuối cùng, trong nhóm bộ gõ, phía sau dàn nhạc, gần timpani và cymbals",
+  "sound": "Âm sắc, giòn và khô, tiếng lách cách rất rõ nhịp, nghe là thấy diễu hành và kỷ luật.",
+  "use_when": "Dùng cho video diễu hành, quân đội, hoặc khi cần nhịp sắc, rõ ràng để đẩy nhịp và tạo căng thẳng tăng dần."
+ },
+ {
+  "example_piece": "1812 Overture, Pyotr Ilyich Tchaikovsky",
+  "family": "Gõ",
+  "id": "I036",
+  "level": "co_ban",
+  "mood": [
+   "chói sáng",
+   "bùng nổ",
+   "kịch tính"
+  ],
+  "name_en": "cymbals",
+  "name_vi": "Cymbals",
+  "orchestra_position": "Hàng cuối cùng, trong nhóm bộ gõ, phía sau dàn nhạc, gần timpani",
+  "sound": "Âm chói, vang và lấp lánh khi va vào nhau, như tiếng sấm sét hoặc ánh chớp, dùng để nhấn mạnh cao trào.",
+  "use_when": "Dùng cho điểm nhấn cao trào, kết thúc hoành tráng, hoặc khi cần một tiếng vang chói để đánh dấu khoảnh khắc quan trọng."
+ },
+ {
+  "example_piece": "Fossils (Carnival of the Animals), Camille Saint-Saëns",
+  "family": "Gõ",
+  "id": "I037",
+  "level": "co_ban",
+  "mood": [
+   "vui nhộn",
+   "tinh nghịch",
+   "trong trẻo"
+  ],
+  "name_en": "xylophone",
+  "name_vi": "Xylophone",
+  "orchestra_position": "Hàng cuối cùng, trong nhóm bộ gõ, phía sau dàn nhạc, gần marimba và vibraphone",
+  "sound": "Âm sáng, giòn và trong như tiếng gỗ gõ, nốt cao lanh lảnh, nghe vui tai và hơi tinh nghịch.",
+  "use_when": "Dùng cho video vui nhộn, hoạt hình, nội dung thiếu nhi, hoặc khi cần giai điệu gõ sáng, giòn và lạ tai."
+ },
+ {
+  "example_piece": "Concerto for Marimba and String Orchestra, Ney Rosauro",
+  "family": "Gõ",
+  "id": "I038",
+  "level": "trung_cap",
+  "mood": [
+   "ấm áp",
+   "mượt mà",
+   "trữ tình"
+  ],
+  "name_en": "marimba",
+  "name_vi": "Marimba",
+  "orchestra_position": "Hàng cuối cùng, trong nhóm bộ gõ, phía sau dàn nhạc; thường chỉ xuất hiện khi tác phẩm yêu cầu",
+  "sound": "Âm ấm, tròn và vang hơn xylophone, trầm và mượt, nghe vừa sang vừa gần gũi, rất hợp giai điệu trữ tình.",
+  "use_when": "Dùng cho video cần giai điệu gõ ấm, sang, hoặc nhạc nền nhẹ nhàng mà vẫn có nhịp rõ."
+ },
+ {
+  "example_piece": "Bags' Groove, Milt Jackson",
+  "family": "Gõ",
+  "id": "I039",
+  "level": "trung_cap",
+  "mood": [
+   "mơ màng",
+   "mát lạnh",
+   "jazz nhẹ"
+  ],
+  "name_en": "vibraphone",
+  "name_vi": "Vibraphone",
+  "orchestra_position": "Không thuộc biên chế chuẩn dàn giao hưởng, dùng trong nhạc jazz, nhạc phim và nhạc đương đại; khi xuất hiện thì ở hàng bộ gõ phía sau",
+  "sound": "Âm trong, ngân dài và rung nhẹ như mơ, nghe mát và lấp lánh, rất đặc trưng của jazz nhẹ.",
+  "use_when": "Dùng cho video đêm, jazz nhẹ, không gian mơ màng, hoặc khi cần âm thanh ngân dài, mát và thư giãn."
+ },
+ {
+  "example_piece": "Mr. Tambourine Man, Bob Dylan",
+  "family": "Gõ",
+  "id": "I040",
+  "level": "co_ban",
+  "mood": [
+   "rộn ràng",
+   "lễ hội",
+   "vui vẻ"
+  ],
+  "name_en": "tambourine",
+  "name_vi": "Tambourine",
+  "orchestra_position": "Hàng cuối cùng, trong nhóm bộ gõ, phía sau dàn nhạc, thường do nhạc công bộ gõ kiêm thêm",
+  "sound": "Âm leng keng vui tai nhờ các vòng kim loại, tạo nhịp rộn ràng, nghe là thấy lễ hội và vui vẻ.",
+  "use_when": "Dùng cho video lễ hội, vui vẻ, nhạc folk, hoặc khi cần thêm nhịp leng keng rộn ràng cho nhạc nền."
+ },
+ {
+  "example_piece": "Entre dos aguas, Paco de Lucía (nhịp cajón flamenco)",
+  "family": "Gõ",
+  "id": "I041",
+  "level": "co_ban",
+  "mood": [
+   "mộc mạc",
+   "groovy",
+   "đường phố"
+  ],
+  "name_en": "cajón",
+  "name_vi": "Cajón",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc flamenco, nhạc acoustic, pop và nhạc đường phố",
+  "sound": "Âm trầm, chắc và mộc, gõ bằng tay trên thùng gỗ, vừa giữ nhịp vừa tạo groove tự nhiên, rất gần gũi.",
+  "use_when": "Dùng cho video acoustic, flamenco, biểu diễn đường phố, hoặc khi cần nhịp trống mộc mà không quá ồn."
+ },
+ {
+  "example_piece": "Oye Como Va, Santana",
+  "family": "Gõ",
+  "id": "I042",
+  "level": "co_ban",
+  "mood": [
+   "Latin",
+   "sôi động",
+   "nhảy múa"
+  ],
+  "name_en": "conga",
+  "name_vi": "Conga",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc Latin, salsa, pop Latin và nhạc nhảy",
+  "sound": "Âm trầm, ấm và nảy, nhịp Latin rộn ràng khiến người nghe muốn lắc hông, rất đặc trưng của nhạc salsa.",
+  "use_when": "Dùng cho video nhảy, tiệc tùng, du lịch biển, hoặc khi cần nhịp Latin sôi động, vui vẻ."
+ },
+ {
+  "example_piece": "Waka Waka (This Time for Africa), Shakira",
+  "family": "Gõ",
+  "id": "I043",
+  "level": "co_ban",
+  "mood": [
+   "hoang dã",
+   "năng lượng",
+   "lễ hội"
+  ],
+  "name_en": "djembe",
+  "name_vi": "Djembe",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc châu Phi, nhạc world music, lễ hội và biểu diễn đường phố",
+  "sound": "Âm trầm sâu và vang, gõ bằng tay tạo nhiều sắc thái từ trầm ấm đến sắc giòn, nghe hoang dã và đầy năng lượng.",
+  "use_when": "Dùng cho video châu Phi, lễ hội, du lịch, hoặc khi cần nhịp trống tay hoang dã, rộn ràng và đầy sức sống."
+ },
+ {
+  "example_piece": "Piano Concerto No. 1 in E-flat major, Franz Liszt (đoạn solo triangle nổi tiếng)",
+  "family": "Gõ",
+  "id": "I044",
+  "level": "co_ban",
+  "mood": [
+   "lấp lánh",
+   "nhẹ nhàng",
+   "tinh tế"
+  ],
+  "name_en": "triangle",
+  "name_vi": "Triangle",
+  "orchestra_position": "Hàng cuối cùng, trong nhóm bộ gõ, phía sau dàn nhạc, thường do nhạc công bộ gõ kiêm thêm",
+  "sound": "Âm cao, trong và leng keng rất nhẹ, ngân dài trong không gian, dùng để điểm xuyết lấp lánh cho dàn nhạc.",
+  "use_when": "Dùng cho điểm nhấn nhẹ, lấp lánh, video tinh tế, hoặc khi cần một tiếng leng keng nhỏ mà vẫn nổi bật."
+ },
+ {
+  "example_piece": "Clair de Lune, Claude Debussy",
+  "family": "Phím",
+  "id": "I045",
+  "level": "co_ban",
+  "mood": [
+   "linh hoạt",
+   "sang trọng",
+   "cảm xúc"
+  ],
+  "name_en": "piano",
+  "name_vi": "Piano",
+  "orchestra_position": "Không thuộc biên chế thường trực dàn giao hưởng, khi xuất hiện thì đặt phía trước, bên trái nhạc trưởng, gần nhóm violin 1",
+  "sound": "Âm thanh linh hoạt nhất, từ nhẹ nhàng thủ thỉ đến mạnh mẽ hùng tráng, vừa đệm vừa solo được, hợp mọi thể loại.",
+  "use_when": "Dùng cho hầu hết mọi video: nhạc nền tình cảm, cover, học tập, hoặc khi cần nhạc cụ đa năng, dễ nghe."
+ },
+ {
+  "example_piece": "Piano Concerto No. 1 in B-flat minor, Pyotr Ilyich Tchaikovsky",
+  "family": "Phím",
+  "id": "I046",
+  "level": "trung_cap",
+  "mood": [
+   "sang trọng",
+   "hoành tráng",
+   "cổ điển"
+  ],
+  "name_en": "grand piano",
+  "name_vi": "Grand piano",
+  "orchestra_position": "Không thuộc biên chế thường trực dàn giao hưởng, khi biểu diễn concerto thì đặt phía trước, bên trái nhạc trưởng, nắp đàn mở hướng về khán giả",
+  "sound": "Âm vang, sâu và sang hơn piano đứng, tiếng ngân dài, đầy đặn, rất hợp biểu diễn hòa nhạc và thu âm chuyên nghiệp.",
+  "use_when": "Dùng cho video sang trọng, hòa nhạc, đám cưới cao cấp, hoặc khi cần tiếng piano đầy đặn, vang và đẳng cấp."
+ },
+ {
+  "example_piece": "Toccata and Fugue in D minor, Johann Sebastian Bach",
+  "family": "Phím",
+  "id": "I047",
+  "level": "trung_cap",
+  "mood": [
+   "trang nghiêm",
+   "thiêng liêng",
+   "hùng tráng"
+  ],
+  "name_en": "organ",
+  "name_vi": "Organ",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhà thờ, hòa nhạc và nhạc phim; trong hòa nhạc thường đặt phía sau dàn nhạc",
+  "sound": "Âm vang, trầm hùng và đầy uy lực, như cả một dàn nhạc trong một nhạc cụ, nghe trang nghiêm và thiêng liêng.",
+  "use_when": "Dùng cho video nhà thờ, đám cưới, Halloween, hoặc cảnh cần sự trang nghiêm, hùng tráng và thiêng liêng."
+ },
+ {
+  "example_piece": "Goldberg Variations, Johann Sebastian Bach",
+  "family": "Phím",
+  "id": "I048",
+  "level": "nang_cao",
+  "mood": [
+   "cung đình",
+   "cổ điển",
+   "lanh lảnh"
+  ],
+  "name_en": "harpsichord",
+  "name_vi": "Harpsichord",
+  "orchestra_position": "Không thuộc dàn giao hưởng hiện đại, dùng trong nhạc Baroque, nhạc thính phòng và dàn nhạc cổ điển thời kỳ đầu",
+  "sound": "Âm sáng, giòn và hơi khô, tiếng gảy dây nghe lanh lảnh, gợi không khí cung đình châu Âu thế kỷ 17–18.",
+  "use_when": "Dùng cho video cổ điển, cung đình, lịch sử, hoặc khi cần âm thanh Baroque giòn, sáng và khác biệt."
+ },
+ {
+  "example_piece": "Libertango, Astor Piazzolla",
+  "family": "Phím",
+  "id": "I049",
+  "level": "trung_cap",
+  "mood": [
+   "lãng mạn",
+   "Paris",
+   "tango"
+  ],
+  "name_en": "accordion",
+  "name_vi": "Accordion",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc dân gian châu Âu, tango, nhạc Pháp và nhạc đường phố",
+  "sound": "Âm ấm, ngân và rất tình, tiếng bễ phập phồng tạo cảm giác lãng mạn, gợi Paris, tango và quán cà phê châu Âu.",
+  "use_when": "Dùng cho video châu Âu, Paris, tango, du lịch, hoặc khi cần cảm giác lãng mạn, hoài cổ kiểu Pháp."
+ },
+ {
+  "example_piece": "Jump, Van Halen (đoạn riff keyboard mở đầu)",
+  "family": "Phím",
+  "id": "I050",
+  "level": "co_ban",
+  "mood": [
+   "hiện đại",
+   "linh hoạt",
+   "sân khấu"
+  ],
+  "name_en": "keyboard",
+  "name_vi": "Keyboard",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong ban nhạc pop, rock, nhạc điện tử và biểu diễn sân khấu hiện đại",
+  "sound": "Âm thanh đa dạng nhờ giả lập nhiều nhạc cụ, từ piano, organ đến synth, tiện lợi và linh hoạt cho biểu diễn live.",
+  "use_when": "Dùng cho video pop, rock, cover hiện đại, hoặc khi cần âm thanh phím linh hoạt, bắt tai kiểu thập niên 80."
+ },
+ {
+  "example_piece": "Chariots of Fire, Vangelis",
+  "family": "Điện tử",
+  "id": "I051",
+  "level": "trung_cap",
+  "mood": [
+   "tương lai",
+   "mơ màng",
+   "điện tử"
+  ],
+  "name_en": "synthesizer",
+  "name_vi": "Synthesizer",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc điện tử, nhạc phim, pop và sản xuất âm nhạc hiện đại",
+  "sound": "Âm thanh gần như không giới hạn, từ pad mơ màng, bass điện đến lead chói sáng, có thể tạo ra mọi âm sắc tưởng tượng được.",
+  "use_when": "Dùng cho video công nghệ, tương lai, nhạc phim khoa học viễn tưởng, hoặc khi cần âm thanh hiện đại, khác lạ."
+ },
+ {
+  "example_piece": "The Swan (bản chơi theremin của Clara Rockmore), Camille Saint-Saëns",
+  "family": "Điện tử",
+  "id": "I052",
+  "level": "nang_cao",
+  "mood": [
+   "ma mị",
+   "bí ẩn",
+   "vũ trụ"
+  ],
+  "name_en": "theremin",
+  "name_vi": "Theremin",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc phim kinh dị, khoa học viễn tưởng và biểu diễn nhạc điện tử thử nghiệm",
+  "sound": "Âm rung, ma mị và bay bổng, chơi không cần chạm, nghe như tiếng hát của ma hoặc tín hiệu ngoài hành tinh.",
+  "use_when": "Dùng cho video Halloween, bí ẩn, vũ trụ, hoặc khi cần âm thanh lạ, ma mị và khó quên."
+ },
+ {
+  "example_piece": "Planet Rock, Afrika Bambaataa (trống Roland TR-808)",
+  "family": "Điện tử",
+  "id": "I053",
+  "level": "trung_cap",
+  "mood": [
+   "hip-hop",
+   "điện tử",
+   "nhảy"
+  ],
+  "name_en": "drum machine",
+  "name_vi": "Drum machine",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc hip-hop, nhạc điện tử, trap và sản xuất nhạc hiện đại",
+  "sound": "Âm trống điện tử chắc, gọn và lặp lại chính xác, từ kick trầm sâu đến hi-hat sắc, tạo nền nhịp cho nhạc nhảy và hip-hop.",
+  "use_when": "Dùng cho video hip-hop, nhạc nhảy, thời trang đường phố, hoặc khi cần nhịp trống điện tử chắc và hiện đại."
+ },
+ {
+  "example_piece": "Paid in Full, Eric B. & Rakim",
+  "family": "Điện tử",
+  "id": "I054",
+  "level": "nang_cao",
+  "mood": [
+   "sáng tạo",
+   "hoài cổ",
+   "hip-hop"
+  ],
+  "name_en": "sampler",
+  "name_vi": "Sampler",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong sản xuất hip-hop, nhạc điện tử và nhạc pop hiện đại",
+  "sound": "Âm thanh là những đoạn thu sẵn được cắt, lặp và biến tấu, từ vocal, tiếng nhạc cụ đến âm thanh đời thường, tạo chất liệu mới từ cái cũ.",
+  "use_when": "Dùng cho video hip-hop, remix, hoặc khi cần cảm giác hoài cổ pha hiện đại từ những đoạn nhạc quen thuộc."
+ },
+ {
+  "example_piece": "Bèo dạt mây trôi (dân ca, bản độc tấu đàn bầu)",
+  "family": "Dân tộc",
+  "id": "I055",
+  "level": "trung_cap",
+  "mood": [
+   "da diết",
+   "quê hương",
+   "trữ tình"
+  ],
+  "name_en": "dan bau",
+  "name_vi": "Đàn bầu",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc truyền thống Việt Nam, ca trù, chầu văn và biểu diễn độc tấu",
+  "sound": "Âm ngân dài, rung và rất tình, một dây mà chơi được cả giai điệu lẫn luyến láy, nghe da diết như tiếng lòng.",
+  "use_when": "Dùng cho video về quê hương, văn hóa Việt, cảnh làng quê, hoặc khi cần giai điệu da diết, đậm chất Việt."
+ },
+ {
+  "example_piece": "Dạ cổ hoài lang, Cao Văn Lầu",
+  "family": "Dân tộc",
+  "id": "I056",
+  "level": "trung_cap",
+  "mood": [
+   "trong trẻo",
+   "trữ tình",
+   "quê hương"
+  ],
+  "name_en": "dan tranh",
+  "name_vi": "Đàn tranh",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc truyền thống Việt Nam, nhạc tài tử, ca Huế và biểu diễn độc tấu",
+  "sound": "Âm trong, sáng và ngân vang, tiếng gảy lanh lảnh mà vẫn mềm, rất hợp giai điệu trữ tình và dân ca.",
+  "use_when": "Dùng cho video văn hóa Việt, miền Tây sông nước, hoặc khi cần giai điệu trong, nhẹ và đậm chất dân gian."
+ },
+ {
+  "example_piece": "Lưu thủy kim tiền (nhạc tài tử Nam Bộ)",
+  "family": "Dân tộc",
+  "id": "I057",
+  "level": "trung_cap",
+  "mood": [
+   "sang trọng",
+   "dân gian",
+   "trữ tình"
+  ],
+  "name_en": "dan nguyet",
+  "name_vi": "Đàn nguyệt",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc tài tử Nam Bộ, ca Huế, chầu văn và nhạc truyền thống Việt Nam",
+  "sound": "Âm tròn, ấm và vang, tiếng đàn nguyệt giữ nhịp và giai điệu chính trong đờn ca tài tử, nghe vừa sang vừa gần gũi.",
+  "use_when": "Dùng cho video về đờn ca tài tử, miền Tây, hoặc khi cần âm thanh truyền thống Việt ấm và sang."
+ },
+ {
+  "example_piece": "Lý con sáo (dân ca Nam Bộ)",
+  "family": "Dân tộc",
+  "id": "I058",
+  "level": "co_ban",
+  "mood": [
+   "mộc mạc",
+   "bay bổng",
+   "quê hương"
+  ],
+  "name_en": "sao truc",
+  "name_vi": "Sáo trúc",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc truyền thống Việt Nam, dân ca, nhạc tài tử và biểu diễn độc tấu",
+  "sound": "Âm trong, mát và bay, tiếng sáo trúc mộc mạc mà da diết, gợi đồng quê, tre xanh và tuổi thơ Việt.",
+  "use_when": "Dùng cho video đồng quê Việt, du lịch làng quê, hoặc khi cần tiếng sáo mộc, trong và đầy hoài niệm."
+ },
+ {
+  "example_piece": "Thập diện mai phục (bản cổ, độc tấu tỳ bà)",
+  "family": "Dân tộc",
+  "id": "I059",
+  "level": "nang_cao",
+  "mood": [
+   "sang trọng",
+   "mạnh mẽ",
+   "cung đình"
+  ],
+  "name_en": "dan ty ba",
+  "name_vi": "Đàn tỳ bà",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc truyền thống Việt Nam, ca Huế, nhạc cung đình và biểu diễn độc tấu",
+  "sound": "Âm sáng, giòn và linh hoạt, chơi được cả giai điệu nhanh lẫn đoạn trữ tình, nghe vừa sang vừa mạnh mẽ.",
+  "use_when": "Dùng cho video cung đình, lịch sử, hoặc khi cần giai điệu truyền thống mạnh mẽ, kịch tính và sang trọng."
+ },
+ {
+  "example_piece": "Trống cơm (dân ca quan họ Bắc Ninh)",
+  "family": "Dân tộc",
+  "id": "I060",
+  "level": "co_ban",
+  "mood": [
+   "rộn ràng",
+   "lễ hội",
+   "dân gian"
+  ],
+  "name_en": "trong com",
+  "name_vi": "Trống cơm",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc truyền thống Việt Nam, quan họ, múa dân gian và lễ hội",
+  "sound": "Âm trầm, chắc và vui, tiếng trống cơm giữ nhịp rộn ràng cho quan họ và múa dân gian, nghe là thấy lễ hội.",
+  "use_when": "Dùng cho video lễ hội, quan họ, múa dân gian, hoặc khi cần nhịp trống truyền thống vui và rộn ràng."
+ },
+ {
+  "example_piece": "Stars and Stripes Forever, John Philip Sousa",
+  "family": "Gõ",
+  "id": "I061",
+  "level": "co_ban",
+  "mood": [
+   "lấp lánh",
+   "trong trẻo",
+   "lễ hội"
+  ],
+  "name_en": "glockenspiel",
+  "name_vi": "Glockenspiel",
+  "orchestra_position": "Hàng cuối cùng, trong nhóm bộ gõ, phía sau dàn nhạc, gần xylophone và vibraphone",
+  "sound": "Âm kim loại trong, cao và lấp lánh như tiếng chuông nhỏ, ngân sáng và rất rõ, thường điểm xuyết trên đỉnh dàn nhạc.",
+  "use_when": "Dùng cho video lễ hội, Giáng sinh, cảnh thần tiên, hoặc khi cần một tiếng chuông cao, sáng lấp lánh để điểm nhấn."
+ },
+ {
+  "example_piece": "Dance of the Sugar Plum Fairy (The Nutcracker), Pyotr Ilyich Tchaikovsky",
+  "family": "Phím",
+  "id": "I062",
+  "level": "nang_cao",
+  "mood": [
+   "thần tiên",
+   "mơ màng",
+   "lấp lánh"
+  ],
+  "name_en": "celesta",
+  "name_vi": "Celesta",
+  "orchestra_position": "Hàng cuối cùng, trong nhóm bộ gõ, phía sau dàn nhạc; thường chỉ xuất hiện khi tác phẩm yêu cầu",
+  "sound": "Âm trong như thủy tinh, nhẹ và ngọt như chuông gió, nghe mơ màng và thần tiên, là tiếng của nàng tiên múa trong vở Nutcracker.",
+  "use_when": "Dùng cho video cổ tích, Giáng sinh, cảnh mơ mộng, hoặc khi cần âm thanh phím nhẹ, trong và ma thuật."
+ },
+ {
+  "example_piece": "Tubular Bells, Mike Oldfield",
+  "family": "Gõ",
+  "id": "I063",
+  "level": "trung_cap",
+  "mood": [
+   "trang nghiêm",
+   "ma mị",
+   "hùng tráng"
+  ],
+  "name_en": "tubular bells",
+  "name_vi": "Chuông ống",
+  "orchestra_position": "Hàng cuối cùng, trong nhóm bộ gõ, phía sau dàn nhạc; thường chỉ xuất hiện khi tác phẩm yêu cầu",
+  "sound": "Âm chuông ống vang sâu, ngân dài và trang nghiêm như chuông nhà thờ, từ trầm ấm đến cao vút, nghe vừa thiêng liêng vừa ma mị.",
+  "use_when": "Dùng cho video Halloween, mở đầu huyền bí, cảnh trang nghiêm, hoặc khi cần tiếng chuông vang dài tạo không khí."
+ },
+ {
+  "example_piece": "Mars, the Bringer of War (The Planets), Gustav Holst",
+  "family": "Gõ",
+  "id": "I064",
+  "level": "co_ban",
+  "mood": [
+   "hùng tráng",
+   "dồn dập",
+   "chiến trận"
+  ],
+  "name_en": "bass drum",
+  "name_vi": "Trống bass",
+  "orchestra_position": "Hàng cuối cùng, trong nhóm bộ gõ, phía sau dàn nhạc, cạnh timpani và cymbals",
+  "sound": "Âm trầm sâu, nặng và vang như tiếng sấm hoặc bước chân quân đội, từng tiếng đập làm rung cả dàn nhạc, tạo sức nặng cho cao trào.",
+  "use_when": "Dùng cho trailer chiến trận, cảnh hành động, mở đầu hoành tráng, hoặc khi cần tiếng trống trầm nặng để tạo áp lực."
+ },
+ {
+  "example_piece": "Symphonie fantastique – March to the Scaffold, Hector Berlioz",
+  "family": "Gõ",
+  "id": "I065",
+  "level": "trung_cap",
+  "mood": [
+   "bí ẩn",
+   "hùng tráng",
+   "tâm linh"
+  ],
+  "name_en": "tam-tam",
+  "name_vi": "Tam-tam (Cồng lớn)",
+  "orchestra_position": "Hàng cuối cùng, trong nhóm bộ gõ, phía sau dàn nhạc; thường chỉ xuất hiện khi tác phẩm yêu cầu",
+  "sound": "Âm vang sâu, tối và lan rộng như sóng, một cú gõ có thể ngân rất lâu, nghe bí ẩn và đầy uy lực, như tiếng vọng từ cõi khác.",
+  "use_when": "Dùng cho cảnh bí ẩn, tâm linh, kết thúc bi tráng, hoặc khi cần một tiếng vang trầm sâu nhấn mạnh khoảnh khắc lớn."
+ },
+ {
+  "example_piece": "Carmen – Habanera, Georges Bizet",
+  "family": "Gõ",
+  "id": "I066",
+  "level": "co_ban",
+  "mood": [
+   "Tây Ban Nha",
+   "quyến rũ",
+   "nhịp nhàng"
+  ],
+  "name_en": "castanets",
+  "name_vi": "Castanets",
+  "orchestra_position": "Hàng cuối cùng, trong nhóm bộ gõ, phía sau dàn nhạc, thường do nhạc công bộ gõ kiêm thêm; dùng nhiều trong nhạc Tây Ban Nha và flamenco",
+  "sound": "Âm lách cách giòn, sắc và nhịp nhàng, hai mảnh gỗ gõ vào nhau tạo nhịp flamenco đặc trưng, nghe vui tai và rất Tây Ban Nha.",
+  "use_when": "Dùng cho video Tây Ban Nha, flamenco, vũ điệu, hoặc khi cần nhịp lách cách giòn để tạo không khí nóng bỏng, rộn ràng."
+ },
+ {
+  "example_piece": "La Bamba, Ritchie Valens",
+  "family": "Gõ",
+  "id": "I067",
+  "level": "co_ban",
+  "mood": [
+   "Latin",
+   "vui vẻ",
+   "nhảy múa"
+  ],
+  "name_en": "maracas",
+  "name_vi": "Maracas",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc Latin, salsa, nhạc thiếu nhi và nhạc nhảy",
+  "sound": "Âm sột soạt vui tai, lắc là ra nhịp, nghe nhẹ nhàng mà rộn ràng, rất hợp không khí tiệc tùng và nhạc Latin.",
+  "use_when": "Dùng cho video tiệc tùng, nhạc Latin, nội dung thiếu nhi, hoặc khi cần thêm nhịp lắc vui vẻ, dễ nghe."
+ },
+ {
+  "example_piece": "Oye Como Va, Tito Puente",
+  "family": "Gõ",
+  "id": "I068",
+  "level": "trung_cap",
+  "mood": [
+   "Latin",
+   "sôi động",
+   "nhảy múa"
+  ],
+  "name_en": "timbales",
+  "name_vi": "Timbales",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc Latin, salsa, mambo và ban nhạc jazz Latin",
+  "sound": "Âm kim loại sắc, giòn và vang, gõ bằng dùi tạo nhịp Latin dồn dập, nghe là muốn nhảy, là trái tim của dàn nhạc salsa.",
+  "use_when": "Dùng cho video salsa, nhảy Latin, tiệc tùng, hoặc khi cần nhịp trống kim loại sắc, sôi động và bắt tai."
+ },
+ {
+  "example_piece": "Yellow Bird, Harry Belafonte",
+  "family": "Gõ",
+  "id": "I069",
+  "level": "co_ban",
+  "mood": [
+   "biển cả",
+   "vui vẻ",
+   "thư giãn"
+  ],
+  "name_en": "steelpan",
+  "name_vi": "Steelpan",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc calypso, soca vùng Caribe và lễ hội đường phố Trinidad",
+  "sound": "Âm kim loại trong, sáng và du dương, giai điệu vang lên như nắng biển Caribe, nghe vui vẻ, thư giãn và rất đặc biệt.",
+  "use_when": "Dùng cho video du lịch biển, mùa hè, lễ hội Caribe, hoặc khi cần giai điệu gõ sáng, vui và lạ tai."
+ },
+ {
+  "example_piece": "Symphony No. 9, Ludwig van Beethoven",
+  "family": "Gỗ",
+  "id": "I070",
+  "level": "nang_cao",
+  "mood": [
+   "trầm tối",
+   "hùng tráng",
+   "bí ẩn"
+  ],
+  "name_en": "contrabassoon",
+  "name_vi": "Contrabassoon",
+  "orchestra_position": "Hàng giữa, ngồi cùng nhóm bassoon ở trung tâm dàn nhạc, thường chỉ xuất hiện khi tác phẩm yêu cầu",
+  "sound": "Âm trầm nhất họ gỗ, sâu, tối và nặng, như tiếng gầm trầm dưới đáy dàn nhạc, tạo nền trầm bí ẩn cho cả dàn.",
+  "use_when": "Dùng cho cảnh hồi hộp, bí ẩn, nhạc phim căng thẳng, hoặc khi cần lớp trầm tối sâu mà không nặng như tuba."
+ },
+ {
+  "example_piece": "Careless Whisper, George Michael",
+  "family": "Gỗ",
+  "id": "I071",
+  "level": "co_ban",
+  "mood": [
+   "gợi cảm",
+   "lãng mạn",
+   "buồn nhẹ"
+  ],
+  "name_en": "tenor saxophone",
+  "name_vi": "Saxophone tenor",
+  "orchestra_position": "Không thuộc biên chế chuẩn của dàn giao hưởng, dùng trong ban nhạc jazz, big band, nhạc pop và R&B",
+  "sound": "Âm ấm, khàn và rất tình, trầm hơn alto, nghe như giọng nam trầm hát, là tiếng saxophone gợi cảm nhất, dễ nhận ra ngay từ nốt đầu.",
+  "use_when": "Dùng cho video đêm, tình cảm, thời trang, hoặc khi cần giai điệu saxophone ấm, khàn và đầy cảm xúc."
+ },
+ {
+  "example_piece": "Daphnis et Chloé, Maurice Ravel",
+  "family": "Gỗ",
+  "id": "I072",
+  "level": "nang_cao",
+  "mood": [
+   "mơ màng",
+   "êm dịu",
+   "thơ mộng"
+  ],
+  "name_en": "alto flute",
+  "name_vi": "Sáo alto",
+  "orchestra_position": "Hàng giữa, ngồi cùng nhóm flute ở trung tâm dàn nhạc, thường chỉ xuất hiện khi tác phẩm yêu cầu",
+  "sound": "Âm trầm và ấm hơn flute thường, mềm, mượt và mơ màng, như tiếng hát trầm giữa không gian, rất hợp đoạn nhạc lãng mạn.",
+  "use_when": "Dùng cho cảnh mơ màng, lãng mạn, nhạc phim nhẹ nhàng, hoặc khi cần tiếng sáo trầm, ấm mà vẫn bay bổng."
+ },
+ {
+  "example_piece": "Norwegian Wood (This Bird Has Flown), The Beatles",
+  "family": "Dân tộc",
+  "id": "I073",
+  "level": "trung_cap",
+  "mood": [
+   "huyền bí",
+   "Ấn Độ",
+   "tâm linh"
+  ],
+  "name_en": "sitar",
+  "name_vi": "Sitar",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc cổ điển Ấn Độ, nhạc world music và nhạc rock phương Tây thập niên 60",
+  "sound": "Âm rung ngân đặc trưng, vừa du dương vừa huyền bí, tiếng dây cộng hưởng nghe như không gian Ấn Độ cổ, rất lạ tai với người phương Tây.",
+  "use_when": "Dùng cho video về Ấn Độ, thiền, yoga, hoặc khi cần âm thanh phương Đông huyền bí và khác biệt."
+ },
+ {
+  "example_piece": "Within You Without You, The Beatles",
+  "family": "Dân tộc",
+  "id": "I074",
+  "level": "trung_cap",
+  "mood": [
+   "Ấn Độ",
+   "thiền định",
+   "nhịp nhàng"
+  ],
+  "name_en": "tabla",
+  "name_vi": "Tabla",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc cổ điển Ấn Độ, nhạc thiền và nhạc world music",
+  "sound": "Âm trống tay Ấn Độ tinh tế, từ trầm sâu đến sắc giòn, nhịp phức tạp mà vẫn mượt, nghe vừa thiền vừa rộn ràng.",
+  "use_when": "Dùng cho video thiền, yoga, văn hóa Ấn Độ, hoặc khi cần nhịp trống tay tinh tế, khác biệt với trống phương Tây."
+ },
+ {
+  "example_piece": "Lý ngựa ô (dân ca Nam Bộ, bản độc tấu đàn nhị)",
+  "family": "Dân tộc",
+  "id": "I075",
+  "level": "trung_cap",
+  "mood": [
+   "da diết",
+   "quê hương",
+   "trữ tình"
+  ],
+  "name_en": "dan nhi",
+  "name_vi": "Đàn nhị",
+  "orchestra_position": "Không thuộc dàn giao hưởng, dùng trong nhạc truyền thống Việt Nam, chầu văn, ca trù và nhạc tài tử",
+  "sound": "Âm cao, rung và rất tình, tiếng đàn nhị ngân dài da diết, gần giọng hát con người, nghe buồn man mác mà vẫn ấm.",
+  "use_when": "Dùng cho video văn hóa Việt, chầu văn, cảnh quê hương, hoặc khi cần giai điệu truyền thống da diết, đậm chất Việt."
+ }
+]

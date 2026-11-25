@@ -1,0 +1,1358 @@
+{
+ "G001": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1f/18/e2/1f18e22b-264e-88f8-ee89-c196fa9abd7a/mzaf_14184372154331980897.plus.aac.p.m4a",
+  "track": "Creep (Acoustic)",
+  "artist": "Radiohead"
+ },
+ "G002": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/69/c7/30/69c73043-f9dd-0c63-23cd-bfab274520ee/mzaf_5834786258891852942.plus.aac.p.m4a",
+  "track": "Last Nite",
+  "artist": "The Strokes"
+ },
+ "G003": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/07/66/3f/07663f2e-8f1a-c22f-a688-a8599002214c/mzaf_1731743994284736681.plus.aac.p.m4a",
+  "track": "Blitzkrieg Bop",
+  "artist": "Ramones"
+ },
+ "G004": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d9/48/0e/d9480e26-29dc-ce6e-4a18-3b9bc220cb6a/mzaf_15907619936232897096.plus.aac.p.m4a",
+  "track": "Love Will Tear Us Apart",
+  "artist": "Joy Division"
+ },
+ "G005": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/65/49/4e/65494e02-b6d3-26d8-6b0c-9bd98dcf4d5d/mzaf_7665413316386155700.plus.aac.p.m4a",
+  "track": "Smells Like Teen Spirit",
+  "artist": "Nirvana"
+ },
+ "G006": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/08/2e/ac/082eac8c-1d0e-f72f-7b37-b8e037ff1579/mzaf_7587164327744022409.plus.aac.p.m4a",
+  "track": "Back In Black",
+  "artist": "AC/DC"
+ },
+ "G007": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c3/49/a2/c349a2c2-deab-cff4-f09e-70340df41f12/mzaf_9536674686996437140.plus.aac.p.m4a",
+  "track": "Iron Man",
+  "artist": "Black Sabbath"
+ },
+ "G008": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/41/b8/fc41b8d9-1946-643c-34b8-d48d99adb93a/mzaf_11376883454063654277.plus.aac.p.m4a",
+  "track": "Master of Puppets",
+  "artist": "Metallica"
+ },
+ "G009": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/00/23/fc0023dd-afe6-54ce-5421-6a2dde33913a/mzaf_9558820079030721895.plus.aac.p.m4a",
+  "track": "Crystal Mountain",
+  "artist": "Death"
+ },
+ "G010": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/10/7d/6f/107d6f95-e4b7-f635-f20f-be7eb1bbbaeb/mzaf_476205720887936854.plus.aac.p.m4a",
+  "track": "Freezing Moon",
+  "artist": "Mayhem"
+ },
+ "G011": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/07/2f/5d072f82-78ed-8679-1ea9-68ea228e07ca/mzaf_11143988854129643340.plus.aac.p.m4a",
+  "track": "Shadow Moses (Live at the Royal Albert Hall)",
+  "artist": "Bring Me The Horizon"
+ },
+ "G012": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ea/3c/d6/ea3cd64e-fa54-c3c0-b2e3-e96a7b16cbc1/mzaf_2589197593248149925.plus.aac.p.m4a",
+  "track": "Welcome to the Black Parade",
+  "artist": "My Chemical Romance"
+ },
+ "G013": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/60/2c/3b/602c3bf0-3af7-83d8-6143-a58f97bc0ab7/mzaf_11439595106264992892.plus.aac.p.m4a",
+  "track": "Your Hand In Mine",
+  "artist": "Explosions In the Sky"
+ },
+ "G014": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d4/8e/4c/d48e4cee-2cb4-2886-94c9-c1200da15233/mzaf_14555089929452432327.plus.aac.p.m4a",
+  "track": "Never Meant",
+  "artist": "American Football"
+ },
+ "G015": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fe/2d/58/fe2d587f-6344-3fb3-43f7-d318a6253dcc/mzaf_16825320951570507954.plus.aac.p.m4a",
+  "track": "Seven Nation Army",
+  "artist": "The White Stripes"
+ },
+ "G016": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/af/1b/39/af1b3957-d1d3-06c9-d547-633cb081b677/mzaf_3421307010114212683.plus.aac.p.m4a",
+  "track": "Comfortably Numb",
+  "artist": "Pink Floyd"
+ },
+ "G017": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/ee/57/91ee5792-055c-dc77-8106-8c445f0fe135/mzaf_7108802000031123204.plus.aac.p.m4a",
+  "track": "Tom Sawyer",
+  "artist": "Rush"
+ },
+ "G018": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8a/15/37/8a1537e5-9d18-7e44-4ca8-3295942263b6/mzaf_2401048427177636441.plus.aac.p.m4a",
+  "track": "Whole Lotta Love",
+  "artist": "Led Zeppelin"
+ },
+ "G019": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a5/68/b1/a568b1af-ff36-c4c4-f8b4-f1ffe5484c3a/mzaf_7213634674974695928.plus.aac.p.m4a",
+  "track": "Like a Rolling Stone",
+  "artist": "Bob Dylan"
+ },
+ "G020": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/16/93/ab16933c-6203-3db9-9da9-513ff1c8496d/mzaf_16993612140334549994.plus.aac.p.m4a",
+  "track": "Wonderwall",
+  "artist": "Oasis"
+ },
+ "G021": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2f/32/ee/2f32ee9d-10cd-459e-b451-abaf4a49b803/mzaf_16630779446858414543.plus.aac.p.m4a",
+  "track": "Heaven or Las Vegas",
+  "artist": "Cocteau Twins"
+ },
+ "G022": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/23/02/4a/23024a33-2204-afdc-a68e-a90ff1a7483d/mzaf_10742849095826555261.plus.aac.p.m4a",
+  "track": "Teen Age Riot",
+  "artist": "Sonic Youth"
+ },
+ "G023": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/69/04/03/6904030e-ce1e-4448-65ba-298153f3b125/mzaf_14876945480175066529.plus.aac.p.m4a",
+  "track": "Blood and Thunder",
+  "artist": "Mastodon"
+ },
+ "G024": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/73/32/1a/73321a8f-afd1-8c77-775f-0ceb047bc882/mzaf_12436491288010915290.plus.aac.p.m4a",
+  "track": "Solitude",
+  "artist": "Candlemass"
+ },
+ "G025": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d9/33/34/d933341d-ba95-dc3b-11a3-34d6632dd62e/mzaf_10942671303595386057.plus.aac.p.m4a",
+  "track": "In the End",
+  "artist": "LINKIN PARK"
+ },
+ "G026": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d3/2b/fe/d32bfe59-ce6f-2130-7445-589be60c4b17/mzaf_14529423277593289725.plus.aac.p.m4a",
+  "track": "Basket Case",
+  "artist": "Green Day"
+ },
+ "G027": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/70/2a/f3/702af3f8-5051-55ef-3e8c-e220b2e223de/mzaf_8076080872885324472.plus.aac.p.m4a",
+  "track": "Sell Out",
+  "artist": "Reel Big Fish"
+ },
+ "G028": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/28/8d/e9/288de9cc-7281-c5d4-4616-f08292777bde/mzaf_13790435823299770344.plus.aac.p.m4a",
+  "track": "Rise Above",
+  "artist": "Black Flag"
+ },
+ "G029": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a2/e6/08/a2e608d0-bcff-4005-1b8e-a997740ef0d6/mzaf_715810656971524235.plus.aac.p.m4a",
+  "track": "A-Punk (iTunes Session)",
+  "artist": "Vampire Weekend"
+ },
+ "G030": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/16/ac/5b/16ac5bc8-ff2e-ef4b-cd1b-49f53eee9ca5/mzaf_5290378904175267542.plus.aac.p.m4a",
+  "track": "Radio Free Europe",
+  "artist": "R.E.M."
+ },
+ "G031": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6e/8b/6b/6e8b6b9d-0881-6810-11d9-fa081cf37d81/mzaf_15689875906597339969.plus.aac.p.m4a",
+  "track": "Chamber Of Reflection",
+  "artist": "Mac DeMarco"
+ },
+ "G032": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/91/fc/8191fcaa-d494-50c9-b179-d5551a545c70/mzaf_9462945907711992899.plus.aac.p.m4a",
+  "track": "Waiting Room",
+  "artist": "Fugazi"
+ },
+ "G033": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/96/97/e8/9697e8a4-a4a3-8ad9-8c83-838843952fa5/mzaf_15028245857435350023.plus.aac.p.m4a",
+  "track": "Understanding In A Car Crash",
+  "artist": "Thursday"
+ },
+ "G034": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/c0/34/26c0345f-f98d-8d80-2822-dd8a8b712364/mzaf_2539717901323878075.plus.aac.p.m4a",
+  "track": "Only Shallow",
+  "artist": "my bloody valentine"
+ },
+ "G035": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/83/09/4b8309c3-e3b2-10bd-ea80-ec017d832503/mzaf_9752264660400108875.plus.aac.p.m4a",
+  "track": "Bohemian Rhapsody",
+  "artist": "Queen"
+ },
+ "G036": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b6/5a/4b/b65a4b6f-54dd-ee99-0b36-98e27d5b5dd8/mzaf_13813391014293209258.plus.aac.p.m4a",
+  "track": "Dreams",
+  "artist": "Fleetwood Mac"
+ },
+ "G037": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/ec/07/aaec07bf-f18e-3177-a197-414b5438010f/mzaf_7317737316865701540.plus.aac.p.m4a",
+  "track": "Ziggy Stardust (2012 Remaster)",
+  "artist": "David Bowie"
+ },
+ "G038": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3c/6d/b5/3c6db5f7-9d5f-0207-f0ae-c64a70ffd186/mzaf_17818188901638567993.plus.aac.p.m4a",
+  "track": "Sweet Home Alabama",
+  "artist": "Lynyrd Skynyrd"
+ },
+ "G039": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c2/d8/e2/c2d8e26c-01b8-0d59-39d5-867086338e43/mzaf_4814700109397140137.plus.aac.p.m4a",
+  "track": "Once In a Lifetime",
+  "artist": "Talking Heads"
+ },
+ "G040": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/34/7b/97/347b97e9-fe18-1484-d1e9-b8fdbba47036/mzaf_15120619999643295531.plus.aac.p.m4a",
+  "track": "Vitamin C (2004 Remaster)",
+  "artist": "Can"
+ },
+ "G041": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e6/15/78/e61578f3-8470-7088-97ae-40495f82da92/mzaf_9680549632409334190.plus.aac.p.m4a",
+  "track": "Green Machine",
+  "artist": "Kyuss"
+ },
+ "G042": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/22/b3/cb/22b3cb8d-7856-662d-b5db-6e2fc2b8e4ac/mzaf_7738433181567598562.plus.aac.p.m4a",
+  "track": "So Did We (Remastered)",
+  "artist": "ISIS"
+ },
+ "G044": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d1/25/7e/d1257ec4-6738-c416-5871-e4bace5a56d6/mzaf_2085525048182803770.plus.aac.p.m4a",
+  "track": "Bleed (15th Anniversary Remastered 2023 Edition)",
+  "artist": "Meshuggah"
+ },
+ "G045": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/98/6d/cd/986dcdc4-4925-36f6-2c5e-c01584160f58/mzaf_6665311013180761016.plus.aac.p.m4a",
+  "track": "A Forest",
+  "artist": "The Cure"
+ },
+ "G046": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b9/37/f8/b937f852-50fa-cd86-cd70-8a28203a122e/mzaf_18139407304487563617.plus.aac.p.m4a",
+  "track": "Head Like a Hole",
+  "artist": "Nine Inch Nails"
+ },
+ "G047": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/ee/7a/57ee7afa-15c8-adac-64ed-cf91d260fc39/mzaf_8723320207182459716.plus.aac.p.m4a",
+  "track": "Schism",
+  "artist": "TOOL"
+ },
+ "G048": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/41/48/704148f7-8d95-ae16-b3d9-bea0576c0794/mzaf_8864080453085871463.plus.aac.p.m4a",
+  "track": "Give It Away",
+  "artist": "Red Hot Chili Peppers"
+ },
+ "G049": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/54/92/83/5492836d-f92a-33e9-cc8e-24b3b32dce52/mzaf_5459224031806760031.plus.aac.p.m4a",
+  "track": "Misirlou",
+  "artist": "Dick Dale"
+ },
+ "G050": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/35/25/c7/3525c700-8776-5b4d-fdd2-7754b26c7fbf/mzaf_10256655135081434791.plus.aac.p.m4a",
+  "track": "Everlong",
+  "artist": "Foo Fighters"
+ },
+ "G051": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/d5/6d/11d56d4a-ce23-e793-8681-70dc4d35d931/mzaf_5886436202259848624.plus.aac.p.m4a",
+  "track": "Shake It Off",
+  "artist": "Taylor Swift"
+ },
+ "G052": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/ea/96/ebea965e-31b5-b75d-9e9b-260e35a7013c/mzaf_11893712329603215445.plus.aac.p.m4a",
+  "track": "Enjoy the Silence",
+  "artist": "Depeche Mode"
+ },
+ "G053": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/dc/4d/59dc4dda-93ff-8f1c-c536-f005f6ea6af5/mzaf_3066686759813252385.plus.aac.p.m4a",
+  "track": "Levitating",
+  "artist": "Dua Lipa"
+ },
+ "G054": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/39/76/53/397653c4-c269-bc9b-5844-177ed04037ee/mzaf_5639582845135387910.plus.aac.p.m4a",
+  "track": "Just Dance (feat. Colby O'Donis)",
+  "artist": "Lady Gaga"
+ },
+ "G055": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2a/ef/e5/2aefe5c7-e83b-07b1-227e-117347aa3006/mzaf_11333878250757508664.plus.aac.p.m4a",
+  "track": "...Baby One More Time",
+  "artist": "Britney Spears"
+ },
+ "G056": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3d/b7/7d/3db77df0-d9a3-b60e-0714-41fd79b9ebff/mzaf_3692738463507322199.plus.aac.p.m4a",
+  "track": "Barbie Girl",
+  "artist": "Aqua"
+ },
+ "G057": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/7f/b3/7a7fb397-c707-f7a6-93be-1db3cd1c7fcb/mzaf_10719026518601275807.plus.aac.p.m4a",
+  "track": "Crazy in Love (feat. JAŸ-Z)",
+  "artist": "Beyoncé"
+ },
+ "G058": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/45/2b/ea/452bead6-c7f5-82d4-f5f7-ec876014b4cc/mzaf_2905911853279084717.plus.aac.p.m4a",
+  "track": "Kill Bill",
+  "artist": "SZA"
+ },
+ "G059": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7b/cf/b4/7bcfb490-e8e6-8bcd-c1ac-bb19990f82c4/mzaf_8833325737476116486.plus.aac.p.m4a",
+  "track": "On & On (Live)",
+  "artist": "Erykah Badu"
+ },
+ "G060": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/74/40/997440f5-f543-165d-321a-5a64245a6c1c/mzaf_7740075940996149397.plus.aac.p.m4a",
+  "track": "Respect",
+  "artist": "Aretha Franklin"
+ },
+ "G061": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/87/4a/f1/874af12f-7d4c-93ac-300c-41a9006d41cd/mzaf_10055885836252746438.plus.aac.p.m4a",
+  "track": "Get Up Offa That Thing",
+  "artist": "James Brown"
+ },
+ "G062": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/26/77/3f2677d0-8077-c16a-7eea-7795fa614e0f/mzaf_14501202821130740263.plus.aac.p.m4a",
+  "track": "Stayin' Alive",
+  "artist": "Bee Gees"
+ },
+ "G063": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/a5/85/57a585aa-f1bc-7619-881b-f8a04a5541d5/mzaf_6906185026678279401.plus.aac.p.m4a",
+  "track": "Get Lucky",
+  "artist": "Daft Punk, Pharrell Williams & Nile Rodgers"
+ },
+ "G064": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9d/de/a8/9ddea8ea-2ba4-c29b-2bdc-d411239fe80c/mzaf_15077054009562163230.plus.aac.p.m4a",
+  "track": "Plastic Love",
+  "artist": "Mariya Takeuchi"
+ },
+ "G065": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8a/ef/99/8aef99aa-02e7-a0ed-62c2-52b8b7e0c438/mzaf_18106053477060712364.plus.aac.p.m4a",
+  "track": "First Love",
+  "artist": "Hikaru Utada"
+ },
+ "G066": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a3/a0/a6/a3a0a6b5-4715-b872-1aff-21e42634d9cd/mzaf_7224423421767640589.plus.aac.p.m4a",
+  "track": "Dynamite",
+  "artist": "BTS"
+ },
+ "G067": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/c7/61/acc7619f-c1e3-e0a5-df9b-0329a35af062/mzaf_13106936727189536738.plus.aac.p.m4a",
+  "track": "Hips Don't Lie (feat. Wyclef Jean)",
+  "artist": "Shakira"
+ },
+ "G068": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6c/56/33/6c5633cf-a5f0-d489-f3e2-4fdd9b821ef3/mzaf_417409533127729756.plus.aac.p.m4a",
+  "track": "Gasolina",
+  "artist": "Daddy Yankee"
+ },
+ "G069": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/f9/0e/5bf90e88-15a8-4777-489e-12c9472b41cd/mzaf_15984668273820895131.plus.aac.p.m4a",
+  "track": "Propuesta Indecente",
+  "artist": "Romeo Santos"
+ },
+ "G070": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6f/f9/2e/6ff92e11-47b3-8084-6a42-bb3efbf11d1d/mzaf_3007570206376941106.plus.aac.p.m4a",
+  "track": "La Vida Es un Carnaval",
+  "artist": "Celia Cruz"
+ },
+ "G071": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a7/1d/05/a71d0555-afb2-380a-c310-9e292537df01/mzaf_12614771047316924189.plus.aac.p.m4a",
+  "track": "The Girl from Ipanema",
+  "artist": "Frank Sinatra & Antônio Carlos Jobim"
+ },
+ "G072": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/55/dd/1c/55dd1c00-09e8-6319-e90c-d31d97759e02/mzaf_11571938948858649047.plus.aac.p.m4a",
+  "track": "Mas Que Nada",
+  "artist": "Sergio Mendes"
+ },
+ "G073": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/27/77/f6/2777f6c0-22d0-8c3c-5c78-fd53fd10b9f5/mzaf_8465337168434324022.plus.aac.p.m4a",
+  "track": "Águas de Março",
+  "artist": "Elis Regina"
+ },
+ "G074": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/af/1f/02af1f27-97c5-2592-302d-6e7f716f8a0b/mzaf_3361936751477078986.plus.aac.p.m4a",
+  "track": "Zombie",
+  "artist": "Fela Kuti"
+ },
+ "G075": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/42/c0/0f/42c00f8b-fff6-2529-70c3-861c21143c0a/mzaf_2842108628707526245.plus.aac.p.m4a",
+  "track": "Last Last",
+  "artist": "Burna Boy"
+ },
+ "G076": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/65/b0/f3/65b0f3d9-9882-b43c-bb57-463b0849bf83/mzaf_10506361393973474378.plus.aac.p.m4a",
+  "track": "Get Busy",
+  "artist": "Sean Paul"
+ },
+ "G077": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/72/17/c07217c9-c2ff-8f96-abc9-5a6c42464d69/mzaf_5036872155813968561.plus.aac.p.m4a",
+  "track": "No Woman, No Cry",
+  "artist": "Bob Marley & The Wailers"
+ },
+ "G078": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ca/56/d7/ca56d781-12e8-15eb-5ef1-eb7bf04d9d89/mzaf_7539528170957433745.plus.aac.p.m4a",
+  "track": "King Tubby Meets Rockers Uptown",
+  "artist": "Augustus Pablo"
+ },
+ "G079": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6a/22/0f/6a220f81-9df2-675c-ece2-414cd6c5f145/mzaf_4000502524368529463.plus.aac.p.m4a",
+  "track": "A Message to You Rudy (2015 Remaster)",
+  "artist": "The Specials"
+ },
+ "G080": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/9f/72/919f7248-1796-36a8-f85b-27d3c0107d7c/mzaf_8989939591988961158.plus.aac.p.m4a",
+  "track": "Baby Love",
+  "artist": "The Supremes"
+ },
+ "G081": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1c/99/d7/1c99d7e0-0873-6ae0-740c-c97f32d1ca6f/mzaf_1789951051037530803.plus.aac.p.m4a",
+  "track": "Only You (And You Alone)",
+  "artist": "The Platters"
+ },
+ "G082": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/af/d4/af/afd4af2c-94e2-3e45-712e-dbb8af410d04/mzaf_10341248932879371051.plus.aac.p.m4a",
+  "track": "Walk Away Renee",
+  "artist": "The Left Banke"
+ },
+ "G083": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/43/3a/98/433a9868-d74c-3c05-ffb9-13ae3aa5c706/mzaf_6371164588810414149.plus.aac.p.m4a",
+  "track": "Chicago",
+  "artist": "Sufjan Stevens"
+ },
+ "G084": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/33/2d/47/332d471a-d7cf-1af5-b011-44443bfd3414/mzaf_16022055043870450943.plus.aac.p.m4a",
+  "track": "Hyperballad",
+  "artist": "Björk"
+ },
+ "G086": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f9/9e/16/f99e1638-948b-7b16-c9df-8f490fb66213/mzaf_4170738654345734659.plus.aac.p.m4a",
+  "track": "Bipp",
+  "artist": "SOPHIE"
+ },
+ "G087": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ad/a8/35/ada83596-5e76-e480-def6-b882ca10bfcb/mzaf_9038352204269951733.plus.aac.p.m4a",
+  "track": "Coffee",
+  "artist": "beabadoobee"
+ },
+ "G088": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d1/64/e3/d164e3bb-aeb5-effb-a09c-d3775441c5b8/mzaf_3133376794831917475.plus.aac.p.m4a",
+  "track": "Summertime Sadness",
+  "artist": "Lana Del Rey"
+ },
+ "G089": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/db/56/c6db5666-4464-a6e5-d6e8-8d481b926e70/mzaf_17727462257578713488.plus.aac.p.m4a",
+  "track": "Smooth Operator (Single Version)",
+  "artist": "Sade"
+ },
+ "G090": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ba/dd/48/badd483d-a6be-854c-7885-b39a54921246/mzaf_596205640154743965.plus.aac.p.m4a",
+  "track": "Never Too Much",
+  "artist": "Luther Vandross"
+ },
+ "G091": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ad/e2/42/ade242cc-f342-7ceb-f231-784d43c02138/mzaf_12294856813993308946.plus.aac.p.m4a",
+  "track": "My Prerogative",
+  "artist": "Bobby Brown"
+ },
+ "G092": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/4f/03/4c4f032a-3d2b-853d-da81-996602355b42/mzaf_11625850023134180491.plus.aac.p.m4a",
+  "track": "Rolling in the Deep",
+  "artist": "Adele"
+ },
+ "G093": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/90/91/02/90910223-19e2-d9ec-3a6a-2584081d3568/mzaf_13814509891124690638.plus.aac.p.m4a",
+  "track": "Give Up the Funk (Tear the Roof Off the Sucker)",
+  "artist": "Parliament"
+ },
+ "G094": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/f3/94/99f3947c-5c7f-d4c8-d974-369fdc72be77/mzaf_7880397302369465444.plus.aac.p.m4a",
+  "track": "Let's Groove",
+  "artist": "Earth, Wind & Fire"
+ },
+ "G095": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/85/67/25/85672506-3a9f-de05-6b47-7dbdcc471c30/mzaf_9174126538333008360.plus.aac.p.m4a",
+  "track": "I Like Chopin (Single Edit)",
+  "artist": "Gazebo"
+ },
+ "G096": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ec/b1/63/ecb163bc-aff2-4dd2-d40b-c044f0b9fa4d/mzaf_4358783485405794088.plus.aac.p.m4a",
+  "track": "Dancing Queen",
+  "artist": "ABBA"
+ },
+ "G097": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e5/ef/59/e5ef5990-8628-0126-bd78-ef7569f2da6f/mzaf_8044451602320428249.plus.aac.p.m4a",
+  "track": "Monica (Live)",
+  "artist": "Leslie Cheung"
+ },
+ "G098": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/2b/4f/c72b4fe4-c5d5-beb1-395b-50f02bd005c4/mzaf_8871456584952158573.plus.aac.p.m4a",
+  "track": "Blue and White Porcelain",
+  "artist": "Jay Chou"
+ },
+ "G099": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/97/f0/ee/97f0eec1-a99c-e5b1-5ed2-cbe26a93cc69/mzaf_13143897941850334034.plus.aac.p.m4a",
+  "track": "Tropicália",
+  "artist": "Caetano Veloso"
+ },
+ "G100": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/f8/4a/63f84a51-4542-e2f0-ce9a-1e82c88e190a/mzaf_6582318388118202976.plus.aac.p.m4a",
+  "track": "Your Love",
+  "artist": "Frankie Knuckles"
+ },
+ "G101": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4f/44/94/4f4494e5-8a5e-c9ef-548e-760cabd4fd80/mzaf_644961378672752727.plus.aac.p.m4a",
+  "track": "Latch",
+  "artist": "Disclosure & Sam Smith"
+ },
+ "G102": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/77/95/7c/77957cc7-8d91-7957-8faa-e0dce620d894/mzaf_14246730386812719758.plus.aac.p.m4a",
+  "track": "Roar",
+  "artist": "Charlotte de Witte"
+ },
+ "G103": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/53/6d/26/536d2604-43c8-2192-a397-eded9ecf81a4/mzaf_12299472277984743651.plus.aac.p.m4a",
+  "track": "This Is What It Feels Like (feat. Trevor Guthrie)",
+  "artist": "Armin van Buuren"
+ },
+ "G104": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/7f/74/827f74d1-47f2-c6d6-055a-3a3954a8446a/mzaf_75818061699536254.plus.aac.p.m4a",
+  "track": "Scary Monsters and Nice Sprites",
+  "artist": "Skrillex"
+ },
+ "G105": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/09/f3/12/09f3128f-5c55-349e-bc7e-3f68e54a23a8/mzaf_14889421680239389409.plus.aac.p.m4a",
+  "track": "Tarantula (feat. Fresh, $Pyda & Tenor Fly)",
+  "artist": "Pendulum"
+ },
+ "G106": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d3/91/a1/d391a141-256f-726f-9da1-8aa4e42b3236/mzaf_17761183103753218003.plus.aac.p.m4a",
+  "track": "SICKO MODE",
+  "artist": "Travis Scott"
+ },
+ "G107": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1f/2e/37/1f2e37be-bdd0-d770-6ea4-091011a6aade/mzaf_2360827885900940865.plus.aac.p.m4a",
+  "track": "HUMBLE.",
+  "artist": "Kendrick Lamar"
+ },
+ "G108": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/13/5a/61/135a6154-8ca2-0523-1fa2-f4ac0ea9e1e7/mzaf_13242749689945681184.plus.aac.p.m4a",
+  "track": "Lose Yourself",
+  "artist": "Eminem"
+ },
+ "G109": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ce/e3/b4/cee3b4b5-a66e-4110-2325-fb9a4c68005d/mzaf_3787154762669876266.plus.aac.p.m4a",
+  "track": "Dior",
+  "artist": "Pop Smoke"
+ },
+ "G112": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/39/f0/83/39f083d2-f807-039c-936c-819ff0fbb225/mzaf_2664632352612945926.plus.aac.p.m4a",
+  "track": "An Ending (Ascent)",
+  "artist": "Brian Eno"
+ },
+ "G113": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f8/66/32/f8663292-ef2c-1304-82c1-79a368a948a0/mzaf_16499941145885627614.plus.aac.p.m4a",
+  "track": "リサフランク420 - 現代のコンピュー",
+  "artist": "Macintosh Plus"
+ },
+ "G114": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c9/ec/25/c9ec2554-c6a1-01d1-4cfb-281cf1c98f44/mzaf_5199254239611369795.plus.aac.p.m4a",
+  "track": "Sunset",
+  "artist": "The Midnight"
+ },
+ "G115": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d2/45/fb/d245fbf9-8570-fdc0-5e6b-aa528c130486/mzaf_11947081694159530687.plus.aac.p.m4a",
+  "track": "Nightcall",
+  "artist": "Kavinsky"
+ },
+ "G116": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9e/65/21/9e652177-0411-51ba-699c-40652ebdac48/mzaf_3212579135378757284.plus.aac.p.m4a",
+  "track": "Never Be Like You (feat. Kai)",
+  "artist": "Flume"
+ },
+ "G117": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c3/32/f1/c332f138-aa3c-52b8-c414-e85111b58bf5/mzaf_12226515580236242706.plus.aac.p.m4a",
+  "track": "Summer",
+  "artist": "Calvin Harris"
+ },
+ "G118": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2c/f9/18/2cf9186f-19ba-5493-2bb1-7214b64ad611/mzaf_926537768433990309.plus.aac.p.m4a",
+  "track": "The Robots",
+  "artist": "Kraftwerk"
+ },
+ "G119": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/26/ad/ef/26adefa9-3d0d-c4c2-cc90-9592074831d5/mzaf_5174071142848024004.plus.aac.p.m4a",
+  "track": "Windowlicker",
+  "artist": "Aphex Twin"
+ },
+ "G120": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/66/69/9c/66699cbd-7aef-24fa-4ab1-72285ba806c3/mzaf_7921588412259243661.plus.aac.p.m4a",
+  "track": "Drive It Like You Stole It (Ambient Version)",
+  "artist": "Superposition & The Glitch Mob"
+ },
+ "G121": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fe/f0/48/fef048ad-df35-bbce-dc88-05e424cadba7/mzaf_15874742277122495094.plus.aac.p.m4a",
+  "track": "Firestarter",
+  "artist": "The Prodigy"
+ },
+ "G122": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f8/53/11/f8531121-7185-6809-b5ef-b77951dc3258/mzaf_1283873732990396984.plus.aac.p.m4a",
+  "track": "Inner City Life",
+  "artist": "Goldie"
+ },
+ "G123": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5d/0d/a5/5d0da5f0-436d-6367-8d89-7ebe81cc038a/mzaf_5389433484117383949.plus.aac.p.m4a",
+  "track": "Fill Me In",
+  "artist": "Craig David"
+ },
+ "G124": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e7/1f/bb/e71fbba3-d5a1-ce62-6277-f1434a8f11f1/mzaf_6349410632689241775.plus.aac.p.m4a",
+  "track": "Masta Blasta (The Rebirth)",
+  "artist": "Dillon Francis"
+ },
+ "G125": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fd/c3/7c/fdc37c9f-b0ad-434a-93b9-35ab1f87518a/mzaf_13776257952233740893.plus.aac.p.m4a",
+  "track": "Gecko (Overdrive) [Radio Edit]",
+  "artist": "Oliver Heldens & Becky Hill"
+ },
+ "G126": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/f2/85/68f285ca-6cc6-5bc5-54da-5ee164bee249/mzaf_16955640893323702645.plus.aac.p.m4a",
+  "track": "Strobe",
+  "artist": "deadmau5"
+ },
+ "G127": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/71/78/f3/7178f389-3451-1a6e-d145-d778dff444eb/mzaf_15621981303545075686.plus.aac.p.m4a",
+  "track": "Spastik",
+  "artist": "Plastikman"
+ },
+ "G128": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/31/40/5e3140ad-4b74-d7c5-34b6-3428b9d925d8/mzaf_4755974250995681452.plus.aac.p.m4a",
+  "track": "Acid Tracks",
+  "artist": "Phuture"
+ },
+ "G129": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8f/ca/53/8fca53bf-328f-4006-fb9c-eef2feee7790/mzaf_17242236602085711440.plus.aac.p.m4a",
+  "track": "Animals",
+  "artist": "Martin Garrix"
+ },
+ "G130": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ec/66/13/ec661371-9b1b-5415-f8e8-615a15dca4b9/mzaf_9356909856131840187.plus.aac.p.m4a",
+  "track": "Dragonborn (Original Mix)",
+  "artist": "Headhunterz"
+ },
+ "G131": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d0/a9/b4/d0a9b474-36b6-1d33-8bc1-b76bfac999d0/mzaf_17033864333856333582.plus.aac.p.m4a",
+  "track": "King Night",
+  "artist": "SALEM"
+ },
+ "G132": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/ea/96/ebea965e-31b5-b75d-9e9b-260e35a7013c/mzaf_11893712329603215445.plus.aac.p.m4a",
+  "track": "Enjoy the Silence",
+  "artist": "Depeche Mode"
+ },
+ "G133": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/e0/e6/a3/e0e6a3a6-c80d-9c5a-359b-262528b152e6/mzaf_15266941504786696990.plus.aac.p.m4a",
+  "track": "Headhunter V1.0",
+  "artist": "Front 242"
+ },
+ "G134": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7b/07/6e/7b076ec2-81ff-dc6b-816d-26f50e0ab9f9/mzaf_5993930348715446970.plus.aac.p.m4a",
+  "track": "Feel It All Around",
+  "artist": "Washed Out"
+ },
+ "G135": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/ab/c3/31abc3dc-79ac-adab-e8d7-9df3928e1fc1/mzaf_8321749889646442017.plus.aac.p.m4a",
+  "track": "Kiara",
+  "artist": "Bonobo"
+ },
+ "G136": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a3/a6/91/a3a691b0-8e49-399d-2585-ddcd6694c9f2/mzaf_16325826545413166648.plus.aac.p.m4a",
+  "track": "Teardrop",
+  "artist": "Massive Attack"
+ },
+ "G137": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b7/37/ae/b737ae78-5aee-043e-807a-af878993ca7e/mzaf_4175871691801697475.plus.aac.p.m4a",
+  "track": "Aruarian Dance",
+  "artist": "Nujabes"
+ },
+ "G138": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/47/f6/a1/47f6a1b7-ddce-c7f6-3144-e396c97e4f19/mzaf_5337517218296619561.plus.aac.p.m4a",
+  "track": "Monday Loop",
+  "artist": "tomppabeats"
+ },
+ "G139": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/83/0d/91/830d9165-43ed-d8fd-2528-f20acdf13fd5/mzaf_48590175490041571.plus.aac.p.m4a",
+  "track": "Time: The Donut of the Heart",
+  "artist": "J Dilla"
+ },
+ "G140": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/c0/b0/ef/c0b0efd8-f25d-65a1-4a96-00232823d67f/mzaf_2912098955521586705.plus.aac.p.m4a",
+  "track": "Født til å Herske, Pt. 1",
+  "artist": "Mortiis"
+ },
+ "G141": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/35/22/86/352286b0-f0cf-e4d8-43e1-ccca36b72b6b/mzaf_7951517281793808.plus.aac.p.m4a",
+  "track": "Quadrant Dub I",
+  "artist": "Basic Channel"
+ },
+ "G142": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/84/4f/5d/844f5d71-653f-7eda-d28c-9e9d3411c67a/mzaf_14303834348352491736.plus.aac.p.m4a",
+  "track": "Booty Swing",
+  "artist": "Parov Stelar"
+ },
+ "G143": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/8e/e4/718ee471-27eb-eb49-4f8a-e2df40355409/mzaf_10684152026292828080.plus.aac.p.m4a",
+  "track": "Feel the Volume",
+  "artist": "Jauz"
+ },
+ "G144": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4d/d7/4c/4dd74cae-3b9c-b256-0b8e-8928c8d6d83a/mzaf_11478207657662858009.plus.aac.p.m4a",
+  "track": "Consciousness",
+  "artist": "Anyma & Chris Avantgarde"
+ },
+ "G145": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/e2/0d/11e20d41-9473-dfff-f71d-f46a7e386f13/mzaf_12167206499595448918.plus.aac.p.m4a",
+  "track": "Becoming Insane (Radio Mix)",
+  "artist": "Infected Mushroom"
+ },
+ "G146": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7b/cc/af/7bccafba-4ff5-9dce-4e54-bcc43a2fd4d9/mzaf_7409973655527980704.plus.aac.p.m4a",
+  "track": "N.Y. State of Mind, Pt. ll",
+  "artist": "Nas"
+ },
+ "G148": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bc/50/e4/bc50e42d-a657-8d8e-24cb-e936ae0800d2/mzaf_9543712201468022196.plus.aac.p.m4a",
+  "track": "Awful Things (feat. Lil Tracy)",
+  "artist": "Lil Peep"
+ },
+ "G149": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/98/c4/33/98c433b9-46f7-e554-6089-14558c7d8175/mzaf_16805051007550467902.plus.aac.p.m4a",
+  "track": "Blowin' In the Wind",
+  "artist": "Bob Dylan"
+ },
+ "G150": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a1/92/71/a1927162-1449-ea3e-cf3b-56f01285c203/mzaf_13384106785399027792.plus.aac.p.m4a",
+  "track": "Cover Me Up",
+  "artist": "Jason Isbell"
+ },
+ "G151": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/bf/b6/fcbfb6fa-5293-1bb8-f250-7feaf5183892/mzaf_10820724967096911306.plus.aac.p.m4a",
+  "track": "Jolene",
+  "artist": "Dolly Parton"
+ },
+ "G152": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/33/f9/9d/33f99d28-ea26-6423-563e-5f9d6a126d46/mzaf_5873770566551271846.plus.aac.p.m4a",
+  "track": "Blue Moon of Kentucky",
+  "artist": "Bill Monroe"
+ },
+ "G153": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/be/4e/64/be4e6468-8e92-2e6e-2110-bd37f6dbadfc/mzaf_250364790696050311.plus.aac.p.m4a",
+  "track": "The Thrill Is Gone",
+  "artist": "B.B. King"
+ },
+ "G154": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/4d/5a/314d5ab5-8a78-8a14-d0b9-7a2dc992a61d/mzaf_521129494795816660.plus.aac.p.m4a",
+  "track": "Take My Hand, Precious Lord",
+  "artist": "Mahalia Jackson"
+ },
+ "G155": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ed/e4/4b/ede44bec-3cbf-7347-fb8f-b48dff81c92a/mzaf_8603535837108333754.plus.aac.p.m4a",
+  "track": "Swing Low, Sweet Chariot",
+  "artist": "Fisk Jubilee Singers"
+ },
+ "G156": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/68/af/7d/68af7d1c-f649-2015-ab37-c23f21081d4d/mzaf_7497355821501099151.plus.aac.p.m4a",
+  "track": "Hallelujah",
+  "artist": "Pentatonix"
+ },
+ "G157": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/53/14/93/531493c6-0e91-6828-10ee-323420fadf7d/mzaf_6154164084044916587.plus.aac.p.m4a",
+  "track": "Puer natus est nobis - Cantate Domino canticum novum - Introitus",
+  "artist": "Benedictine Monks of the Abbey of St. Maurice & St. Maur, Clevaux"
+ },
+ "G158": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/94/ca/7b/94ca7b3c-b20d-f37d-e0fa-2fa40bb7d38c/mzaf_4706894099001858520.plus.aac.p.m4a",
+  "track": "Salve Regina",
+  "artist": "The Cathedral Singers, Richard Proulx, Kristi McGonagle French, Larry Long & Mark Duker"
+ },
+ "G159": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/54/e8/0a/54e80a8b-1d60-6b59-e908-6fd65c4ff783/mzaf_2469862574651846302.plus.aac.p.m4a",
+  "track": "So What",
+  "artist": "Miles Davis"
+ },
+ "G160": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c1/23/e1/c123e186-2cc0-d270-c4c6-7c32a2355e7c/mzaf_2966595274066493817.plus.aac.p.m4a",
+  "track": "Ornithology",
+  "artist": "Charlie Parker"
+ },
+ "G161": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/af/5d/60/af5d603d-d0db-c066-3fe6-54bb2b51bdfb/mzaf_1714770531795139058.plus.aac.p.m4a",
+  "track": "Blue In Green",
+  "artist": "Miles Davis"
+ },
+ "G162": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/bf/99/93bf993b-ce92-1625-925d-97c11d619f1c/mzaf_10371658847105568831.plus.aac.p.m4a",
+  "track": "Songbird",
+  "artist": "Kenny G"
+ },
+ "G163": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/58/60/ae/5860ae8a-be65-d822-944b-d14fc3771880/mzaf_11171974704305137039.plus.aac.p.m4a",
+  "track": "Lonely Woman",
+  "artist": "Ornette Coleman"
+ },
+ "G164": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/70/f6/ce/70f6ce41-e1fe-33f9-99da-c086d33403da/mzaf_877301262717801232.plus.aac.p.m4a",
+  "track": "Sing, Sing, Sing (With a Swing)",
+  "artist": "Benny Goodman"
+ },
+ "G165": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7d/25/ae/7d25ae8a-49ee-f646-1401-9cd579892ce1/mzaf_14281223272272808515.plus.aac.p.m4a",
+  "track": "Moanin'",
+  "artist": "Art Blakey & The Jazz Messengers"
+ },
+ "G166": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ed/dd/79/eddd797a-74dc-d241-4026-13d5c1fb2fb0/mzaf_15810321822645423827.plus.aac.p.m4a",
+  "track": "Fur Elise",
+  "artist": "Ludwig van Beethoven"
+ },
+ "G167": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/0a/83/5d0a83a0-dd98-bdf6-1186-c1a6343ec9f0/mzaf_8977302814736511800.plus.aac.p.m4a",
+  "track": "Air on the G String (Orchestral Suite No. 3 in D Major) [with Carlos Gardels]",
+  "artist": "Johann Sebastian Bach's Orchestra Madrid"
+ },
+ "G168": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/65/4d/3c/654d3c4c-115e-86cb-048b-6f5eeac8f141/mzaf_11264967146628198045.plus.aac.p.m4a",
+  "track": "Eine Kleine Nachtmusik (Serenade In G Major, K. 525): I. Allegro",
+  "artist": "Bruno Walter & Columbia Symphony Orchestra"
+ },
+ "G169": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f2/2d/a1/f22da1bc-900c-d060-863e-8a8472fded05/mzaf_8809266566035879068.plus.aac.p.m4a",
+  "track": "Nocturne in E flat major, Op. 9 No. 2",
+  "artist": "Frédéric Chopin"
+ },
+ "G170": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/85/ec/31/85ec3121-880e-8d05-70ee-a3f5cad67d29/mzaf_13875593167782602175.plus.aac.p.m4a",
+  "track": "On The Nature Of Daylight",
+  "artist": "Max Richter, Louisa Fuller, Natalia Bonner, John Metcalfe, Philip Sheppard & Chris Worsey"
+ },
+ "G171": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0b/1e/a5/0b1ea5fb-9bd9-3695-9b04-791c99de975d/mzaf_10126848900834615297.plus.aac.p.m4a",
+  "track": "Nuvole Bianche",
+  "artist": "Ludovico Einaudi"
+ },
+ "G172": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/5a/b2/895ab2ce-dd96-791a-54cd-bcc1cca2d4da/mzaf_3182825906858460314.plus.aac.p.m4a",
+  "track": "Nessun Dorma",
+  "artist": "Luciano Pavarotti"
+ },
+ "G173": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/0f/bf/eb0fbf21-bbe3-3b24-25b4-600c3fa2a646/mzaf_17989862539568639783.plus.aac.p.m4a",
+  "track": "Alexander Hamilton",
+  "artist": "Leslie Odom, Jr., Anthony Ramos, Daveed Diggs, Okieriete Onaodowan, Lin-Manuel Miranda, Phillipa Soo, Christopher Jackson & Original Broadway Cast of \"Hamilton\""
+ },
+ "G174": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/de/29/56/de295643-08f7-071e-ec55-6038ae12ca84/mzaf_3104538190244308866.plus.aac.p.m4a",
+  "track": "Orinoco Flow",
+  "artist": "Enya"
+ },
+ "G175": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/90/3b/df/903bdf1b-71a9-6b4c-b1e9-e27bc371a69c/mzaf_4040469975708711563.plus.aac.p.m4a",
+  "track": "Hands of Love",
+  "artist": "Deuter"
+ },
+ "G176": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6e/c3/0c/6ec30c1a-0458-6ecf-9c9d-8cefa4e45714/mzaf_13929773776901713828.plus.aac.p.m4a",
+  "track": "Chan Chan",
+  "artist": "Buena Vista Social Club"
+ },
+ "G177": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/1e/a3/fd1ea379-684f-20d3-9faf-f2dd21c7d1b5/mzaf_17884510745632380984.plus.aac.p.m4a",
+  "track": "Entre dos aguas",
+  "artist": "Paco de Lucía"
+ },
+ "G178": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6c/f6/92/6cf692c3-fbab-7794-0a4b-5c36e6f6bda9/mzaf_2209387271080923862.plus.aac.p.m4a",
+  "track": "Libertango",
+  "artist": "Astor Piazzolla"
+ },
+ "G179": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cb/89/5d/cb895d9d-88c3-6e33-2157-0c1d3672f429/mzaf_18240140858144678534.plus.aac.p.m4a",
+  "track": "Gaivota",
+  "artist": "Amália Rodrigues"
+ },
+ "G180": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9d/41/209d4172-3cf9-acf5-f45f-eba1c40c3173/mzaf_13110416723838360560.plus.aac.p.m4a",
+  "track": "The Foggy Dew",
+  "artist": "The Chieftains"
+ },
+ "G181": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/31/a7/dd/31a7dd55-9b2b-c3de-dd96-14bcaa667c4f/mzaf_4214260299450644310.plus.aac.p.m4a",
+  "track": "Hava Nagila (feat. Klezmer Virtuos)",
+  "artist": "Giora Feidman"
+ },
+ "G182": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f6/80/e4/f680e4bd-45f5-9639-fd56-efa66333cb57/mzaf_10023330392062136745.plus.aac.p.m4a",
+  "track": "Chạy Ngay Đi",
+  "artist": "Sơn Tùng M-TP"
+ },
+ "G183": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9a/f1/8c/9af18cf4-3786-7d95-2e45-c7de2e4577b0/mzaf_15578495326206120649.plus.aac.p.m4a",
+  "track": "Bigcityboi (DJ DSmall Remix)",
+  "artist": "Binz"
+ },
+ "G184": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/a9/01/82a9017a-1226-a581-b450-d2d99eaf88dc/mzaf_10039982675907656311.plus.aac.p.m4a",
+  "track": "Chìm Sâu (feat. Trung Trần)",
+  "artist": "RPT MCK"
+ },
+ "G185": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/72/f3/62/72f36257-d420-f2fc-8991-b54f61ee44b3/mzaf_181150744939534273.plus.aac.p.m4a",
+  "track": "Thành Phố Buồn",
+  "artist": "Chế Linh"
+ },
+ "G186": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c9/7b/0a/c97b0aa3-abd2-7ce0-6f40-54469c282193/mzaf_8628055691524818335.plus.aac.p.m4a",
+  "track": "Sầu Tím Thiệp Hồng (feat. Lệ Quyên)",
+  "artist": "Quang Lê"
+ },
+ "G187": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/bc/ac/44bcaceb-2729-7b2d-7ee5-5eacc8f0b0ae/mzaf_14367472107743855368.plus.aac.p.m4a",
+  "track": "Diễm Xưa",
+  "artist": "Khánh Ly"
+ },
+ "G188": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/58/df/0d/58df0d92-a0fe-3226-b191-6607b2d88944/mzaf_13607955509635782061.plus.aac.p.m4a",
+  "track": "Đất nước trọn niềm vui",
+  "artist": "Trọng Tấn"
+ },
+ "G189": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cb/a4/ab/cba4abad-11a4-a5bf-48f3-0f5607e2718e/mzaf_7255835239463627744.plus.aac.p.m4a",
+  "track": "Câu Hò Bên Bờ Hiền Lương",
+  "artist": "Thu Hien"
+ },
+ "G190": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/22/5f/0e/225f0e96-37bf-dafc-70b4-3ccdb5689634/mzaf_2156052034860998441.plus.aac.p.m4a",
+  "track": "Abalele",
+  "artist": "Kabza De Small, DJ Maphorisa & Ami Faku"
+ },
+ "G191": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/54/36/d0/5436d001-b817-154a-bf80-f5d280de9fea/mzaf_7986700062954932345.plus.aac.p.m4a",
+  "track": "Drive (feat. Delilah Montagu)",
+  "artist": "Black Coffee & David Guetta"
+ },
+ "G192": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5e/d2/d5/5ed2d53d-369d-350d-5569-7eb5d05437ae/mzaf_3116198879303436674.plus.aac.p.m4a",
+  "track": "Bum Bum Tam Tam",
+  "artist": "MC Fioti"
+ },
+ "G193": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/48/6d/cc/486dcc99-b094-c24e-30be-e2dd14c9fb6a/mzaf_10777477182825152421.plus.aac.p.m4a",
+  "track": "Vibe (If I Back It Up)",
+  "artist": "Cookiee Kawaii & Tyga"
+ },
+ "G194": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/08/ba/0e/08ba0e4a-3e94-576a-33f3-6043589c9762/mzaf_13173753081012494397.plus.aac.p.m4a",
+  "track": "Fisherrr (Remix)",
+  "artist": "Cash Cobain, Ice Spice & Bay Swag"
+ },
+ "G199": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b1/b9/d2/b1b9d2dc-a9c5-9912-ee47-d7a24d4097ee/mzaf_14214880769243104207.plus.aac.p.m4a",
+  "track": "Rockefeller Street",
+  "artist": "LA Nightcore"
+ },
+ "G202": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d4/8e/4c/d48e4cee-2cb4-2886-94c9-c1200da15233/mzaf_14555089929452432327.plus.aac.p.m4a",
+  "track": "Never Meant",
+  "artist": "American Football"
+ },
+ "G203": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/80/b1/fc/80b1fcf6-4ad9-d285-8faa-8124ac51a871/mzaf_5485660495470014016.plus.aac.p.m4a",
+  "track": "Autre Temps",
+  "artist": "Alcest"
+ },
+ "G204": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/42/ad/0b42ad81-e7f5-7822-015a-b0b4ccc83288/mzaf_2453430921452812106.plus.aac.p.m4a",
+  "track": "Gallowdance",
+  "artist": "Lebanon Hanover"
+ },
+ "G205": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2a/c6/7c/2ac67c4b-08a8-ad73-8faa-97bac09deb56/mzaf_6868601621277324431.plus.aac.p.m4a",
+  "track": "The Cry of Mankind",
+  "artist": "My Dying Bride"
+ },
+ "G206": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e3/18/5f/e3185f6b-312a-cff9-db29-bf5e48a7a503/mzaf_12089350863938693111.plus.aac.p.m4a",
+  "track": "Angels of Distress",
+  "artist": "Shape Of Despair"
+ },
+ "G207": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/80/10/f0/8010f066-3aa2-9235-6c53-3c737769d86b/mzaf_7752380623203424349.plus.aac.p.m4a",
+  "track": "Pull Me Under",
+  "artist": "Dream Theater"
+ },
+ "G208": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/01/e2/da/01e2da62-be86-0d00-0085-5190b2c58c84/mzaf_1383251549786941719.plus.aac.p.m4a",
+  "track": "43% Burnt",
+  "artist": "The Dillinger Escape Plan"
+ },
+ "G209": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/31/c2/b2/31c2b2e7-e977-7bc0-2def-f81e4131f045/mzaf_6420211502512436225.plus.aac.p.m4a",
+  "track": "Arise! (Remastered 2014)",
+  "artist": "Amebix"
+ },
+ "G211": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cc/f7/20/ccf7208c-fb48-a25f-be17-7b07b85f6b3f/mzaf_644534841274693761.plus.aac.p.m4a",
+  "track": "Human Fly",
+  "artist": "The Cramps"
+ },
+ "G212": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ab/ba/63/abba637e-0d1d-7831-8bb3-853a94280e43/mzaf_1142865516775070906.plus.aac.p.m4a",
+  "track": "That's All Right",
+  "artist": "Elvis Presley"
+ },
+ "G213": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e6/15/78/e61578f3-8470-7088-97ae-40495f82da92/mzaf_9680549632409334190.plus.aac.p.m4a",
+  "track": "Green Machine",
+  "artist": "Kyuss"
+ },
+ "G214": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/22/17/58/2217581a-f35d-8bdd-58b2-3bec368550e1/mzaf_14631739780031361732.plus.aac.p.m4a",
+  "track": "Mekanïk destruktïw kömmandöh (2021 remastered)",
+  "artist": "Magma"
+ },
+ "G215": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d7/46/ae/d746ae73-3ab7-ebf7-152e-697718cc6d79/mzaf_8431411371456301762.plus.aac.p.m4a",
+  "track": "Moon In June",
+  "artist": "Soft Machine"
+ },
+ "G216": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bb/3d/07/bb3d07a3-b3af-2c99-5c9f-eb72796268c2/mzaf_11871467005041854011.plus.aac.p.m4a",
+  "track": "Africa",
+  "artist": "Toto"
+ },
+ "G217": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ad/10/9c/ad109c62-aa02-8345-bfcc-b50f98345475/mzaf_3279697888712975539.plus.aac.p.m4a",
+  "track": "My Heart Will Go On (Love Theme from \"Titanic\")",
+  "artist": "Céline Dion"
+ },
+ "G218": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/12/ec/51/12ec51bf-7c69-cea4-a105-0ce4ec7802e1/mzaf_10440620121547983332.plus.aac.p.m4a",
+  "track": "Fun Tonight",
+  "artist": "Macross 82-99"
+ },
+ "G219": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/2b/d2/31/2bd231a6-9a44-98ca-a25b-beaa76c18111/mzaf_15354969348738503222.plus.aac.p.m4a",
+  "track": "Mambo No. 5",
+  "artist": "Pérez Prado"
+ },
+ "G220": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/25/85/b3/2585b3d8-ac5d-71bc-2cc4-942bab569138/mzaf_8161711833305640837.plus.aac.p.m4a",
+  "track": "Cómo Te Voy a Olvídar",
+  "artist": "Los Ángeles Azules"
+ },
+ "G221": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3d/aa/32/3daa32b8-9f89-a8d2-a420-4ea9890b7150/mzaf_7476439558404416835.plus.aac.p.m4a",
+  "track": "La Bilirrubina",
+  "artist": "Juan Luis Guerra 4.40"
+ },
+ "G222": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ce/51/44/ce514428-67a8-d97f-a97a-e0c215ac52df/mzaf_16729783957553652282.plus.aac.p.m4a",
+  "track": "Asa Branca",
+  "artist": "Luiz Gonzaga"
+ },
+ "G224": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8c/cc/e4/8ccce404-7ecc-18eb-038e-ba3124d7cf77/mzaf_9572196146429477142.plus.aac.p.m4a",
+  "track": "Twiggy Twiggy",
+  "artist": "Maki Nomiya"
+ },
+ "G225": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c3/68/0c/c3680c97-8790-156a-7fbe-0eff1a6dc3c5/mzaf_1140365139093451165.plus.aac.p.m4a",
+  "track": "Phía Sau Một Cô Gái",
+  "artist": "SOOBIN"
+ },
+ "G226": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/72/f3/62/72f36257-d420-f2fc-8991-b54f61ee44b3/mzaf_181150744939534273.plus.aac.p.m4a",
+  "track": "Thành Phố Buồn",
+  "artist": "Chế Linh"
+ },
+ "G043": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6d/0b/94/6d0b940e-c3cd-34ec-1218-54f4401e5ca6/mzaf_12678355754514855161.plus.aac.p.m4a",
+  "track": "You Only Live Once",
+  "artist": "Suicide Silence"
+ },
+ "G085": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/b7/c5/f3b7c53a-eb0e-06d4-b101-149864bd2302/mzaf_11570086748071654236.plus.aac.p.m4a",
+  "track": "Boom Clap",
+  "artist": "Charli xcx"
+ },
+ "G110": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7c/08/ae/7c08ae2e-dab2-4370-c760-f2c84bcd6deb/mzaf_16435586177967991405.plus.aac.p.m4a",
+  "track": "Own It (feat. Ed Sheeran & Burna Boy)",
+  "artist": "Stormzy"
+ },
+ "G111": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2b/f8/ff/2bf8ffbf-7d34-b053-ee87-a5945f252f3d/mzaf_12176486811816483246.plus.aac.p.m4a",
+  "track": "Still Breathing",
+  "artist": "DVRST"
+ },
+ "G147": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/49/5b/b5/495bb57a-a21d-119e-f717-ab1e4dfd5024/mzaf_9381522881357106628.plus.aac.p.m4a",
+  "track": "the BLACK seminole.",
+  "artist": "Lil Yachty"
+ },
+ "G195": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e5/07/b9/e507b9d8-e941-adac-0131-8077d4821e53/mzaf_11482399288140625428.plus.aac.p.m4a",
+  "track": "ALL RED",
+  "artist": "Playboi Carti"
+ },
+ "G196": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/57/00/25/570025ee-24b2-b6ee-291c-df76db98b03f/mzaf_18155884831639096994.plus.aac.p.m4a",
+  "track": "FATALITY",
+  "artist": "Kordhell"
+ },
+ "G197": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/4c/c8/6c/4cc86c9f-0908-84ff-0521-50cee12860ac/mzaf_11299908415334419152.plus.aac.p.m4a",
+  "track": "THE_EVIL_THAT_MEN_DO",
+  "artist": "$uicideboy$"
+ },
+ "G198": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/d4/f0/9ad4f06c-bf08-255f-8498-8e3d1d17e743/mzaf_7983135672228712033.plus.aac.p.m4a",
+  "track": "Timeless",
+  "artist": "The Weeknd & Playboi Carti"
+ },
+ "G200": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7e/68/e1/7e68e1b5-77ab-4fb0-f8b7-12394a87d044/mzaf_12457678548464397790.plus.aac.p.m4a",
+  "track": "DANGEROUS",
+  "artist": "1nonly"
+ },
+ "G201": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/08/d7/b8/08d7b883-e51c-adaf-8670-4057f8c5d749/mzaf_14830730472870177723.plus.aac.p.m4a",
+  "track": "Reality Surf",
+  "artist": "Bladee"
+ },
+ "G210": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/1c/66/1e1c66d5-11ca-859c-4cfc-5d81cd2c3582/mzaf_3835289198956080401.plus.aac.p.m4a",
+  "track": "Bata Motel",
+  "artist": "Crass"
+ },
+ "G223": {
+  "source": "itunes",
+  "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bf/27/e7/bf27e7f4-4068-f2d6-5c11-dea2d54db94d/mzaf_5487022700392361983.plus.aac.p.m4a",
+  "track": "Kawa No Nagare No Youni",
+  "artist": "Hibari Misora"
+ }
+}

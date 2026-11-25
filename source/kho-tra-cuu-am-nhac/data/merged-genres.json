@@ -1,0 +1,3668 @@
+[
+ {
+  "artist": "Radiohead",
+  "big_category": "Rock",
+  "bpm": "90-130",
+  "description": "Rock guitar nhưng không theo công thức radio thập niên 80, thường u ám, gai góc hoặc lạ tai hơn rock chính thống. Khác hard rock ở chỗ ít phô diễn kỹ thuật, nặng về cảm xúc và cách viết bài khác biệt.",
+  "example_track": "Creep",
+  "id": "G001",
+  "level": "co_ban",
+  "mood": [
+   "u ám",
+   "day dứt",
+   "lạ tai"
+  ],
+  "name_en": "Alternative Rock",
+  "name_vi": "Rock Thay Thế",
+  "use_when": "Dùng khi video cần nhạc rock có chiều sâu, tâm trạng, không quá ồn ào — hợp vlog tâm sự, phim ngắn, video kể chuyện."
+ },
+ {
+  "artist": "The Strokes",
+  "big_category": "Rock",
+  "bpm": "120-150",
+  "description": "Rock do các ban nhạc độc lập làm ra, guitar giòn, giai điệu bắt tai nhưng vẫn giữ chất thô, không bóng bẩy như pop. Khác alternative rock ở chỗ gắn với tinh thần tự làm, quy mô nhỏ và gần gũi hơn.",
+  "example_track": "Last Nite",
+  "id": "G002",
+  "level": "co_ban",
+  "mood": [
+   "trẻ trung",
+   "phóng khoáng",
+   "bắt tai"
+  ],
+  "name_en": "Indie Rock",
+  "name_vi": "Rock Độc Lập",
+  "use_when": "Dùng cho video đời sống, du lịch, lookbook, vlog bạn bè — tạo cảm giác trẻ, tự do và rất đời."
+ },
+ {
+  "artist": "Ramones",
+  "big_category": "Rock",
+  "bpm": "160-200",
+  "description": "Nhạc nhanh, ngắn, guitar distortion đơn giản, hát như hét lên, tinh thần chống đối và tự do. Khác hard rock ở chỗ cố tình chơi thô, không trau chuốt, bài hát thường chỉ dài 2-3 phút.",
+  "example_track": "Blitzkrieg Bop",
+  "id": "G003",
+  "level": "co_ban",
+  "mood": [
+   "nổi loạn",
+   "bốc lửa",
+   "thẳng thắn"
+  ],
+  "name_en": "Punk Rock",
+  "name_vi": "Punk Rock",
+  "use_when": "Dùng khi video cần năng lượng bùng nổ, cảm giác phản kháng — hợp montage hành động, skate, video giới trẻ."
+ },
+ {
+  "artist": "Joy Division",
+  "big_category": "Rock",
+  "bpm": "120-140",
+  "description": "Sinh ra từ punk nhưng lạnh hơn, tối hơn, bass nổi bật, guitar vang vọng và giọng hát trầm buồn. Khác punk rock ở chỗ chậm hơn, nhiều khoảng trống và không khí u ám.",
+  "example_track": "Love Will Tear Us Apart",
+  "id": "G004",
+  "level": "trung_cap",
+  "mood": [
+   "lạnh lùng",
+   "u buồn",
+   "bí ẩn"
+  ],
+  "name_en": "Post-Punk",
+  "name_vi": "Post-Punk",
+  "use_when": "Dùng cho video đêm, thời trang đen trắng, phim ngắn tâm lý — tạo không khí lạnh, cô đơn và rất điện ảnh."
+ },
+ {
+  "artist": "Nirvana",
+  "big_category": "Rock",
+  "bpm": "110-130",
+  "description": "Rock nặng, guitar bẩn và méo tiếng, hát nửa gào nửa than, cảm giác chán chường của thế hệ 90. Khác hard rock ở chỗ không hào nhoáng, cố tình luộm thuộm và đầy giận dữ âm ỉ.",
+  "example_track": "Smells Like Teen Spirit",
+  "id": "G005",
+  "level": "co_ban",
+  "mood": [
+   "giận dữ",
+   "chán chường",
+   "bốc lửa"
+  ],
+  "name_en": "Grunge",
+  "name_vi": "Grunge",
+  "use_when": "Dùng khi video cần cảm giác nổi loạn kiểu 90s, tuổi trẻ bất mãn — hợp montage, video kể về áp lực, video thể thao mạo hiểm."
+ },
+ {
+  "artist": "AC/DC",
+  "big_category": "Rock",
+  "bpm": "120-140",
+  "description": "Rock mạnh, riff guitar to và bắt tai, trống dồn dập, giọng hát cao và đầy nội lực. Khác heavy metal ở chỗ vẫn giữ giai điệu dễ nghe, ít cực đoan và gần pop hơn.",
+  "example_track": "Back in Black",
+  "id": "G006",
+  "level": "co_ban",
+  "mood": [
+   "mạnh mẽ",
+   "tự tin",
+   "bốc lửa"
+  ],
+  "name_en": "Hard Rock",
+  "name_vi": "Hard Rock",
+  "use_when": "Dùng cho video quảng cáo, mở đầu hoành tráng, montage xe cộ, thể thao — nhạc vang lên là thấy khí thế ngay."
+ },
+ {
+  "artist": "Black Sabbath",
+  "big_category": "Rock",
+  "bpm": "90-120",
+  "description": "Rock nặng đô nhất thời kỳ đầu: guitar distortion dày, riff chậm mà chắc, giọng hát vang dội. Khác hard rock ở chỗ tối hơn, nặng hơn và có cảm giác huyền bí, ma mị.",
+  "example_track": "Iron Man",
+  "id": "G007",
+  "level": "co_ban",
+  "mood": [
+   "nặng nề",
+   "ma mị",
+   "uy lực"
+  ],
+  "name_en": "Heavy Metal",
+  "name_vi": "Heavy Metal",
+  "use_when": "Dùng khi video cần sức nặng, cảm giác epic và đen tối — hợp trailer, video game, montage tập luyện nặng."
+ },
+ {
+  "artist": "Metallica",
+  "big_category": "Rock",
+  "bpm": "180-220",
+  "description": "Metal tốc độ cao, riff guitar dồn dập như máy, trống double-bass liên tục, hát gắt và đầy giận dữ. Khác heavy metal ở chỗ nhanh và dữ hơn nhiều, gần như không có đoạn chậm rãi.",
+  "example_track": "Master of Puppets",
+  "id": "G008",
+  "level": "trung_cap",
+  "mood": [
+   "dữ dội",
+   "tốc độ",
+   "phẫn nộ"
+  ],
+  "name_en": "Thrash Metal",
+  "name_vi": "Thrash Metal",
+  "use_when": "Dùng cho video hành động tốc độ cao, montage gym, game bắn súng — nhạc càng nhanh càng đẩy adrenaline."
+ },
+ {
+  "artist": "Death",
+  "big_category": "Rock",
+  "bpm": "160-200",
+  "description": "Metal cực đoan: giọng gầm gừ trầm đục, guitar riff phức tạp, trống blast-beat cực nhanh, chủ đề thường đen tối và chết chóc. Khác thrash metal ở chỗ nặng và tàn bạo hơn, gần như không còn giai điệu dễ nghe.",
+  "example_track": "Crystal Mountain",
+  "id": "G009",
+  "level": "nang_cao",
+  "mood": [
+   "tàn bạo",
+   "đen tối",
+   "dồn dập"
+  ],
+  "name_en": "Death Metal",
+  "name_vi": "Death Metal",
+  "use_when": "Dùng cho video kinh dị, game sinh tồn, nội dung metal cực đoan — chỉ hợp khi khán giả đã quen nhạc nặng."
+ },
+ {
+  "artist": "Mayhem",
+  "big_category": "Rock",
+  "bpm": "140-180",
+  "description": "Metal lạnh buốt: guitar tremolo réo liên tục, giọng hét the thé, thu âm cố tình thô ráp, không khí u ám như rừng Bắc Âu giữa đêm. Khác death metal ở chỗ ít kỹ thuật phô diễn, nặng về bầu không khí hơn là sức mạnh.",
+  "example_track": "Freezing Moon",
+  "id": "G010",
+  "level": "nang_cao",
+  "mood": [
+   "lạnh lẽo",
+   "ma mị",
+   "u ám"
+  ],
+  "name_en": "Black Metal",
+  "name_vi": "Black Metal",
+  "use_when": "Dùng cho video kinh dị, tài liệu về văn hoá Bắc Âu, nội dung huyền bí — tạo cảm giác rợn người và cô lập."
+ },
+ {
+  "artist": "Bring Me The Horizon",
+  "big_category": "Rock",
+  "bpm": "140-170",
+  "description": "Metal pha hardcore punk: đoạn gào thét dữ dội xen kẽ đoạn hát sạch bắt tai, breakdown nặng nề khiến người nghe muốn nhún nhảy theo nhịp. Khác death metal ở chỗ vẫn có điệp khúc dễ nhớ, dễ tiếp cận hơn.",
+  "example_track": "Shadow Moses",
+  "id": "G011",
+  "level": "trung_cap",
+  "mood": [
+   "dữ dội",
+   "cảm xúc",
+   "bùng nổ"
+  ],
+  "name_en": "Metalcore",
+  "name_vi": "Metalcore",
+  "use_when": "Dùng cho video tập luyện, montage game, video giới trẻ cần nhạc nặng nhưng vẫn có đoạn hát theo được."
+ },
+ {
+  "artist": "My Chemical Romance",
+  "big_category": "Rock",
+  "bpm": "120-150",
+  "description": "Rock cảm xúc: lời hát thổ lộ nỗi buồn, cô đơn, tan vỡ, guitar lúc nhẹ nhàng lúc bùng nổ dữ dội. Khác pop punk ở chỗ buồn và thành thật hơn, ít hài hước, nặng tâm sự hơn.",
+  "example_track": "Welcome to the Black Parade",
+  "id": "G012",
+  "level": "co_ban",
+  "mood": [
+   "buồn",
+   "day dứt",
+   "mãnh liệt"
+  ],
+  "name_en": "Emo",
+  "name_vi": "Nhạc Emo",
+  "use_when": "Dùng cho video kể chuyện buồn, chia tay, tuổi teen, phim ngắn tâm lý — nhạc chạm đúng cảm xúc người xem."
+ },
+ {
+  "artist": "Explosions in the Sky",
+  "big_category": "Rock",
+  "bpm": null,
+  "description": "Rock không lời, xây dựng từ từ: bắt đầu lặng lẽ rồi dâng lên thành cơn bão âm thanh guitar vang vọng. Khác prog rock ở chỗ không phô diễn kỹ thuật, mà kể chuyện bằng cảm xúc và cao trào.",
+  "example_track": "Your Hand in Mine",
+  "id": "G013",
+  "level": "trung_cap",
+  "mood": [
+   "mơ mộng",
+   "dâng trào",
+   "điện ảnh"
+  ],
+  "name_en": "Post-Rock",
+  "name_vi": "Post-Rock",
+  "use_when": "Dùng làm nhạc nền cho video du lịch, timelapse, phim ngắn, video truyền cảm hứng — không lời nên không lấn át hình ảnh."
+ },
+ {
+  "artist": "American Football",
+  "big_category": "Rock",
+  "bpm": null,
+  "description": "Rock chơi nhịp lẻ, đổi nhịp liên tục như giải toán, guitar sạch, gảy nốt phức tạp nhưng vẫn bắt tai. Khác prog rock ở chỗ ngắn gọn, khô và góc cạnh hơn, ít màu mè.",
+  "example_track": "Never Meant",
+  "id": "G014",
+  "level": "nang_cao",
+  "mood": [
+   "thông minh",
+   "lạ tai",
+   "tinh tế"
+  ],
+  "name_en": "Math Rock",
+  "name_vi": "Math Rock",
+  "use_when": "Dùng cho video sáng tạo, thiết kế, nội dung về tư duy, video cần nhạc nền độc đáo mà không quá ồn."
+ },
+ {
+  "artist": "The White Stripes",
+  "big_category": "Rock",
+  "bpm": "120-140",
+  "description": "Rock thô, đơn giản, thu âm như chơi trong gara: guitar méo tiếng, trống dồn dập, hát sống sượng. Khác punk ở chỗ giữ chất blues và giai điệu 60s, nghe bụi bặm mà vẫn vui.",
+  "example_track": "Seven Nation Army",
+  "id": "G015",
+  "level": "co_ban",
+  "mood": [
+   "bụi bặm",
+   "thô ráp",
+   "cuốn hút"
+  ],
+  "name_en": "Garage Rock",
+  "name_vi": "Garage Rock",
+  "use_when": "Dùng cho video đời thường, street style, montage đường phố — tạo cảm giác thật, bụi và rất ngầu."
+ },
+ {
+  "artist": "Pink Floyd",
+  "big_category": "Rock",
+  "bpm": null,
+  "description": "Rock mơ màng, hiệu ứng vang vọng, guitar uốn lượn như trong giấc mơ, bài hát thường dài và trôi lững lờ. Khác prog rock ở chỗ không nặng kỹ thuật, mà nặng cảm giác bay bổng, ảo giác.",
+  "example_track": "Comfortably Numb",
+  "id": "G016",
+  "level": "trung_cap",
+  "mood": [
+   "mơ màng",
+   "bay bổng",
+   "ảo giác"
+  ],
+  "name_en": "Psychedelic Rock",
+  "name_vi": "Rock Ảo Giác",
+  "use_when": "Dùng cho video nghệ thuật, du lịch thiên nhiên, timelapse bầu trời — nhạc đưa người xem vào trạng thái mơ màng."
+ },
+ {
+  "artist": "Rush",
+  "big_category": "Rock",
+  "bpm": null,
+  "description": "Rock cầu kỳ: bài hát dài, cấu trúc phức tạp, đổi nhịp, đổi điệu liên tục, nhạc cụ chơi kỹ thuật cao. Khác hard rock ở chỗ tham vọng như nhạc cổ điển, nghe như một câu chuyện dài.",
+  "example_track": "Tom Sawyer",
+  "id": "G017",
+  "level": "nang_cao",
+  "mood": [
+   "hoành tráng",
+   "phức tạp",
+   "kỹ thuật"
+  ],
+  "name_en": "Prog Rock",
+  "name_vi": "Rock Tiến Bộ",
+  "use_when": "Dùng cho video tài liệu, nội dung dài, video cần nhạc nền giàu tầng lớp — hợp với cảnh quay hoành tráng, không gian lớn."
+ },
+ {
+  "artist": "Led Zeppelin",
+  "big_category": "Rock",
+  "bpm": "110-130",
+  "description": "Rock pha blues: riff guitar da diết, solo dài, giọng hát khàn và đầy cảm xúc, nghe vừa mạnh vừa buồn. Khác hard rock ở chỗ thấm đẫm chất blues Mỹ, chậm rãi và sâu lắng hơn.",
+  "example_track": "Whole Lotta Love",
+  "id": "G018",
+  "level": "co_ban",
+  "mood": [
+   "da diết",
+   "phóng khoáng",
+   "đầy cảm xúc"
+  ],
+  "name_en": "Blues Rock",
+  "name_vi": "Blues Rock",
+  "use_when": "Dùng cho video về đường phố, xe cộ, quán bar, video kể chuyện đời — tạo cảm giác từng trải, nam tính và lôi cuốn."
+ },
+ {
+  "artist": "Bob Dylan",
+  "big_category": "Rock",
+  "bpm": "110-130",
+  "description": "Nhạc folk chơi bằng ban nhạc rock: lời kể chuyện, giai điệu mộc mạc, guitar acoustic kết hợp trống và bass điện. Khác folk thuần ở chỗ có nhịp rock, mạnh mẽ và hiện đại hơn.",
+  "example_track": "Like a Rolling Stone",
+  "id": "G019",
+  "level": "co_ban",
+  "mood": [
+   "mộc mạc",
+   "kể chuyện",
+   "tự do"
+  ],
+  "name_en": "Folk Rock",
+  "name_vi": "Folk Rock",
+  "use_when": "Dùng cho video du lịch, vlog đường dài, video kể chuyện đời — nhạc vừa ấm vừa có chất phiêu lưu."
+ },
+ {
+  "artist": "Oasis",
+  "big_category": "Rock",
+  "bpm": "110-130",
+  "description": "Rock Anh thập niên 90: giai điệu bắt tai, hát giọng Anh rõ rệt, vừa ngạo nghễ vừa lãng mạn kiểu Anh. Khác indie rock ở chỗ đậm chất Anh, tự hào và gần pop hơn.",
+  "example_track": "Wonderwall",
+  "id": "G020",
+  "level": "co_ban",
+  "mood": [
+   "lãng mạn",
+   "tự hào",
+   "bắt tai"
+  ],
+  "name_en": "Britpop",
+  "name_vi": "Britpop",
+  "use_when": "Dùng cho video về London, thời trang Anh, vlog bạn bè, video hoài niệm 90s — nghe là thấy chất Anh ngay."
+ },
+ {
+  "artist": "Cocteau Twins",
+  "big_category": "Rock",
+  "bpm": null,
+  "description": "Nhạc pop mơ màng: giọng hát nhẹ như hơi thở, guitar vang vọng, giai điệu trôi lững lờ như đang mơ. Khác shoegaze ở chỗ nhẹ và trong hơn, ít ồn ào, thiên về sự dịu dàng.",
+  "example_track": "Heaven or Las Vegas",
+  "id": "G021",
+  "level": "trung_cap",
+  "mood": [
+   "mơ màng",
+   "dịu dàng",
+   "bay bổng"
+  ],
+  "name_en": "Dream Pop",
+  "name_vi": "Dream Pop",
+  "use_when": "Dùng cho video làm đẹp, thời trang nhẹ nhàng, video hoàng hôn, vlog thư giãn — tạo cảm giác mềm mại, mơ mộng."
+ },
+ {
+  "artist": "Sonic Youth",
+  "big_category": "Rock",
+  "bpm": null,
+  "description": "Rock dùng tiếng ồn làm nhạc: guitar chói tai, feedback réo, nhịp lặp đi lặp lại đầy ám ảnh. Khác punk ở chỗ cố tình gây khó chịu, thử thách tai nghe, nghệ thuật hơn là giải trí.",
+  "example_track": "Teen Age Riot",
+  "id": "G022",
+  "level": "nang_cao",
+  "mood": [
+   "chói tai",
+   "ám ảnh",
+   "thử nghiệm"
+  ],
+  "name_en": "Noise Rock",
+  "name_vi": "Noise Rock",
+  "use_when": "Dùng cho video nghệ thuật, phim ngắn thử nghiệm, nội dung về văn hoá underground — chỉ hợp khi muốn gây ấn tượng mạnh."
+ },
+ {
+  "artist": "Mastodon",
+  "big_category": "Rock",
+  "bpm": "80-110",
+  "description": "Metal chậm, nặng và bẩn: riff guitar kéo dài như bùn lầy, giọng gào khàn, cảm giác ngột ngạt. Khác doom metal ở chỗ thô ráp và hung dữ hơn, pha chất hardcore punk.",
+  "example_track": "Blood and Thunder",
+  "id": "G023",
+  "level": "nang_cao",
+  "mood": [
+   "nặng nề",
+   "ngột ngạt",
+   "hung dữ"
+  ],
+  "name_en": "Sludge Metal",
+  "name_vi": "Sludge Metal",
+  "use_when": "Dùng cho video tối, nặng nề, game kinh dị, montage tập luyện cực hạn — nhạc tạo áp lực và sức nặng rõ rệt."
+ },
+ {
+  "artist": "Candlemass",
+  "big_category": "Rock",
+  "bpm": "60-90",
+  "description": "Metal chậm rãi, u ám: riff nặng kéo dài, giọng hát trầm buồn, không khí như đám tang. Khác heavy metal ở chỗ chậm gấp đôi, buồn gấp đôi, nghe như thời gian đang trôi chậm lại.",
+  "example_track": "Solitude",
+  "id": "G024",
+  "level": "nang_cao",
+  "mood": [
+   "u ám",
+   "chậm rãi",
+   "bi thương"
+  ],
+  "name_en": "Doom Metal",
+  "name_vi": "Doom Metal",
+  "use_when": "Dùng cho video kinh dị, tài liệu buồn, cảnh quay chậm — tạo cảm giác nặng nề, số phận và đầy kịch tính."
+ },
+ {
+  "artist": "Linkin Park",
+  "big_category": "Rock",
+  "bpm": "90-120",
+  "description": "Metal pha hip hop và điện tử: riff guitar nặng, rap xen kẽ hát, DJ scratch, cảm giác giận dữ kiểu tuổi teen cuối 90. Khác metalcore ở chỗ có rap và beat điện tử, gần văn hoá đường phố hơn.",
+  "example_track": "In the End",
+  "id": "G025",
+  "level": "co_ban",
+  "mood": [
+   "giận dữ",
+   "bức bối",
+   "bùng nổ"
+  ],
+  "name_en": "Nu Metal",
+  "name_vi": "Nu Metal",
+  "use_when": "Dùng cho video hành động, montage game, video về áp lực tuổi trẻ — nhạc vừa nặng vừa dễ nghe, hợp khán giả đại chúng."
+ },
+ {
+  "artist": "Green Day",
+  "big_category": "Rock",
+  "bpm": "150-180",
+  "description": "Punk nhưng dễ nghe: nhanh, vui, giai điệu bắt tai, lời hát về tuổi teen, tình yêu, nổi loạn nhẹ nhàng. Khác punk rock ở chỗ sạch sẽ và hài hước hơn, hợp radio hơn.",
+  "example_track": "Basket Case",
+  "id": "G026",
+  "level": "co_ban",
+  "mood": [
+   "vui vẻ",
+   "trẻ trung",
+   "nổi loạn"
+  ],
+  "name_en": "Pop Punk",
+  "name_vi": "Pop Punk",
+  "use_when": "Dùng cho video tuổi teen, học đường, vlog bạn bè, quảng cáo trẻ trung — nhạc vui, nhanh và rất dễ gây nghiện."
+ },
+ {
+  "artist": "Reel Big Fish",
+  "big_category": "Rock",
+  "bpm": "150-180",
+  "description": "Punk pha ska Jamaica: kèn trumpet, trombone vui nhộn, nhịp offbeat nhảy nhót, guitar punk nhanh. Khác pop punk ở chỗ có kèn đồng và nhịp ska, nghe như một bữa tiệc đường phố.",
+  "example_track": "Sell Out",
+  "id": "G027",
+  "level": "trung_cap",
+  "mood": [
+   "vui nhộn",
+   "nhảy nhót",
+   "tưng bừng"
+  ],
+  "name_en": "Ska Punk",
+  "name_vi": "Ska Punk",
+  "use_when": "Dùng cho video tiệc tùng, lễ hội, du lịch biển, video hài hước — nhạc vui là muốn nhún nhảy ngay."
+ },
+ {
+  "artist": "Black Flag",
+  "big_category": "Rock",
+  "bpm": "180-220",
+  "description": "Punk nhanh và dữ gấp đôi: bài hát cực ngắn, hét thẳng vào mặt, trống dồn dập, không có chỗ cho giai điệu dịu dàng. Khác punk rock ở chỗ cực đoan và giận dữ hơn, sinh ra cho sân khấu mosh pit.",
+  "example_track": "Rise Above",
+  "id": "G028",
+  "level": "trung_cap",
+  "mood": [
+   "dữ dội",
+   "phẫn nộ",
+   "bốc lửa"
+  ],
+  "name_en": "Hardcore Punk",
+  "name_vi": "Hardcore Punk",
+  "use_when": "Dùng cho video skate, hardcore, montage thể thao mạo hiểm — nhạc ngắn, nhanh, đẩy năng lượng lên đỉnh ngay lập tức."
+ },
+ {
+  "artist": "Vampire Weekend",
+  "big_category": "Rock",
+  "bpm": "130-160",
+  "description": "Pop làm theo kiểu indie: giai điệu ngọt ngào, trong trẻo, lời hát thông minh và gần gũi, không bóng bẩy như pop thương mại. Khác indie rock ở chỗ nhẹ nhàng, vui tươi và dễ nghe hơn.",
+  "example_track": "A-Punk",
+  "id": "G029",
+  "level": "co_ban",
+  "mood": [
+   "trong trẻo",
+   "vui vẻ",
+   "thông minh"
+  ],
+  "name_en": "Indie Pop",
+  "name_vi": "Indie Pop",
+  "use_when": "Dùng cho video du lịch, vlog mùa hè, quảng cáo nhẹ nhàng — nhạc tươi sáng, trẻ trung và rất dễ chịu."
+ },
+ {
+  "artist": "R.E.M.",
+  "big_category": "Rock",
+  "bpm": "130-150",
+  "description": "Pop với guitar 12 dây vang leng keng, giai điệu trong sáng, nghe như nắng mùa hè thập niên 60. Khác indie pop ở chỗ âm thanh guitar jangle là dấu ấn chính, vừa hoài cổ vừa tươi mới.",
+  "example_track": "Radio Free Europe",
+  "id": "G030",
+  "level": "trung_cap",
+  "mood": [
+   "trong sáng",
+   "hoài cổ",
+   "tươi mới"
+  ],
+  "name_en": "Jangle Pop",
+  "name_vi": "Jangle Pop",
+  "use_when": "Dùng cho video hoài niệm, du lịch mùa hè, vlog nhẹ nhàng — nhạc vang leng keng tạo cảm giác nắng vàng, trong trẻo."
+ },
+ {
+  "artist": "Mac DeMarco",
+  "big_category": "Rock",
+  "bpm": null,
+  "description": "Indie thu âm lo-fi: âm thanh mờ, ấm, hơi rè như băng cũ, giai điệu mơ màng, giọng hát nhẹ như thì thầm. Khác indie rock ở chỗ cố tình giữ chất thô, mộc, nghe như đang nghe nhạc trong phòng ngủ.",
+  "example_track": "Chamber of Reflection",
+  "id": "G031",
+  "level": "trung_cap",
+  "mood": [
+   "mơ màng",
+   "thư giãn",
+   "mộc mạc"
+  ],
+  "name_en": "Lo-fi Indie",
+  "name_vi": "Lo-fi Indie",
+  "use_when": "Dùng cho video chill, vlog buổi tối, video học tập, làm việc — nhạc nền êm, không lấn át, tạo cảm giác ấm cúng."
+ },
+ {
+  "artist": "Fugazi",
+  "big_category": "Rock",
+  "bpm": "140-170",
+  "description": "Hardcore nhưng giàu cảm xúc và thử nghiệm hơn: lúc gào thét dữ dội, lúc hát nhẹ nhàng, cấu trúc bài hát bất ngờ. Khác hardcore punk ở chỗ phức tạp và đa dạng hơn, không chỉ nhanh và gắt.",
+  "example_track": "Waiting Room",
+  "id": "G032",
+  "level": "trung_cap",
+  "mood": [
+   "căng thẳng",
+   "cảm xúc",
+   "bùng nổ"
+  ],
+  "name_en": "Post-Hardcore",
+  "name_vi": "Post-Hardcore",
+  "use_when": "Dùng cho video cần nhạc rock mạnh nhưng có chiều sâu cảm xúc — hợp montage, video kể chuyện, video thể thao."
+ },
+ {
+  "artist": "Thursday",
+  "big_category": "Rock",
+  "bpm": "150-180",
+  "description": "Emo phiên bản cực đoan: hát hét xé họng, guitar hỗn loạn, bài hát ngắn, cảm xúc dồn nén đến vỡ oà. Khác emo ở chỗ dữ dội và hỗn loạn hơn nhiều, gần như không có đoạn dịu dàng.",
+  "example_track": "Understanding in a Car Crash",
+  "id": "G033",
+  "level": "nang_cao",
+  "mood": [
+   "dữ dội",
+   "đau đớn",
+   "vỡ oà"
+  ],
+  "name_en": "Screamo",
+  "name_vi": "Screamo",
+  "use_when": "Dùng cho video cảm xúc cực đoan, phim ngắn căng thẳng, nội dung underground — chỉ hợp khi khán giả quen nhạc hét."
+ },
+ {
+  "artist": "My Bloody Valentine",
+  "big_category": "Rock",
+  "bpm": null,
+  "description": "Rock nhìn giày: guitar phủ đầy hiệu ứng vang vọng, âm thanh dày như bức tường, giọng hát chìm trong nhạc, nghe mơ màng và choáng ngợp. Tên gọi vì ban nhạc hay cúi nhìn bàn đạp hiệu ứng dưới chân. Khác dream pop ở chỗ ồn ào và dày đặc hơn nhiều.",
+  "example_track": "Only Shallow",
+  "id": "G034",
+  "level": "trung_cap",
+  "mood": [
+   "mơ màng",
+   "choáng ngợp",
+   "ảo giác"
+  ],
+  "name_en": "Shoegaze",
+  "name_vi": "Nhạc Shoegaze / Rock nhìn giày",
+  "use_when": "Dùng cho video nghệ thuật, thời trang, video đêm — nhạc tạo lớp âm thanh dày, mơ màng, rất điện ảnh."
+ },
+ {
+  "artist": "Queen",
+  "big_category": "Rock",
+  "bpm": null,
+  "description": "Rock kinh điển thập niên 60-80: riff bất hủ, solo guitar dài, giọng hát đầy nội lực, bài nào cũng nghe quen tai. Khác hard rock ở chỗ đây là tên gọi chung cho cả một thời kỳ vàng, không phải một phong cách riêng.",
+  "example_track": "Bohemian Rhapsody",
+  "id": "G035",
+  "level": "co_ban",
+  "mood": [
+   "hoành tráng",
+   "hoài cổ",
+   "bất hủ"
+  ],
+  "name_en": "Classic Rock",
+  "name_vi": "Classic Rock",
+  "use_when": "Dùng cho video hoài niệm, quảng cáo, montage cần nhạc ai cũng biết — classic rock tạo cảm giác quen thuộc và sang trọng."
+ },
+ {
+  "artist": "Fleetwood Mac",
+  "big_category": "Rock",
+  "bpm": "90-120",
+  "description": "Rock nhẹ nhàng: giai điệu êm ái, hát mượt mà, guitar sạch, nghe thư giãn như pop ballad nhưng vẫn giữ chất rock. Khác hard rock ở chỗ hoàn toàn ngược lại — dịu dàng, dễ nghe, hợp nghe lúc lái xe.",
+  "example_track": "Dreams",
+  "id": "G036",
+  "level": "co_ban",
+  "mood": [
+   "êm ái",
+   "thư giãn",
+   "lãng mạn"
+  ],
+  "name_en": "Soft Rock",
+  "name_vi": "Soft Rock",
+  "use_when": "Dùng cho video du lịch đường dài, vlog thư giãn, video gia đình — nhạc êm, dễ nghe, không làm người xem mệt."
+ },
+ {
+  "artist": "David Bowie",
+  "big_category": "Rock",
+  "bpm": "120-140",
+  "description": "Rock hào nhoáng: trang phục lấp lánh, trang điểm đậm, giai điệu bắt tai, hát kiêu kỳ và đầy kịch tính. Khác hard rock ở chỗ nặng trình diễn và hình ảnh, nghe vui và phô trương hơn.",
+  "example_track": "Ziggy Stardust",
+  "id": "G037",
+  "level": "co_ban",
+  "mood": [
+   "hào nhoáng",
+   "kiêu kỳ",
+   "sân khấu"
+  ],
+  "name_en": "Glam Rock",
+  "name_vi": "Glam Rock",
+  "use_when": "Dùng cho video thời trang, sân khấu, video về thập niên 70 — nhạc tạo cảm giác lấp lánh, phô trương và rất vui."
+ },
+ {
+  "artist": "Lynyrd Skynyrd",
+  "big_category": "Rock",
+  "bpm": "110-130",
+  "description": "Rock miền Nam nước Mỹ: guitar đôi, solo dài, pha blues và country, giọng hát phóng khoáng kiểu miền quê. Khác blues rock ở chỗ đậm chất miền Nam, nghe như đường cao tốc và nắng nóng.",
+  "example_track": "Sweet Home Alabama",
+  "id": "G038",
+  "level": "co_ban",
+  "mood": [
+   "phóng khoáng",
+   "nắng nóng",
+   "tự do"
+  ],
+  "name_en": "Southern Rock",
+  "name_vi": "Southern Rock",
+  "use_when": "Dùng cho video road trip, xe cộ, du lịch miền quê — nhạc tạo cảm giác đường dài, gió và tự do."
+ },
+ {
+  "artist": "Talking Heads",
+  "big_category": "Rock",
+  "bpm": null,
+  "description": "Rock nghệ thuật: thử nghiệm, phá cấu trúc bài hát, kết hợp nhạc cổ điển, điện tử, kịch nghệ, nghe như một tác phẩm nghệ thuật. Khác prog rock ở chỗ thiên về ý tưởng và hình ảnh hơn là kỹ thuật chơi nhạc.",
+  "example_track": "Once in a Lifetime",
+  "id": "G039",
+  "level": "nang_cao",
+  "mood": [
+   "kỳ lạ",
+   "thông minh",
+   "nghệ thuật"
+  ],
+  "name_en": "Art Rock",
+  "name_vi": "Art Rock",
+  "use_when": "Dùng cho video nghệ thuật, triển lãm, nội dung sáng tạo — nhạc lạ tai, kích thích suy nghĩ và gây ấn tượng."
+ },
+ {
+  "artist": "Can",
+  "big_category": "Rock",
+  "bpm": null,
+  "description": "Rock thử nghiệm của Đức thập niên 70: nhịp lặp đều đặn như máy, âm thanh điện tử, bài hát dài và thôi miên. Khác psychedelic rock ở chỗ lạnh và máy móc hơn, ít mơ màng, nhiều tính toán.",
+  "example_track": "Vitamin C",
+  "id": "G040",
+  "level": "nang_cao",
+  "mood": [
+   "thôi miên",
+   "lặp lại",
+   "thử nghiệm"
+  ],
+  "name_en": "Krautrock",
+  "name_vi": "Krautrock",
+  "use_when": "Dùng cho video nghệ thuật, tài liệu, video cần nhạc nền lặp lại gây thôi miên — hợp cảnh quay dài, chuyển động đều."
+ },
+ {
+  "artist": "Kyuss",
+  "big_category": "Rock",
+  "bpm": "90-120",
+  "description": "Rock nặng, chậm, mờ ảo: riff guitar dày và trầm, nhịp lững lờ, cảm giác như đang lơ lửng. Khác doom metal ở chỗ vui và phóng khoáng hơn, ít bi thương, nhiều chất psychedelic.",
+  "example_track": "Green Machine",
+  "id": "G041",
+  "level": "trung_cap",
+  "mood": [
+   "nặng nề",
+   "mơ màng",
+   "phóng khoáng"
+  ],
+  "name_en": "Stoner Rock",
+  "name_vi": "Stoner Rock",
+  "use_when": "Dùng cho video sa mạc, road trip, video thư giãn kiểu nặng đô — nhạc chậm, dày, tạo cảm giác trôi lững lờ."
+ },
+ {
+  "artist": "Isis",
+  "big_category": "Rock",
+  "bpm": null,
+  "description": "Metal không lời, xây dựng từ từ như post-rock nhưng nặng hơn nhiều: bắt đầu lặng lẽ rồi bùng nổ thành cơn bão guitar. Khác post-rock ở chỗ nặng, tối và dữ dội hơn khi lên cao trào.",
+  "example_track": "So Did We",
+  "id": "G042",
+  "level": "nang_cao",
+  "mood": [
+   "dâng trào",
+   "nặng nề",
+   "điện ảnh"
+  ],
+  "name_en": "Post-Metal",
+  "name_vi": "Post-Metal",
+  "use_when": "Dùng làm nhạc nền cho video tài liệu, timelapse, phim ngắn — không lời, cao trào mạnh, tạo cảm giác sử thi."
+ },
+ {
+  "artist": "Suicide Silence",
+  "big_category": "Rock",
+  "bpm": "140-170",
+  "description": "Death metal pha metalcore: breakdown nặng nề, giọng gầm trầm xen kẽ hét cao, nhịp đổi liên tục, cực kỳ dữ dội. Khác metalcore ở chỗ nặng và tàn bạo hơn, gần death metal hơn.",
+  "example_track": "You Only Live Once",
+  "id": "G043",
+  "level": "nang_cao",
+  "mood": [
+   "tàn bạo",
+   "dữ dội",
+   "nặng nề"
+  ],
+  "name_en": "Deathcore",
+  "name_vi": "Deathcore",
+  "use_when": "Dùng cho video game, montage tập luyện cực hạn, nội dung metal nặng — chỉ hợp khán giả đã quen nhạc cực đoan."
+ },
+ {
+  "artist": "Meshuggah",
+  "big_category": "Rock",
+  "bpm": null,
+  "description": "Metal kỹ thuật cao: guitar 7-8 dây chơi riff ngắn, khô, giật cục, âm thanh như tiếng máy, nhịp phức tạp. Tên gọi bắt chước tiếng guitar djent-djent. Khác prog metal ở chỗ khô, góc cạnh và máy móc hơn.",
+  "example_track": "Bleed",
+  "id": "G044",
+  "level": "nang_cao",
+  "mood": [
+   "máy móc",
+   "phức tạp",
+   "dữ dội"
+  ],
+  "name_en": "Djent",
+  "name_vi": "Djent",
+  "use_when": "Dùng cho video công nghệ, montage kỹ thuật, video cần nhạc nền lạ tai và đầy năng lượng máy móc."
+ },
+ {
+  "artist": "The Cure",
+  "big_category": "Rock",
+  "bpm": "120-140",
+  "description": "Rock gothic: bass trầm, guitar vang vọng, giọng hát u buồn, không khí tối tăm lãng mạn kiểu nhà thờ cổ. Khác post-punk ở chỗ lãng mạn và kịch tính hơn, đậm chất gothic.",
+  "example_track": "A Forest",
+  "id": "G045",
+  "level": "trung_cap",
+  "mood": [
+   "u buồn",
+   "lãng mạn",
+   "bí ẩn"
+  ],
+  "name_en": "Gothic Rock",
+  "name_vi": "Gothic Rock",
+  "use_when": "Dùng cho video thời trang đen, phim ngắn u ám, video Halloween — tạo cảm giác lãng mạn mà rợn người."
+ },
+ {
+  "artist": "Nine Inch Nails",
+  "big_category": "Rock",
+  "bpm": "110-130",
+  "description": "Rock pha nhạc công nghiệp: tiếng máy móc, tiếng kim loại, beat điện tử, guitar nặng, giọng hát lạnh lùng đầy giận dữ. Khác alternative metal ở chỗ nhiều âm thanh máy móc, nghe như nhà máy đang gầm rú.",
+  "example_track": "Head Like a Hole",
+  "id": "G046",
+  "level": "trung_cap",
+  "mood": [
+   "lạnh lùng",
+   "máy móc",
+   "giận dữ"
+  ],
+  "name_en": "Industrial Rock",
+  "name_vi": "Industrial Rock",
+  "use_when": "Dùng cho video công nghệ, cyberpunk, trailer phim hành động — nhạc tạo cảm giác tương lai đen tối và đầy áp lực."
+ },
+ {
+  "artist": "Tool",
+  "big_category": "Rock",
+  "bpm": null,
+  "description": "Metal pha alternative: riff nặng nhưng giai điệu lạ, cấu trúc bất ngờ, hát lúc thì thầm lúc gào thét. Khác nu metal ở chỗ ít rap và điện tử, nặng về thử nghiệm và chiều sâu hơn.",
+  "example_track": "Schism",
+  "id": "G047",
+  "level": "trung_cap",
+  "mood": [
+   "bí ẩn",
+   "nặng nề",
+   "phức tạp"
+  ],
+  "name_en": "Alternative Metal",
+  "name_vi": "Alternative Metal",
+  "use_when": "Dùng cho video tài liệu, video cần nhạc nền nặng nhưng trí tuệ — hợp cảnh quay lớn, nội dung sâu sắc."
+ },
+ {
+  "artist": "Red Hot Chili Peppers",
+  "big_category": "Rock",
+  "bpm": "110-130",
+  "description": "Rock pha funk: bass slap nhảy nhót, guitar riff vui, nhịp groove khiến người ta muốn nhún nhảy, hát phóng khoáng. Khác hard rock ở chỗ vui và groovy hơn, nặng về nhịp hơn là sức nặng.",
+  "example_track": "Give It Away",
+  "id": "G048",
+  "level": "co_ban",
+  "mood": [
+   "vui vẻ",
+   "groovy",
+   "phóng khoáng"
+  ],
+  "name_en": "Funk Rock",
+  "name_vi": "Funk Rock",
+  "use_when": "Dùng cho video vui vẻ, quảng cáo, montage đời sống — nhạc groovy tạo cảm giác tươi mới và đầy năng lượng."
+ },
+ {
+  "artist": "Dick Dale",
+  "big_category": "Rock",
+  "bpm": "140-160",
+  "description": "Rock lướt sóng: guitar vang vọng, reverb nhiều, giai điệu vui tươi như biển California thập niên 60, thường không lời. Khác garage rock ở chỗ sáng và vui hơn, nghe là thấy nắng và biển.",
+  "example_track": "Misirlou",
+  "id": "G049",
+  "level": "co_ban",
+  "mood": [
+   "vui tươi",
+   "nắng biển",
+   "hoài cổ"
+  ],
+  "name_en": "Surf Rock",
+  "name_vi": "Surf Rock",
+  "use_when": "Dùng cho video biển, mùa hè, du lịch, quảng cáo đồ uống — nhạc tạo cảm giác nắng vàng, sóng biển và tự do."
+ },
+ {
+  "artist": "Foo Fighters",
+  "big_category": "Rock",
+  "bpm": "130-150",
+  "description": "Grunge phiên bản sạch và dễ nghe hơn: vẫn guitar nặng, hát đầy cảm xúc nhưng giai điệu rõ ràng, hợp radio hơn. Khác grunge ở chỗ ít thô ráp và giận dữ, gần pop-rock hơn, là grunge sau khi đã được mài nhẵn.",
+  "example_track": "Everlong",
+  "id": "G050",
+  "level": "co_ban",
+  "mood": [
+   "mạnh mẽ",
+   "cảm xúc",
+   "bắt tai"
+  ],
+  "name_en": "Post-Grunge",
+  "name_vi": "Post-Grunge",
+  "use_when": "Dùng cho video truyền cảm hứng, montage thể thao, quảng cáo — nhạc mạnh nhưng dễ nghe, hợp khán giả rộng."
+ },
+ {
+  "artist": "Taylor Swift",
+  "big_category": "Pop",
+  "bpm": "160",
+  "description": "Nhạc pop là dòng nhạc đại chúng, giai điệu bắt tai, cấu trúc verse – chorus rõ ràng và dễ nhớ ngay từ lần nghe đầu. Khác với các dòng pop chuyên biệt, pop thuần không gắn với một âm thanh riêng mà thay đổi theo thị hiếu từng thời.",
+  "example_track": "Shake It Off",
+  "id": "G051",
+  "level": "co_ban",
+  "mood": [
+   "vui vẻ",
+   "năng động"
+  ],
+  "name_en": "Pop",
+  "name_vi": "Nhạc Pop",
+  "use_when": "Dùng cho video vlog, unboxing, recap vui vẻ hoặc bất cứ nội dung nào cần nhạc nền dễ nghe, không kén người xem."
+ },
+ {
+  "artist": "Depeche Mode",
+  "big_category": "Pop",
+  "bpm": "110-120",
+  "description": "Synth-pop dùng synthesizer làm âm thanh chủ đạo, tạo cảm giác điện tử, bóng bẩy và hơi hoài cổ thập niên 80. Khác với electropop hiện đại, synth-pop thường nhấn vào giai điệu synth du dương hơn là beat dồn dập.",
+  "example_track": "Enjoy the Silence",
+  "id": "G052",
+  "level": "co_ban",
+  "mood": [
+   "hoài cổ",
+   "lãng mạn"
+  ],
+  "name_en": "Synth-pop",
+  "name_vi": "Synth-pop",
+  "use_when": "Dùng cho video phong cách retro, thời trang, hoặc cảnh lái xe buổi tối cần cảm giác điện ảnh và mơ màng."
+ },
+ {
+  "artist": "Dua Lipa",
+  "big_category": "Pop",
+  "bpm": "100-120",
+  "description": "Dance-pop là pop viết để nhảy: beat bốn nhịp rõ ràng, tempo nhanh, chorus bùng nổ. Khác với nhạc dance thuần, dance-pop vẫn giữ cấu trúc bài hát pop với lời dễ hát theo.",
+  "example_track": "Levitating",
+  "id": "G053",
+  "level": "co_ban",
+  "mood": [
+   "sôi động",
+   "quyến rũ"
+  ],
+  "name_en": "Dance-pop",
+  "name_vi": "Dance-pop",
+  "use_when": "Dùng cho video nhảy, tập gym, lookbook, hoặc highlight du lịch cần năng lượng cao và nhịp rõ để cắt theo beat."
+ },
+ {
+  "artist": "Lady Gaga",
+  "big_category": "Pop",
+  "bpm": "119",
+  "description": "Electropop kết hợp giai điệu pop với âm thanh điện tử, synth dày và hiệu ứng xử lý giọng. Khác với synth-pop thiên về hoài cổ, electropop nghe hiện đại, sắc và thiên về trình diễn hơn.",
+  "example_track": "Just Dance",
+  "id": "G054",
+  "level": "co_ban",
+  "mood": [
+   "tiệc tùng",
+   "nổi loạn"
+  ],
+  "name_en": "Electropop",
+  "name_vi": "Electropop",
+  "use_when": "Dùng cho video tiệc, sự kiện, make-up transformation hoặc nội dung cần cảm giác sân khấu, hào nhoáng."
+ },
+ {
+  "artist": "Britney Spears",
+  "big_category": "Pop",
+  "bpm": "93",
+  "description": "Teen pop là pop hướng tới khán giả tuổi teen: giai điệu đơn giản, lời về tình yêu tuổi học trò, hình ảnh thần tượng trẻ trung. Khác với pop người lớn, teen pop thường trong sáng, dễ thương và rất bắt trend.",
+  "example_track": "...Baby One More Time",
+  "id": "G055",
+  "level": "co_ban",
+  "mood": [
+   "trẻ trung",
+   "vui tươi"
+  ],
+  "name_en": "Teen Pop",
+  "name_vi": "Teen Pop",
+  "use_when": "Dùng cho video học đường, thử thách TikTok, nội dung cho Gen Z hoặc video cần cảm giác hồn nhiên, tươi mới."
+ },
+ {
+  "artist": "Aqua",
+  "big_category": "Pop",
+  "bpm": "130",
+  "description": "Bubblegum pop là pop siêu ngọt: giai điệu đơn giản đến mức gây nghiện, lời lặp lại, âm thanh vui nhộn như kẹo. Khác với teen pop, bubblegum pop còn ngây thơ và hài hước hơn, đôi khi cố tình làm quá.",
+  "example_track": "Barbie Girl",
+  "id": "G056",
+  "level": "co_ban",
+  "mood": [
+   "ngọt ngào",
+   "hài hước"
+  ],
+  "name_en": "Bubblegum Pop",
+  "name_vi": "Bubblegum Pop",
+  "use_when": "Dùng cho video hài, nội dung kawaii, unboxing đồ chơi hoặc video cần nhạc nền vui nhộn, gây cười ngay lập tức."
+ },
+ {
+  "artist": "Beyoncé",
+  "big_category": "R&B/Soul",
+  "bpm": "99",
+  "description": "R&B (Rhythm and Blues) là dòng nhạc gốc Phi-Mỹ với groove mạnh, giọng hát giàu cảm xúc và nhịp blues. Khác với soul thiên về hát, R&B nhấn mạnh nhịp điệu và sự mượt mà của toàn bộ bản phối.",
+  "example_track": "Crazy in Love",
+  "id": "G057",
+  "level": "co_ban",
+  "mood": [
+   "quyến rũ",
+   "tự tin"
+  ],
+  "name_en": "R&B",
+  "name_vi": "R&B",
+  "use_when": "Dùng cho video thời trang, beauty, hoặc nội dung cần cảm giác sang trọng, gợi cảm và đầy tự tin."
+ },
+ {
+  "artist": "SZA",
+  "big_category": "R&B/Soul",
+  "bpm": "88",
+  "description": "Contemporary R&B là R&B hiện đại, pha thêm pop, hip hop và điện tử, với beat mượt và giọng hát xử lý tinh tế. Khác với R&B cổ điển, dòng này nghe mềm mại, thời thượng và gần với thị trường mainstream hơn.",
+  "example_track": "Kill Bill",
+  "id": "G058",
+  "level": "trung_cap",
+  "mood": [
+   "mơ màng",
+   "cảm xúc"
+  ],
+  "name_en": "Contemporary R&B",
+  "name_vi": "R&B Đương đại",
+  "use_when": "Dùng cho video tâm sự, vlog đêm, lookbook tối giản hoặc nội dung cần nhạc nền hiện đại, chill nhưng vẫn có chiều sâu."
+ },
+ {
+  "artist": "Erykah Badu",
+  "big_category": "R&B/Soul",
+  "bpm": "85-95",
+  "description": "Neo-soul là soul thời mới: giữ lại giọng hát soul ấm và sâu, nhưng phối với jazz, hip hop và âm thanh hiện đại. Khác với R&B đương đại thiên về beat, neo-soul thiên về cảm xúc và sự tinh tế trong cách hát.",
+  "example_track": "On & On",
+  "id": "G059",
+  "level": "trung_cap",
+  "mood": [
+   "thư giãn",
+   "sâu lắng"
+  ],
+  "name_en": "Neo-Soul",
+  "name_vi": "Neo-Soul",
+  "use_when": "Dùng cho video slow living, cà phê, đọc sách hoặc nội dung cần không khí ấm áp, trưởng thành và rất riêng."
+ },
+ {
+  "artist": "Aretha Franklin",
+  "big_category": "R&B/Soul",
+  "bpm": "110-120",
+  "description": "Soul là nhạc của cảm xúc: giọng hát mạnh, đầy nội lực, thường có dàn kèn và nhịp gospel. Khác với R&B, soul đặt giọng hát và cảm xúc lên trên hết, nghe như người hát đang kể câu chuyện của mình.",
+  "example_track": "Respect",
+  "id": "G060",
+  "level": "co_ban",
+  "mood": [
+   "mạnh mẽ",
+   "truyền cảm"
+  ],
+  "name_en": "Soul",
+  "name_vi": "Nhạc Soul",
+  "use_when": "Dùng cho video truyền cảm hứng, câu chuyện vượt khó, hoặc cảnh cần một giọng hát đầy sức mạnh để đẩy cảm xúc lên cao."
+ },
+ {
+  "artist": "James Brown",
+  "big_category": "Funk/Disco",
+  "bpm": "100-120",
+  "description": "Funk là nhạc của groove: bass line dồn dập, guitar chặt nhịp, kèn đồng bùng nổ và nhịp trống nhấn vào phách lẻ. Khác với disco thiên về sàn nhảy, funk nghe ngầu, gai góc và rất đậm chất trình diễn.",
+  "example_track": "Get Up Offa That Thing",
+  "id": "G061",
+  "level": "co_ban",
+  "mood": [
+   "sôi động",
+   "phong cách"
+  ],
+  "name_en": "Funk",
+  "name_vi": "Nhạc Funk",
+  "use_when": "Dùng cho video nhảy, street style, quảng cáo cần năng lượng ngầu và groove mạnh để người xem nhún nhảy theo."
+ },
+ {
+  "artist": "Bee Gees",
+  "big_category": "Funk/Disco",
+  "bpm": "104",
+  "description": "Disco là nhạc sàn nhảy thập niên 70: beat bốn nhịp đều đặn, bass funk, dây nhạc lộng lẫy và chorus dễ hát theo. Khác với funk thiên về groove thô, disco bóng bẩy, hào nhoáng và sinh ra để cả sàn cùng nhảy.",
+  "example_track": "Stayin' Alive",
+  "id": "G062",
+  "level": "co_ban",
+  "mood": [
+   "tiệc tùng",
+   "hoài cổ"
+  ],
+  "name_en": "Disco",
+  "name_vi": "Nhạc Disco",
+  "use_when": "Dùng cho video tiệc, retro party, thời trang thập niên 70 hoặc nội dung cần không khí vui vẻ, rực rỡ và ai cũng muốn nhún nhảy."
+ },
+ {
+  "artist": "Daft Punk",
+  "big_category": "Funk/Disco",
+  "bpm": "116",
+  "description": "Nu-disco là disco làm lại theo kiểu hiện đại: giữ groove và bass của disco cũ nhưng phối bằng synth và kỹ thuật house ngày nay. Khác với disco gốc, nu-disco nghe sạch, mượt và hợp với playlist chill lẫn sàn nhảy.",
+  "example_track": "Get Lucky",
+  "id": "G063",
+  "level": "trung_cap",
+  "mood": [
+   "thư giãn",
+   "sang chảnh"
+  ],
+  "name_en": "Nu-Disco",
+  "name_vi": "Nu-Disco",
+  "use_when": "Dùng cho video du lịch biển, rooftop, thời trang mùa hè hoặc nội dung cần cảm giác vừa chill vừa sang."
+ },
+ {
+  "artist": "Mariya Takeuchi",
+  "big_category": "World Pop",
+  "bpm": "110-120",
+  "description": "City pop là pop Nhật thập niên 80 về đời sống thành thị: giai điệu mượt, bass funk, synth bóng bẩy và cảm giác mùa hè, xe hơi, biển. Khác với J-pop hiện đại, city pop nghe hoài cổ, mơ màng và rất điện ảnh.",
+  "example_track": "Plastic Love",
+  "id": "G064",
+  "level": "trung_cap",
+  "mood": [
+   "hoài cổ",
+   "mơ màng"
+  ],
+  "name_en": "City Pop",
+  "name_vi": "City Pop",
+  "use_when": "Dùng cho video lái xe đêm, city walk, aesthetic retro Nhật hoặc nội dung cần cảm giác lãng mạn, hoài niệm về thập niên 80."
+ },
+ {
+  "artist": "Hikaru Utada",
+  "big_category": "World Pop",
+  "bpm": "85-95",
+  "description": "J-pop là nhạc pop Nhật Bản: giai điệu trong sáng, dễ nhớ, thường gắn với anime, idol và văn hóa đại chúng Nhật. Khác với city pop thiên về hoài cổ, J-pop hiện đại đa dạng hơn, từ ballad nhẹ nhàng tới dance sôi động.",
+  "example_track": "First Love",
+  "id": "G065",
+  "level": "co_ban",
+  "mood": [
+   "trong trẻo",
+   "lãng mạn"
+  ],
+  "name_en": "J-Pop",
+  "name_vi": "J-pop",
+  "use_when": "Dùng cho video về Nhật Bản, anime, du lịch Tokyo hoặc nội dung cần nhạc nền ngọt ngào, trong trẻo đậm chất Nhật."
+ },
+ {
+  "artist": "BTS",
+  "big_category": "World Pop",
+  "bpm": "114",
+  "description": "K-pop là pop Hàn Quốc với vũ đạo đồng đều, hình ảnh chỉn chu và âm thanh pha trộn pop, hip hop, R&B và EDM. Khác với J-pop thiên về giai điệu, K-pop nhấn mạnh trình diễn tổng thể và độ bắt tai của hook.",
+  "example_track": "Dynamite",
+  "id": "G066",
+  "level": "co_ban",
+  "mood": [
+   "sôi động",
+   "tươi sáng"
+  ],
+  "name_en": "K-Pop",
+  "name_vi": "K-pop",
+  "use_when": "Dùng cho video dance cover, thử thách, unboxing album hoặc nội dung cần năng lượng tươi sáng, bắt trend và đậm chất Hàn."
+ },
+ {
+  "artist": "Shakira",
+  "big_category": "Latin",
+  "bpm": "100",
+  "description": "Latin pop là pop pha nhịp Latin: giai điệu bắt tai kiểu pop nhưng có percussion, guitar và cảm giác nóng bỏng của nhạc Mỹ Latin. Khác với reggaeton thiên về beat dembow, latin pop mềm mại và đại chúng hơn.",
+  "example_track": "Hips Don't Lie",
+  "id": "G067",
+  "level": "co_ban",
+  "mood": [
+   "nóng bỏng",
+   "vui vẻ"
+  ],
+  "name_en": "Latin Pop",
+  "name_vi": "Latin Pop",
+  "use_when": "Dùng cho video du lịch biển, tiệc mùa hè, nhảy Latin hoặc nội dung cần cảm giác rực rỡ, gợi cảm và đầy nắng."
+ },
+ {
+  "artist": "Daddy Yankee",
+  "big_category": "Latin",
+  "bpm": "95-100",
+  "description": "Reggaeton là nhạc Latin với beat dembow đặc trưng: nhịp trống dồn dập, bass nặng, giọng hát pha rap và hát. Khác với latin pop, reggaeton nghe mạnh, gợi cảm và rất hợp sàn nhảy lẫn đường phố.",
+  "example_track": "Gasolina",
+  "id": "G068",
+  "level": "co_ban",
+  "mood": [
+   "sôi động",
+   "gợi cảm"
+  ],
+  "name_en": "Reggaeton",
+  "name_vi": "Reggaeton",
+  "use_when": "Dùng cho video nhảy, tiệc, tập gym hoặc nội dung cần beat mạnh, nhịp rõ để tạo cảm giác bùng nổ."
+ },
+ {
+  "artist": "Romeo Santos",
+  "big_category": "Latin",
+  "bpm": "120-130",
+  "description": "Bachata là nhạc khiêu vũ lãng mạn từ Cộng hòa Dominica: guitar lead da diết, nhịp chậm rãi và lời về tình yêu. Khác với salsa sôi động, bachata gần gũi, tình cảm và thường là nhạc cho cặp đôi.",
+  "example_track": "Propuesta Indecente",
+  "id": "G069",
+  "level": "trung_cap",
+  "mood": [
+   "lãng mạn",
+   "gợi cảm"
+  ],
+  "name_en": "Bachata",
+  "name_vi": "Bachata",
+  "use_when": "Dùng cho video cặp đôi, khiêu vũ, đám cưới hoặc cảnh lãng mạn cần nhạc nền tình cảm, quyến rũ mà không quá ồn ào."
+ },
+ {
+  "artist": "Celia Cruz",
+  "big_category": "Latin",
+  "bpm": "180-200",
+  "description": "Salsa là nhạc khiêu vũ Latin sôi động với kèn đồng, piano montuno và percussion dồn dập. Khác với bachata chậm rãi, salsa nhanh, rộn ràng và sinh ra để nhảy theo cặp trên sàn.",
+  "example_track": "La Vida Es Un Carnaval",
+  "id": "G070",
+  "level": "trung_cap",
+  "mood": [
+   "vui vẻ",
+   "rộn ràng"
+  ],
+  "name_en": "Salsa",
+  "name_vi": "Salsa",
+  "use_when": "Dùng cho video lễ hội, khiêu vũ, du lịch Cuba hoặc nội dung cần không khí tưng bừng, đầy màu sắc Latin."
+ },
+ {
+  "artist": "Antônio Carlos Jobim",
+  "big_category": "Latin",
+  "bpm": "120-130",
+  "description": "Bossa nova là nhạc Brazil nhẹ nhàng: guitar nylon gảy nhịp tinh tế, giọng hát thì thầm và giai điệu jazz mượt. Khác với samba rộn ràng, bossa nova thư giãn, tinh tế và rất hợp không gian yên tĩnh.",
+  "example_track": "The Girl from Ipanema",
+  "id": "G071",
+  "level": "trung_cap",
+  "mood": [
+   "thư giãn",
+   "lãng mạn"
+  ],
+  "name_en": "Bossa Nova",
+  "name_vi": "Bossa Nova",
+  "use_when": "Dùng cho video cà phê, bãi biển, du lịch Brazil hoặc nội dung cần nhạc nền nhẹ nhàng, sang trọng và đầy chất thơ."
+ },
+ {
+  "artist": "Sérgio Mendes",
+  "big_category": "Latin",
+  "bpm": "120-140",
+  "description": "Samba là nhạc lễ hội của Brazil: nhịp percussion dồn dập, giai điệu vui tươi và cảm giác carnival rộn ràng. Khác với bossa nova thư giãn, samba nhanh, ồn ào và khiến ai nghe cũng muốn nhún nhảy.",
+  "example_track": "Mas Que Nada",
+  "id": "G072",
+  "level": "trung_cap",
+  "mood": [
+   "vui tươi",
+   "lễ hội"
+  ],
+  "name_en": "Samba",
+  "name_vi": "Samba",
+  "use_when": "Dùng cho video lễ hội, du lịch Brazil, thể thao hoặc nội dung cần năng lượng vui vẻ, rực rỡ kiểu carnival."
+ },
+ {
+  "artist": "Elis Regina",
+  "big_category": "Latin",
+  "bpm": "100-120",
+  "description": "MPB (Música Popular Brasileira) là nhạc đại chúng Brazil, pha samba, bossa nova, jazz và folk với lời ca giàu chất thơ. Khác với samba hay bossa nova thuần túy, MPB đa dạng và mang đậm bản sắc văn hóa Brazil.",
+  "example_track": "Águas de Março",
+  "id": "G073",
+  "level": "nang_cao",
+  "mood": [
+   "sâu lắng",
+   "thơ mộng"
+  ],
+  "name_en": "MPB",
+  "name_vi": "MPB (Nhạc Đại chúng Brazil)",
+  "use_when": "Dùng cho video du lịch Brazil, phim tài liệu văn hóa hoặc nội dung cần nhạc nền giàu cảm xúc và đậm chất Brazil."
+ },
+ {
+  "artist": "Fela Kuti",
+  "big_category": "World Pop",
+  "bpm": "110-130",
+  "description": "Afrobeat là nhạc Tây Phi do Fela Kuti khai sinh: kết hợp jazz, funk và nhịp truyền thống Yoruba thành những bản nhạc dài, giàu kèn đồng và thông điệp xã hội. Khác với Afrobeats hiện đại, Afrobeat cổ điển mang tính chính trị và trình diễn ban nhạc sống.",
+  "example_track": "Zombie",
+  "id": "G074",
+  "level": "nang_cao",
+  "mood": [
+   "mạnh mẽ",
+   "nổi loạn"
+  ],
+  "name_en": "Afrobeat",
+  "name_vi": "Afrobeat",
+  "use_when": "Dùng cho video tài liệu, văn hóa châu Phi hoặc nội dung cần groove mạnh, đậm chất ban nhạc và có chiều sâu lịch sử."
+ },
+ {
+  "artist": "Burna Boy",
+  "big_category": "World Pop",
+  "bpm": "100-110",
+  "description": "Afrobeats (có s) là pop châu Phi hiện đại: beat điện tử nhẹ nhàng, giai điệu bắt tai và giọng hát mượt, pha dancehall và R&B. Khác với Afrobeat cổ điển dài và nặng tính chính trị, Afrobeats trẻ trung, dễ nghe và rất hợp tiệc.",
+  "example_track": "Last Last",
+  "id": "G075",
+  "level": "co_ban",
+  "mood": [
+   "vui vẻ",
+   "thư giãn"
+  ],
+  "name_en": "Afrobeats",
+  "name_vi": "Afrobeats",
+  "use_when": "Dùng cho video du lịch, tiệc mùa hè, nhảy hoặc nội dung cần nhạc nền hiện đại, vui vẻ đậm chất châu Phi."
+ },
+ {
+  "artist": "Sean Paul",
+  "big_category": "World Pop",
+  "bpm": "90-100",
+  "description": "Dancehall là nhạc Jamaica với beat điện tử dồn dập, bass nặng và giọng hát pha rap, toasting đầy năng lượng. Khác với reggae chậm rãi, dancehall nhanh, ngầu và sinh ra cho sàn nhảy đường phố.",
+  "example_track": "Get Busy",
+  "id": "G076",
+  "level": "trung_cap",
+  "mood": [
+   "sôi động",
+   "phong cách"
+  ],
+  "name_en": "Dancehall",
+  "name_vi": "Dancehall",
+  "use_when": "Dùng cho video nhảy, tập gym, street style hoặc nội dung cần beat mạnh, cá tính và đậm chất đường phố Jamaica."
+ },
+ {
+  "artist": "Bob Marley",
+  "big_category": "World Pop",
+  "bpm": "70-80",
+  "description": "Reggae là nhạc Jamaica với nhịp offbeat đặc trưng: guitar và keyboard nhấn vào phách lẻ, bass trầm và thông điệp về hòa bình, tình yêu. Khác với dancehall nhanh và gắt, reggae chậm rãi, thư giãn và đầy chất triết lý.",
+  "example_track": "No Woman, No Cry",
+  "id": "G077",
+  "level": "co_ban",
+  "mood": [
+   "thư giãn",
+   "bình yên"
+  ],
+  "name_en": "Reggae",
+  "name_vi": "Reggae",
+  "use_when": "Dùng cho video biển, du lịch đảo, slow living hoặc nội dung cần cảm giác bình yên, tự do và rất chill."
+ },
+ {
+  "artist": "King Tubby",
+  "big_category": "World Pop",
+  "bpm": "70-80",
+  "description": "Dub là reggae được remix trong phòng thu: loại bỏ phần lớn giọng hát, nhấn mạnh bass, echo và reverb tạo không gian mênh mông. Khác với reggae có lời rõ ràng, dub thiên về âm thanh và cảm giác, như một bản nhạc không gian.",
+  "example_track": "King Tubby Meets Rockers Uptown",
+  "id": "G078",
+  "level": "nang_cao",
+  "mood": [
+   "mơ màng",
+   "thư giãn"
+  ],
+  "name_en": "Dub",
+  "name_vi": "Dub",
+  "use_when": "Dùng cho video nghệ thuật, time-lapse, hoặc cảnh chuyển đổi cần nhạc nền không lời, sâu và tạo không gian."
+ },
+ {
+  "artist": "The Specials",
+  "big_category": "World Pop",
+  "bpm": "130-150",
+  "description": "Ska là nhạc Jamaica tiền thân của reggae: nhịp nhanh, guitar nhấn offbeat và kèn đồng vui nhộn. Khác với reggae chậm rãi, ska nhanh, tưng bừng và nghe như một bữa tiệc đường phố.",
+  "example_track": "A Message to You, Rudy",
+  "id": "G079",
+  "level": "trung_cap",
+  "mood": [
+   "vui tươi",
+   "tinh nghịch"
+  ],
+  "name_en": "Ska",
+  "name_vi": "Ska",
+  "use_when": "Dùng cho video vui nhộn, lễ hội đường phố, hoặc nội dung cần nhạc nền nhanh, tươi và đầy năng lượng retro."
+ },
+ {
+  "artist": "The Supremes",
+  "big_category": "R&B/Soul",
+  "bpm": "120-130",
+  "description": "Motown là âm thanh của hãng đĩa Motown thập niên 60: soul pha pop, giai điệu bắt tai, dàn nhạc dây và nhịp tambourine đặc trưng. Khác với soul thô mộc, Motown bóng bẩy, dễ nghe và sinh ra để lên bảng xếp hạng.",
+  "example_track": "Baby Love",
+  "id": "G080",
+  "level": "trung_cap",
+  "mood": [
+   "vui vẻ",
+   "hoài cổ"
+  ],
+  "name_en": "Motown",
+  "name_vi": "Motown",
+  "use_when": "Dùng cho video retro thập niên 60, thời trang vintage hoặc nội dung cần cảm giác vui tươi, cổ điển và rất dễ nghe."
+ },
+ {
+  "artist": "The Platters",
+  "big_category": "R&B/Soul",
+  "bpm": "80-90",
+  "description": "Doo-wop là nhạc hát nhóm thập niên 50: giọng lead da diết trên nền bè hát những âm vô nghĩa như doo-wop, shoo-bop. Khác với Motown có dàn nhạc lớn, doo-wop mộc mạc, gần gũi và đậm chất đường phố.",
+  "example_track": "Only You (And You Alone)",
+  "id": "G081",
+  "level": "nang_cao",
+  "mood": [
+   "lãng mạn",
+   "hoài cổ"
+  ],
+  "name_en": "Doo-Wop",
+  "name_vi": "Doo-Wop",
+  "use_when": "Dùng cho video tình yêu retro, đám cưới vintage hoặc cảnh cần nhạc nền ngọt ngào, hoài niệm về thập niên 50."
+ },
+ {
+  "artist": "The Left Banke",
+  "big_category": "Pop",
+  "bpm": "90-100",
+  "description": "Baroque pop là pop pha nhạc cổ điển: dùng dàn dây, harpsichord và hòa âm phức tạp để tạo cảm giác sang trọng, cổ kính. Khác với pop thường, baroque pop nghe như một bản nhạc thính phòng nhưng vẫn có giai điệu pop dễ nhớ.",
+  "example_track": "Walk Away Renée",
+  "id": "G082",
+  "level": "nang_cao",
+  "mood": [
+   "lãng mạn",
+   "cổ điển"
+  ],
+  "name_en": "Baroque Pop",
+  "name_vi": "Baroque Pop",
+  "use_when": "Dùng cho video nghệ thuật, thời trang cổ điển, hoặc nội dung cần nhạc nền tinh tế, sang trọng và có chiều sâu."
+ },
+ {
+  "artist": "Sufjan Stevens",
+  "big_category": "Pop",
+  "bpm": "110-120",
+  "description": "Chamber pop là pop dùng nhạc cụ cổ điển như dây, kèn gỗ và piano theo kiểu thính phòng, với cách viết tinh tế và giàu chi tiết. Khác với baroque pop thiên về hoài cổ, chamber pop hiện đại hơn và thường gắn với indie.",
+  "example_track": "Chicago",
+  "id": "G083",
+  "level": "nang_cao",
+  "mood": [
+   "trong trẻo",
+   "chiêm nghiệm"
+  ],
+  "name_en": "Chamber Pop",
+  "name_vi": "Chamber Pop",
+  "use_when": "Dùng cho video du lịch, phim ngắn, hoặc nội dung cần nhạc nền giàu cảm xúc, tinh tế và không quá ồn ào."
+ },
+ {
+  "artist": "Björk",
+  "big_category": "Pop",
+  "bpm": "90-100",
+  "description": "Art pop là pop mang tính nghệ thuật và thử nghiệm: cấu trúc lạ, âm thanh độc đáo và hình ảnh trình diễn phá cách. Khác với pop mainstream, art pop đặt sáng tạo lên trên sự dễ nghe, nghe càng nhiều càng thấy hay.",
+  "example_track": "Hyperballad",
+  "id": "G084",
+  "level": "nang_cao",
+  "mood": [
+   "độc đáo",
+   "mơ màng"
+  ],
+  "name_en": "Art Pop",
+  "name_vi": "Art Pop",
+  "use_when": "Dùng cho video nghệ thuật, thời trang avant-garde hoặc nội dung cần nhạc nền khác biệt, gây ấn tượng mạnh về thẩm mỹ."
+ },
+ {
+  "artist": "Charli xcx",
+  "big_category": "Pop",
+  "bpm": "140-150",
+  "description": "Hyperpop là pop bị đẩy tới cực hạn: beat dồn dập, giọng hát xử lý pitch cao, âm thanh chói và hỗn loạn một cách cố ý. Khác với electropop mượt mà, hyperpop nghe như pop của tương lai, ồn ào và đầy năng lượng internet.",
+  "example_track": "Boom Clap",
+  "id": "G085",
+  "level": "trung_cap",
+  "mood": [
+   "nổi loạn",
+   "sôi động"
+  ],
+  "name_en": "Hyperpop",
+  "name_vi": "Hyperpop",
+  "use_when": "Dùng cho video Gen Z, gaming, edit nhanh hoặc nội dung cần cảm giác hỗn loạn, bắt trend và cực kỳ cá tính."
+ },
+ {
+  "artist": "SOPHIE",
+  "big_category": "Pop",
+  "bpm": "120-130",
+  "description": "PC Music là phong cách pop điện tử của hãng đĩa cùng tên: âm thanh nhựa, trong veo, giọng hát pitch cao và thẩm mỹ internet đậm chất châm biếm. Khác với hyperpop rộng hơn, PC Music có chất riêng rất nhận diện: vừa ngọt vừa lạ.",
+  "example_track": "Bipp",
+  "id": "G086",
+  "level": "nang_cao",
+  "mood": [
+   "độc đáo",
+   "tươi sáng"
+  ],
+  "name_en": "PC Music",
+  "name_vi": "PC Music",
+  "use_when": "Dùng cho video thời trang tương lai, edit thẩm mỹ Y2K hoặc nội dung cần nhạc nền lạ, bắt tai và đậm chất internet."
+ },
+ {
+  "artist": "beabadoobee",
+  "big_category": "Pop",
+  "bpm": "80-90",
+  "description": "Bedroom pop là pop tự thu trong phòng ngủ: âm thanh lo-fi, mộc mạc, lời viết chân thật như nhật ký. Khác với indie pop có ban nhạc, bedroom pop thường chỉ có một người, một cây đàn và cảm giác rất riêng tư.",
+  "example_track": "Coffee",
+  "id": "G087",
+  "level": "trung_cap",
+  "mood": [
+   "dịu dàng",
+   "riêng tư"
+  ],
+  "name_en": "Bedroom Pop",
+  "name_vi": "Bedroom Pop",
+  "use_when": "Dùng cho video vlog cá nhân, nhật ký, study with me hoặc nội dung cần nhạc nền nhẹ nhàng, gần gũi như đang nghe bạn thân hát."
+ },
+ {
+  "artist": "Lana Del Rey",
+  "big_category": "Pop",
+  "bpm": "90-100",
+  "description": "Chill pop là pop nhẹ nhàng, thư giãn: tempo chậm, giai điệu mượt và không khí mơ màng. Khác với bedroom pop thiên về lo-fi, chill pop được sản xuất chỉn chu hơn và hợp làm nhạc nền cho nhiều tình huống.",
+  "example_track": "Summertime Sadness",
+  "id": "G088",
+  "level": "co_ban",
+  "mood": [
+   "thư giãn",
+   "mơ màng"
+  ],
+  "name_en": "Chill Pop",
+  "name_vi": "Chill Pop",
+  "use_when": "Dùng cho video hoàng hôn, du lịch chậm, vlog cuối tuần hoặc nội dung cần nhạc nền chill, lãng mạn mà không gây xao nhãng."
+ },
+ {
+  "artist": "Sade",
+  "big_category": "Pop",
+  "bpm": "90-100",
+  "description": "Sophisti-pop là pop tinh tế thập niên 80: pha jazz và soul, dùng synth mượt, kèn sax và giọng hát trưởng thành. Khác với synth-pop thiên về điện tử, sophisti-pop nghe sang trọng, lịch lãm và rất hợp không gian thành thị.",
+  "example_track": "Smooth Operator",
+  "id": "G089",
+  "level": "nang_cao",
+  "mood": [
+   "sang trọng",
+   "thư giãn"
+  ],
+  "name_en": "Sophisti-Pop",
+  "name_vi": "Sophisti-Pop",
+  "use_when": "Dùng cho video thời trang cao cấp, cocktail bar, hoặc nội dung cần cảm giác sang chảnh, tinh tế và trưởng thành."
+ },
+ {
+  "artist": "Luther Vandross",
+  "big_category": "R&B/Soul",
+  "bpm": "90-100",
+  "description": "Quiet storm là R&B chậm rãi, lãng mạn dành cho đêm khuya: giọng hát mượt, nhạc cụ nhẹ nhàng và không khí ấm áp. Khác với R&B đương đại thiên về beat, quiet storm thiên về sự dịu dàng và cảm xúc riêng tư.",
+  "example_track": "Never Too Much",
+  "id": "G090",
+  "level": "nang_cao",
+  "mood": [
+   "lãng mạn",
+   "dịu dàng"
+  ],
+  "name_en": "Quiet Storm",
+  "name_vi": "Quiet Storm",
+  "use_when": "Dùng cho video hẹn hò, cảnh đêm, hoặc nội dung cần nhạc nền lãng mạn, ấm áp và rất mượt mà."
+ },
+ {
+  "artist": "Bobby Brown",
+  "big_category": "R&B/Soul",
+  "bpm": "110-120",
+  "description": "New jack swing là R&B cuối thập niên 80 pha hip hop: beat swing dồn dập, synth mạnh và giọng hát R&B trên nền nhịp rap. Khác với quiet storm chậm rãi, new jack swing nhanh, ngầu và rất hợp nhảy.",
+  "example_track": "My Prerogative",
+  "id": "G091",
+  "level": "trung_cap",
+  "mood": [
+   "sôi động",
+   "tự tin"
+  ],
+  "name_en": "New Jack Swing",
+  "name_vi": "New Jack Swing",
+  "use_when": "Dùng cho video nhảy retro, thời trang thập niên 90 hoặc nội dung cần năng lượng mạnh, cá tính và đậm chất R&B cổ điển."
+ },
+ {
+  "artist": "Adele",
+  "big_category": "R&B/Soul",
+  "bpm": "104",
+  "description": "Blue-eyed soul là soul và R&B do nghệ sĩ da trắng thể hiện, giữ lại giọng hát đầy cảm xúc và groove của soul gốc. Khác với soul truyền thống, blue-eyed soul thường pha thêm pop và rock, nghe gần gũi với khán giả đại chúng hơn.",
+  "example_track": "Rolling in the Deep",
+  "id": "G092",
+  "level": "trung_cap",
+  "mood": [
+   "mạnh mẽ",
+   "cảm xúc"
+  ],
+  "name_en": "Blue-Eyed Soul",
+  "name_vi": "Blue-Eyed Soul",
+  "use_when": "Dùng cho video cảm xúc, câu chuyện chia tay, hoặc cảnh cần giọng hát mạnh để đẩy cảm xúc lên cao trào."
+ },
+ {
+  "artist": "Parliament",
+  "big_category": "Funk/Disco",
+  "bpm": "110-120",
+  "description": "P-Funk là funk vũ trụ của Parliament-Funkadelic: bass nặng, synth kỳ ảo, kèn đồng và hình ảnh khoa học viễn tưởng. Khác với funk cổ điển, P-Funk phóng đại, hài hước và mang tính trình diễn cao hơn nhiều.",
+  "example_track": "Give Up the Funk (Tear the Roof off the Sucker)",
+  "id": "G093",
+  "level": "nang_cao",
+  "mood": [
+   "sôi động",
+   "phá cách"
+  ],
+  "name_en": "P-Funk",
+  "name_vi": "P-Funk",
+  "use_when": "Dùng cho video tiệc, thời trang phá cách hoặc nội dung cần groove funk mạnh và cảm giác vui nhộn, khác biệt."
+ },
+ {
+  "artist": "Earth, Wind & Fire",
+  "big_category": "Funk/Disco",
+  "bpm": "120-130",
+  "description": "Boogie là disco sau thời kỳ hoàng kim: giữ beat nhảy và bass funk nhưng phối bằng synth hiện đại hơn, nghe mượt và thành thị. Khác với disco thập niên 70, boogie gọn gàng, bóng bẩy và gần với R&B thập niên 80.",
+  "example_track": "Let's Groove",
+  "id": "G094",
+  "level": "trung_cap",
+  "mood": [
+   "vui vẻ",
+   "sôi động"
+  ],
+  "name_en": "Boogie",
+  "name_vi": "Boogie",
+  "use_when": "Dùng cho video tiệc, roller disco, thời trang retro hoặc nội dung cần nhạc nền vui vẻ, nhảy được mà vẫn sang."
+ },
+ {
+  "artist": "Gazebo",
+  "big_category": "Funk/Disco",
+  "bpm": "110-120",
+  "description": "Italo disco là disco điện tử từ Ý thập niên 80: synth sáng, beat đều và giai điệu bắt tai kiểu châu Âu. Khác với disco Mỹ thiên về dàn dây, Italo disco nghe điện tử hơn, mơ màng và rất đậm chất retro châu Âu.",
+  "example_track": "I Like Chopin",
+  "id": "G095",
+  "level": "nang_cao",
+  "mood": [
+   "hoài cổ",
+   "lãng mạn"
+  ],
+  "name_en": "Italo Disco",
+  "name_vi": "Italo Disco",
+  "use_when": "Dùng cho video du lịch châu Âu, thời trang retro hoặc nội dung cần cảm giác hoài niệm thập niên 80 kiểu Ý."
+ },
+ {
+  "artist": "ABBA",
+  "big_category": "Pop",
+  "bpm": "100",
+  "description": "Europop là pop châu Âu: giai điệu đơn giản, bắt tai, beat dance nhẹ và chorus dễ hát theo bằng nhiều ngôn ngữ. Khác với pop Mỹ, Europop thường vui tươi, trong sáng và gắn với Eurovision hay nhạc dance châu Âu.",
+  "example_track": "Dancing Queen",
+  "id": "G096",
+  "level": "co_ban",
+  "mood": [
+   "vui vẻ",
+   "tươi sáng"
+  ],
+  "name_en": "Europop",
+  "name_vi": "Europop",
+  "use_when": "Dùng cho video du lịch châu Âu, tiệc, hoặc nội dung cần nhạc nền vui tươi, dễ nghe và ai cũng hát theo được."
+ },
+ {
+  "artist": "Leslie Cheung",
+  "big_category": "World Pop",
+  "bpm": "120-130",
+  "description": "Cantopop là nhạc pop tiếng Quảng Đông từ Hồng Kông: giai điệu ballad da diết, lời giàu cảm xúc và hình ảnh thần tượng. Khác với Mandopop, Cantopop mang âm sắc Quảng Đông đặc trưng và gắn với điện ảnh Hồng Kông thập niên 80-90.",
+  "example_track": "Monica",
+  "id": "G097",
+  "level": "trung_cap",
+  "mood": [
+   "lãng mạn",
+   "hoài cổ"
+  ],
+  "name_en": "Cantopop",
+  "name_vi": "Cantopop",
+  "use_when": "Dùng cho video về Hồng Kông, phim ảnh retro hoặc nội dung cần nhạc nền lãng mạn, hoài niệm đậm chất Quảng Đông."
+ },
+ {
+  "artist": "Jay Chou",
+  "big_category": "World Pop",
+  "bpm": "80-90",
+  "description": "Mandopop là nhạc pop tiếng Quan Thoại: pha ballad, R&B và pop hiện đại với giai điệu mượt và lời giàu hình ảnh. Khác với Cantopop, Mandopop có thị trường rộng khắp Trung Quốc, Đài Loan và cộng đồng Hoa ngữ toàn cầu.",
+  "example_track": "Blue and White Porcelain",
+  "id": "G098",
+  "level": "trung_cap",
+  "mood": [
+   "lãng mạn",
+   "thơ mộng"
+  ],
+  "name_en": "Mandopop",
+  "name_vi": "Mandopop",
+  "use_when": "Dùng cho video du lịch Trung Quốc, Đài Loan, hoặc nội dung cần nhạc nền lãng mạn, tinh tế đậm chất Hoa ngữ."
+ },
+ {
+  "artist": "Caetano Veloso",
+  "big_category": "Latin",
+  "bpm": "110-120",
+  "description": "Tropicália là phong trào nhạc Brazil cuối thập niên 60: pha samba, bossa nova, rock và pop với tinh thần phản kháng, thử nghiệm. Khác với MPB truyền thống, Tropicália táo bạo, đa sắc và mang tính nghệ thuật cao.",
+  "example_track": "Tropicália",
+  "id": "G099",
+  "level": "nang_cao",
+  "mood": [
+   "phá cách",
+   "rực rỡ"
+  ],
+  "name_en": "Tropicália",
+  "name_vi": "Tropicália",
+  "use_when": "Dùng cho video nghệ thuật, văn hóa Brazil hoặc nội dung cần nhạc nền độc đáo, giàu màu sắc và tinh thần tự do."
+ },
+ {
+  "artist": "Frankie Knuckles",
+  "big_category": "Điện tử",
+  "bpm": "120-130",
+  "description": "Nhạc nhảy điện tử với nhịp four-on-the-floor đều đặn, bass sâu và giai điệu vui tươi, dễ nghe. Khác deep house ở chỗ house thường sáng, dồn dập và hướng thẳng ra sàn nhảy hơn.",
+  "example_track": "Your Love",
+  "id": "G100",
+  "level": "co_ban",
+  "mood": [
+   "sôi động",
+   "vui tươi"
+  ],
+  "name_en": "House",
+  "name_vi": "House",
+  "use_when": "Dùng cho video vlog du lịch, lookbook, clip nhảy hoặc mở đầu video cần năng lượng tích cực, nhịp đều để cắt cảnh."
+ },
+ {
+  "artist": "Disclosure",
+  "big_category": "Điện tử",
+  "bpm": "120-125",
+  "description": "Biến thể chậm và sâu lắng hơn của house, bass ấm, hợp âm jazz/soul, không khí mơ màng. Khác house thường ở chỗ ít dồn dập, nhiều khoảng lặng và cảm giác chill hơn.",
+  "example_track": "Latch",
+  "id": "G101",
+  "level": "co_ban",
+  "mood": [
+   "thư giãn",
+   "lãng mạn"
+  ],
+  "name_en": "Deep House",
+  "name_vi": "Deep House",
+  "use_when": "Dùng cho video lifestyle, café, thời trang, clip hoàng hôn hoặc cảnh đêm thành phố cần nhạc sang mà không át lời thoại."
+ },
+ {
+  "artist": "Charlotte de Witte",
+  "big_category": "Điện tử",
+  "bpm": "125-140",
+  "description": "Nhạc điện tử lặp đi lặp lại, trống kick nặng, ít giai điệu, tạo cảm giác thôi miên và máy móc. Khác house ở chỗ tối hơn, ít vocal và tập trung vào nhịp hơn là giai điệu.",
+  "example_track": "Roar",
+  "id": "G102",
+  "level": "trung_cap",
+  "mood": [
+   "mạnh mẽ",
+   "thôi miên"
+  ],
+  "name_en": "Techno",
+  "name_vi": "Techno",
+  "use_when": "Dùng cho video thể thao, xe cộ, công nghệ, montage nhanh hoặc cảnh đêm đô thị cần cảm giác dồn dập, hiện đại."
+ },
+ {
+  "artist": "Armin van Buuren",
+  "big_category": "Điện tử",
+  "bpm": "130-140",
+  "description": "Nhạc điện tử bay bổng với giai điệu synth tầng tầng lớp lớp, cao trào dâng dần rồi bùng nổ. Khác techno ở chỗ nhiều cảm xúc, giai điệu rõ ràng và dễ gây xúc động hơn.",
+  "example_track": "This Is What It Feels Like",
+  "id": "G103",
+  "level": "co_ban",
+  "mood": [
+   "bay bổng",
+   "hào hứng"
+  ],
+  "name_en": "Trance",
+  "name_vi": "Trance",
+  "use_when": "Dùng cho video du lịch, lễ hội, khoảnh khắc chiến thắng hoặc trailer cần cảm giác thăng hoa, mở ra."
+ },
+ {
+  "artist": "Skrillex",
+  "big_category": "Điện tử",
+  "bpm": "140-150",
+  "description": "Nhạc bass nặng với nhịp nửa thời gian, đoạn drop bất ngờ, âm bass wobble méo mó. Khác trap ở chỗ nhịp chậm hơn, bass điện tử rõ rệt và cấu trúc build-up rồi drop rất đặc trưng.",
+  "example_track": "Scary Monsters and Nice Sprites",
+  "id": "G104",
+  "level": "co_ban",
+  "mood": [
+   "mạnh mẽ",
+   "kịch tính"
+  ],
+  "name_en": "Dubstep",
+  "name_vi": "Dubstep",
+  "use_when": "Dùng cho video gaming, highlight thể thao, chuyển cảnh mạnh hoặc intro cần cú drop gây sốc, thu hút ngay."
+ },
+ {
+  "artist": "Pendulum",
+  "big_category": "Điện tử",
+  "bpm": "170-180",
+  "description": "Nhạc nhịp nhanh, trống breakbeat dồn dập trên nền bass sâu, nghe gấp gáp và đầy năng lượng. Khác jungle ở chỗ gọn gàng, hiện đại hơn, ít hỗn loạn và sample ragga hơn.",
+  "example_track": "Tarantula",
+  "id": "G105",
+  "level": "trung_cap",
+  "mood": [
+   "dồn dập",
+   "sôi động"
+  ],
+  "name_en": "Drum and Bass",
+  "name_vi": "Drum and Bass",
+  "use_when": "Dùng cho video đua xe, parkour, montage hành động nhanh hoặc cảnh rượt đuổi cần nhịp trống liên tục đẩy cảm giác gấp."
+ },
+ {
+  "artist": "Travis Scott",
+  "big_category": "Hip hop/Rap",
+  "bpm": "130-150",
+  "description": "Nhạc hip hop hiện đại với trống 808 trầm, hi-hat lăn nhanh ba nốt, không khí tối và ngầu. Khác boom bap ở chỗ trống điện tử, nhịp nửa thời gian và bass 808 là trung tâm.",
+  "example_track": "SICKO MODE",
+  "id": "G106",
+  "level": "co_ban",
+  "mood": [
+   "ngầu",
+   "tự tin"
+  ],
+  "name_en": "Trap",
+  "name_vi": "Trap",
+  "use_when": "Dùng cho video streetwear, xe, gaming, highlight bóng rổ hoặc clip khoe thành tích cần vibe ngầu, tự tin."
+ },
+ {
+  "artist": "Kendrick Lamar",
+  "big_category": "Hip hop/Rap",
+  "bpm": "85-115",
+  "description": "Văn hóa và dòng nhạc rộng gồm rap, DJ, breakdance và graffiti, beat thường lấy từ funk, soul, jazz. Khác rap ở chỗ hip hop là cả một nền văn hóa và âm thanh tổng thể, còn rap chỉ là cách hát/đọc lời trên beat.",
+  "example_track": "HUMBLE.",
+  "id": "G107",
+  "level": "co_ban",
+  "mood": [
+   "tự tin",
+   "sôi động"
+  ],
+  "name_en": "Hip Hop",
+  "name_vi": "Hip Hop",
+  "use_when": "Dùng cho video đời sống đường phố, vlog, dance, clip kể chuyện cá nhân cần nhạc có groove và cá tính rõ."
+ },
+ {
+  "artist": "Eminem",
+  "big_category": "Hip hop/Rap",
+  "bpm": "85-100",
+  "description": "Kỹ thuật đọc lời có vần, có nhịp trên nền beat, chú trọng flow, wordplay và câu chuyện. Khác hip hop ở chỗ rap là phần vocal, còn hip hop bao gồm cả beat, DJ và văn hóa xung quanh.",
+  "example_track": "Lose Yourself",
+  "id": "G108",
+  "level": "co_ban",
+  "mood": [
+   "quyết tâm",
+   "mạnh mẽ"
+  ],
+  "name_en": "Rap",
+  "name_vi": "Rap",
+  "use_when": "Dùng cho video truyền cảm hứng, kể chuyện vượt khó, montage tập luyện hoặc clip cần lời rap dẫn cảm xúc mạnh."
+ },
+ {
+  "artist": "Pop Smoke",
+  "big_category": "Hip hop/Rap",
+  "bpm": "130-145",
+  "description": "Nhánh trap tối và lạnh hơn, beat tối giản, hi-hat trượt, lời kể về đời sống đường phố khắc nghiệt. Khác trap thường ở chỗ nhịp lạnh, ít giai điệu, không khí u ám và căng thẳng hơn.",
+  "example_track": "Dior",
+  "id": "G109",
+  "level": "trung_cap",
+  "mood": [
+   "lạnh lùng",
+   "căng thẳng"
+  ],
+  "name_en": "Drill",
+  "name_vi": "Drill",
+  "use_when": "Dùng cho video thời trang đường phố, clip đêm thành phố, gaming hoặc montage cần vibe lạnh, nguy hiểm, dứt khoát."
+ },
+ {
+  "artist": "Stormzy",
+  "big_category": "Hip hop/Rap",
+  "bpm": "140-150",
+  "description": "Nhạc rap Anh với beat điện tử nhanh, bass nặng, MC bắn lời dồn dập như battle. Khác drill ở chỗ nhanh hơn, nhiều năng lượng rave và giọng Anh đặc trưng, ít tối tăm hơn.",
+  "example_track": "Own It (feat. Ed Sheeran & Burna Boy)",
+  "id": "G110",
+  "level": "trung_cap",
+  "mood": [
+   "hung hăng",
+   "sôi động"
+  ],
+  "name_en": "Grime",
+  "name_vi": "Grime",
+  "use_when": "Dùng cho video thể thao, battle, clip đường phố London hoặc nội dung cần năng lượng bắn phá, không khoan nhượng."
+ },
+ {
+  "artist": "DVRST",
+  "big_category": "Hip hop/Rap",
+  "bpm": "130-140",
+  "description": "Nhạc lấy sample từ hip hop Memphis thập niên 90, thêm bass cowbell và trống trap, nghe vừa hoài cổ vừa ma mị. Khác trap ở chỗ sample cũ, lo-fi, nhiều tiếng cowbell đặc trưng và vibe drift/xe đêm.",
+  "example_track": "Still Breathing",
+  "id": "G111",
+  "level": "trung_cap",
+  "mood": [
+   "ma mị",
+   "ngầu"
+  ],
+  "name_en": "Phonk",
+  "name_vi": "Phonk",
+  "use_when": "Dùng cho video drift, xe đêm, edit gym, clip aesthetic tối hoặc montage cần nhạc ngầu, lạ tai, đậm chất Memphis."
+ },
+ {
+  "artist": "Brian Eno",
+  "big_category": "Ambient/Chill",
+  "bpm": null,
+  "description": "Nhạc không gian, không nhịp rõ ràng, âm thanh trôi lơ lửng như không khí, tạo cảm giác tĩnh lặng. Khác downtempo ở chỗ ambient gần như không có beat, chỉ có lớp âm thanh và kết cấu.",
+  "example_track": "An Ending (Ascent)",
+  "id": "G112",
+  "level": "co_ban",
+  "mood": [
+   "tĩnh lặng",
+   "mơ màng"
+  ],
+  "name_en": "Ambient",
+  "name_vi": "Ambient",
+  "use_when": "Dùng làm nhạc nền thiền, đọc sách, timelapse thiên nhiên, video không lời cần không gian yên tĩnh mà không gây xao nhãng."
+ },
+ {
+  "artist": "Macintosh Plus",
+  "big_category": "Ambient/Chill",
+  "bpm": null,
+  "description": "Nhạc lấy sample nhạc pop, jazz, quảng cáo thập niên 80 rồi làm chậm, méo tiếng, tạo cảm giác hoài cổ và mơ hồ như giấc mơ. Khác synthwave ở chỗ vaporwave dùng sample cũ thật, còn synthwave dùng synth mới để mô phỏng âm thanh 80.",
+  "example_track": "リサフランク420 / 現代のコンピュー",
+  "id": "G113",
+  "level": "trung_cap",
+  "mood": [
+   "hoài cổ",
+   "mơ hồ"
+  ],
+  "name_en": "Vaporwave",
+  "name_vi": "Vaporwave",
+  "use_when": "Dùng cho video aesthetic retro, clip về internet cũ, mall, VHS hoặc nội dung hoài niệm cần vibe lạ, trôi và hơi siêu thực."
+ },
+ {
+  "artist": "The Midnight",
+  "big_category": "Điện tử",
+  "bpm": "90-120",
+  "description": "Nhạc synth mô phỏng phim và game thập niên 80: tiếng synth analog, trống điện tử, giai điệu đậm chất điện ảnh. Khác retrowave ở chỗ synthwave rộng hơn, còn retrowave nhấn mạnh hoài cổ và hình ảnh lái xe đêm, neon.",
+  "example_track": "Sunset",
+  "id": "G114",
+  "level": "co_ban",
+  "mood": [
+   "hoài cổ",
+   "lãng mạn"
+  ],
+  "name_en": "Synthwave",
+  "name_vi": "Synthwave",
+  "use_when": "Dùng cho video lái xe đêm, thành phố neon, montage phim 80 hoặc intro cần cảm giác điện ảnh, hoài cổ mà vẫn hiện đại."
+ },
+ {
+  "artist": "Kavinsky",
+  "big_category": "Điện tử",
+  "bpm": "90-110",
+  "description": "Nhánh của synthwave tập trung vào hình ảnh retro 80: xe thể thao, hoàng hôn neon, đường cao tốc, nhạc thường chậm và mơ màng hơn. Khác synthwave ở chỗ retrowave là một vibe, một thẩm mỹ hoài cổ rõ rệt hơn là một kỹ thuật âm thanh.",
+  "example_track": "Nightcall",
+  "id": "G115",
+  "level": "trung_cap",
+  "mood": [
+   "hoài cổ",
+   "bí ẩn"
+  ],
+  "name_en": "Retrowave",
+  "name_vi": "Retrowave",
+  "use_when": "Dùng cho video lái xe đêm, clip cinematic, thời trang retro hoặc cảnh mở đầu cần cảm giác như bước vào phim 80."
+ },
+ {
+  "artist": "Flume",
+  "big_category": "Điện tử",
+  "bpm": "140-160",
+  "description": "Nhạc bass điện tử với synth sáng, giai điệu bắt tai, drop dùng hợp âm thay vì bass nặng, nghe vừa sôi động vừa cảm xúc. Khác dubstep ở chỗ drop mềm, nhiều giai điệu và vocal choppy hơn.",
+  "example_track": "Never Be Like You",
+  "id": "G116",
+  "level": "co_ban",
+  "mood": [
+   "vui tươi",
+   "cảm xúc"
+  ],
+  "name_en": "Future Bass",
+  "name_vi": "Future Bass",
+  "use_when": "Dùng cho video du lịch, vlog mùa hè, clip tình cảm hoặc montage cần nhạc bắt tai, trẻ trung, drop vừa đủ mạnh mà không quá gắt."
+ },
+ {
+  "artist": "Calvin Harris",
+  "big_category": "Điện tử",
+  "bpm": "125-130",
+  "description": "Tên gọi chung cho nhạc dance điện tử đại chúng, thường là house, electro, big room pha trộn, hướng tới lễ hội và radio. Khác các thể loại cụ thể ở chỗ EDM là ô chung, không phải một âm thanh riêng.",
+  "example_track": "Summer",
+  "id": "G117",
+  "level": "co_ban",
+  "mood": [
+   "sôi động",
+   "hào hứng"
+  ],
+  "name_en": "EDM",
+  "name_vi": "EDM",
+  "use_when": "Dùng cho video tiệc tùng, lễ hội, quảng cáo sản phẩm trẻ trung hoặc clip cần nhạc quen tai, dễ nghe, năng lượng cao."
+ },
+ {
+  "artist": "Kraftwerk",
+  "big_category": "Điện tử",
+  "bpm": "110-130",
+  "description": "Nhạc điện tử với trống máy khô, bass synth funky, chịu ảnh hưởng từ hip hop và funk đầu thập niên 80. Khác house ở chỗ nhịp break, bass synth rõ và ít four-on-the-floor hơn.",
+  "example_track": "The Robots",
+  "id": "G118",
+  "level": "trung_cap",
+  "mood": [
+   "máy móc",
+   "futuristic"
+  ],
+  "name_en": "Electro",
+  "name_vi": "Electro",
+  "use_when": "Dùng cho video robot, công nghệ, retro-futurism hoặc clip cần cảm giác máy móc, cổ điển mà vẫn hiện đại."
+ },
+ {
+  "artist": "Aphex Twin",
+  "big_category": "Điện tử",
+  "bpm": "120-140",
+  "description": "Nhạc dance trí tuệ, nhịp phức tạp, cấu trúc bất ngờ, nghe như nhạc điện tử để nghe chứ không để nhảy. Khác techno ở chỗ IDM phá nhịp, nhiều chi tiết nhỏ và mang tính thử nghiệm hơn.",
+  "example_track": "Windowlicker",
+  "id": "G119",
+  "level": "nang_cao",
+  "mood": [
+   "kỳ lạ",
+   "thông minh"
+  ],
+  "name_en": "IDM",
+  "name_vi": "IDM",
+  "use_when": "Dùng cho video nghệ thuật, motion graphics, clip công nghệ trừu tượng hoặc nội dung cần nhạc lạ, phức tạp, không theo lối mòn."
+ },
+ {
+  "artist": "The Glitch Mob",
+  "big_category": "Điện tử",
+  "bpm": "100-130",
+  "description": "Nhạc dùng tiếng lỗi kỹ thuật số — rè, giật, cắt vụn — làm nhạc cụ, nhịp vỡ vụn nhưng vẫn có groove. Khác IDM ở chỗ glitch nhấn mạnh âm thanh lỗi, choppy, còn IDM rộng và nhiều giai điệu hơn.",
+  "example_track": "Drive It Like You Stole It",
+  "id": "G120",
+  "level": "nang_cao",
+  "mood": [
+   "kịch tính",
+   "máy móc"
+  ],
+  "name_en": "Glitch",
+  "name_vi": "Glitch",
+  "use_when": "Dùng cho video gaming, trailer hành động, motion design hoặc chuyển cảnh cần tiếng glitch cắt vụn tạo cảm giác công nghệ."
+ },
+ {
+  "artist": "The Prodigy",
+  "big_category": "Điện tử",
+  "bpm": "130-140",
+  "description": "Nhạc dùng đoạn trống break bị cắt và lặp lại, nhịp không đều nhưng rất groovy, nghe bụi bặm và năng động. Khác drum and bass ở chỗ chậm hơn, nhiều funk và ít bass nặng hơn.",
+  "example_track": "Firestarter",
+  "id": "G121",
+  "level": "trung_cap",
+  "mood": [
+   "nổi loạn",
+   "sôi động"
+  ],
+  "name_en": "Breakbeat",
+  "name_vi": "Breakbeat",
+  "use_when": "Dùng cho video hành động, skate, clip đường phố hoặc montage cần trống break dồn dập, bụi bặm, đầy năng lượng."
+ },
+ {
+  "artist": "Goldie",
+  "big_category": "Điện tử",
+  "bpm": "160-170",
+  "description": "Nhạc Anh thập niên 90 với trống break nhanh, bass reggae sâu, sample ragga và không khí đường phố. Khác drum and bass ở chỗ jungle thô, hỗn loạn và nhiều sample Jamaica hơn.",
+  "example_track": "Inner City Life",
+  "id": "G122",
+  "level": "nang_cao",
+  "mood": [
+   "hoang dã",
+   "dồn dập"
+  ],
+  "name_en": "Jungle",
+  "name_vi": "Jungle",
+  "use_when": "Dùng cho video về văn hóa rave 90, clip đường phố Anh hoặc montage cần nhịp trống nhanh, bass reggae và vibe underground."
+ },
+ {
+  "artist": "Craig David",
+  "big_category": "Điện tử",
+  "bpm": "130-140",
+  "description": "Nhạc garage Anh với nhịp 2-step choppy, bass ấm, vocal R&B mượt, nghe vừa nhảy được vừa chill. Khác house ở chỗ nhịp không four-on-the-floor mà ngắt nhịp, nhiều swing hơn.",
+  "example_track": "Fill Me In",
+  "id": "G123",
+  "level": "trung_cap",
+  "mood": [
+   "mượt mà",
+   "sôi động"
+  ],
+  "name_en": "UK Garage",
+  "name_vi": "UK Garage",
+  "use_when": "Dùng cho video thời trang, vlog đêm, clip club hoặc nội dung UK cần groove 2-step mượt, vừa nhảy vừa nghe được."
+ },
+ {
+  "artist": "Dillon Francis",
+  "big_category": "Điện tử",
+  "bpm": "108-115",
+  "description": "Nhạc house pha reggaeton, nhịp chậm, trống dembow, bass dày, nghe nóng bỏng và đậm chất Latin. Khác house thường ở chỗ nhịp chậm hơn, nhiều swing Latin và bass nảy hơn.",
+  "example_track": "Masta Blasta",
+  "id": "G124",
+  "level": "trung_cap",
+  "mood": [
+   "nóng bỏng",
+   "vui tươi"
+  ],
+  "name_en": "Moombahton",
+  "name_vi": "Moombahton",
+  "use_when": "Dùng cho video bãi biển, tiệc mùa hè, dance Latin hoặc clip cần nhạc nóng, nảy, dễ lắc theo."
+ },
+ {
+  "artist": "Oliver Heldens",
+  "big_category": "Điện tử",
+  "bpm": "122-128",
+  "description": "House hiện đại với bass sâu, synth kim loại, drop gọn và vocal choppy, nghe sạch và tương lai hơn deep house. Khác house thường ở chỗ bass điện tử rõ, ít soul và nhiều hiệu ứng hiện đại hơn.",
+  "example_track": "Gecko (Overdrive)",
+  "id": "G125",
+  "level": "co_ban",
+  "mood": [
+   "hiện đại",
+   "sôi động"
+  ],
+  "name_en": "Future House",
+  "name_vi": "Future House",
+  "use_when": "Dùng cho video thời trang, quảng cáo, vlog trẻ trung hoặc clip cần nhạc house sạch, bắt tai, hợp xu hướng."
+ },
+ {
+  "artist": "Deadmau5",
+  "big_category": "Điện tử",
+  "bpm": "122-130",
+  "description": "House xây dựng dần dần, lớp âm thanh chồng lên nhau, cao trào đến chậm nhưng chắc, nghe như một hành trình. Khác house thường ở chỗ ít hook tức thì, tập trung vào sự phát triển và không gian hơn.",
+  "example_track": "Strobe",
+  "id": "G126",
+  "level": "trung_cap",
+  "mood": [
+   "bay bổng",
+   "thôi miên"
+  ],
+  "name_en": "Progressive House",
+  "name_vi": "Progressive House",
+  "use_when": "Dùng cho video du lịch dài, timelapse, clip hoàng hôn hoặc intro cần nhạc dâng dần, tạo cảm giác hành trình."
+ },
+ {
+  "artist": "Plastikman",
+  "big_category": "Điện tử",
+  "bpm": "125-135",
+  "description": "Techno tối giản, chỉ vài âm thanh lặp lại, khoảng lặng nhiều, tạo cảm giác thôi miên sâu. Khác techno thường ở chỗ ít lớp, ít biến đổi, tập trung vào chi tiết nhỏ và nhịp.",
+  "example_track": "Spastik",
+  "id": "G127",
+  "level": "nang_cao",
+  "mood": [
+   "tối giản",
+   "thôi miên"
+  ],
+  "name_en": "Minimal Techno",
+  "name_vi": "Minimal Techno",
+  "use_when": "Dùng cho video kiến trúc, thời trang tối giản, clip công nghệ hoặc cảnh đêm cần nhạc ít mà sâu, không át hình ảnh."
+ },
+ {
+  "artist": "Phuture",
+  "big_category": "Điện tử",
+  "bpm": "120-130",
+  "description": "House thập niên 80 với tiếng synth Roland TB-303 chua, méo, lặp đi lặp lại, tạo cảm giác say và hoang dã. Khác house thường ở chỗ tiếng acid 303 là trung tâm, ít vocal và nhiều tính thử nghiệm hơn.",
+  "example_track": "Acid Tracks",
+  "id": "G128",
+  "level": "nang_cao",
+  "mood": [
+   "hoang dã",
+   "thôi miên"
+  ],
+  "name_en": "Acid House",
+  "name_vi": "Acid House",
+  "use_when": "Dùng cho video về rave 80, clip retro, thời trang underground hoặc nội dung cần tiếng acid đặc trưng, lạ tai."
+ },
+ {
+  "artist": "Martin Garrix",
+  "big_category": "Điện tử",
+  "bpm": "126-130",
+  "description": "EDM lễ hội với drop lớn, kick nặng, synth đơn giản nhưng vang, thiết kế để hàng nghìn người cùng nhảy. Khác progressive house ở chỗ drop to, trực tiếp, ít xây dựng dần mà bùng nổ ngay.",
+  "example_track": "Animals",
+  "id": "G129",
+  "level": "co_ban",
+  "mood": [
+   "bùng nổ",
+   "hào hứng"
+  ],
+  "name_en": "Big Room",
+  "name_vi": "Big Room",
+  "use_when": "Dùng cho video lễ hội, quảng cáo, trailer hoặc khoảnh khắc cao trào cần nhạc nổ tung, dễ nhớ, dễ hò theo."
+ },
+ {
+  "artist": "Headhunterz",
+  "big_category": "Điện tử",
+  "bpm": "150-160",
+  "description": "Nhạc dance Hà Lan với kick méo nặng, nhịp nhanh, giai điệu epic, nghe như trance nhưng cứng và dữ hơn. Khác hardcore ở chỗ chậm hơn, nhiều giai điệu và ít hỗn loạn hơn.",
+  "example_track": "Dragonborn",
+  "id": "G130",
+  "level": "trung_cap",
+  "mood": [
+   "mạnh mẽ",
+   "hào hùng"
+  ],
+  "name_en": "Hardstyle",
+  "name_vi": "Hardstyle",
+  "use_when": "Dùng cho video gym, thể thao mạnh, lễ hội hard dance hoặc montage cần kick nặng, cảm giác chiến đấu, không lùi bước."
+ },
+ {
+  "artist": "Salem",
+  "big_category": "Điện tử",
+  "bpm": "70-100",
+  "description": "Nhạc điện tử tối, chậm, vocal méo, sample kinh dị, không khí như nghi lễ ma thuật. Khác darkwave ở chỗ witch house dùng beat hip hop chậm, nhiều hiệu ứng và thẩm mỹ occult rõ rệt hơn.",
+  "example_track": "King Night",
+  "id": "G131",
+  "level": "nang_cao",
+  "mood": [
+   "ma mị",
+   "u ám"
+  ],
+  "name_en": "Witch House",
+  "name_vi": "Witch House",
+  "use_when": "Dùng cho video Halloween, thời trang gothic, clip bí ẩn hoặc nội dung kinh dị cần nhạc chậm, tối, rợn mà vẫn có beat."
+ },
+ {
+  "artist": "Depeche Mode",
+  "big_category": "Điện tử",
+  "bpm": "100-120",
+  "description": "Nhạc synth u buồn, giai điệu minor, giọng trầm, không khí lạnh và lãng mạn kiểu gothic. Khác witch house ở chỗ darkwave nhiều giai điệu, ít beat hip hop và gần với post-punk, synth-pop hơn.",
+  "example_track": "Enjoy the Silence",
+  "id": "G132",
+  "level": "trung_cap",
+  "mood": [
+   "u buồn",
+   "lãng mạn"
+  ],
+  "name_en": "Darkwave",
+  "name_vi": "Darkwave",
+  "use_when": "Dùng cho video thời trang tối, clip đêm mưa, nội dung buồn man mác hoặc cảnh cinematic cần nhạc synth lạnh, sâu."
+ },
+ {
+  "artist": "Front 242",
+  "big_category": "Điện tử",
+  "bpm": "120-135",
+  "description": "Electronic Body Music: nhạc điện tử công nghiệp với bassline lặp, nhịp mạnh, giọng ra lệnh, nghe như nhạc cho cơ thể chuyển động. Khác techno ở chỗ EBM nhiều vocal, bassline rõ và mang tính punk, công nghiệp hơn.",
+  "example_track": "Headhunter",
+  "id": "G133",
+  "level": "nang_cao",
+  "mood": [
+   "mạnh mẽ",
+   "công nghiệp"
+  ],
+  "name_en": "EBM",
+  "name_vi": "EBM",
+  "use_when": "Dùng cho video cyberpunk, thời trang công nghiệp, clip thể thao mạnh hoặc nội dung cần nhạc khô, cứng, đầy khí chất."
+ },
+ {
+  "artist": "Washed Out",
+  "big_category": "Ambient/Chill",
+  "bpm": "90-110",
+  "description": "Nhạc indie điện tử mơ màng, synth mờ, vocal vang vọng, như ký ức mùa hè cũ. Khác vaporwave ở chỗ chillwave dùng nhạc cụ thật và synth mới, còn vaporwave dùng sample cũ làm chậm.",
+  "example_track": "Feel It All Around",
+  "id": "G134",
+  "level": "co_ban",
+  "mood": [
+   "mơ màng",
+   "hoài cổ"
+  ],
+  "name_en": "Chillwave",
+  "name_vi": "Chillwave",
+  "use_when": "Dùng cho video mùa hè, bãi biển, vlog chill hoặc clip hoài niệm cần nhạc mơ màng, ấm, hơi mờ như phim cũ."
+ },
+ {
+  "artist": "Bonobo",
+  "big_category": "Ambient/Chill",
+  "bpm": "80-110",
+  "description": "Nhạc điện tử chậm, beat nhẹ, nhiều lớp âm thanh, nghe thư giãn nhưng vẫn có groove. Khác ambient ở chỗ downtempo có beat rõ ràng, còn ambient gần như không có beat.",
+  "example_track": "Kiara",
+  "id": "G135",
+  "level": "co_ban",
+  "mood": [
+   "thư giãn",
+   "sâu lắng"
+  ],
+  "name_en": "Downtempo",
+  "name_vi": "Downtempo",
+  "use_when": "Dùng cho video café, làm việc, yoga, clip du lịch chậm hoặc nhạc nền cần chill mà vẫn có nhịp nhẹ để giữ cảm xúc."
+ },
+ {
+  "artist": "Massive Attack",
+  "big_category": "Ambient/Chill",
+  "bpm": "85-110",
+  "description": "Nhạc Anh thập niên 90 với beat hip hop chậm, bass sâu, vocal nữ ma mị, không khí tối và cinematic. Khác downtempo ở chỗ trip-hop tối, nhiều cảm xúc và mang chất hip hop rõ hơn.",
+  "example_track": "Teardrop",
+  "id": "G136",
+  "level": "trung_cap",
+  "mood": [
+   "ma mị",
+   "u buồn"
+  ],
+  "name_en": "Trip-Hop",
+  "name_vi": "Trip-Hop",
+  "use_when": "Dùng cho video đêm thành phố, phim ngắn, clip tâm trạng hoặc cảnh cinematic cần nhạc chậm, tối, đầy chiều sâu."
+ },
+ {
+  "artist": "Nujabes",
+  "big_category": "Ambient/Chill",
+  "bpm": "70-90",
+  "description": "Nhạc ghi âm cố tình giữ tiếng ồn, rè băng, méo nhẹ, nghe thô và ấm như băng cassette cũ — đây là một chất âm, không phải một thể loại beat cố định. Khác chillhop ở chỗ lo-fi nhấn mạnh độ thô, tiếng nhiễu và cảm giác không hoàn hảo, còn chillhop sạch, mượt và có beat hip hop jazz rõ ràng để học bài.",
+  "example_track": "Aruarian Dance",
+  "id": "G137",
+  "level": "co_ban",
+  "mood": [
+   "ấm áp",
+   "hoài cổ"
+  ],
+  "name_en": "Lo-Fi",
+  "name_vi": "Lo-Fi",
+  "use_when": "Dùng cho video học bài, đọc sách, mưa, clip hoài cổ hoặc nhạc nền cần cảm giác ấm, thô, gần gũi như đang nghe băng cũ."
+ },
+ {
+  "artist": "tomppabeats",
+  "big_category": "Ambient/Chill",
+  "bpm": "75-95",
+  "description": "Nhạc hip hop chill, sạch và mượt: beat hip hop nhẹ, sample jazz, piano lofi, không tiếng ồn, làm ra để tập trung. Khác lo-fi ở chỗ chillhop là một dòng beat hip hop hoàn chỉnh, âm thanh sạch và hiện đại, còn lo-fi là chất âm thô, nhiều nhiễu băng và không nhất thiết phải là hip hop.",
+  "example_track": "Monday Loop",
+  "id": "G138",
+  "level": "co_ban",
+  "mood": [
+   "thư giãn",
+   "tập trung"
+  ],
+  "name_en": "Chillhop",
+  "name_vi": "Chillhop",
+  "use_when": "Dùng cho video học tập, làm việc, livestream study with me, clip café hoặc nhạc nền cần tập trung mà vẫn có groove nhẹ."
+ },
+ {
+  "artist": "J Dilla",
+  "big_category": "Hip hop/Rap",
+  "bpm": "70-90",
+  "description": "Hip hop chậm với trống boom bap, sample jazz/soul, tiếng vinyl rè, nghe vừa chill vừa có groove hip hop rõ rệt. Khác lo-fi chung ở chỗ lofi hip hop luôn có beat hip hop làm xương sống, còn lo-fi có thể là bất kỳ nhạc cụ nào chỉ cần âm thanh thô; khác chillhop ở chỗ lofi hip hop thô và bụi hơn, chillhop sạch và mượt hơn.",
+  "example_track": "Time: The Donut of the Heart",
+  "id": "G139",
+  "level": "co_ban",
+  "mood": [
+   "chill",
+   "hoài cổ"
+  ],
+  "name_en": "Lofi Hip Hop",
+  "name_vi": "Lofi Hip Hop",
+  "use_when": "Dùng cho video học bài đêm, vlog mưa, clip lái xe đêm hoặc nhạc nền cần beat hip hop chậm, ấm, không lời để tập trung."
+ },
+ {
+  "artist": "Mortiis",
+  "big_category": "Ambient/Chill",
+  "bpm": null,
+  "description": "Nhạc synth tối, cổ xưa như nhạc nền game nhập vai: tiếng đàn medieval, hợp xướng, không khí hầm ngục và fantasy. Khác ambient ở chỗ dungeon synth có giai điệu medieval rõ ràng và hình ảnh fantasy, còn ambient trừu tượng và không có câu chuyện.",
+  "example_track": "Født til å Herske",
+  "id": "G140",
+  "level": "nang_cao",
+  "mood": [
+   "bí ẩn",
+   "cổ xưa"
+  ],
+  "name_en": "Dungeon Synth",
+  "name_vi": "Dungeon Synth",
+  "use_when": "Dùng cho video game fantasy, D&D, đọc truyện, clip về lâu đài, rừng cổ hoặc nội dung cần nhạc như bước vào hầm ngục thời trung cổ."
+ },
+ {
+  "artist": "Basic Channel",
+  "big_category": "Điện tử",
+  "bpm": "120-130",
+  "description": "Techno pha dub: bass sâu, echo, reverb dày, nhịp chậm và không gian rộng như trong hang. Khác techno thường ở chỗ dub techno mềm, nhiều echo và ít dồn dập hơn.",
+  "example_track": "Quadrant Dub",
+  "id": "G141",
+  "level": "nang_cao",
+  "mood": [
+   "thôi miên",
+   "sâu lắng"
+  ],
+  "name_en": "Dub Techno",
+  "name_vi": "Dub Techno",
+  "use_when": "Dùng cho video kiến trúc, clip đêm, timelapse hoặc nhạc nền cần không gian sâu, echo, cảm giác trôi chậm."
+ },
+ {
+  "artist": "Parov Stelar",
+  "big_category": "Điện tử",
+  "bpm": "110-125",
+  "description": "Nhạc swing, jazz thập niên 20-30 pha beat điện tử hiện đại, nghe vừa cổ điển vừa nhảy được. Khác house ở chỗ electro swing dùng sample kèn, vocal jazz cũ và nhịp swing, không phải four-on-the-floor thuần.",
+  "example_track": "Booty Swing",
+  "id": "G142",
+  "level": "trung_cap",
+  "mood": [
+   "vui tươi",
+   "cổ điển"
+  ],
+  "name_en": "Electro Swing",
+  "name_vi": "Electro Swing",
+  "use_when": "Dùng cho video tiệc retro, thời trang vintage, clip nhảy swing hoặc quảng cáo cần nhạc vui, cổ điển mà vẫn hiện đại."
+ },
+ {
+  "artist": "Jauz",
+  "big_category": "Điện tử",
+  "bpm": "125-130",
+  "description": "House với bass nặng, drop gọn, chịu ảnh hưởng dubstep và UK bass, nghe dữ hơn house thường nhưng vẫn giữ nhịp house. Khác future house ở chỗ bass house thô, nặng và ít giai điệu hơn.",
+  "example_track": "Feel the Volume",
+  "id": "G143",
+  "level": "trung_cap",
+  "mood": [
+   "mạnh mẽ",
+   "sôi động"
+  ],
+  "name_en": "Bass House",
+  "name_vi": "Bass House",
+  "use_when": "Dùng cho video club, festival, clip thể thao hoặc montage cần bass nặng, drop gọn, năng lượng cao."
+ },
+ {
+  "artist": "Anyma",
+  "big_category": "Điện tử",
+  "bpm": "122-128",
+  "description": "Techno nhiều giai điệu, synth buồn và đẹp, nhịp vẫn đều nhưng cảm xúc rõ hơn techno thuần. Khác progressive house ở chỗ melodic techno tối hơn, ít vocal và mang chất club Berlin hơn.",
+  "example_track": "Consciousness",
+  "id": "G144",
+  "level": "trung_cap",
+  "mood": [
+   "cảm xúc",
+   "thôi miên"
+  ],
+  "name_en": "Melodic Techno",
+  "name_vi": "Melodic Techno",
+  "use_when": "Dùng cho video cinematic, clip đêm, thời trang cao cấp hoặc cảnh cần nhạc techno đẹp, buồn, vừa nhảy vừa nghe được."
+ },
+ {
+  "artist": "Infected Mushroom",
+  "big_category": "Điện tử",
+  "bpm": "140-150",
+  "description": "Trance nhanh, bassline lăn liên tục, synth xoắn và thôi miên, tạo cảm giác như đang ở lễ hội ngoài trời. Khác trance thường ở chỗ psytrance nhanh hơn, ít vocal, nhiều hiệu ứng psychedelic hơn.",
+  "example_track": "Becoming Insane",
+  "id": "G145",
+  "level": "nang_cao",
+  "mood": [
+   "thôi miên",
+   "hào hứng"
+  ],
+  "name_en": "Psytrance",
+  "name_vi": "Psytrance",
+  "use_when": "Dùng cho video lễ hội, du lịch phiêu lưu, clip ngoài trời hoặc montage cần nhạc nhanh, xoắn, đầy năng lượng psychedelic."
+ },
+ {
+  "artist": "Nas",
+  "big_category": "Hip hop/Rap",
+  "bpm": "85-100",
+  "description": "Hip hop cổ điển thập niên 90: trống boom bap khô, sample jazz/soul, rap rõ lời, nghe bụi và chân thật. Khác trap ở chỗ boom bap dùng trống acoustic sample, nhịp rõ và ít bass 808 hơn.",
+  "example_track": "N.Y. State of Mind",
+  "id": "G146",
+  "level": "trung_cap",
+  "mood": [
+   "cổ điển",
+   "chân thật"
+  ],
+  "name_en": "Boom Bap",
+  "name_vi": "Boom Bap",
+  "use_when": "Dùng cho video về hip hop 90, clip đường phố New York, kể chuyện hoặc nội dung cần beat cổ điển, lời rap rõ và sâu."
+ },
+ {
+  "artist": "Lil Yachty",
+  "big_category": "Hip hop/Rap",
+  "bpm": "120-140",
+  "description": "Rap mơ màng, beat ambient, synth mờ, giọng trôi lơ lửng như mây, nghe vừa chill vừa buồn. Khác trap ở chỗ cloud rap mềm, nhiều không gian, ít dồn dập và ít bass nặng hơn.",
+  "example_track": "the BLACK seminole.",
+  "id": "G147",
+  "level": "trung_cap",
+  "mood": [
+   "mơ màng",
+   "chill"
+  ],
+  "name_en": "Cloud Rap",
+  "name_vi": "Cloud Rap",
+  "use_when": "Dùng cho video đêm, clip mơ màng, vlog tâm trạng hoặc nội dung cần rap nhẹ, trôi, không quá gắt."
+ },
+ {
+  "artist": "Lil Peep",
+  "big_category": "Hip hop/Rap",
+  "bpm": "130-150",
+  "description": "Rap pha emo và rock, lời về buồn, cô đơn, mất mát, beat guitar hoặc synth buồn, giọng hát nửa rap nửa hát. Khác cloud rap ở chỗ emo rap nhiều cảm xúc tiêu cực, lời trực diện và mang chất rock hơn.",
+  "example_track": "Awful Things",
+  "id": "G148",
+  "level": "trung_cap",
+  "mood": [
+   "buồn",
+   "cô đơn"
+  ],
+  "name_en": "Emo Rap",
+  "name_vi": "Emo Rap",
+  "use_when": "Dùng cho video tâm trạng, kể chuyện buồn, clip đêm khuya hoặc nội dung cần nhạc rap cảm xúc, chạm vào nỗi buồn."
+ },
+ {
+  "artist": "Bob Dylan",
+  "big_category": "Folk",
+  "bpm": "80-110",
+  "description": "Nhạc dân gian hiện đại, mộc mạc với guitar acoustic và giọng hát kể chuyện. Khác với country ở chỗ folk ít nhấn vào giai điệu bắt tai mà nặng về lời ca và cảm xúc chân thật.",
+  "example_track": "Blowin' in the Wind",
+  "id": "G149",
+  "level": "co_ban",
+  "mood": [
+   "mộc mạc",
+   "trầm lắng"
+  ],
+  "name_en": "folk",
+  "name_vi": "Folk",
+  "use_when": "Dùng cho video kể chuyện, du lịch chậm, hoài niệm hoặc những khoảnh khắc cần cảm giác chân thật, gần gũi."
+ },
+ {
+  "artist": "Jason Isbell",
+  "big_category": "Folk",
+  "bpm": null,
+  "description": "Nhạc Mỹ gốc rễ, pha trộn folk, country và blues với âm thanh mộc và lời ca về đời sống nước Mỹ. Nghe bụi bặm và trưởng thành hơn folk thuần, nhưng không bóng bẩy như country thương mại.",
+  "example_track": "Cover Me Up",
+  "id": "G150",
+  "level": "trung_cap",
+  "mood": [
+   "chân thật",
+   "ấm áp"
+  ],
+  "name_en": "americana",
+  "name_vi": "Americana",
+  "use_when": "Dùng cho video road trip, đời sống miền quê Mỹ, hoặc câu chuyện trưởng thành cần cảm giác từng trải."
+ },
+ {
+  "artist": "Dolly Parton",
+  "big_category": "Folk",
+  "bpm": "100-120",
+  "description": "Nhạc đồng quê Mỹ với guitar, banjo, fiddle và giọng hát kể chuyện đời thường. Giai điệu bắt tai, dễ nhớ, khác folk ở chỗ country có cấu trúc bài hát pop rõ ràng hơn.",
+  "example_track": "Jolene",
+  "id": "G151",
+  "level": "co_ban",
+  "mood": [
+   "vui tươi",
+   "mộc mạc"
+  ],
+  "name_en": "country",
+  "name_vi": "Country",
+  "use_when": "Dùng cho video về miền quê, gia đình, road trip hoặc nội dung vui vẻ, gần gũi kiểu Mỹ."
+ },
+ {
+  "artist": "Bill Monroe",
+  "big_category": "Folk",
+  "bpm": "120-160",
+  "description": "Nhạc dây tốc độ nhanh với banjo, mandolin, fiddle và guitar, giọng hát cao vút hòa âm chặt. Nghe sôi động và kỹ thuật hơn country thường, rất đặc trưng của vùng Appalachia.",
+  "example_track": "Blue Moon of Kentucky",
+  "id": "G152",
+  "level": "trung_cap",
+  "mood": [
+   "sôi nổi",
+   "mộc mạc"
+  ],
+  "name_en": "bluegrass",
+  "name_vi": "Bluegrass",
+  "use_when": "Dùng cho video miền núi, lễ hội đồng quê, hoặc cảnh cần năng lượng nhanh, vui và đậm chất dân gian Mỹ."
+ },
+ {
+  "artist": "B.B. King",
+  "big_category": "Folk",
+  "bpm": "70-90",
+  "description": "Nhạc buồn da diết của người Mỹ gốc Phi, với guitar điện, harmonica và cấu trúc 12 ô nhịp đặc trưng. Khác với jazz ở chỗ blues đơn giản, trực tiếp và luôn xoay quanh nỗi buồn, tình yêu dang dở.",
+  "example_track": "The Thrill Is Gone",
+  "id": "G153",
+  "level": "co_ban",
+  "mood": [
+   "buồn",
+   "sâu lắng"
+  ],
+  "name_en": "blues",
+  "name_vi": "Blues",
+  "use_when": "Dùng cho video tâm trạng, đêm khuya, câu chuyện buồn hoặc cảnh cần cảm xúc trầm và từng trải."
+ },
+ {
+  "artist": "Mahalia Jackson",
+  "big_category": "Folk",
+  "bpm": null,
+  "description": "Nhạc thánh ca da đen Mỹ, giọng hát đầy nội lực, hợp xướng mạnh mẽ và cảm xúc dâng trào. Khác spirituals ở chỗ gospel hiện đại, sôi động và có nhạc cụ đệm đầy đủ hơn.",
+  "example_track": "Take My Hand, Precious Lord",
+  "id": "G154",
+  "level": "trung_cap",
+  "mood": [
+   "thiêng liêng",
+   "xúc động"
+  ],
+  "name_en": "gospel",
+  "name_vi": "Gospel",
+  "use_when": "Dùng cho video về niềm tin, hy vọng, khoảnh khắc xúc động mạnh hoặc cảnh nhà thờ, lễ hội tôn giáo."
+ },
+ {
+  "artist": "Fisk Jubilee Singers",
+  "big_category": "Folk",
+  "bpm": null,
+  "description": "Thánh ca truyền thống của nô lệ da đen Mỹ, hát a cappella hoặc đệm đơn giản, giai điệu trầm hùng. Nghe cổ xưa và trang nghiêm hơn gospel, ít nhạc cụ và ít biến tấu hiện đại.",
+  "example_track": "Swing Low, Sweet Chariot",
+  "id": "G155",
+  "level": "nang_cao",
+  "mood": [
+   "thiêng liêng",
+   "trầm hùng"
+  ],
+  "name_en": "spirituals",
+  "name_vi": "Spirituals",
+  "use_when": "Dùng cho video lịch sử, tưởng niệm, hoặc cảnh cần chiều sâu tâm linh và cảm giác cổ xưa."
+ },
+ {
+  "artist": "Pentatonix",
+  "big_category": "Folk",
+  "bpm": null,
+  "description": "Hát hoàn toàn bằng giọng người, không nhạc cụ, kể cả phần beat cũng do miệng tạo ra. Nghe trong trẻo và ấn tượng vì mọi âm thanh đều từ giọng hát.",
+  "example_track": "Hallelujah",
+  "id": "G156",
+  "level": "co_ban",
+  "mood": [
+   "trong trẻo",
+   "ấn tượng"
+  ],
+  "name_en": "a cappella",
+  "name_vi": "A cappella",
+  "use_when": "Dùng cho video cần cảm giác thuần khiết, khoe giọng hát, hoặc cảnh lễ hội, Giáng sinh ấm áp."
+ },
+ {
+  "artist": "Benedictine Monks of Santo Domingo de Silos",
+  "big_category": "Cổ điển",
+  "bpm": null,
+  "description": "Nhạc hát tụng đơn âm, chậm rãi, thường dùng trong nghi lễ tôn giáo, giọng hát vang vọng như trong nhà thờ lớn. Nghe tĩnh lặng và thiêng liêng, không có nhịp điệu mạnh hay nhạc cụ phức tạp.",
+  "example_track": "Puer Natus Est Nobis",
+  "id": "G157",
+  "level": "nang_cao",
+  "mood": [
+   "tĩnh lặng",
+   "thiêng liêng"
+  ],
+  "name_en": "chant",
+  "name_vi": "Thánh ca tụng (Chant)",
+  "use_when": "Dùng cho video thiền, nghi lễ, không gian cổ kính hoặc cảnh cần sự yên tĩnh tuyệt đối."
+ },
+ {
+  "artist": "Choir of the Monks of the Abbey of Saint-Pierre de Solesmes",
+  "big_category": "Cổ điển",
+  "bpm": null,
+  "description": "Dòng thánh ca Latinh cổ của Giáo hội Công giáo, hát đơn âm bởi dàn hợp xướng nam, không nhạc cụ. Là dạng chant lâu đời và chuẩn mực nhất, nghe trầm mặc và trang nghiêm hơn chant nói chung.",
+  "example_track": "Salve Regina",
+  "id": "G158",
+  "level": "nang_cao",
+  "mood": [
+   "trầm mặc",
+   "thiêng liêng"
+  ],
+  "name_en": "gregorian chant",
+  "name_vi": "Thánh ca Gregorian",
+  "use_when": "Dùng cho video về lịch sử Trung cổ, nhà thờ cổ, hoặc cảnh cần không khí linh thiêng, cổ xưa."
+ },
+ {
+  "artist": "Miles Davis",
+  "big_category": "Jazz",
+  "bpm": "120-150",
+  "description": "Nhạc jazz với ứng tấu tự do, nhịp swing và hòa âm phong phú, thường dùng kèn trumpet, saxophone và piano. Nghe phóng khoáng và tinh tế, khác blues ở chỗ jazz phức tạp và biến hóa hơn nhiều.",
+  "example_track": "So What",
+  "id": "G159",
+  "level": "co_ban",
+  "mood": [
+   "phóng khoáng",
+   "tinh tế"
+  ],
+  "name_en": "jazz",
+  "name_vi": "Jazz",
+  "use_when": "Dùng cho video phong cách sang trọng, quán cà phê, đêm thành phố hoặc cảnh cần cảm giác tự do, nghệ sĩ."
+ },
+ {
+  "artist": "Charlie Parker",
+  "big_category": "Jazz",
+  "bpm": "180-220",
+  "description": "Jazz tốc độ rất nhanh, giai điệu phức tạp, nhiều nốt và ứng tấu virtuoso. Nghe dồn dập, thách thức, khác jazz thường ở chỗ bebop khó nghe hơn và đòi hỏi kỹ thuật cao.",
+  "example_track": "Ornithology",
+  "id": "G160",
+  "level": "nang_cao",
+  "mood": [
+   "dồn dập",
+   "kỹ thuật"
+  ],
+  "name_en": "bebop",
+  "name_vi": "Bebop",
+  "use_when": "Dùng cho video cần năng lượng cao, cảnh thành phố hối hả, hoặc nội dung về kỹ thuật, tốc độ."
+ },
+ {
+  "artist": "Miles Davis",
+  "big_category": "Jazz",
+  "bpm": "70-90",
+  "description": "Jazz nhẹ nhàng, chậm rãi, âm thanh mượt và thư thái, đối lập với bebop dồn dập. Nghe mát mẻ, lãng mạn, rất hợp với không gian đêm yên tĩnh.",
+  "example_track": "Blue in Green",
+  "id": "G161",
+  "level": "trung_cap",
+  "mood": [
+   "thư thái",
+   "lãng mạn"
+  ],
+  "name_en": "cool jazz",
+  "name_vi": "Cool Jazz",
+  "use_when": "Dùng cho video đêm khuya, quán bar yên tĩnh, hẹn hò hoặc cảnh cần cảm giác nhẹ nhàng, sang trọng."
+ },
+ {
+  "artist": "Kenny G",
+  "big_category": "Jazz",
+  "bpm": "80-100",
+  "description": "Jazz êm ái, giai điệu dễ nghe, pha pop và R&B, thường dùng saxophone mượt mà. Nghe thư giãn và thương mại hơn cool jazz, rất phổ biến làm nhạc nền.",
+  "example_track": "Songbird",
+  "id": "G162",
+  "level": "co_ban",
+  "mood": [
+   "thư giãn",
+   "êm ái"
+  ],
+  "name_en": "smooth jazz",
+  "name_vi": "Smooth Jazz",
+  "use_when": "Dùng làm nhạc nền video lifestyle, du lịch sang, spa hoặc cảnh cần sự êm ái không gây xao nhãng."
+ },
+ {
+  "artist": "Ornette Coleman",
+  "big_category": "Jazz",
+  "bpm": null,
+  "description": "Jazz phá vỡ mọi quy tắc về giai điệu, hòa âm và nhịp điệu, ứng tấu hoàn toàn tự do. Nghe hỗn loạn và khó đoán, khác hẳn jazz truyền thống có cấu trúc rõ ràng.",
+  "example_track": "Lonely Woman",
+  "id": "G163",
+  "level": "nang_cao",
+  "mood": [
+   "tự do",
+   "thử nghiệm"
+  ],
+  "name_en": "free jazz",
+  "name_vi": "Free Jazz",
+  "use_when": "Dùng cho video nghệ thuật thử nghiệm, cảnh hỗn loạn sáng tạo, hoặc nội dung về sự phá cách."
+ },
+ {
+  "artist": "Benny Goodman",
+  "big_category": "Jazz",
+  "bpm": "120-180",
+  "description": "Jazz khiêu vũ thập niên 1930-40 với big band, nhịp nhún nhảy và kèn đồng rộn ràng. Nghe vui vẻ, sôi động và rất dễ nhún theo, khác bebop ở chỗ swing dành cho nhảy múa, không phải để nghe kỹ thuật.",
+  "example_track": "Sing, Sing, Sing",
+  "id": "G164",
+  "level": "co_ban",
+  "mood": [
+   "vui vẻ",
+   "sôi động"
+  ],
+  "name_en": "swing",
+  "name_vi": "Swing",
+  "use_when": "Dùng cho video retro, tiệc tùng phong cách xưa, khiêu vũ hoặc cảnh cần năng lượng vui tươi cổ điển."
+ },
+ {
+  "artist": "Art Blakey & The Jazz Messengers",
+  "big_category": "Jazz",
+  "bpm": "120-140",
+  "description": "Jazz mạnh mẽ pha blues và gospel, nhịp chắc, giai điệu đầy cảm xúc soul. Nghe ấm và có hồn hơn bebop lạnh lùng, là cầu nối giữa bebop và soul jazz.",
+  "example_track": "Moanin'",
+  "id": "G165",
+  "level": "nang_cao",
+  "mood": [
+   "mạnh mẽ",
+   "có hồn"
+  ],
+  "name_en": "hard bop",
+  "name_vi": "Hard Bop",
+  "use_when": "Dùng cho video cần groove chắc, cảm xúc soul, cảnh thành phố đêm hoặc nội dung về văn hóa jazz."
+ },
+ {
+  "artist": "Ludwig van Beethoven",
+  "big_category": "Cổ điển",
+  "bpm": null,
+  "description": "Nhạc nghệ thuật phương Tây viết cho dàn nhạc, piano, violin, với cấu trúc chặt chẽ và cảm xúc sâu sắc. Nghe trang trọng, tinh tế, khác nhạc pop ở chỗ không có lời hát và nhịp điệu tự do theo cảm xúc.",
+  "example_track": "Für Elise",
+  "id": "G166",
+  "level": "co_ban",
+  "mood": [
+   "trang trọng",
+   "cảm xúc"
+  ],
+  "name_en": "classical music",
+  "name_vi": "Nhạc cổ điển",
+  "use_when": "Dùng cho video sang trọng, phim tài liệu, cảnh xúc động mạnh hoặc nội dung cần chiều sâu nghệ thuật."
+ },
+ {
+  "artist": "Johann Sebastian Bach",
+  "big_category": "Cổ điển",
+  "bpm": null,
+  "description": "Nhạc cổ điển thời kỳ Baroque (1600-1750), trang trí cầu kỳ, đối âm phức tạp và nhịp đều đặn. Nghe lộng lẫy và chi tiết hơn nhạc cổ điển thời kỳ sau, thường dùng harpsichord và dàn dây.",
+  "example_track": "Air on the G String",
+  "id": "G167",
+  "level": "trung_cap",
+  "mood": [
+   "lộng lẫy",
+   "trang trọng"
+  ],
+  "name_en": "baroque",
+  "name_vi": "Baroque",
+  "use_when": "Dùng cho video cung điện, lịch sử châu Âu, thời trang cổ điển hoặc cảnh cần sự lộng lẫy, tinh xảo."
+ },
+ {
+  "artist": "Wolfgang Amadeus Mozart",
+  "big_category": "Cổ điển",
+  "bpm": null,
+  "description": "Nhạc thời kỳ Cổ điển (1750-1820) với cấu trúc cân đối, rõ ràng, giai điệu trong sáng và thanh lịch. Nghe nhẹ nhàng, trật tự hơn Baroque cầu kỳ và lãng mạn hơn thời kỳ Romantic.",
+  "example_track": "Eine kleine Nachtmusik",
+  "id": "G168",
+  "level": "trung_cap",
+  "mood": [
+   "thanh lịch",
+   "trong sáng"
+  ],
+  "name_en": "classical",
+  "name_vi": "Nhạc cổ điển thời kỳ Cổ điển",
+  "use_when": "Dùng cho video cần cảm giác thanh lịch, cân bằng, cảnh tiệc trà, đám cưới hoặc nội dung giáo dục."
+ },
+ {
+  "artist": "Frédéric Chopin",
+  "big_category": "Cổ điển",
+  "bpm": null,
+  "description": "Nhạc thời kỳ Lãng mạn (1820-1910) với cảm xúc mãnh liệt, giai điệu dài và dàn nhạc lớn. Nghe kịch tính và say đắm hơn thời kỳ Cổ điển, rất giàu cảm xúc cá nhân.",
+  "example_track": "Nocturne in E-flat Major, Op. 9 No. 2",
+  "id": "G169",
+  "level": "trung_cap",
+  "mood": [
+   "say đắm",
+   "kịch tính"
+  ],
+  "name_en": "romantic period",
+  "name_vi": "Nhạc lãng mạn",
+  "use_when": "Dùng cho video tình yêu, cảnh xúc động mạnh, phim lãng mạn hoặc khoảnh khắc cần cảm xúc dâng trào."
+ },
+ {
+  "artist": "Max Richter",
+  "big_category": "Cổ điển",
+  "bpm": null,
+  "description": "Nhạc cổ điển viết từ thế kỷ 20 đến nay, thử nghiệm âm thanh mới, đôi khi tối giản hoặc phá cấu trúc truyền thống. Nghe hiện đại và đôi khi lạ tai hơn nhạc cổ điển cũ.",
+  "example_track": "On the Nature of Daylight",
+  "id": "G170",
+  "level": "trung_cap",
+  "mood": [
+   "sâu lắng",
+   "hiện đại"
+  ],
+  "name_en": "contemporary classical",
+  "name_vi": "Nhạc cổ điển đương đại",
+  "use_when": "Dùng cho video điện ảnh, phim ngắn, cảnh chiêm nghiệm hoặc nội dung cần nhạc cổ điển nhưng không cũ kỹ."
+ },
+ {
+  "artist": "Ludovico Einaudi",
+  "big_category": "Cổ điển",
+  "bpm": null,
+  "description": "Nhạc piano và dàn dây tối giản, giai điệu đẹp và dễ nghe, lấy cảm hứng từ cổ điển nhưng viết theo hơi thở hiện đại. Nghe nhẹ nhàng, chữa lành, khác nhạc cổ điển đương đại ở chỗ neoclassical dễ nghe và gần pop hơn.",
+  "example_track": "Nuvole Bianche",
+  "id": "G171",
+  "level": "co_ban",
+  "mood": [
+   "nhẹ nhàng",
+   "chữa lành"
+  ],
+  "name_en": "neoclassical",
+  "name_vi": "Neoclassical",
+  "use_when": "Dùng cho video chữa lành, học tập, đọc sách, cảnh hoàng hôn hoặc nội dung cần nhạc piano đẹp mà không nặng nề."
+ },
+ {
+  "artist": "Luciano Pavarotti",
+  "big_category": "Cổ điển",
+  "bpm": null,
+  "description": "Kịch hát với giọng ca cổ điển đầy nội lực, dàn nhạc lớn và câu chuyện kịch tính. Nghe hoành tráng và cảm xúc tột độ, khác musical theatre ở chỗ opera hát hoàn toàn, không có thoại nói.",
+  "example_track": "Nessun dorma",
+  "id": "G172",
+  "level": "co_ban",
+  "mood": [
+   "hoành tráng",
+   "xúc động"
+  ],
+  "name_en": "opera",
+  "name_vi": "Opera",
+  "use_when": "Dùng cho video cần cao trào cảm xúc, cảnh hoành tráng, chiến thắng hoặc nội dung về nghệ thuật đỉnh cao."
+ },
+ {
+  "artist": "Lin-Manuel Miranda",
+  "big_category": "Cổ điển",
+  "bpm": null,
+  "description": "Nhạc sân khấu Broadway kết hợp hát, thoại và vũ đạo để kể chuyện. Nghe bắt tai và kịch tính như pop, nhưng mỗi bài hát đều đẩy câu chuyện tiến lên, khác opera ở chỗ có thoại nói và giai điệu gần pop hơn.",
+  "example_track": "Alexander Hamilton",
+  "id": "G173",
+  "level": "co_ban",
+  "mood": [
+   "kịch tính",
+   "truyền cảm hứng"
+  ],
+  "name_en": "musical theatre",
+  "name_vi": "Nhạc kịch",
+  "use_when": "Dùng cho video kể chuyện, truyền cảm hứng, sân khấu hoặc cảnh cần năng lượng kịch và lời ca ý nghĩa."
+ },
+ {
+  "artist": "Enya",
+  "big_category": "World",
+  "bpm": "90-110",
+  "description": "Nhạc thư giãn với âm thanh êm dịu, synth nhẹ, tiếng thiên nhiên và giai điệu trôi chảy. Nghe mơ màng và chữa lành, khác nhạc thiền ở chỗ new age có giai điệu rõ ràng và gần pop hơn.",
+  "example_track": "Orinoco Flow",
+  "id": "G174",
+  "level": "co_ban",
+  "mood": [
+   "mơ màng",
+   "thư giãn"
+  ],
+  "name_en": "new age",
+  "name_vi": "New Age",
+  "use_when": "Dùng cho video thư giãn, du lịch thiên nhiên, spa, yoga hoặc cảnh cần không khí mơ màng, nhẹ nhàng."
+ },
+ {
+  "artist": "Deuter",
+  "big_category": "World",
+  "bpm": null,
+  "description": "Nhạc cực kỳ chậm và tối giản, dùng chuông, bát hát, tiếng thiên nhiên để đưa người nghe vào trạng thái tĩnh tâm. Nghe gần như không có giai điệu, khác new age ở chỗ nhạc thiền phục vụ thiền định chứ không phải để nghe giải trí.",
+  "example_track": "Reiki Hands of Love",
+  "id": "G175",
+  "level": "co_ban",
+  "mood": [
+   "thư giãn",
+   "tĩnh tâm"
+  ],
+  "name_en": "meditation music",
+  "name_vi": "Nhạc thiền",
+  "use_when": "Dùng cho video thiền, yoga, ngủ ngon, ASMR hoặc cảnh cần sự yên tĩnh sâu và tập trung."
+ },
+ {
+  "artist": "Buena Vista Social Club",
+  "big_category": "World",
+  "bpm": null,
+  "description": "Nhạc truyền thống và đương đại từ khắp nơi trên thế giới, hòa trộn nhạc cụ và giai điệu của nhiều nền văn hóa. Nghe đa dạng, rực rỡ, mỗi bài là một vùng đất khác nhau.",
+  "example_track": "Chan Chan",
+  "id": "G176",
+  "level": "co_ban",
+  "mood": [
+   "rực rỡ",
+   "đa văn hóa"
+  ],
+  "name_en": "world music",
+  "name_vi": "World Music",
+  "use_when": "Dùng cho video du lịch, văn hóa thế giới, ẩm thực quốc tế hoặc cảnh cần cảm giác khám phá, đa sắc màu."
+ },
+ {
+  "artist": "Paco de Lucía",
+  "big_category": "World",
+  "bpm": "100-140",
+  "description": "Nhạc và vũ đạo Tây Ban Nha với guitar flamenco, vỗ tay, gõ chân và giọng hát đầy đam mê. Nghe mãnh liệt, rực lửa, khác tango ở chỗ flamenco hoang dã và bốc lửa hơn.",
+  "example_track": "Entre dos aguas",
+  "id": "G177",
+  "level": "trung_cap",
+  "mood": [
+   "đam mê",
+   "rực lửa"
+  ],
+  "name_en": "flamenco",
+  "name_vi": "Flamenco",
+  "use_when": "Dùng cho video Tây Ban Nha, khiêu vũ, thời trang hoặc cảnh cần đam mê và năng lượng bốc lửa."
+ },
+ {
+  "artist": "Astor Piazzolla",
+  "big_category": "World",
+  "bpm": "110-130",
+  "description": "Nhạc khiêu vũ Argentina với bandoneon da diết, nhịp chặt và cảm xúc quyến rũ. Nghe gợi cảm và kịch tính, khác flamenco ở chỗ tango chậm rãi, u sầu và đậm chất đô thị hơn.",
+  "example_track": "Libertango",
+  "id": "G178",
+  "level": "trung_cap",
+  "mood": [
+   "quyến rũ",
+   "kịch tính"
+  ],
+  "name_en": "tango",
+  "name_vi": "Tango",
+  "use_when": "Dùng cho video khiêu vũ, hẹn hò, thời trang hoặc cảnh cần sự quyến rũ và kịch tính kiểu Latin."
+ },
+ {
+  "artist": "Amália Rodrigues",
+  "big_category": "World",
+  "bpm": null,
+  "description": "Nhạc buồn truyền thống Bồ Đào Nha với guitar Bồ Đào Nha và giọng hát da diết về nỗi nhớ, số phận. Nghe u buồn và sâu lắng, được ví như blues của Bồ Đào Nha.",
+  "example_track": "Gaivota",
+  "id": "G179",
+  "level": "nang_cao",
+  "mood": [
+   "u buồn",
+   "da diết"
+  ],
+  "name_en": "fado",
+  "name_vi": "Fado",
+  "use_when": "Dùng cho video về nỗi nhớ, chia ly, du lịch Lisbon hoặc cảnh cần cảm xúc buồn mà sang trọng."
+ },
+ {
+  "artist": "The Chieftains",
+  "big_category": "World",
+  "bpm": null,
+  "description": "Nhạc dân gian Ireland và Scotland với fiddle, sáo, harp và giai điệu bay bổng như cổ tích. Nghe huyền ảo, trong trẻo, khác folk Mỹ ở chỗ Celtic có âm hưởng thần thoại và biển cả.",
+  "example_track": "The Foggy Dew",
+  "id": "G180",
+  "level": "trung_cap",
+  "mood": [
+   "huyền ảo",
+   "bay bổng"
+  ],
+  "name_en": "celtic",
+  "name_vi": "Nhạc Celtic",
+  "use_when": "Dùng cho video fantasy, thiên nhiên Ireland, cổ tích hoặc cảnh cần cảm giác huyền ảo, thơ mộng."
+ },
+ {
+  "artist": "Giora Feidman",
+  "big_category": "World",
+  "bpm": null,
+  "description": "Nhạc dân gian Do Thái Đông Âu với clarinet và violin, giai điệu vừa vui nhộn vừa da diết, nghe như đang cười mà khóc. Rất đặc trưng trong đám cưới và lễ hội Do Thái.",
+  "example_track": "Hava Nagila",
+  "id": "G181",
+  "level": "nang_cao",
+  "mood": [
+   "vui nhộn",
+   "da diết"
+  ],
+  "name_en": "klezmer",
+  "name_vi": "Klezmer",
+  "use_when": "Dùng cho video lễ hội, đám cưới, văn hóa Do Thái hoặc cảnh cần năng lượng vui mà vẫn có chiều sâu."
+ },
+ {
+  "artist": "Sơn Tùng M-TP",
+  "big_category": "Việt",
+  "bpm": "100-120",
+  "description": "Nhạc pop Việt Nam hiện đại, giai điệu bắt tai, sản xuất chỉn chu, lời ca gần gũi với giới trẻ. Nghe tươi mới và đa dạng, từ ballad đến dance, là dòng nhạc chủ lưu của thị trường Việt.",
+  "example_track": "Chạy Ngay Đi",
+  "id": "G182",
+  "level": "co_ban",
+  "mood": [
+   "trẻ trung",
+   "bắt tai"
+  ],
+  "name_en": "v-pop",
+  "name_vi": "V-pop",
+  "use_when": "Dùng cho video giới trẻ Việt, trend TikTok, vlog đời sống hoặc nội dung cần nhạc Việt quen thuộc, dễ viral."
+ },
+ {
+  "artist": "Binz",
+  "big_category": "Việt",
+  "bpm": "120-140",
+  "description": "Hip hop Việt với flow tiếng Việt, beat trap hoặc boom bap, lời rap về đời sống đô thị và giới trẻ. Nghe cá tính, đường phố, khác hip hop Mỹ ở chỗ flow và chơi chữ tiếng Việt rất riêng.",
+  "example_track": "Bigcityboi",
+  "id": "G183",
+  "level": "co_ban",
+  "mood": [
+   "cá tính",
+   "năng động"
+  ],
+  "name_en": "vietnamese hip hop",
+  "name_vi": "Vietnamese Hip Hop",
+  "use_when": "Dùng cho video street style, thời trang đường phố, vlog thành phố hoặc nội dung Gen Z cần năng lượng ngầu."
+ },
+ {
+  "artist": "MCK",
+  "big_category": "Việt",
+  "bpm": "90-110",
+  "description": "Rap giai điệu Việt, vừa rap vừa hát với giai điệu buồn, chill, lời tâm trạng về tình yêu và tuổi trẻ. Nghe mềm mại và cảm xúc hơn hip hop thuần, rất hợp làm nhạc nền video tâm trạng.",
+  "example_track": "Chìm Sâu",
+  "id": "G184",
+  "level": "co_ban",
+  "mood": [
+   "buồn",
+   "chill"
+  ],
+  "name_en": "vietnamese melodic rap",
+  "name_vi": "Vietnamese Melodic Rap",
+  "use_when": "Dùng cho video tâm trạng, đêm khuya, chuyện tình yêu hoặc vlog cảm xúc của Gen Z Việt."
+ },
+ {
+  "artist": "Chế Linh",
+  "big_category": "Việt",
+  "bpm": null,
+  "description": "Nhạc vàng là dòng nhạc trữ tình Việt trước 1975, giai điệu chậm, lời ca da diết về tình yêu và quê hương. Nghe hoài cổ, sâu lắng, là ký ức âm nhạc của nhiều thế hệ người Việt.",
+  "example_track": "Thành Phố Buồn",
+  "id": "G185",
+  "level": "co_ban",
+  "mood": [
+   "hoài cổ",
+   "da diết"
+  ],
+  "name_en": "nhac vang",
+  "name_vi": "Nhạc vàng",
+  "use_when": "Dùng cho video hoài niệm, Sài Gòn xưa, câu chuyện thế hệ trước hoặc cảnh cần cảm xúc hoài cổ đậm chất Việt."
+ },
+ {
+  "artist": "Lệ Quyên",
+  "big_category": "Việt",
+  "bpm": null,
+  "description": "Bolero Việt với nhịp chậm 4/4, giai điệu buồn và lời ca sầu não về tình yêu dang dở. Nghe rất đặc trưng, dễ nhận ra ngay từ vài nốt đầu, khác nhạc vàng ở chỗ bolero có nhịp điệu và cách hát riêng rõ rệt hơn.",
+  "example_track": "Sầu Tím Thiệp Hồng",
+  "id": "G186",
+  "level": "co_ban",
+  "mood": [
+   "buồn",
+   "sầu não"
+  ],
+  "name_en": "bolero",
+  "name_vi": "Bolero",
+  "use_when": "Dùng cho video hoài cổ, quán cà phê xưa, phòng trà hoặc cảnh cần cảm xúc buồn đậm chất Việt Nam."
+ },
+ {
+  "artist": "Khánh Ly",
+  "big_category": "Việt",
+  "bpm": null,
+  "description": "Nhạc trữ tình Việt, lời ca thơ mộng về tình yêu, quê hương và con người, giai điệu nhẹ nhàng, sâu lắng. Rộng hơn bolero và nhạc vàng, bao gồm cả nhạc Trịnh và các ca khúc trữ tình hiện đại.",
+  "example_track": "Diễm Xưa",
+  "id": "G187",
+  "level": "co_ban",
+  "mood": [
+   "thơ mộng",
+   "sâu lắng"
+  ],
+  "name_en": "nhac tru tinh",
+  "name_vi": "Nhạc trữ tình",
+  "use_when": "Dùng cho video tình yêu nhẹ nhàng, thơ ca, Đà Lạt, Huế hoặc cảnh cần cảm xúc trữ tình, tinh tế."
+ },
+ {
+  "artist": "Trọng Tấn",
+  "big_category": "Việt",
+  "bpm": null,
+  "description": "Nhạc cách mạng Việt Nam, giai điệu hùng tráng, lời ca về đất nước, chiến đấu và niềm tự hào dân tộc. Nghe hào hùng, trang nghiêm, khác hẳn nhạc trữ tình nhẹ nhàng.",
+  "example_track": "Đất Nước Trọn Niềm Vui",
+  "id": "G188",
+  "level": "co_ban",
+  "mood": [
+   "hào hùng",
+   "tự hào"
+  ],
+  "name_en": "nhac cach mang",
+  "name_vi": "Nhạc cách mạng",
+  "use_when": "Dùng cho video lịch sử Việt Nam, lễ kỷ niệm, ngày lễ lớn hoặc cảnh cần cảm xúc tự hào dân tộc."
+ },
+ {
+  "artist": "NSND Thu Hiền",
+  "big_category": "Việt",
+  "bpm": null,
+  "description": "Dân ca Việt Nam như quan họ, hò, lý, chầu văn, với giai điệu mộc mạc gắn với làng quê và sinh hoạt cộng đồng. Nghe đằm thắm, chân chất, là gốc rễ của âm nhạc Việt.",
+  "example_track": "Câu Hò Bên Bờ Hiền Lương",
+  "id": "G189",
+  "level": "co_ban",
+  "mood": [
+   "mộc mạc",
+   "đằm thắm"
+  ],
+  "name_en": "vietnamese folk music",
+  "name_vi": "Nhạc dân ca Việt",
+  "use_when": "Dùng cho video làng quê Việt, lễ hội truyền thống, văn hóa dân gian hoặc cảnh cần cảm giác chân chất, quê hương."
+ },
+ {
+  "artist": "Kabza De Small",
+  "big_category": "Mới 2024–2026",
+  "bpm": "110-120",
+  "description": "Nhạc house Nam Phi nổi toàn cầu từ 2023-2024, bass sâu, nhịp log drum đặc trưng và piano jazz nhẹ. Nghe vừa chill vừa nhảy được, khác afro house ở chỗ amapiano chậm và mượt hơn.",
+  "example_track": "Abalele",
+  "id": "G190",
+  "level": "trung_cap",
+  "mood": [
+   "chill",
+   "nhảy múa"
+  ],
+  "name_en": "amapiano",
+  "name_vi": "Amapiano",
+  "use_when": "Dùng cho video dance trend, du lịch, lifestyle sang chảnh hoặc cảnh cần groove hiện đại đang hot trên TikTok."
+ },
+ {
+  "artist": "Black Coffee",
+  "big_category": "Mới 2024–2026",
+  "bpm": "120-125",
+  "description": "House pha nhịp điệu châu Phi, trống dồn dập, vocal da diết và bass sâu, đang bùng nổ ở các lễ hội 2024-2026. Nghe mạnh mẽ và hoang dã hơn amapiano, rất hợp sân khấu lớn.",
+  "example_track": "Drive",
+  "id": "G191",
+  "level": "trung_cap",
+  "mood": [
+   "mạnh mẽ",
+   "hoang dã"
+  ],
+  "name_en": "afro house",
+  "name_vi": "Afro House",
+  "use_when": "Dùng cho video lễ hội, thời trang, du lịch châu Phi hoặc cảnh cần năng lượng house hiện đại, sang trọng."
+ },
+ {
+  "artist": "MC Fioti",
+  "big_category": "Mới 2024–2026",
+  "bpm": "130-150",
+  "description": "Funk đường phố Brazil, beat dồn dập, bass nặng và vocal hô hào, lan toàn cầu qua TikTok và Spotify 2024-2025. Nghe cực kỳ sôi động và gợi cảm, khác phonk ở chỗ funk carioca có vocal và nhịp samba-funk rõ rệt.",
+  "example_track": "Bum Bum Tam Tam",
+  "id": "G192",
+  "level": "trung_cap",
+  "mood": [
+   "sôi động",
+   "gợi cảm"
+  ],
+  "name_en": "brazilian funk",
+  "name_vi": "Brazilian Funk (Funk Carioca)",
+  "use_when": "Dùng cho video dance challenge, tiệc tùng, thể thao hoặc cảnh cần năng lượng bùng nổ kiểu Latin."
+ },
+ {
+  "artist": "Cookiee Kawaii",
+  "big_category": "Mới 2024–2026",
+  "bpm": "130-140",
+  "description": "Nhạc club New Jersey với beat nhanh, vocal chặt nhỏ và nhịp bouncy đặc trưng, hồi sinh mạnh trên TikTok 2024-2025. Nghe vui nhộn, nhảy nhót, khác house thường ở chỗ jersey club nhanh và nghịch hơn.",
+  "example_track": "Vibe (If I Back It Up)",
+  "id": "G193",
+  "level": "trung_cap",
+  "mood": [
+   "vui nhộn",
+   "nhảy múa"
+  ],
+  "name_en": "jersey club",
+  "name_vi": "Jersey Club",
+  "use_when": "Dùng cho video dance, thử thách TikTok, vlog bạn bè hoặc cảnh cần beat vui, bouncy và trẻ trung."
+ },
+ {
+  "artist": "Cash Cobain",
+  "big_category": "Mới 2024–2026",
+  "bpm": null,
+  "description": "Drill pha R&B mượt mà, beat drill nhưng giai điệu gợi cảm, lãng mạn, nổi lên từ New York 2023-2024. Nghe vừa ngầu vừa quyến rũ, khác drill thường ở chỗ sexy drill mềm mại và hát nhiều hơn rap gắt.",
+  "example_track": "Fisherrr",
+  "id": "G194",
+  "level": "trung_cap",
+  "mood": [
+   "quyến rũ",
+   "ngầu"
+  ],
+  "name_en": "sexy drill",
+  "name_vi": "Sexy Drill",
+  "use_when": "Dùng cho video thời trang, hẹn hò, đêm thành phố hoặc nội dung cần vibe ngầu mà vẫn gợi cảm."
+ },
+ {
+  "artist": "Playboi Carti",
+  "big_category": "Mới 2024–2026",
+  "bpm": null,
+  "description": "Trap thế hệ mới với synth chói, bass nặng và năng lượng hỗn loạn, gắn với Playboi Carti và làn sóng 2024-2025. Nghe bùng nổ, choáng ngợp, khác trap thường ở chỗ rage ồn ào và điện tử hơn nhiều.",
+  "example_track": "ALL RED",
+  "id": "G195",
+  "level": "trung_cap",
+  "mood": [
+   "bùng nổ",
+   "hỗn loạn"
+  ],
+  "name_en": "rage",
+  "name_vi": "Rage",
+  "use_when": "Dùng cho video cần cao trào cực mạnh, gaming, thể thao mạo hiểm hoặc cảnh chuyển đổi bùng nổ."
+ },
+ {
+  "artist": "Kordhell",
+  "big_category": "Mới 2024–2026",
+  "bpm": "120-140",
+  "description": "Phonk gắn với văn hóa drift xe, beat cowbell đặc trưng, bass trầm và sample giọng ma mị, viral mạnh trên TikTok và YouTube Shorts 2024-2025. Nghe tối, ngầu và tốc độ, khác phonk thường ở chỗ drift phonk gắn chặt với hình ảnh xe và đêm.",
+  "example_track": "FATALITY",
+  "id": "G196",
+  "level": "trung_cap",
+  "mood": [
+   "tối",
+   "ngầu"
+  ],
+  "name_en": "phonk drift",
+  "name_vi": "Phonk Drift",
+  "use_when": "Dùng cho video xe, drift, đêm thành phố, gym hoặc cảnh cần vibe tối, ngầu và tốc độ."
+ },
+ {
+  "artist": "$uicideboy$",
+  "big_category": "Hip hop/Rap",
+  "bpm": "130-150",
+  "description": "Nhánh trap u ám, nặng nề với beat trầm, sample ma mị và lời ca về bóng tối, tuyệt vọng. Khác trap thường ở không khí rùng rợn, chậm rãi và đầy ám ảnh.",
+  "example_track": "THE_EVIL_THAT_MEN_DO",
+  "id": "G197",
+  "level": "trung_cap",
+  "mood": [
+   "u ám",
+   "nặng nề"
+  ],
+  "name_en": "Dark Trap",
+  "name_vi": "Dark Trap",
+  "use_when": "Dùng cho video kinh dị, edit tối màu, nội dung về đêm khuya hoặc những cảnh cần cảm giác căng thẳng, ma mị."
+ },
+ {
+  "artist": "The Weeknd & Playboi Carti",
+  "big_category": "Hip hop/Rap",
+  "bpm": "130-150",
+  "description": "Trap tối giản với beat nhẹ, hi-hat lướt và giai điệu bắt tai, nghe bồng bềnh như đang lơ lửng. Nổi lên từ Atlanta rồi lan mạnh trên TikTok và SoundCloud.",
+  "example_track": "Timeless",
+  "id": "G198",
+  "level": "trung_cap",
+  "mood": [
+   "bồng bềnh",
+   "thư giãn"
+  ],
+  "name_en": "Plugg",
+  "name_vi": "Plugg",
+  "use_when": "Dùng cho video thời trang, vlog đường phố, edit chuyển động chậm hoặc nội dung cần vibe trẻ, hiện đại mà không quá ồn ào."
+ },
+ {
+  "artist": "Nightcore",
+  "big_category": "Điện tử",
+  "bpm": "150-175",
+  "description": "Trào lưu remix tăng tốc và tăng tông giọng một bài hát có sẵn, nghe cao vút, sôi động và đậm chất anime. Phổ biến trên YouTube và TikTok từ những năm 2010 đến nay.",
+  "example_track": "Rockefeller Street",
+  "id": "G199",
+  "level": "co_ban",
+  "mood": [
+   "sôi động",
+   "cao vút"
+  ],
+  "name_en": "Nightcore",
+  "name_vi": "Nightcore",
+  "use_when": "Dùng cho video edit anime, montage nhanh, nội dung game hoặc những đoạn cần năng lượng cao, nhịp gấp gáp."
+ },
+ {
+  "artist": "1nonly",
+  "big_category": "Hip hop/Rap",
+  "bpm": "140-160",
+  "description": "Micro-genre nổi trên TikTok 2023–2024, pha trộn rage, trap và synth chói tai với giọng hát méo mó, ma thuật. Nghe hỗn loạn, siêu thực như một nghi lễ số.",
+  "example_track": "DANGEROUS",
+  "id": "G200",
+  "level": "nang_cao",
+  "mood": [
+   "hỗn loạn",
+   "siêu thực"
+  ],
+  "name_en": "Sigilkore",
+  "name_vi": "Sigilkore",
+  "use_when": "Dùng cho edit phong cách Y2K, video game, nội dung Gen Z hoặc những cảnh cần cảm giác điên cuồng, khác lạ."
+ },
+ {
+  "artist": "Bladee",
+  "big_category": "Hip hop/Rap",
+  "bpm": "120-140",
+  "description": "Rap buồn với beat mơ màng, chậm rãi, lời ca về cô đơn, thất tình và khủng hoảng. Gắn với cộng đồng Drain Gang, nghe như một lời thì thầm lúc nửa đêm.",
+  "example_track": "Reality Surf",
+  "id": "G201",
+  "level": "trung_cap",
+  "mood": [
+   "buồn bã",
+   "mơ màng"
+  ],
+  "name_en": "Sad Rap",
+  "name_vi": "Sad Rap",
+  "use_when": "Dùng cho video tâm trạng, vlog đêm khuya, edit mưa hoặc những khoảnh khắc cần cảm giác cô đơn, suy tư."
+ },
+ {
+  "artist": "American Football",
+  "big_category": "Rock",
+  "bpm": "120-160",
+  "description": "Nhánh emo từ vùng Trung Tây nước Mỹ, guitar twinkly đan xen phức tạp, giọng hát chân thành và lời ca về tuổi trẻ, nỗi nhớ. Nghe vừa buồn vừa trong trẻo.",
+  "example_track": "Never Meant",
+  "id": "G202",
+  "level": "trung_cap",
+  "mood": [
+   "hoài niệm",
+   "trong trẻo"
+  ],
+  "name_en": "Midwest Emo",
+  "name_vi": "Midwest Emo",
+  "use_when": "Dùng cho video mùa thu, vlog tuổi trẻ, nội dung hoài niệm hoặc những cảnh hoàng hôn cần cảm giác vừa buồn vừa đẹp."
+ },
+ {
+  "artist": "Alcest",
+  "big_category": "Rock",
+  "bpm": "120-180",
+  "description": "Sự kết hợp giữa black metal dữ dội và shoegaze mơ màng: guitar ầm ào, tiếng hét xé lòng nhưng giai điệu lại bay bổng, đẹp đẽ. Vừa tàn bạo vừa lãng mạn.",
+  "example_track": "Autre Temps",
+  "id": "G203",
+  "level": "nang_cao",
+  "mood": [
+   "mơ màng",
+   "dữ dội"
+  ],
+  "name_en": "Blackgaze",
+  "name_vi": "Blackgaze",
+  "use_when": "Dùng cho video thiên nhiên hùng vĩ, cảnh núi rừng, sương mù hoặc nội dung cần cảm giác vừa đẹp vừa choáng ngợp."
+ },
+ {
+  "artist": "Lebanon Hanover",
+  "big_category": "Điện tử",
+  "bpm": "110-130",
+  "description": "Nhạc wave lạnh lẽo từ châu Âu những năm 1980: synth tối giản, bass trầm, giọng hát xa cách. Nghe như một đêm đông trong thành phố vắng, buồn mà sang.",
+  "example_track": "Gallowdance",
+  "id": "G204",
+  "level": "nang_cao",
+  "mood": [
+   "lạnh lẽo",
+   "buồn bã"
+  ],
+  "name_en": "Coldwave",
+  "name_vi": "Coldwave",
+  "use_when": "Dùng cho video phong cách gothic, thời trang đen, nội dung đêm khuya hoặc những cảnh cần không khí lạnh, bí ẩn."
+ },
+ {
+  "artist": "My Dying Bride",
+  "big_category": "Rock",
+  "bpm": "60-100",
+  "description": "Sự giao thoa giữa death metal và doom metal: riff chậm, nặng trĩu, giọng growl trầm và không khí tang tóc. Nghe như một đám tang kéo dài trong bóng tối.",
+  "example_track": "The Cry of Mankind",
+  "id": "G205",
+  "level": "nang_cao",
+  "mood": [
+   "tang tóc",
+   "nặng nề"
+  ],
+  "name_en": "Death-Doom",
+  "name_vi": "Death-Doom",
+  "use_when": "Dùng cho video kinh dị, nội dung về sự mất mát, cảnh mưa buồn hoặc những đoạn cần cảm giác nặng nề, u tối tột độ."
+ },
+ {
+  "artist": "Shape of Despair",
+  "big_category": "Rock",
+  "bpm": "40-70",
+  "description": "Thể loại metal chậm nhất, nặng nhất: tempo rề rề, guitar kéo dài như tiếng chuông nhà thờ, giọng growl sâu thẳm. Nghe như thời gian ngừng lại giữa một lễ tang.",
+  "example_track": "Angels of Distress",
+  "id": "G206",
+  "level": "nang_cao",
+  "mood": [
+   "tang tóc",
+   "trầm mặc"
+  ],
+  "name_en": "Funeral Doom",
+  "name_vi": "Funeral Doom",
+  "use_when": "Dùng cho video nghệ thuật, cảnh thiên nhiên hoang vắng, nội dung triết lý về cái chết hoặc những khoảnh khắc cần sự tĩnh lặng tuyệt đối."
+ },
+ {
+  "artist": "Dream Theater",
+  "big_category": "Rock",
+  "bpm": "100-160",
+  "description": "Metal kỹ thuật cao với cấu trúc phức tạp, đổi nhịp liên tục và những đoạn solo dài đầy điêu luyện. Nghe vừa mạnh mẽ vừa trí tuệ, như một bản giao hưởng kim loại.",
+  "example_track": "Pull Me Under",
+  "id": "G207",
+  "level": "trung_cap",
+  "mood": [
+   "mạnh mẽ",
+   "phức tạp"
+  ],
+  "name_en": "Progressive Metal",
+  "name_vi": "Progressive Metal",
+  "use_when": "Dùng cho video công nghệ, montage kỹ thuật, nội dung về sự chinh phục hoặc những cảnh cần cảm giác hoành tráng, đầy kỹ năng."
+ },
+ {
+  "artist": "The Dillinger Escape Plan",
+  "big_category": "Rock",
+  "bpm": "140-200",
+  "description": "Hardcore punk lai math rock: nhịp điệu gãy khúc, đổi liên tục như một bài toán, tiếng hét dữ dội và guitar chát chúa. Nghe hỗn loạn nhưng tính toán đến từng nốt.",
+  "example_track": "43% Burnt",
+  "id": "G208",
+  "level": "nang_cao",
+  "mood": [
+   "hỗn loạn",
+   "dữ dội"
+  ],
+  "name_en": "Mathcore",
+  "name_vi": "Mathcore",
+  "use_when": "Dùng cho video hành động, edit cắt nhanh, nội dung thể thao mạo hiểm hoặc những cảnh cần năng lượng bùng nổ, khó đoán."
+ },
+ {
+  "artist": "Amebix",
+  "big_category": "Rock",
+  "bpm": "150-200",
+  "description": "Punk thô ráp, bẩn thỉu với guitar rè, trống dồn dập và lời ca phản kháng xã hội. Âm thanh như tiếng gầm của đường phố, giận dữ và không khoan nhượng.",
+  "example_track": "Arise!",
+  "id": "G209",
+  "level": "nang_cao",
+  "mood": [
+   "giận dữ",
+   "thô ráp"
+  ],
+  "name_en": "Crust Punk",
+  "name_vi": "Crust Punk",
+  "use_when": "Dùng cho video phản kháng, nội dung xã hội, edit đường phố hoặc những cảnh cần cảm giác nổi loạn, gai góc."
+ },
+ {
+  "artist": "Crass",
+  "big_category": "Rock",
+  "bpm": "140-180",
+  "description": "Punk gắn liền với tư tưởng vô chính phủ: lời ca chính trị trực diện, âm thanh tối giản, thô ráp và phong cách DIY. Âm nhạc là tuyên ngôn, không chỉ để nghe.",
+  "example_track": "Bata Motel",
+  "id": "G210",
+  "level": "nang_cao",
+  "mood": [
+   "phản kháng",
+   "trực diện"
+  ],
+  "name_en": "Anarcho-Punk",
+  "name_vi": "Anarcho-Punk",
+  "use_when": "Dùng cho video tài liệu xã hội, nội dung về phong trào, lịch sử punk hoặc những đoạn cần thái độ phản kháng rõ ràng."
+ },
+ {
+  "artist": "The Cramps",
+  "big_category": "Rock",
+  "bpm": "140-190",
+  "description": "Rockabilly pha punk và kinh dị: double bass slap dồn dập, guitar rít và hình ảnh quái vật, zombie. Nghe vừa nhảy nhót vừa rùng rợn, như một bữa tiệc Halloween thập niên 1950.",
+  "example_track": "Human Fly",
+  "id": "G211",
+  "level": "trung_cap",
+  "mood": [
+   "quái dị",
+   "sôi động"
+  ],
+  "name_en": "Psychobilly",
+  "name_vi": "Psychobilly",
+  "use_when": "Dùng cho video Halloween, nội dung retro quái dị, edit xe cổ hoặc những cảnh cần vibe vừa cổ điển vừa nổi loạn."
+ },
+ {
+  "artist": "Elvis Presley",
+  "big_category": "Rock",
+  "bpm": "140-200",
+  "description": "Một trong những thể loại rock đầu tiên: country pha rhythm and blues, guitar twang, double bass slap và giọng hát trẻ trung. Nghe vui tươi, hoang dại như nước Mỹ thập niên 1950.",
+  "example_track": "That's All Right",
+  "id": "G212",
+  "level": "co_ban",
+  "mood": [
+   "vui tươi",
+   "hoang dại"
+  ],
+  "name_en": "Rockabilly",
+  "name_vi": "Rockabilly",
+  "use_when": "Dùng cho video retro, xe cổ, thời trang thập niên 1950 hoặc những cảnh cần năng lượng vui vẻ, cổ điển."
+ },
+ {
+  "artist": "Kyuss",
+  "big_category": "Rock",
+  "bpm": "90-120",
+  "description": "Rock sa mạc từ California: riff nặng, khô khốc, tempo vừa phải, nghe như đang lái xe giữa hoang mạc lúc hoàng hôn. Gần stoner rock nhưng mộc mạc và nắng gió hơn.",
+  "example_track": "Green Machine",
+  "id": "G213",
+  "level": "nang_cao",
+  "mood": [
+   "khô khốc",
+   "tự do"
+  ],
+  "name_en": "Desert Rock",
+  "name_vi": "Desert Rock",
+  "use_when": "Dùng cho video road trip, cảnh sa mạc, hoàng hôn hoặc nội dung du lịch bụi cần cảm giác phóng khoáng, bụi bặm."
+ },
+ {
+  "artist": "Magma",
+  "big_category": "Rock",
+  "bpm": null,
+  "description": "Thể loại kỳ lạ nhất của prog rock, do ban nhạc Pháp Magma sáng tạo: hát bằng ngôn ngữ tự chế Kobaïan, hợp xướng opera, nhịp điệu dồn dập. Nghe như nghi lễ của một hành tinh khác.",
+  "example_track": "Mekanïk Destruktïw Kommandöh",
+  "id": "G214",
+  "level": "nang_cao",
+  "mood": [
+   "kỳ lạ",
+   "hoành tráng"
+  ],
+  "name_en": "Zeuhl",
+  "name_vi": "Zeuhl",
+  "use_when": "Dùng cho video khoa học viễn tưởng, nội dung về vũ trụ, nghệ thuật thử nghiệm hoặc những cảnh cần cảm giác hoàn toàn khác biệt."
+ },
+ {
+  "artist": "Soft Machine",
+  "big_category": "Rock",
+  "bpm": null,
+  "description": "Dòng prog rock nhẹ nhàng, dí dỏm từ thành phố Canterbury, Anh: pha jazz, psychedelic và pop Anh, giai điệu bay bổng, lời ca hài hước. Nghe vừa trí tuệ vừa vui tươi.",
+  "example_track": "Moon in June",
+  "id": "G215",
+  "level": "nang_cao",
+  "mood": [
+   "bay bổng",
+   "dí dỏm"
+  ],
+  "name_en": "Canterbury Scene",
+  "name_vi": "Canterbury Scene",
+  "use_when": "Dùng cho video du lịch châu Âu, nội dung nghệ thuật, vlog thư giãn hoặc những cảnh cần cảm giác mơ màng, lãng mạn kiểu Anh."
+ },
+ {
+  "artist": "Toto",
+  "big_category": "Pop",
+  "bpm": "90-120",
+  "description": "Soft rock mượt mà cuối thập niên 1970, đầu 1980: giai điệu êm ái, hòa âm tinh tế, nghe như đang lênh đênh trên du thuyền giữa biển xanh. Sang trọng, thư giãn và đầy hoài niệm.",
+  "example_track": "Africa",
+  "id": "G216",
+  "level": "co_ban",
+  "mood": [
+   "thư giãn",
+   "sang trọng"
+  ],
+  "name_en": "Yacht Rock",
+  "name_vi": "Yacht Rock",
+  "use_when": "Dùng cho video du lịch biển, resort, vlog mùa hè hoặc nội dung cần cảm giác nhẹ nhàng, sang chảnh kiểu retro."
+ },
+ {
+  "artist": "Céline Dion",
+  "big_category": "Pop",
+  "bpm": "70-110",
+  "description": "Nhạc pop nhẹ nhàng, trau chuốt dành cho khán giả trưởng thành: ballad trữ tình, giai điệu dễ nghe, giọng hát cảm xúc. Nghe ấm áp, lịch sự, không bao giờ quá ồn ào.",
+  "example_track": "My Heart Will Go On",
+  "id": "G217",
+  "level": "co_ban",
+  "mood": [
+   "ấm áp",
+   "trữ tình"
+  ],
+  "name_en": "Adult Contemporary",
+  "name_vi": "Adult Contemporary",
+  "use_when": "Dùng cho video đám cưới, kỷ niệm, nội dung gia đình hoặc những cảnh cần cảm xúc nhẹ nhàng, trang trọng."
+ },
+ {
+  "artist": "Macross 82-99",
+  "big_category": "Điện tử",
+  "bpm": "100-120",
+  "description": "Nhạc điện tử vui tươi, sample disco và city pop Nhật thập niên 1980 rồi phối lại với beat funky, bass nảy. Nghe như một buổi tiệc retro trong tương lai, đầy màu sắc anime.",
+  "example_track": "Fun Tonight",
+  "id": "G218",
+  "level": "trung_cap",
+  "mood": [
+   "vui tươi",
+   "retro"
+  ],
+  "name_en": "Future Funk",
+  "name_vi": "Future Funk",
+  "use_when": "Dùng cho video phong cách anime, thời trang retro, edit màu sắc rực rỡ hoặc nội dung cần vibe vui vẻ, hoài cổ kiểu Nhật."
+ },
+ {
+  "artist": "Pérez Prado",
+  "big_category": "Latin",
+  "bpm": null,
+  "description": "Nhạc khiêu vũ sôi động từ Cuba thập niên 1940–1950: kèn đồng rực rỡ, nhịp điệu dồn dập, giai điệu bốc lửa. Nghe là muốn nhảy, như một đêm vũ trường Havana xưa.",
+  "example_track": "Mambo No. 5",
+  "id": "G219",
+  "level": "co_ban",
+  "mood": [
+   "sôi động",
+   "bốc lửa"
+  ],
+  "name_en": "Mambo",
+  "name_vi": "Mambo",
+  "use_when": "Dùng cho video khiêu vũ, tiệc tùng, nội dung Latin hoặc những cảnh cần năng lượng bùng nổ, vui nhộn."
+ },
+ {
+  "artist": "Los Ángeles Azules",
+  "big_category": "Latin",
+  "bpm": "90-100",
+  "description": "Nhạc khiêu vũ dân gian Colombia: nhịp điệu lả lướt, kèn accordion và trống tạo cảm giác vừa vui vừa lãng mạn. Nghe như một lễ hội đường phố ở vùng Caribe.",
+  "example_track": "Cómo Te Voy a Olvidar",
+  "id": "G220",
+  "level": "co_ban",
+  "mood": [
+   "vui tươi",
+   "lãng mạn"
+  ],
+  "name_en": "Cumbia",
+  "name_vi": "Cumbia",
+  "use_when": "Dùng cho video tiệc tùng, du lịch Mỹ Latinh, nội dung khiêu vũ hoặc những cảnh cần không khí lễ hội ấm áp."
+ },
+ {
+  "artist": "Juan Luis Guerra",
+  "big_category": "Latin",
+  "bpm": "120-160",
+  "description": "Nhạc khiêu vũ quốc dân của Cộng hòa Dominica: nhịp 2/4 nhanh, kèn đồng rộn ràng, accordion vui nhộn. Nghe là chân muốn nhún nhảy theo, tràn đầy năng lượng Caribe.",
+  "example_track": "La Bilirrubina",
+  "id": "G221",
+  "level": "co_ban",
+  "mood": [
+   "vui tươi",
+   "rộn ràng"
+  ],
+  "name_en": "Merengue",
+  "name_vi": "Merengue",
+  "use_when": "Dùng cho video khiêu vũ, tiệc bãi biển, nội dung du lịch Caribe hoặc những cảnh cần năng lượng vui vẻ, sôi động."
+ },
+ {
+  "artist": "Luiz Gonzaga",
+  "big_category": "Latin",
+  "bpm": "100-140",
+  "description": "Nhạc khiêu vũ dân gian vùng Đông Bắc Brazil: accordion, zabumba và triangle tạo nhịp điệu lả lướt, ấm áp. Nghe như một đêm hội làng Brazil, mộc mạc mà say đắm.",
+  "example_track": "Asa Branca",
+  "id": "G222",
+  "level": "trung_cap",
+  "mood": [
+   "ấm áp",
+   "mộc mạc"
+  ],
+  "name_en": "Forró",
+  "name_vi": "Forró",
+  "use_when": "Dùng cho video du lịch Brazil, nội dung văn hóa dân gian, tiệc ngoài trời hoặc những cảnh cần cảm giác ấm áp, gần gũi."
+ },
+ {
+  "artist": "Hibari Misora",
+  "big_category": "World",
+  "bpm": null,
+  "description": "Dòng nhạc trữ tình truyền thống của Nhật Bản: giai điệu da diết, giọng hát rung ngân đầy cảm xúc, lời ca về quê hương, tình yêu và nỗi nhớ. Nghe như một bài ca buồn trong đêm mưa Tokyo.",
+  "example_track": "Kawa No Nagare No Youni",
+  "id": "G223",
+  "level": "co_ban",
+  "mood": [
+   "da diết",
+   "hoài niệm"
+  ],
+  "name_en": "Enka",
+  "name_vi": "Enka",
+  "use_when": "Dùng cho video về Nhật Bản, nội dung hoài niệm, cảnh mưa hoặc những khoảnh khắc cần cảm xúc sâu lắng, truyền thống."
+ },
+ {
+  "artist": "Pizzicato Five",
+  "big_category": "World Pop",
+  "bpm": "110-130",
+  "description": "Nhạc pop Nhật thập niên 1990 từ khu Shibuya, Tokyo: pha bossa nova, lounge, pop Pháp và điện tử, nghe thời thượng, vui tươi và đầy phong cách. Như một buổi dạo phố Tokyo đầy màu sắc.",
+  "example_track": "Twiggy Twiggy",
+  "id": "G224",
+  "level": "nang_cao",
+  "mood": [
+   "thời thượng",
+   "vui tươi"
+  ],
+  "name_en": "Shibuya-kei",
+  "name_vi": "Shibuya-kei",
+  "use_when": "Dùng cho video thời trang, du lịch Tokyo, vlog đô thị hoặc nội dung cần vibe trẻ trung, sành điệu kiểu Nhật thập niên 1990."
+ },
+ {
+  "artist": "Soobin",
+  "big_category": "Việt",
+  "bpm": "80-100",
+  "description": "R&B phiên bản Việt: giai điệu mượt mà, lời ca tiếng Việt về tình yêu hiện đại, pha trộn ballad và hip hop. Nghe vừa quốc tế vừa gần gũi, là dòng nhạc trẻ Việt được nghe nhiều nhất thập niên 2010–2020.",
+  "example_track": "Phía Sau Một Cô Gái",
+  "id": "G225",
+  "level": "co_ban",
+  "mood": [
+   "lãng mạn",
+   "mượt mà"
+  ],
+  "name_en": "Viet R&B",
+  "name_vi": "Viet R&B",
+  "use_when": "Dùng cho video tình yêu, vlog đời sống, nội dung về giới trẻ Việt hoặc những cảnh cần nhạc nền tiếng Việt hiện đại, dễ nghe."
+ },
+ {
+  "artist": "Chế Linh",
+  "big_category": "Việt",
+  "bpm": "70-110",
+  "description": "Tên gọi dân dã của dòng nhạc trữ tình Việt Nam với giai điệu sướt mướt, lời ca da diết về tình yêu, quê hương và nỗi buồn. Khác bolero ở chỗ nhạc sến bao quát hơn, gồm cả những bài nhạc vàng không theo đúng nhịp bolero.",
+  "example_track": "Thành Phố Buồn",
+  "id": "G226",
+  "level": "co_ban",
+  "mood": [
+   "da diết",
+   "buồn bã"
+  ],
+  "name_en": "Nhạc Sến",
+  "name_vi": "Nhạc Sến",
+  "use_when": "Dùng cho video hoài niệm, nội dung về Sài Gòn xưa, cảnh quê hương hoặc những khoảnh khắc cần cảm xúc sến, chân thành kiểu Việt Nam."
+ }
+]
