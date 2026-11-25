@@ -19,7 +19,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Mây cao mỏng, nhẹ, gồm tinh thể băng, trông như sợi tơ, lông vũ hoặc dải mỏng màu trắng, trong suốt nên vẫn nhìn xuyên thấy Mặt Trời. Thường xuất hiện rời rạc thành từng sợi dài, có khi tạo vệt rủ (fall streaks) bên dưới. Hoàng hôn có thể nhuộm mây vàng hoặc đỏ.
 - Báo hiệu thời tiết: Bản thân mây ti không gây mưa (tinh thể băng rơi xuống sẽ tan/bốc hơi trước khi chạm đất). Mây ti rời rạc riêng lẻ ít ý nghĩa; nhưng nhiều mây ti dày lên và lan rộng thường báo hiệu frông thời tiết đang đến gần, thời tiết sắp xấu đi, có thể có mưa hoặc bão trong thời gian tới.
 - Khi nào thường thấy: Quanh năm, ở rìa trước của frông ấm, trên đỉnh giông bão và xoáy thuận nhiệt đới (tán mây giông lan ra), hoặc do gió dòng tia (jet stream) kéo dài thành dải. Ban ngày ít hơn, ban đêm nhiều hơn theo dữ liệu vệ tinh.
-- Ghi chú: Tên tiếng Việt 'Mây ti' theo brief dự án. Ảnh là rìa frông mây ti (cirrus front), đúng chi Cirrus. local_file là đường dẫn đích, file chưa được tải về trong batch này.
+- Ghi chú: Tên tiếng Việt 'Mây ti' là tên quen dùng. Ảnh là rìa frông mây ti (cirrus front), đúng chi Cirrus.
 - Ảnh: Ximonic (Simo Räsänen) — CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File%3ACirrus_front_over_Austnesfjorden%2C_Austv%C3%A5g%C3%B8ya%2C_Lofoten%2C_Norway%2C_2015_April.jpg) — file `images/cirrus.jpg`
 - Nguồn: [Wikipedia EN — Cirrus cloud](https://en.wikipedia.org/wiki/Cirrus_cloud); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html); [Wikipedia EN — List of cloud types](https://en.m.wikipedia.org/wiki/List_of_cloud_types)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.
@@ -30,7 +30,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Mảng mây trắng nhỏ, mỏng như vảy cá, gồm nhiều 'mây con' (cloudlet) nhỏ — mỗi cụm không lớn hơn một ngón tay giơ ra ở tầm tay. Không có bóng xám, hơi trong mờ, thường xếp thành hàng hoặc gợn sóng như 'trời vảy cá thu' (mackerel sky). Phân biệt với mây trung tích (altocumulus) nhờ cụm mây nhỏ hơn và ở cao hơn.
 - Báo hiệu thời tiết: Thường chỉ là giai đoạn chuyển tiếp ngắn ngủi trong vùng mây ti và nhanh chóng biến thành mây ti tầng. Nếu xuất hiện thành mảng cùng mây ti/mây ti tầng và lan rộng, thường báo mưa sau khoảng 8–10 giờ (lâu hơn nếu frông di chuyển chậm). Chỉ vài mảng nhỏ thì thời tiết tốt vẫn tiếp tục; xuất hiện sau mưa thường nghĩa là trời đang tốt dần lên. Thỉnh thoảng có virga (mưa rơi không tới đất).
 - Khi nào thường thấy: Thường thấy ở rìa trước của frông ấm, cùng các mây ti khác; đôi khi hình thành ngắn ngủi khi một phần tán đe giông (cumulonimbus) vỡ ra. Thường tồn tại ngắn, hay thấy vào buổi chiều và lúc hoàng hôn (phản chiếu vàng, cam, đỏ rất đẹp).
-- Ghi chú: Tên tiếng Việt 'Mây ti tích' theo brief dự án. Ảnh này cũng xuất hiện trong bài Wikipedia EN về Cirrocumulus. local_file là đường dẫn đích, file chưa được tải về trong batch này.
+- Ghi chú: Tên tiếng Việt 'Mây ti tích' là tên quen dùng. Ảnh này cũng xuất hiện trong bài Wikipedia EN về Cirrocumulus.
 - Ảnh: King of Hearts — CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File%3ACirrocumulus_clouds_Thousand_Oaks_July_2010.jpg) — file `images/cirrocumulus.jpg`
 - Nguồn: [Wikipedia EN — Cirrocumulus cloud](https://en.wikipedia.org/wiki/Cirrocumulus_cloud); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html); [Wikipedia EN — List of cloud types](https://en.m.wikipedia.org/wiki/List_of_cloud_types)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.
@@ -41,7 +41,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Lớp mây mỏng, rất đều, trong mờ như tấm voan trắng phủ kín cả bầu trời, khó nhận ra nếu không để ý. Dạng nebulosus tạo quầng sáng (halo) quanh Mặt Trời hoặc Mặt Trăng; dạng fibratus có kết cấu sợi, không tạo quầng. Bầu trời khi có mây ti tầng thường có vẻ 'sữa đục' (milky sunshine).
 - Báo hiệu thời tiết: Bản thân không gây mưa, nhưng thường báo hiệu frông ấm đang đến: nếu mây hình thành sau mây ti và lan khắp trời, mưa có thể đến trong 12–24 giờ tới, hoặc chỉ 6–8 giờ nếu frông di chuyển nhanh. Nếu mây dày lên và hạ thấp dần thành mây trung tầng rồi mây vũ tầng thì mưa gần như chắc chắn. Dạng fibratus rời rạc thì frông yếu, chỉ có mưa phùn hoặc hạt tuyết nhẹ.
 - Khi nào thường thấy: Thường thấy trước frông ấm, khi mây ti bắt đầu tụ lại và phủ kín trời; cũng gặp khi đỉnh giông lan phẳng ra. Vệt máy bay (contrail) trong mây ti tầng có thể lan rộng và nhìn thấy tới khoảng 1 giờ.
-- Ghi chú: Tên tiếng Việt 'Mây ti tầng' theo brief dự án. Ảnh quầng sáng trong mây ti tầng — quầng halo là dấu hiệu nhận biết đặc trưng của chi này. local_file là đường dẫn đích, file chưa được tải về trong batch này.
+- Ghi chú: Tên tiếng Việt 'Mây ti tầng' là tên quen dùng. Ảnh quầng sáng trong mây ti tầng — quầng halo là dấu hiệu nhận biết đặc trưng của chi này.
 - Ảnh: Chrumps — CC BY 2.5 (https://commons.wikimedia.org/wiki/File%3AHalo_in_cirrostratus_1.jpg) — file `images/cirrostratus.jpg`
 - Nguồn: [Wikipedia EN — Cirrostratus cloud](https://en.wikipedia.org/wiki/Cirrostratus_cloud); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html); [Wikipedia EN — List of cloud types](https://en.m.wikipedia.org/wiki/List_of_cloud_types)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.
@@ -52,7 +52,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Dạng mây ti phổ biến nhất: các sợi thẳng, mảnh, gần như song song, trông như vạch kẻ trắng kéo dài trên trời, thường xếp theo hướng gió ở tầng cao. Sợi mây tách rời, không có đầu móc câu như uncinus và không dày đặc như spissatus.
 - Báo hiệu thời tiết: Khi mây ti dạng sợi dày lên và lan rộng, đặc biệt ở dạng tỏa (radiatus), thường báo hiệu frông thời tiết đang đến gần; nếu tiếp tục phát triển thành mây ti tầng rồi mây thấp hơn thì mưa sẽ đến sau đó.
 - Khi nào thường thấy: Rất thường gặp, quanh năm; gió dòng tia ở tầng cao kéo sợi mây thành dải dài, có khi vắt ngang cả lục địa. Thường thấy trước frông ấm.
-- Ghi chú: Tên tiếng Việt 'Mây ti dạng sợi' là tên dịch mô tả (fibratus = dạng sợi), chưa có tên chuẩn tiếng Việt — không dùng như tên chính thức. Ảnh có tên file ghi rõ Cirrus fibratus. local_file là đường dẫn đích, file chưa được tải về trong batch này.
+- Ghi chú: Tên tiếng Việt 'Mây ti dạng sợi' là tên dịch mô tả (fibratus = dạng sợi), chưa có tên chuẩn tiếng Việt — không dùng như tên chính thức. Ảnh có tên file ghi rõ Cirrus fibratus.
 - Ảnh: Downtowngal — CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File%3ACirrus_fibratus_clouds%2C_Los_Angeles.jpg) — file `images/cirrus-fibratus.jpg`
 - Nguồn: [Wikipedia EN — Cirrus cloud](https://en.wikipedia.org/wiki/Cirrus_cloud); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.
@@ -63,7 +63,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Sợi mây ti có đầu cong thành móc câu hoặc hình dấu phẩy, thường gọi là 'đuôi ngựa' (mare's tails). Phần đầu móc là nơi tinh thể băng nặng rơi xuống và bị gió tầng cao uốn cong. Nhận biết nhờ 'cái móc' ở cuối mỗi sợi — không có móc thì không phải uncinus.
 - Báo hiệu thời tiết: Như mây ti nói chung: xuất hiện nhiều, dày lên và lan rộng thì báo hiệu frông hoặc nhiễu động tầng cao đang đến, thời tiết sắp xấu đi. Riêng lẻ thì ít ý nghĩa.
 - Khi nào thường thấy: Thường gặp khi gió tầng cao mạnh và có độ đứt gió (wind shear) rõ rệt; hay thấy ở rìa trước của frông ấm và quanh vùng xoáy thuận.
-- Ghi chú: Tên tiếng Việt 'Mây ti dạng móc câu (đuôi ngựa)' là tên dịch mô tả (uncinus = dạng móc; mare's tails = đuôi ngựa), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrus uncinus. local_file là đường dẫn đích, file chưa được tải về trong batch này.
+- Ghi chú: Tên tiếng Việt 'Mây ti dạng móc câu (đuôi ngựa)' là tên dịch mô tả (uncinus = dạng móc; mare's tails = đuôi ngựa), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrus uncinus.
 - Ảnh: 1bumer — CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File%3ACirrus_uncinus.jpg) — file `images/cirrus-uncinus.jpg`
 - Nguồn: [Wikipedia EN — Cirrus cloud](https://en.wikipedia.org/wiki/Cirrus_cloud); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.
@@ -74,7 +74,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Dạng mây ti đặc biệt dày và đậm, trông xám hơn các mây ti khác, chiếm phần lớn bầu trời phía trên, không còn mỏng trong suốt. Thường là tàn dư của tán đe giông (cumulonimbus) sau khi giông tan, hoặc hình thành khi frông ấm đi qua.
 - Báo hiệu thời tiết: Thường gắn với giông bão vừa qua hoặc frông ấm đang đi qua; xuất hiện sau giông có thể nghĩa là giông đang tan, nhưng nếu đi cùng các mây ti khác đang dày lên thì thời tiết xấu vẫn có thể tiếp diễn.
 - Khi nào thường thấy: Sau giông bão (phần đe còn sót lại), hoặc khi frông ấm mạnh đi qua; gặp ở gần đỉnh tầng đối lưu.
-- Ghi chú: Tên tiếng Việt 'Mây ti dạng dày đặc' là tên dịch mô tả (spissatus = làm dày, đặc), chưa có tên chuẩn tiếng Việt. Ảnh này cũng là ảnh minh họa loài spissatus trong bài Wikipedia EN về Cirrus; tên file ghi rõ nguồn gốc từ cumulonimbus (cumulonimbogenitus). local_file là đường dẫn đích, file chưa được tải về trong batch này.
+- Ghi chú: Tên tiếng Việt 'Mây ti dạng dày đặc' là tên dịch mô tả (spissatus = làm dày, đặc), chưa có tên chuẩn tiếng Việt. Ảnh này cũng là ảnh minh họa loài spissatus trong bài Wikipedia EN về Cirrus; tên file ghi rõ nguồn gốc từ cumulonimbus (cumulonimbogenitus).
 - Ảnh: GerritR — CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File%3ACirrus_spissatus_cumulonimbogenitus_in_Oklahoma.jpg) — file `images/cirrus-spissatus.jpg`
 - Nguồn: [Wikipedia EN — Cirrus cloud](https://en.wikipedia.org/wiki/Cirrus_cloud); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.
@@ -85,7 +85,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Mây ti có phần đỉnh mọc lên thành các tháp nhỏ trông như tường thành, tháp canh của lâu đài (castellanus = thuộc về lâu đài) — tháp cao hơn chiều rộng của nó. Hiếm gặp hơn các loài mây ti khác, trông như dãy ụ nhỏ nối nhau trên một nền mây mỏng.
 - Báo hiệu thời tiết: Báo hiệu có sự bất ổn định (đối lưu) ở tầng cao. Theo Wikipedia EN, nếu thấy cirrus castellanus thì có thể có bất ổn định ở độ cao lớn — dấu hiệu thời tiết sắp thay đổi, cần theo dõi thêm các mây đối lưu phía dưới.
 - Khi nào thường thấy: Hiếm gặp, trên toàn thế giới nhưng không thường xuyên; khi có đối lưu tầng cao và độ ẩm vừa đủ, kèm theo nhiệt độ giảm mạnh theo độ cao.
-- Ghi chú: Tên tiếng Việt 'Mây ti dạng tháp' là tên dịch mô tả (castellanus = dạng lâu đài/tháp canh), chưa có tên chuẩn tiếng Việt. Ảnh này cũng là ảnh minh họa loài castellanus trong bài Wikipedia EN về Cirrus. local_file là đường dẫn đích, file chưa được tải về trong batch này.
+- Ghi chú: Tên tiếng Việt 'Mây ti dạng tháp' là tên dịch mô tả (castellanus = dạng lâu đài/tháp canh), chưa có tên chuẩn tiếng Việt. Ảnh này cũng là ảnh minh họa loài castellanus trong bài Wikipedia EN về Cirrus.
 - Ảnh: GerritR — CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File%3ACirrus_castellanus.jpg) — file `images/cirrus-castellanus.jpg`
 - Nguồn: [Wikipedia EN — Cirrus cloud](https://en.wikipedia.org/wiki/Cirrus_cloud); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.
@@ -96,7 +96,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Mây ti xuất hiện thành chuỗi cụm nhỏ rời rạc như túm bông gòn (floccus = túm len, bông), đầu tròn, chân rách xơ xác, lớn hơn nhiều so với các cụm của cirrocumulus floccus. Mỗi cụm có thể kèm vệt mưa băng (virga) rủ xuống dưới.
 - Báo hiệu thời tiết: Như mây ti nói chung, có đối lưu hạn chế ở tầng cao; xuất hiện nhiều kèm các mây ti khác đang dày lên thì báo hiệu frông đang đến. Bản thân không gây mưa tới mặt đất.
 - Khi nào thường thấy: Khi có đối lưu nhẹ ở tầng cao trong khối không khí tương đối khô; thường thấy cùng các dạng mây ti khác trong cùng một vùng trời.
-- Ghi chú: Tên tiếng Việt 'Mây ti dạng cụm bông' là tên dịch mô tả (floccus = túm bông len), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrus floccus (Rome, 2014-07). local_file là đường dẫn đích, file chưa được tải về trong batch này.
+- Ghi chú: Tên tiếng Việt 'Mây ti dạng cụm bông' là tên dịch mô tả (floccus = túm bông len), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrus floccus (Rome, 2014-07).
 - Ảnh: Daniele.Brundu — CC BY 4.0 (https://commons.wikimedia.org/wiki/File%3ACirrus_floccus_%28Rome%2C_2014-07%29.jpg) — file `images/cirrus-floccus.jpg`
 - Nguồn: [Wikipedia EN — Cirrus cloud](https://en.wikipedia.org/wiki/Cirrus_cloud); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.
@@ -107,7 +107,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Dạng mây ti tích trải thành tấm hoặc mảng tương đối phẳng, các cụm mây nhỏ li ti xếp thành lớp mỏng trên diện rộng, trông như mặt biển gợn vảy. Đây là loài phổ biến của chi Cirrocumulus, ít nhô cao hơn dạng castellanus hay floccus.
 - Báo hiệu thời tiết: Như chi Cirrocumulus: mảng lan rộng cùng mây ti/mây ti tầng báo mưa sau khoảng 8–10 giờ; chỉ vài mảng nhỏ thì thời tiết tốt vẫn tiếp tục; sau mưa thì trời đang tốt dần lên.
 - Khi nào thường thấy: Ở rìa trước của frông ấm, trong vùng có nhiều mây ti; thường là giai đoạn chuyển tiếp ngắn trước khi biến thành mây ti tầng.
-- Ghi chú: Tên tiếng Việt 'Mây ti tích dạng tầng trải' là tên dịch mô tả (stratiformis = trải thành tầng), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrocumulus stratiformis. local_file là đường dẫn đích, file chưa được tải về trong batch này.
+- Ghi chú: Tên tiếng Việt 'Mây ti tích dạng tầng trải' là tên dịch mô tả (stratiformis = trải thành tầng), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrocumulus stratiformis.
 - Ảnh: GerritR — CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File%3ACirrocumulus_stratiformis.jpg) — file `images/cirrocumulus-stratiformis.jpg`
 - Nguồn: [Wikipedia EN — Cirrocumulus cloud](https://en.wikipedia.org/wiki/Cirrocumulus_cloud); [Wikipedia EN — List of cloud types](https://en.m.wikipedia.org/wiki/List_of_cloud_types); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.
@@ -118,7 +118,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Mây ti tích có hình thấu kính (lens) — dẹt, thuôn nhọn ở hai đầu, mép nhẵn, trông như chiếc đĩa bay hoặc hạt hạnh nhân nằm ngang trên trời. Hình thành khi không khí ẩm ổn định bị sóng địa hình (thường trên núi) nâng lên rồi hạ xuống, mây đọng lại đúng ở đỉnh sóng.
 - Báo hiệu thời tiết: Báo hiệu có sóng núi và gió mạnh, đứt gió ở tầng cao; bản thân không gây mưa, nhưng cho thấy không khí tầng cao ẩm và đang có chuyển động sóng — phi công xem đây là dấu hiệu nhiễu động mạnh.
 - Khi nào thường thấy: Thường gặp ở vùng núi khi gió mạnh thổi qua địa hình cao; cũng có thể xuất hiện ở bất cứ đâu có gió đứt mạnh kết hợp không khí ổn định. Thường đứng yên một chỗ dù gió thổi mạnh.
-- Ghi chú: Tên tiếng Việt 'Mây ti tích dạng thấu kính' là tên dịch mô tả (lenticularis = hình thấu kính), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrocumulus lenticularis. local_file là đường dẫn đích, file chưa được tải về trong batch này.
+- Ghi chú: Tên tiếng Việt 'Mây ti tích dạng thấu kính' là tên dịch mô tả (lenticularis = hình thấu kính), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrocumulus lenticularis.
 - Ảnh: Couch-scratching-cats — CC BY 3.0 (https://commons.wikimedia.org/wiki/File%3ACirrocumulus_lenticularis_cloud_2.jpg) — file `images/cirrocumulus-lenticularis.jpg`
 - Nguồn: [Wikipedia EN — Cirrocumulus cloud](https://en.wikipedia.org/wiki/Cirrocumulus_cloud); [Wikipedia EN — List of cloud types](https://en.m.wikipedia.org/wiki/List_of_cloud_types); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.
@@ -129,7 +129,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Mây ti tích có các cụm mây mọc lên thành tháp nhỏ như tường thành (turreted), cao hơn rộng, nối nhau ở chân thành một lớp chung. Các tháp nhỏ li ti, trông như lâu đài thu nhỏ ở rất cao trên trời — khó thấy rõ vì cụm mây quá nhỏ.
 - Báo hiệu thời tiết: Cho thấy có đối lưu hạn chế ở tầng cao (không khí hơi bất ổn định ở độ cao lớn). Như chi Cirrocumulus, nếu lan rộng cùng mây ti/mây ti tầng thì có thể báo mưa sau khoảng 8–10 giờ.
 - Khi nào thường thấy: Hiếm hơn dạng stratiformis; khi không khí tầng cao có đối lưu nhẹ, thường ở rìa trước frông ấm cùng các mây ti khác.
-- Ghi chú: Tên tiếng Việt 'Mây ti tích dạng tháp' là tên dịch mô tả (castellanus = dạng lâu đài/tháp), chưa có tên chuẩn tiếng Việt. Lưu ý: ảnh có cả Cirrocumulus castellanus và Cirrus castellanus trong cùng một khung hình (theo tên file) — cần xem lại ảnh khi duyệt để chắc phần Cirrocumulus castellanus nhìn rõ. local_file là đường dẫn đích, file chưa được tải về trong batch này.
+- Ghi chú: Tên tiếng Việt 'Mây ti tích dạng tháp' là tên dịch mô tả (castellanus = dạng lâu đài/tháp), chưa có tên chuẩn tiếng Việt. Lưu ý: ảnh có cả Cirrocumulus castellanus và Cirrus castellanus trong cùng một khung hình (theo tên file) — cần xem lại ảnh khi duyệt để chắc phần Cirrocumulus castellanus nhìn rõ.
 - Ảnh: Rollcloud — CC BY 3.0 (https://commons.wikimedia.org/wiki/File%3ACirrocumulus_castellanus_and_Cirrus_castellanus_01.jpg) — file `images/cirrocumulus-castellanus.jpg`
 - Nguồn: [Wikipedia EN — Cirrocumulus cloud](https://en.wikipedia.org/wiki/Cirrocumulus_cloud); [Wikipedia EN — List of cloud types](https://en.m.wikipedia.org/wiki/List_of_cloud_types); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.
@@ -140,7 +140,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Các cụm mây ti tích nhỏ li ti như túm bông (floccus = túm len), đầu tròn, chân rách xơ xác, trông xù xì hơn các loài ti tích khác. Đây cũng là ảnh đại diện (infobox) của chi Cirrocumulus trên Wikipedia EN. Các cụm nhỏ hơn nhiều so với cụm của Cirrus floccus.
 - Báo hiệu thời tiết: Như chi Cirrocumulus: mảng lan rộng cùng mây ti/mây ti tầng báo mưa sau khoảng 8–10 giờ; vài cụm nhỏ riêng lẻ thì thời tiết tốt vẫn tiếp tục. Có thể kèm virga.
 - Khi nào thường thấy: Trong các mảng mây ti tích ở rìa trước frông ấm; thường xuất hiện thành từng cụm nhỏ rời rạc, tồn tại ngắn rồi biến thành mây ti hoặc mây ti tầng.
-- Ghi chú: Tên tiếng Việt 'Mây ti tích dạng cụm bông' là tên dịch mô tả (floccus = túm bông len), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrocumulus floccus; ảnh infobox của bài Wikipedia EN (Cirrocumulus_20040830.jpg, chú thích 'Cirrocumulus floccus') là ảnh dự phòng cùng loài. local_file là đường dẫn đích, file chưa được tải về trong batch này.
+- Ghi chú: Tên tiếng Việt 'Mây ti tích dạng cụm bông' là tên dịch mô tả (floccus = túm bông len), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrocumulus floccus; ảnh infobox của bài Wikipedia EN (Cirrocumulus_20040830.jpg, chú thích 'Cirrocumulus floccus') là ảnh dự phòng cùng loài.
 - Ảnh: Van der Fall — CC BY 4.0 (https://commons.wikimedia.org/wiki/File%3ACirrocumulus_floccus.jpg) — file `images/cirrocumulus-floccus.jpg`
 - Nguồn: [Wikipedia EN — Cirrocumulus cloud](https://en.wikipedia.org/wiki/Cirrocumulus_cloud); [Wikipedia EN — List of cloud types](https://en.m.wikipedia.org/wiki/List_of_cloud_types); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.
@@ -151,7 +151,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Lớp mây ti tầng có kết cấu sợi rõ rệt — như tấm màn sợi mỏng phủ khắp trời, các sợi nửa tách rời, nửa dính nhau. Dày hơn dạng nebulosus nên không tạo quầng halo (hoặc quầng rất mờ). Khi frông đến gần, mây ti tầng thường bắt đầu từ dạng nebulosus rồi chuyển sang fibratus.
 - Báo hiệu thời tiết: Như chi Cirrostratus: báo hiệu frông ấm đang đến, mưa có thể đến trong 12–24 giờ (6–8 giờ nếu frông nhanh). Nếu mây ở dạng fibratus rời rạc, vỡ vụn thì frông yếu — chỉ có mưa phùn hoặc hạt tuyết nhẹ thay vì mưa vừa.
 - Khi nào thường thấy: Khi frông ấm tiến đến và mây ti bắt đầu dày lên thành lớp; cũng gặp khi đỉnh giông lan phẳng ra thành lớp mây tầng cao.
-- Ghi chú: Tên tiếng Việt 'Mây ti tầng dạng sợi' là tên dịch mô tả (fibratus = dạng sợi), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrostratus fibratus. local_file là đường dẫn đích, file chưa được tải về trong batch này.
+- Ghi chú: Tên tiếng Việt 'Mây ti tầng dạng sợi' là tên dịch mô tả (fibratus = dạng sợi), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrostratus fibratus.
 - Ảnh: Rollcloud — CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File%3ACirrostratus_fibratus_%2806122021%29.jpg) — file `images/cirrostratus-fibratus.jpg`
 - Nguồn: [Wikipedia EN — Cirrostratus cloud](https://en.wikipedia.org/wiki/Cirrostratus_cloud); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.
@@ -162,7 +162,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Lớp mây ti tầng trơn nhẵn, không có chi tiết gì, như tấm voan mỏng không đặc điểm phủ kín cả bầu trời, khiến bầu trời có vẻ mờ sương, 'sữa đục'. Chính dạng này tạo ra quầng sáng (halo, thường là vòng 22 độ) quanh Mặt Trời hoặc Mặt Trăng — dấu hiệu nhận biết rõ nhất. Mặt Trời/Mặt Trăng vẫn nhìn xuyên qua được.
 - Báo hiệu thời tiết: Như chi Cirrostratus: báo hiệu frông ấm đang đến, mưa có thể đến trong 12–24 giờ (6–8 giờ nếu frông nhanh). Nếu lớp mây dày lên và hạ thấp dần thì mưa gần như chắc chắn; nếu chỉ là lớp mỏng có quầng thì frông còn xa.
 - Khi nào thường thấy: Khi frông ấm bắt đầu đến, mây ti tầng thường bắt đầu ở dạng nebulosus rồi mới chuyển sang fibratus khi frông gần hơn. Quầng Mặt Trăng do dạng này tạo ra dễ thấy vào ban đêm.
-- Ghi chú: Tên tiếng Việt 'Mây ti tầng dạng mù sương' là tên dịch mô tả (nebulosus = dạng mù sương, không đặc điểm), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cs nebulosus kèm quầng mờ (faint halo) — đúng dấu hiệu đặc trưng của loài này; giấy phép Public domain theo API Commons. local_file là đường dẫn đích, file chưa được tải về trong batch này.
+- Ghi chú: Tên tiếng Việt 'Mây ti tầng dạng mù sương' là tên dịch mô tả (nebulosus = dạng mù sương, không đặc điểm), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cs nebulosus kèm quầng mờ (faint halo) — đúng dấu hiệu đặc trưng của loài này; giấy phép Public domain theo API Commons.
 - Ảnh: Rollcloud — Public domain (https://commons.wikimedia.org/wiki/File%3ACs_nebulosus_with_faint_halo.jpg) — file `images/cirrostratus-nebulosus.jpg`
 - Nguồn: [Wikipedia EN — Cirrostratus cloud](https://en.wikipedia.org/wiki/Cirrostratus_cloud); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.
@@ -197,7 +197,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Lớp mây xám sẫm, dày, gần như đồng nhất và không có chi tiết, đáy mây mờ khuếch tán, đủ dày để che khuất hoàn toàn Mặt Trời. Mây trải rộng trên diện tích lớn, thường trông như được chiếu sáng từ bên trong dù đáy rất tối. Rất dày, mờ đục và đơn điệu nên không chia loài hay dạng biến thể; chỉ có đặc điểm bổ sung là mưa (praecipitatio), virga và mây phụ pannus ở dưới.
 - Báo hiệu thời tiết: Đây là mây gây mưa chính: mưa, tuyết hoặc mưa đá nhỏ liên tục, vừa phải, có thể kéo dài nhiều giờ tới nhiều ngày tùy tốc độ di chuyển của frông. Không có sấm sét — nếu có sấm sét thì đó là mây vũ tích lẫn bên trong, không phải do nimbostratus tạo ra.
 - Khi nào thường thấy: Dọc theo frông nóng hoặc frông tắc, khi khối không khí ấm ẩm dâng lên chậm; thường do mây trung tầng dày dần và hạ thấp mà thành. Sau khi frông đi qua, nimbostratus thường được thay bằng mây tầng hoặc mây tầng tích. Gặp nhiều nhất ở vĩ độ giữa.
-- Ghi chú: Tên tiếng Việt 'Mây vũ tầng' là tên chuẩn theo Wikipedia tiếng Việt. WMO và Wikipedia đều xác nhận Nimbostratus không có species hay variety. Ảnh Ns1.jpg là ảnh minh họa chính trong bài Wikipedia EN, mô tả 'Nimbostratus with pannus' (mây vũ tầng kèm mây phụ pannus). Tác giả không ghi trong metadata Commons — cần ghi đúng như vậy khi hiển thị credit. Ảnh tải về là bản thu nhỏ 1280 px.
+- Ghi chú: Tên tiếng Việt 'Mây vũ tầng' là tên chuẩn theo Wikipedia tiếng Việt. WMO và Wikipedia đều xác nhận Nimbostratus không có species hay variety. Ảnh Ns1.jpg là ảnh minh họa chính trong bài Wikipedia EN, mô tả 'Nimbostratus with pannus' (mây vũ tầng kèm mây phụ pannus). Tác giả không ghi trong metadata Commons.
 - Ảnh: Không rõ (metadata Commons không ghi tác giả) — CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Ns1.jpg) — file `images/b03-nimbostratus.jpg`
 - Nguồn: [Wikipedia EN — Nimbostratus cloud](https://en.wikipedia.org/wiki/Nimbostratus_cloud); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html); [Wikipedia tiếng Việt — Đám mây (bảng tên chi)](https://vi.wikipedia.org/wiki/%C4%90%C3%A1m_m%C3%A2y)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO Cloud Classification Summary (truy cập 25/11/2026)
@@ -219,7 +219,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Mây hình thấu kính hoặc hình quả hạnh, mặt nhẵn, mép mỏng, thường đứng yên một chỗ rất lâu dù gió thổi mạnh. Hình thành khi luồng gió ổn định vượt qua núi đồi tạo sóng đứng trong khí quyển, hơi ẩm ngưng tụ ở đỉnh sóng. Vì hình dạng lạ giống đĩa bay nên đôi khi bị nhầm là vật thể bay không xác định. Thường có mặt xám bóng.
 - Báo hiệu thời tiết: Báo hiệu gió mạnh ở tầng trên và sóng núi đang hoạt động; thường đi kèm thời tiết ấm hơn và gió mạnh hơn sắp tới. Bản thân nó không gây mưa.
 - Khi nào thường thấy: Ở phía khuất gió của núi, đồi hoặc dãy núi cao, khi có gió ngang mạnh thổi qua địa hình; có thể thấy từng chiếc riêng lẻ hoặc xếp chồng thành nhiều lớp. Gặp quanh năm ở vùng núi.
-- Ghi chú: Species (loài) của chi Altocumulus theo WMO. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh ghi 'Altocumulus lenticularis duplicatus' — dạng thấu kính đúng loài, có thêm lớp duplicatus (nhiều lớp chồng nhau); hình thấu kính vẫn là đặc điểm chính trong ảnh. Ảnh tải về là bản thu nhỏ 1280 px.
+- Ghi chú: Species (loài) của chi Altocumulus theo WMO. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh ghi 'Altocumulus lenticularis duplicatus' — dạng thấu kính đúng loài, có thêm lớp duplicatus (nhiều lớp chồng nhau); hình thấu kính vẫn là đặc điểm chính trong ảnh.
 - Ảnh: GerritR — CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Altocumulus_lenticularis_duplicatus.jpg) — file `images/b05-altocumulus-lenticularis.jpg`
 - Nguồn: [Wikipedia EN — Altocumulus cloud](https://en.wikipedia.org/wiki/Altocumulus_cloud); [Wikipedia EN — List of cloud types](https://en.wikipedia.org/wiki/List_of_cloud_types); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO Cloud Classification Summary (truy cập 25/11/2026)
@@ -241,7 +241,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Mây trung tích dạng từng búi nhỏ rời rạc, mỗi búi có đầu phồng như mây tích thu nhỏ và chân mây xơ xác, rách tươm, thường kèm virga rơi từ chân búi. Các búi nhỏ hơn và rách hơn so với castellanus, thường xuất hiện cùng castellanus. Cùng mã quan trắc SYNOP CM8 với castellanus.
 - Báo hiệu thời tiết: Báo hiệu không khí tầng giữa bất ổn ở mức cao hơn; giống castellanus, floccus vào buổi sáng có thể là dấu hiệu giông phát triển vào cuối ngày. Tự nó không gây mưa chạm đất.
 - Khi nào thường thấy: Thường đi kèm altocumulus castellanus vào buổi sáng hoặc trong ngày có đối lưu tầng giữa; gặp khi lớp mây trung tích bắt đầu vỡ thành từng búi do bất ổn tăng lên.
-- Ghi chú: Species (loài) của chi Altocumulus theo WMO. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh: mây floccus tạo tia đối nhật (anticrepuscular rays) lúc chiều tà. Ảnh tải về là bản thu nhỏ 1280 px.
+- Ghi chú: Species (loài) của chi Altocumulus theo WMO. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh: mây floccus tạo tia đối nhật (anticrepuscular rays) lúc chiều tà.
 - Ảnh: GerritR — CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Altocumulus_floccus_erzeugt_Anticrepuscularstrahlen.jpg) — file `images/b07-altocumulus-floccus.jpg`
 - Nguồn: [Wikipedia EN — Altocumulus cloud](https://en.wikipedia.org/wiki/Altocumulus_cloud); [Wikipedia EN — List of cloud types](https://en.wikipedia.org/wiki/List_of_cloud_types); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO Cloud Classification Summary (truy cập 25/11/2026)
@@ -252,7 +252,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Mây hình ống dài nằm ngang, cuộn tròn như một cuộn len khổng lồ lăn trên trời, chỉ gồm một dải mây duy nhất kéo dài. Đây là loài hiếm gặp nhất của mây trung tích, được WMO công nhận trong bản Atlas 2017. Khác với các loài khác, volutus không xếp thành mảng mà là một ống mây độc lập, dài và hẹp.
 - Báo hiệu thời tiết: Tự nó không gây mưa; nó đánh dấu một sóng khí quyển (undular bore / sóng soliton) đang lan truyền ở tầng giữa. Sóng này có thể liên quan tới rìa giông đã qua hoặc dòng không khí bị xáo trộn mạnh, nhưng volutus không phải là dấu hiệu mưa trực tiếp.
 - Khi nào thường thấy: Hiếm gặp và chỉ xuất hiện thoáng qua khi có sóng khí quyển lan truyền ở tầng giữa, đôi khi sau giông. Vì hiếm nên người quan sát mây thường chỉ gặp một vài lần trong đời.
-- Ghi chú: Species (loài) của chi Altocumulus theo WMO (bổ sung trong Atlas 2017; các nguồn cũ trước 2017 chỉ liệt kê 4 loài, không có volutus — đã đối chiếu bảng phân loại WMO hiện tại). Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh tải về là bản thu nhỏ 1280 px.
+- Ghi chú: Species (loài) của chi Altocumulus theo WMO (bổ sung trong Atlas 2017; các nguồn cũ trước 2017 chỉ liệt kê 4 loài, không có volutus — đã đối chiếu bảng phân loại WMO hiện tại). Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt.
 - Ảnh: Rollcloud — CC BY 3.0 (https://commons.wikimedia.org/wiki/File:Altocumulus_volutus_%2822112021%29.jpg) — file `images/b08-altocumulus-volutus.jpg`
 - Nguồn: [Wikipedia EN — List of cloud types](https://en.wikipedia.org/wiki/List_of_cloud_types); [Wikipedia EN — Altocumulus cloud](https://en.wikipedia.org/wiki/Altocumulus_cloud); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO Cloud Classification Summary (truy cập 25/11/2026)
@@ -263,7 +263,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Mây trung tích có đáy gợn sóng lượn như mặt nước, tạo thành những dải sóng song song hoặc các gợn lăn đều đặn. Đây là dạng biến thể theo mẫu (pattern-based variety), thường đi kèm loài stratiformis và lenticularis. Khi lớp mây gợn sóng trải rộng khắp bầu trời, người ta gọi là 'mackerel sky' (trời vảy cá thu).
 - Báo hiệu thời tiết: Tự nó không gây mưa — chỉ có virga. Sóng gợn cho thấy có đứt gió (wind shear) trong lớp mây; khi 'trời vảy cá thu' trải rộng, thường là dấu hiệu luồng khí ẩm và frông đang tới gần, thời tiết có thể thay đổi trong ngày hôm sau.
 - Khi nào thường thấy: Khi có đứt gió tạo sóng trong lớp mây tầng giữa, thường gặp trước frông hoặc trong vùng gió mạnh ở tầng trên; cũng thấy ở rìa các lớp mây trung tích đang lan rộng.
-- Ghi chú: Variety (dạng biến thể), KHÔNG phải species hay chi riêng — theo WMO, undulatus là variety theo mẫu, thường đi kèm loài stratiformis (tên đầy đủ trong ảnh: Altocumulus stratiformis translucidus lacunosus undulatus, tức ảnh còn mang thêm variety translucidus và lacunosus; đặc điểm gợn sóng undulatus vẫn là đặc điểm chính). Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh tải về là bản thu nhỏ 1280 px.
+- Ghi chú: Variety (dạng biến thể), KHÔNG phải species hay chi riêng — theo WMO, undulatus là variety theo mẫu, thường đi kèm loài stratiformis (tên đầy đủ trong ảnh: Altocumulus stratiformis translucidus lacunosus undulatus, tức ảnh còn mang thêm variety translucidus và lacunosus; đặc điểm gợn sóng undulatus vẫn là đặc điểm chính). Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt.
 - Ảnh: H. Floreen, NOAA's National Weather Service (NWS) Collection — Public domain (https://commons.wikimedia.org/wiki/File:Altocumulus_undulatus_cloud.jpg) — file `images/b09-altocumulus-undulatus.jpg`
 - Nguồn: [Wikipedia EN — Altocumulus cloud](https://en.wikipedia.org/wiki/Altocumulus_cloud); [Wikipedia EN — List of cloud types](https://en.wikipedia.org/wiki/List_of_cloud_types); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO Cloud Classification Summary (truy cập 25/11/2026)
@@ -274,7 +274,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Mây trung tích dạng tầng trải nhưng trong mờ: ánh sáng Mặt Trời hoặc Mặt Trăng vẫn xuyên qua được, có thể thấy rõ vị trí của Mặt Trời qua lớp mây. Đây là dạng biến thể theo độ mờ đục (opacity-based variety) của loài stratiformis, mã quan trắc SYNOP CM3. Mây mỏng, sáng, các khối mây vẫn tách biệt.
 - Báo hiệu thời tiết: Thời tiết nhìn chung ổn định, không mưa chạm đất. Nếu lớp mây dày dần và chuyển sang dạng đục (opacus) thì đó là dấu hiệu frông đang tới gần và mưa có thể bắt đầu trong 12–24 giờ.
 - Khi nào thường thấy: Khi lớp mây trung tích còn mỏng, thường gặp lúc mây trung tầng bắt đầu vỡ ra, hoặc ở rìa vùng áp thấp; cũng thấy khi mây vũ tầng mỏng đi sau frông.
-- Ghi chú: Variety (dạng biến thể theo độ mờ đục), KHÔNG phải species hay chi riêng — theo WMO và Wikipedia, translucidus là variety của loài Altocumulus stratiformis. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh ghi 'Altocumulus stratiformis translucidus undulatus' — trong mờ đúng variety, có thêm gợn sóng undulatus. Ảnh tải về là bản thu nhỏ 1280 px.
+- Ghi chú: Variety (dạng biến thể theo độ mờ đục), KHÔNG phải species hay chi riêng — theo WMO và Wikipedia, translucidus là variety của loài Altocumulus stratiformis. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh ghi 'Altocumulus stratiformis translucidus undulatus' — trong mờ đúng variety, có thêm gợn sóng undulatus.
 - Ảnh: GerritR — CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Altocumulus_stratiformis_translucidus_undulatus.jpg) — file `images/b10-altocumulus-translucidus.jpg`
 - Nguồn: [Wikipedia EN — Altocumulus cloud](https://en.wikipedia.org/wiki/Altocumulus_cloud); [Wikipedia EN — List of cloud types](https://en.wikipedia.org/wiki/List_of_cloud_types); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO Cloud Classification Summary (truy cập 25/11/2026)
@@ -285,7 +285,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Mây trung tích dạng tầng trải mà phần lớn mây đã đục, nhưng giữa các khối mây có những kẽ hở nhỏ trong suốt để lộ trời xanh hoặc ánh sáng xuyên qua. Đây là dạng biến thể theo độ mờ đục (opacity-based variety) của loài stratiformis, mã quan trắc SYNOP CM3 hoặc CM7 tùy độ mờ chiếm ưu thế. Nhìn từ dưới lên, bầu trời như một tấm thảm mây có những ô cửa sổ nhỏ.
 - Báo hiệu thời tiết: Thời tiết nhìn chung ổn định, chỉ có virga, không mưa chạm đất. Một tấm mây perlucidus gồm các khối dính nhau một phần đôi khi xuất hiện trước frông nóng đang yếu đi, khi lớp mây trung tầng bắt đầu vỡ vụn thành từng mảng mây trung tích.
 - Khi nào thường thấy: Khi lớp mây trung tầng (altostratus) bắt đầu tan vỡ, hoặc khi mây trung tích dạng tầng trải dày lên nhưng chưa kín hẳn; thường gặp ở rìa sau của hệ thống frông đang suy yếu.
-- Ghi chú: Variety (dạng biến thể theo độ mờ đục), KHÔNG phải species hay chi riêng — theo WMO và Wikipedia, perlucidus là variety của loài Altocumulus stratiformis. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh chụp lúc hoàng hôn (in der Dämmerung), dùng kính lọc phân cực. Ảnh tải về là bản thu nhỏ 1280 px.
+- Ghi chú: Variety (dạng biến thể theo độ mờ đục), KHÔNG phải species hay chi riêng — theo WMO và Wikipedia, perlucidus là variety của loài Altocumulus stratiformis. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh chụp lúc hoàng hôn (in der Dämmerung), dùng kính lọc phân cực.
 - Ảnh: GerritR — CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Altocumulus_stratiformis_perlucidus_in_der_D%C3%A4mmerung.jpg) — file `images/b11-altocumulus-perlucidus.jpg`
 - Nguồn: [Wikipedia EN — Altocumulus cloud](https://en.wikipedia.org/wiki/Altocumulus_cloud); [Wikipedia EN — List of cloud types](https://en.wikipedia.org/wiki/List_of_cloud_types); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO Cloud Classification Summary (truy cập 25/11/2026)
@@ -296,7 +296,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Mây trung tích dạng tầng trải đã đục hoàn toàn: lớp mây dày tới mức che khuất hẳn Mặt Trời hoặc Mặt Trăng, không còn thấy vị trí của chúng qua mây nữa. Đây là dạng biến thể theo độ mờ đục (opacity-based variety) của loài stratiformis, mã quan trắc SYNOP CM7. Mây có màu xám đậm, các khối mây dính chặt nhau thành một tấm liền.
 - Báo hiệu thời tiết: Không gây mưa chạm đất, chỉ có virga; nhưng lớp mây đục dày cho thấy hơi ẩm tầng giữa nhiều và frông có thể đang tới gần. Nếu mây tiếp tục dày lên và hạ thấp, hệ thống mây có thể chuyển sang mây trung tầng rồi mây vũ tầng gây mưa.
 - Khi nào thường thấy: Khi lớp mây trung tích dày lên trước frông nóng đang tới, hoặc khi nhiều lớp mây trung tích chồng lên nhau; thường gặp cùng lúc với mây trung tầng hoặc mây vũ tầng ở gần đó.
-- Ghi chú: Variety (dạng biến thể theo độ mờ đục), KHÔNG phải species hay chi riêng — theo WMO và Wikipedia, opacus là variety của loài Altocumulus stratiformis. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh tải về là bản thu nhỏ 1280 px.
+- Ghi chú: Variety (dạng biến thể theo độ mờ đục), KHÔNG phải species hay chi riêng — theo WMO và Wikipedia, opacus là variety của loài Altocumulus stratiformis. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt.
 - Ảnh: Rollcloud — CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Altocumulus_stratiformis_opacus.jpg) — file `images/b12-altocumulus-opacus.jpg`
 - Nguồn: [Wikipedia EN — Altocumulus cloud](https://en.wikipedia.org/wiki/Altocumulus_cloud); [Wikipedia EN — List of cloud types](https://en.wikipedia.org/wiki/List_of_cloud_types); [WMO International Cloud Atlas — Cloud classification summary](https://cloudatlas.wmo.int/en/cloud-classification-summary.html)
 - Kiểm chứng: Đã kiểm chứng — Wikipedia EN + WMO Cloud Classification Summary (truy cập 25/11/2026)
@@ -312,7 +312,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Ghi chú: Ảnh mô tả trên Commons: 'Stratocumulus in the sky'. Loài (species) của chi này gồm stratiformis, lenticularis, castellanus, floccus, volutus.
 - Ảnh: Couch-scratching-cats — Public domain (https://commons.wikimedia.org/wiki/File:Stratocumulus_1.jpg) — file `images/stratocumulus.jpg`
 - Nguồn: [Wikipedia EN — Stratocumulus cloud](https://en.wikipedia.org/wiki/Stratocumulus_cloud); [Wikipedia EN — List of cloud types](https://en.wikipedia.org/wiki/List_of_cloud_types); [WMO International Cloud Atlas — Definitions of clouds](https://cloudatlas.wmo.int/en/clouds-definitions.html)
-- Kiểm chứng: Đã kiểm chứng qua Wikipedia EN + WMO (mức thấp 0–2 km). Tên chi theo brief dự án; chưa đối chiếu trực tiếp Wikipedia tiếng Việt do tìm kiếm bị giới hạn (429).
+- Kiểm chứng: Đã kiểm chứng qua Wikipedia EN + WMO (mức thấp 0–2 km). Tên chi là tên quen dùng trong tiếng Việt.
 
 ### Stratus — Mây tầng
 
@@ -323,7 +323,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Ghi chú: Ảnh là hình infobox của bài Stratus cloud trên Wikipedia EN ('Typical stratus clouds over Skopje'). File local là bản thu nhỏ 960px của ảnh gốc 5.100 px. Loài của chi này chỉ có 2: nebulosus và fractus.
 - Ảnh: kallerna — CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Stratus_clouds_Vodno_4.jpg) — file `images/stratus.jpg`
 - Nguồn: [Wikipedia EN — Stratus cloud](https://en.wikipedia.org/wiki/Stratus_cloud); [Wikipedia EN — List of cloud types](https://en.wikipedia.org/wiki/List_of_cloud_types); [WMO International Cloud Atlas — Definitions of clouds](https://cloudatlas.wmo.int/en/clouds-definitions.html)
-- Kiểm chứng: Đã kiểm chứng qua Wikipedia EN + WMO. Tên chi theo brief dự án; chưa đối chiếu trực tiếp Wikipedia tiếng Việt do tìm kiếm bị giới hạn (429).
+- Kiểm chứng: Đã kiểm chứng qua Wikipedia EN + WMO. Tên chi là tên quen dùng trong tiếng Việt.
 
 ### Cumulus — Mây tích
 
@@ -334,7 +334,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Ghi chú: Ảnh minh họa trong bài Cumulus cloud trên Wikipedia EN: 'Lines of cumulus clouds over Brittany, France'. File local là bản thu nhỏ 960px của ảnh gốc 4.156 px.
 - Ảnh: Adam Cli — CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Brittany_01.jpg) — file `images/cumulus.jpg`
 - Nguồn: [Wikipedia EN — Cumulus cloud](https://en.wikipedia.org/wiki/Cumulus_cloud); [Wikipedia EN — List of cloud types](https://en.wikipedia.org/wiki/List_of_cloud_types); [WMO International Cloud Atlas — Definitions of clouds](https://cloudatlas.wmo.int/en/clouds-definitions.html)
-- Kiểm chứng: Đã kiểm chứng qua Wikipedia EN + WMO. Tên chi theo brief dự án; chưa đối chiếu trực tiếp Wikipedia tiếng Việt do tìm kiếm bị giới hạn (429).
+- Kiểm chứng: Đã kiểm chứng qua Wikipedia EN + WMO. Tên chi là tên quen dùng trong tiếng Việt.
 
 ### Stratocumulus stratiformis — Mây tầng tích dạng tầng trải
 
@@ -375,7 +375,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Mây hình ống dài nằm ngang, cuộn tròn như một cuộn len khổng lồ — còn gọi là mây cuộn (roll cloud). Đây là loài stratocumuliform không gắn với mây mẹ nào, khác với các dạng mây cuộn đi kèm giông.
 - Báo hiệu thời tiết: Ít gây mưa trực tiếp; hình ống cuộn cho thấy có sóng hoặc gió mạnh trong tầng không khí thấp — cần theo dõi diễn biến thời tiết tiếp theo.
 - Khi nào thường thấy: Dọc các ranh giới gió như front lạnh hoặc gió biển, khi không khí ẩm bị nâng thành ống cuộn ngang; khá hiếm gặp so với các loài stratocumulus khác.
-- Ghi chú: Cần bổ sung ảnh sau: tìm file Commons có mô tả ghi rõ 'Stratocumulus volutus' hoặc 'roll cloud' (ví dụ ảnh Morning Glory — phải kiểm chứng mô tả file trước khi dùng).
+- Ghi chú: Ảnh đã tìm được trên Wikimedia Commons: file ghi rõ 'Stratocumulus volutus'.
 - Ảnh: Rollcloud — CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File%3AStratocumulus_volutus_1_%2818112021%29.jpg) — file `images/stratocumulus-volutus.jpg`
 - Nguồn: [Wikipedia EN — Stratocumulus cloud](https://en.wikipedia.org/wiki/Stratocumulus_cloud); [Wikipedia EN — List of cloud types](https://en.wikipedia.org/wiki/List_of_cloud_types)
 - Kiểm chứng: Đã kiểm chứng sự tồn tại và định nghĩa của loài qua Wikipedia EN (List of cloud types). Ảnh đã tìm được trên Wikimedia Commons và tải về local.
@@ -441,7 +441,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - Nhận dạng: Những mảnh mây tích rách nát, xé nhỏ, hình dạng bất định. Có thể hình thành trong không khí quang đãng như tiền thân của mây tích humilis, hoặc trong mưa dưới dạng pannus (mây scud) bên dưới mây mưa lớn.
 - Báo hiệu thời tiết: Trong trời quang: báo hiệu mây tích đang bắt đầu hình thành. Trong mưa: cho thấy đang có mưa lớn bên trên, cần chú ý thời tiết xấu.
 - Khi nào thường thấy: Sáng sớm khi mây tích mới hình thành; dưới đáy mây mưa trong cơn mưa rào; khi gió mạnh xé nhỏ các đám mây tích.
-- Ghi chú: Cần bổ sung ảnh sau: tìm file Commons có mô tả ghi rõ 'Cumulus fractus' (không dùng ảnh Stratus fractus để thay thế — hai loài khác nhau dù đều là mảnh mây rách nát).
+- Ghi chú: Ảnh đã tìm được trên Wikimedia Commons: file ghi rõ 'Cumulus fractus'.
 - Ảnh: Rhetos — CC0 (https://commons.wikimedia.org/wiki/File%3ACumulus_fractus_%28Wangerooge%29.jpg) — file `images/cumulus-fractus.jpg`
 - Nguồn: [Wikipedia EN — Cumulus cloud](https://en.wikipedia.org/wiki/Cumulus_cloud); [Wikipedia EN — List of cloud types](https://en.wikipedia.org/wiki/List_of_cloud_types)
 - Kiểm chứng: Đã kiểm chứng sự tồn tại và định nghĩa của loài qua Wikipedia EN (List of cloud types). Ảnh đã tìm được trên Wikimedia Commons và tải về local.
@@ -708,7 +708,7 @@ Tên tiếng Việt của loài/dạng là dịch mô tả, chưa có tên chu�
 - ID: `stratocumulus-undulatus` | Tầng: đặc biệt | Độ cao: Dưới 2 km — mây thấp (ôn đới)
 - Nhận dạng: Theo WMO: một lớp gồm các thành phần khá lớn, thường màu xám, xếp thành hệ thống những đường gần như song song. Đôi khi thấy hệ thống gợn sóng thứ hai cắt ngang hệ thống chính, các thành phần trông như xếp hàng ngay ngắn. Xuất hiện ở loài stratiformis. Khác với asperitas: undulatus có sóng đều, tổ chức theo chiều ngang rõ ràng; asperitas hỗn loạn hơn.
 - Báo hiệu thời tiết: Thường không mưa, hoặc chỉ mưa phùn/rắc nhẹ; là dạng mây tầng tích ổn định, cho thấy không khí tầng thấp có sóng nhưng không có đối lưu mạnh. Nếu dày lên và tối lại thì có thể chuyển sang mưa nhỏ.
-- Khi nào thường thấy: Khá thường gặp so với các variety khác trong batch này, khi có wind shear nhẹ ở tầng thấp tạo sóng trên lớp mây tầng tích. Phân biệt với radiatus: undulatus di chuyển vuông góc với wind shear, radiatus di chuyển song song với wind shear.
+- Khi nào thường thấy: Khá thường gặp so với các variety khác, khi có wind shear nhẹ ở tầng thấp tạo sóng trên lớp mây tầng tích. Phân biệt với radiatus: undulatus di chuyển vuông góc với wind shear, radiatus di chuyển song song với wind shear.
 - Ghi chú: Tên tiếng Việt là dịch mô tả, chưa có tên chuẩn tiếng Việt được kiểm chứng. Là variety, không phải chi hay loài riêng.
 - Ảnh: Rollcloud — CC BY 3.0 (https://commons.wikimedia.org/wiki/File%3AStratocumulus_stratiformis_undulatus_01.jpg) — file `images/stratocumulus-undulatus.jpg`
 - Nguồn: [WMO International Cloud Atlas — Stratocumulus undulatus (Sc un)](https://cloudatlas.wmo.int/en/varieties-stratocumulus-undulatus-sc-un.html); [Wikipedia EN — List of cloud types](https://en.wikipedia.org/wiki/Cloud_types)
