@@ -77,7 +77,7 @@
   },
   {
     "altitude": "Đáy từ ~500 m, thân mây trải lên tới ~5.500 m",
-    "altitude_note": "Wikipedia EN ghi 500–5.500 m; đáy mây khuếch tán, thường ở tầng thấp tới 2.000–4.000 m ở tầng giữa. Đây là chi đa tầng (multi-level): hình thành phổ biến nhất ở tầng giữa rồi lan dọc lên tầng cao và xuống tầng thấp. Trong batch này xếp vào nhóm Mây trung theo phân loại WMO (cùng nhóm với Altocumulus, Altostratus trong bảng tầng giữa), nhưng đáy mây thuộc tầng thấp.",
+    "altitude_note": "Wikipedia EN ghi 500–5.500 m; đáy mây khuếch tán, thường ở tầng thấp tới 2.000–4.000 m ở tầng giữa. Đây là chi đa tầng (multi-level): hình thành phổ biến nhất ở tầng giữa rồi lan dọc lên tầng cao và xuống tầng thấp. Trong trang này xếp vào nhóm Mây trung theo phân loại WMO (cùng nhóm với Altocumulus, Altostratus trong bảng tầng giữa), nhưng đáy mây thuộc tầng thấp.",
     "bao_hieu_thoi_tiet": "Đây là mây gây mưa chính: mưa, tuyết hoặc mưa đá nhỏ liên tục, vừa phải, có thể kéo dài nhiều giờ tới nhiều ngày tùy tốc độ di chuyển của frông. Không có sấm sét — nếu có sấm sét thì đó là mây vũ tích lẫn bên trong, không phải do nimbostratus tạo ra.",
     "en_name": "Nimbostratus",
     "genus_parent": "Nimbostratus",
@@ -87,7 +87,7 @@
     "latin_full": "Nimbostratus",
     "level": "trung",
     "mo_ta_nhan_dang": "Lớp mây xám sẫm, dày, gần như đồng nhất và không có chi tiết, đáy mây mờ khuếch tán, đủ dày để che khuất hoàn toàn Mặt Trời. Mây trải rộng trên diện tích lớn, thường trông như được chiếu sáng từ bên trong dù đáy rất tối. Rất dày, mờ đục và đơn điệu nên không chia loài hay dạng biến thể; chỉ có đặc điểm bổ sung là mưa (praecipitatio), virga và mây phụ pannus ở dưới.",
-    "notes": "Tên tiếng Việt 'Mây vũ tầng' là tên chuẩn theo Wikipedia tiếng Việt. WMO và Wikipedia đều xác nhận Nimbostratus không có species hay variety. Ảnh Ns1.jpg là ảnh minh họa chính trong bài Wikipedia EN, mô tả 'Nimbostratus with pannus' (mây vũ tầng kèm mây phụ pannus). Tác giả không ghi trong metadata Commons — cần ghi đúng như vậy khi hiển thị credit. Ảnh tải về là bản thu nhỏ 1280 px.",
+    "notes": "Tên tiếng Việt 'Mây vũ tầng' là tên chuẩn theo Wikipedia tiếng Việt. WMO và Wikipedia đều xác nhận Nimbostratus không có species hay variety. Ảnh Ns1.jpg là ảnh minh họa chính trong bài Wikipedia EN, mô tả 'Nimbostratus with pannus' (mây vũ tầng kèm mây phụ pannus). Tác giả không ghi trong metadata Commons.",
     "photo": {
       "author": "Không rõ (metadata Commons không ghi tác giả)",
       "commons_url": "https://commons.wikimedia.org/wiki/File:Ns1.jpg",
@@ -163,7 +163,7 @@
     "latin_full": "Altocumulus lenticularis",
     "level": "trung",
     "mo_ta_nhan_dang": "Mây hình thấu kính hoặc hình quả hạnh, mặt nhẵn, mép mỏng, thường đứng yên một chỗ rất lâu dù gió thổi mạnh. Hình thành khi luồng gió ổn định vượt qua núi đồi tạo sóng đứng trong khí quyển, hơi ẩm ngưng tụ ở đỉnh sóng. Vì hình dạng lạ giống đĩa bay nên đôi khi bị nhầm là vật thể bay không xác định. Thường có mặt xám bóng.",
-    "notes": "Species (loài) của chi Altocumulus theo WMO. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh ghi 'Altocumulus lenticularis duplicatus' — dạng thấu kính đúng loài, có thêm lớp duplicatus (nhiều lớp chồng nhau); hình thấu kính vẫn là đặc điểm chính trong ảnh. Ảnh tải về là bản thu nhỏ 1280 px.",
+    "notes": "Species (loài) của chi Altocumulus theo WMO. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh ghi 'Altocumulus lenticularis duplicatus' — dạng thấu kính đúng loài, có thêm lớp duplicatus (nhiều lớp chồng nhau); hình thấu kính vẫn là đặc điểm chính trong ảnh.",
     "photo": {
       "author": "GerritR",
       "commons_url": "https://commons.wikimedia.org/wiki/File:Altocumulus_lenticularis_duplicatus.jpg",
@@ -239,7 +239,7 @@
     "latin_full": "Altocumulus floccus",
     "level": "trung",
     "mo_ta_nhan_dang": "Mây trung tích dạng từng búi nhỏ rời rạc, mỗi búi có đầu phồng như mây tích thu nhỏ và chân mây xơ xác, rách tươm, thường kèm virga rơi từ chân búi. Các búi nhỏ hơn và rách hơn so với castellanus, thường xuất hiện cùng castellanus. Cùng mã quan trắc SYNOP CM8 với castellanus.",
-    "notes": "Species (loài) của chi Altocumulus theo WMO. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh: mây floccus tạo tia đối nhật (anticrepuscular rays) lúc chiều tà. Ảnh tải về là bản thu nhỏ 1280 px.",
+    "notes": "Species (loài) của chi Altocumulus theo WMO. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh: mây floccus tạo tia đối nhật (anticrepuscular rays) lúc chiều tà.",
     "photo": {
       "author": "GerritR",
       "commons_url": "https://commons.wikimedia.org/wiki/File:Altocumulus_floccus_erzeugt_Anticrepuscularstrahlen.jpg",
@@ -277,7 +277,7 @@
     "latin_full": "Altocumulus volutus",
     "level": "trung",
     "mo_ta_nhan_dang": "Mây hình ống dài nằm ngang, cuộn tròn như một cuộn len khổng lồ lăn trên trời, chỉ gồm một dải mây duy nhất kéo dài. Đây là loài hiếm gặp nhất của mây trung tích, được WMO công nhận trong bản Atlas 2017. Khác với các loài khác, volutus không xếp thành mảng mà là một ống mây độc lập, dài và hẹp.",
-    "notes": "Species (loài) của chi Altocumulus theo WMO (bổ sung trong Atlas 2017; các nguồn cũ trước 2017 chỉ liệt kê 4 loài, không có volutus — đã đối chiếu bảng phân loại WMO hiện tại). Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh tải về là bản thu nhỏ 1280 px.",
+    "notes": "Species (loài) của chi Altocumulus theo WMO (bổ sung trong Atlas 2017; các nguồn cũ trước 2017 chỉ liệt kê 4 loài, không có volutus — đã đối chiếu bảng phân loại WMO hiện tại). Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt.",
     "photo": {
       "author": "Rollcloud",
       "commons_url": "https://commons.wikimedia.org/wiki/File:Altocumulus_volutus_%2822112021%29.jpg",
@@ -315,7 +315,7 @@
     "latin_full": "Altocumulus stratiformis undulatus",
     "level": "trung",
     "mo_ta_nhan_dang": "Mây trung tích có đáy gợn sóng lượn như mặt nước, tạo thành những dải sóng song song hoặc các gợn lăn đều đặn. Đây là dạng biến thể theo mẫu (pattern-based variety), thường đi kèm loài stratiformis và lenticularis. Khi lớp mây gợn sóng trải rộng khắp bầu trời, người ta gọi là 'mackerel sky' (trời vảy cá thu).",
-    "notes": "Variety (dạng biến thể), KHÔNG phải species hay chi riêng — theo WMO, undulatus là variety theo mẫu, thường đi kèm loài stratiformis (tên đầy đủ trong ảnh: Altocumulus stratiformis translucidus lacunosus undulatus, tức ảnh còn mang thêm variety translucidus và lacunosus; đặc điểm gợn sóng undulatus vẫn là đặc điểm chính). Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh tải về là bản thu nhỏ 1280 px.",
+    "notes": "Variety (dạng biến thể), KHÔNG phải species hay chi riêng — theo WMO, undulatus là variety theo mẫu, thường đi kèm loài stratiformis (tên đầy đủ trong ảnh: Altocumulus stratiformis translucidus lacunosus undulatus, tức ảnh còn mang thêm variety translucidus và lacunosus; đặc điểm gợn sóng undulatus vẫn là đặc điểm chính). Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt.",
     "photo": {
       "author": "H. Floreen, NOAA's National Weather Service (NWS) Collection",
       "commons_url": "https://commons.wikimedia.org/wiki/File:Altocumulus_undulatus_cloud.jpg",
@@ -353,7 +353,7 @@
     "latin_full": "Altocumulus stratiformis translucidus",
     "level": "trung",
     "mo_ta_nhan_dang": "Mây trung tích dạng tầng trải nhưng trong mờ: ánh sáng Mặt Trời hoặc Mặt Trăng vẫn xuyên qua được, có thể thấy rõ vị trí của Mặt Trời qua lớp mây. Đây là dạng biến thể theo độ mờ đục (opacity-based variety) của loài stratiformis, mã quan trắc SYNOP CM3. Mây mỏng, sáng, các khối mây vẫn tách biệt.",
-    "notes": "Variety (dạng biến thể theo độ mờ đục), KHÔNG phải species hay chi riêng — theo WMO và Wikipedia, translucidus là variety của loài Altocumulus stratiformis. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh ghi 'Altocumulus stratiformis translucidus undulatus' — trong mờ đúng variety, có thêm gợn sóng undulatus. Ảnh tải về là bản thu nhỏ 1280 px.",
+    "notes": "Variety (dạng biến thể theo độ mờ đục), KHÔNG phải species hay chi riêng — theo WMO và Wikipedia, translucidus là variety của loài Altocumulus stratiformis. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh ghi 'Altocumulus stratiformis translucidus undulatus' — trong mờ đúng variety, có thêm gợn sóng undulatus.",
     "photo": {
       "author": "GerritR",
       "commons_url": "https://commons.wikimedia.org/wiki/File:Altocumulus_stratiformis_translucidus_undulatus.jpg",
@@ -391,7 +391,7 @@
     "latin_full": "Altocumulus stratiformis perlucidus",
     "level": "trung",
     "mo_ta_nhan_dang": "Mây trung tích dạng tầng trải mà phần lớn mây đã đục, nhưng giữa các khối mây có những kẽ hở nhỏ trong suốt để lộ trời xanh hoặc ánh sáng xuyên qua. Đây là dạng biến thể theo độ mờ đục (opacity-based variety) của loài stratiformis, mã quan trắc SYNOP CM3 hoặc CM7 tùy độ mờ chiếm ưu thế. Nhìn từ dưới lên, bầu trời như một tấm thảm mây có những ô cửa sổ nhỏ.",
-    "notes": "Variety (dạng biến thể theo độ mờ đục), KHÔNG phải species hay chi riêng — theo WMO và Wikipedia, perlucidus là variety của loài Altocumulus stratiformis. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh chụp lúc hoàng hôn (in der Dämmerung), dùng kính lọc phân cực. Ảnh tải về là bản thu nhỏ 1280 px.",
+    "notes": "Variety (dạng biến thể theo độ mờ đục), KHÔNG phải species hay chi riêng — theo WMO và Wikipedia, perlucidus là variety của loài Altocumulus stratiformis. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh chụp lúc hoàng hôn (in der Dämmerung), dùng kính lọc phân cực.",
     "photo": {
       "author": "GerritR",
       "commons_url": "https://commons.wikimedia.org/wiki/File:Altocumulus_stratiformis_perlucidus_in_der_D%C3%A4mmerung.jpg",
@@ -429,7 +429,7 @@
     "latin_full": "Altocumulus stratiformis opacus",
     "level": "trung",
     "mo_ta_nhan_dang": "Mây trung tích dạng tầng trải đã đục hoàn toàn: lớp mây dày tới mức che khuất hẳn Mặt Trời hoặc Mặt Trăng, không còn thấy vị trí của chúng qua mây nữa. Đây là dạng biến thể theo độ mờ đục (opacity-based variety) của loài stratiformis, mã quan trắc SYNOP CM7. Mây có màu xám đậm, các khối mây dính chặt nhau thành một tấm liền.",
-    "notes": "Variety (dạng biến thể theo độ mờ đục), KHÔNG phải species hay chi riêng — theo WMO và Wikipedia, opacus là variety của loài Altocumulus stratiformis. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt. Ảnh tải về là bản thu nhỏ 1280 px.",
+    "notes": "Variety (dạng biến thể theo độ mờ đục), KHÔNG phải species hay chi riêng — theo WMO và Wikipedia, opacus là variety của loài Altocumulus stratiformis. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt.",
     "photo": {
       "author": "Rollcloud",
       "commons_url": "https://commons.wikimedia.org/wiki/File:Altocumulus_stratiformis_opacus.jpg",

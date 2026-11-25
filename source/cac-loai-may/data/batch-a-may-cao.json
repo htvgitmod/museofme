@@ -11,7 +11,7 @@
     "latin_full": "Cirrus (Ci)",
     "level": "cao",
     "mo_ta_nhan_dang": "Mây cao mỏng, nhẹ, gồm tinh thể băng, trông như sợi tơ, lông vũ hoặc dải mỏng màu trắng, trong suốt nên vẫn nhìn xuyên thấy Mặt Trời. Thường xuất hiện rời rạc thành từng sợi dài, có khi tạo vệt rủ (fall streaks) bên dưới. Hoàng hôn có thể nhuộm mây vàng hoặc đỏ.",
-    "notes": "Tên tiếng Việt 'Mây ti' theo brief dự án. Ảnh là rìa frông mây ti (cirrus front), đúng chi Cirrus. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "notes": "Tên tiếng Việt 'Mây ti' là tên quen dùng. Ảnh là rìa frông mây ti (cirrus front), đúng chi Cirrus.",
     "photo": {
       "author": "Ximonic (Simo Räsänen)",
       "commons_file_title": "File:Cirrus front over Austnesfjorden, Austvågøya, Lofoten, Norway, 2015 April.jpg",
@@ -50,7 +50,7 @@
     "latin_full": "Cirrocumulus (Cc)",
     "level": "cao",
     "mo_ta_nhan_dang": "Mảng mây trắng nhỏ, mỏng như vảy cá, gồm nhiều 'mây con' (cloudlet) nhỏ — mỗi cụm không lớn hơn một ngón tay giơ ra ở tầm tay. Không có bóng xám, hơi trong mờ, thường xếp thành hàng hoặc gợn sóng như 'trời vảy cá thu' (mackerel sky). Phân biệt với mây trung tích (altocumulus) nhờ cụm mây nhỏ hơn và ở cao hơn.",
-    "notes": "Tên tiếng Việt 'Mây ti tích' theo brief dự án. Ảnh này cũng xuất hiện trong bài Wikipedia EN về Cirrocumulus. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "notes": "Tên tiếng Việt 'Mây ti tích' là tên quen dùng. Ảnh này cũng xuất hiện trong bài Wikipedia EN về Cirrocumulus.",
     "photo": {
       "author": "King of Hearts",
       "commons_file_title": "File:Cirrocumulus clouds Thousand Oaks July 2010.jpg",
@@ -89,7 +89,7 @@
     "latin_full": "Cirrostratus (Cs)",
     "level": "cao",
     "mo_ta_nhan_dang": "Lớp mây mỏng, rất đều, trong mờ như tấm voan trắng phủ kín cả bầu trời, khó nhận ra nếu không để ý. Dạng nebulosus tạo quầng sáng (halo) quanh Mặt Trời hoặc Mặt Trăng; dạng fibratus có kết cấu sợi, không tạo quầng. Bầu trời khi có mây ti tầng thường có vẻ 'sữa đục' (milky sunshine).",
-    "notes": "Tên tiếng Việt 'Mây ti tầng' theo brief dự án. Ảnh quầng sáng trong mây ti tầng — quầng halo là dấu hiệu nhận biết đặc trưng của chi này. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "notes": "Tên tiếng Việt 'Mây ti tầng' là tên quen dùng. Ảnh quầng sáng trong mây ti tầng — quầng halo là dấu hiệu nhận biết đặc trưng của chi này.",
     "photo": {
       "author": "Chrumps",
       "commons_file_title": "File:Halo in cirrostratus 1.jpg",
@@ -128,7 +128,7 @@
     "latin_full": "Cirrus fibratus (Ci fib)",
     "level": "cao",
     "mo_ta_nhan_dang": "Dạng mây ti phổ biến nhất: các sợi thẳng, mảnh, gần như song song, trông như vạch kẻ trắng kéo dài trên trời, thường xếp theo hướng gió ở tầng cao. Sợi mây tách rời, không có đầu móc câu như uncinus và không dày đặc như spissatus.",
-    "notes": "Tên tiếng Việt 'Mây ti dạng sợi' là tên dịch mô tả (fibratus = dạng sợi), chưa có tên chuẩn tiếng Việt — không dùng như tên chính thức. Ảnh có tên file ghi rõ Cirrus fibratus. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "notes": "Tên tiếng Việt 'Mây ti dạng sợi' là tên dịch mô tả (fibratus = dạng sợi), chưa có tên chuẩn tiếng Việt — không dùng như tên chính thức. Ảnh có tên file ghi rõ Cirrus fibratus.",
     "photo": {
       "author": "Downtowngal",
       "commons_file_title": "File:Cirrus fibratus clouds, Los Angeles.jpg",
@@ -163,7 +163,7 @@
     "latin_full": "Cirrus uncinus (Ci unc)",
     "level": "cao",
     "mo_ta_nhan_dang": "Sợi mây ti có đầu cong thành móc câu hoặc hình dấu phẩy, thường gọi là 'đuôi ngựa' (mare's tails). Phần đầu móc là nơi tinh thể băng nặng rơi xuống và bị gió tầng cao uốn cong. Nhận biết nhờ 'cái móc' ở cuối mỗi sợi — không có móc thì không phải uncinus.",
-    "notes": "Tên tiếng Việt 'Mây ti dạng móc câu (đuôi ngựa)' là tên dịch mô tả (uncinus = dạng móc; mare's tails = đuôi ngựa), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrus uncinus. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "notes": "Tên tiếng Việt 'Mây ti dạng móc câu (đuôi ngựa)' là tên dịch mô tả (uncinus = dạng móc; mare's tails = đuôi ngựa), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrus uncinus.",
     "photo": {
       "author": "1bumer",
       "commons_file_title": "File:Cirrus uncinus.jpg",
@@ -198,7 +198,7 @@
     "latin_full": "Cirrus spissatus (Ci spi)",
     "level": "cao",
     "mo_ta_nhan_dang": "Dạng mây ti đặc biệt dày và đậm, trông xám hơn các mây ti khác, chiếm phần lớn bầu trời phía trên, không còn mỏng trong suốt. Thường là tàn dư của tán đe giông (cumulonimbus) sau khi giông tan, hoặc hình thành khi frông ấm đi qua.",
-    "notes": "Tên tiếng Việt 'Mây ti dạng dày đặc' là tên dịch mô tả (spissatus = làm dày, đặc), chưa có tên chuẩn tiếng Việt. Ảnh này cũng là ảnh minh họa loài spissatus trong bài Wikipedia EN về Cirrus; tên file ghi rõ nguồn gốc từ cumulonimbus (cumulonimbogenitus). local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "notes": "Tên tiếng Việt 'Mây ti dạng dày đặc' là tên dịch mô tả (spissatus = làm dày, đặc), chưa có tên chuẩn tiếng Việt. Ảnh này cũng là ảnh minh họa loài spissatus trong bài Wikipedia EN về Cirrus; tên file ghi rõ nguồn gốc từ cumulonimbus (cumulonimbogenitus).",
     "photo": {
       "author": "GerritR",
       "commons_file_title": "File:Cirrus spissatus cumulonimbogenitus in Oklahoma.jpg",
@@ -233,7 +233,7 @@
     "latin_full": "Cirrus castellanus (Ci cas)",
     "level": "cao",
     "mo_ta_nhan_dang": "Mây ti có phần đỉnh mọc lên thành các tháp nhỏ trông như tường thành, tháp canh của lâu đài (castellanus = thuộc về lâu đài) — tháp cao hơn chiều rộng của nó. Hiếm gặp hơn các loài mây ti khác, trông như dãy ụ nhỏ nối nhau trên một nền mây mỏng.",
-    "notes": "Tên tiếng Việt 'Mây ti dạng tháp' là tên dịch mô tả (castellanus = dạng lâu đài/tháp canh), chưa có tên chuẩn tiếng Việt. Ảnh này cũng là ảnh minh họa loài castellanus trong bài Wikipedia EN về Cirrus. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "notes": "Tên tiếng Việt 'Mây ti dạng tháp' là tên dịch mô tả (castellanus = dạng lâu đài/tháp canh), chưa có tên chuẩn tiếng Việt. Ảnh này cũng là ảnh minh họa loài castellanus trong bài Wikipedia EN về Cirrus.",
     "photo": {
       "author": "GerritR",
       "commons_file_title": "File:Cirrus castellanus.jpg",
@@ -268,7 +268,7 @@
     "latin_full": "Cirrus floccus (Ci flo)",
     "level": "cao",
     "mo_ta_nhan_dang": "Mây ti xuất hiện thành chuỗi cụm nhỏ rời rạc như túm bông gòn (floccus = túm len, bông), đầu tròn, chân rách xơ xác, lớn hơn nhiều so với các cụm của cirrocumulus floccus. Mỗi cụm có thể kèm vệt mưa băng (virga) rủ xuống dưới.",
-    "notes": "Tên tiếng Việt 'Mây ti dạng cụm bông' là tên dịch mô tả (floccus = túm bông len), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrus floccus (Rome, 2014-07). local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "notes": "Tên tiếng Việt 'Mây ti dạng cụm bông' là tên dịch mô tả (floccus = túm bông len), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrus floccus (Rome, 2014-07).",
     "photo": {
       "author": "Daniele.Brundu",
       "commons_file_title": "File:Cirrus floccus (Rome, 2014-07).jpg",
@@ -303,7 +303,7 @@
     "latin_full": "Cirrocumulus stratiformis (Cc str)",
     "level": "cao",
     "mo_ta_nhan_dang": "Dạng mây ti tích trải thành tấm hoặc mảng tương đối phẳng, các cụm mây nhỏ li ti xếp thành lớp mỏng trên diện rộng, trông như mặt biển gợn vảy. Đây là loài phổ biến của chi Cirrocumulus, ít nhô cao hơn dạng castellanus hay floccus.",
-    "notes": "Tên tiếng Việt 'Mây ti tích dạng tầng trải' là tên dịch mô tả (stratiformis = trải thành tầng), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrocumulus stratiformis. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "notes": "Tên tiếng Việt 'Mây ti tích dạng tầng trải' là tên dịch mô tả (stratiformis = trải thành tầng), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrocumulus stratiformis.",
     "photo": {
       "author": "GerritR",
       "commons_file_title": "File:Cirrocumulus stratiformis.jpg",
@@ -342,7 +342,7 @@
     "latin_full": "Cirrocumulus lenticularis (Cc len)",
     "level": "cao",
     "mo_ta_nhan_dang": "Mây ti tích có hình thấu kính (lens) — dẹt, thuôn nhọn ở hai đầu, mép nhẵn, trông như chiếc đĩa bay hoặc hạt hạnh nhân nằm ngang trên trời. Hình thành khi không khí ẩm ổn định bị sóng địa hình (thường trên núi) nâng lên rồi hạ xuống, mây đọng lại đúng ở đỉnh sóng.",
-    "notes": "Tên tiếng Việt 'Mây ti tích dạng thấu kính' là tên dịch mô tả (lenticularis = hình thấu kính), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrocumulus lenticularis. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "notes": "Tên tiếng Việt 'Mây ti tích dạng thấu kính' là tên dịch mô tả (lenticularis = hình thấu kính), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrocumulus lenticularis.",
     "photo": {
       "author": "Couch-scratching-cats",
       "commons_file_title": "File:Cirrocumulus lenticularis cloud 2.jpg",
@@ -381,7 +381,7 @@
     "latin_full": "Cirrocumulus castellanus (Cc cas)",
     "level": "cao",
     "mo_ta_nhan_dang": "Mây ti tích có các cụm mây mọc lên thành tháp nhỏ như tường thành (turreted), cao hơn rộng, nối nhau ở chân thành một lớp chung. Các tháp nhỏ li ti, trông như lâu đài thu nhỏ ở rất cao trên trời — khó thấy rõ vì cụm mây quá nhỏ.",
-    "notes": "Tên tiếng Việt 'Mây ti tích dạng tháp' là tên dịch mô tả (castellanus = dạng lâu đài/tháp), chưa có tên chuẩn tiếng Việt. Lưu ý: ảnh có cả Cirrocumulus castellanus và Cirrus castellanus trong cùng một khung hình (theo tên file) — cần xem lại ảnh khi duyệt để chắc phần Cirrocumulus castellanus nhìn rõ. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "notes": "Tên tiếng Việt 'Mây ti tích dạng tháp' là tên dịch mô tả (castellanus = dạng lâu đài/tháp), chưa có tên chuẩn tiếng Việt. Lưu ý: ảnh có cả Cirrocumulus castellanus và Cirrus castellanus trong cùng một khung hình (theo tên file) — cần xem lại ảnh khi duyệt để chắc phần Cirrocumulus castellanus nhìn rõ.",
     "photo": {
       "author": "Rollcloud",
       "commons_file_title": "File:Cirrocumulus castellanus and Cirrus castellanus 01.jpg",
@@ -420,7 +420,7 @@
     "latin_full": "Cirrocumulus floccus (Cc flo)",
     "level": "cao",
     "mo_ta_nhan_dang": "Các cụm mây ti tích nhỏ li ti như túm bông (floccus = túm len), đầu tròn, chân rách xơ xác, trông xù xì hơn các loài ti tích khác. Đây cũng là ảnh đại diện (infobox) của chi Cirrocumulus trên Wikipedia EN. Các cụm nhỏ hơn nhiều so với cụm của Cirrus floccus.",
-    "notes": "Tên tiếng Việt 'Mây ti tích dạng cụm bông' là tên dịch mô tả (floccus = túm bông len), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrocumulus floccus; ảnh infobox của bài Wikipedia EN (Cirrocumulus_20040830.jpg, chú thích 'Cirrocumulus floccus') là ảnh dự phòng cùng loài. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "notes": "Tên tiếng Việt 'Mây ti tích dạng cụm bông' là tên dịch mô tả (floccus = túm bông len), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrocumulus floccus; ảnh infobox của bài Wikipedia EN (Cirrocumulus_20040830.jpg, chú thích 'Cirrocumulus floccus') là ảnh dự phòng cùng loài.",
     "photo": {
       "author": "Van der Fall",
       "commons_file_title": "File:Cirrocumulus floccus.jpg",
@@ -459,7 +459,7 @@
     "latin_full": "Cirrostratus fibratus (Cs fib)",
     "level": "cao",
     "mo_ta_nhan_dang": "Lớp mây ti tầng có kết cấu sợi rõ rệt — như tấm màn sợi mỏng phủ khắp trời, các sợi nửa tách rời, nửa dính nhau. Dày hơn dạng nebulosus nên không tạo quầng halo (hoặc quầng rất mờ). Khi frông đến gần, mây ti tầng thường bắt đầu từ dạng nebulosus rồi chuyển sang fibratus.",
-    "notes": "Tên tiếng Việt 'Mây ti tầng dạng sợi' là tên dịch mô tả (fibratus = dạng sợi), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrostratus fibratus. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "notes": "Tên tiếng Việt 'Mây ti tầng dạng sợi' là tên dịch mô tả (fibratus = dạng sợi), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrostratus fibratus.",
     "photo": {
       "author": "Rollcloud",
       "commons_file_title": "File:Cirrostratus fibratus (06122021).jpg",
@@ -494,7 +494,7 @@
     "latin_full": "Cirrostratus nebulosus (Cs neb)",
     "level": "cao",
     "mo_ta_nhan_dang": "Lớp mây ti tầng trơn nhẵn, không có chi tiết gì, như tấm voan mỏng không đặc điểm phủ kín cả bầu trời, khiến bầu trời có vẻ mờ sương, 'sữa đục'. Chính dạng này tạo ra quầng sáng (halo, thường là vòng 22 độ) quanh Mặt Trời hoặc Mặt Trăng — dấu hiệu nhận biết rõ nhất. Mặt Trời/Mặt Trăng vẫn nhìn xuyên qua được.",
-    "notes": "Tên tiếng Việt 'Mây ti tầng dạng mù sương' là tên dịch mô tả (nebulosus = dạng mù sương, không đặc điểm), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cs nebulosus kèm quầng mờ (faint halo) — đúng dấu hiệu đặc trưng của loài này; giấy phép Public domain theo API Commons. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "notes": "Tên tiếng Việt 'Mây ti tầng dạng mù sương' là tên dịch mô tả (nebulosus = dạng mù sương, không đặc điểm), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cs nebulosus kèm quầng mờ (faint halo) — đúng dấu hiệu đặc trưng của loài này; giấy phép Public domain theo API Commons.",
     "photo": {
       "author": "Rollcloud",
       "commons_file_title": "File:Cs nebulosus with faint halo.jpg",

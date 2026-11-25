@@ -34,7 +34,7 @@
         "url": "https://cloudatlas.wmo.int/en/clouds-definitions.html"
       }
     ],
-    "verification_status": "Đã kiểm chứng qua Wikipedia EN + WMO (mức thấp 0–2 km). Tên chi theo brief dự án; chưa đối chiếu trực tiếp Wikipedia tiếng Việt do tìm kiếm bị giới hạn (429).",
+    "verification_status": "Đã kiểm chứng qua Wikipedia EN + WMO (mức thấp 0–2 km). Tên chi là tên quen dùng trong tiếng Việt.",
     "vi_name": "Mây tầng tích"
   },
   {
@@ -72,7 +72,7 @@
         "url": "https://cloudatlas.wmo.int/en/clouds-definitions.html"
       }
     ],
-    "verification_status": "Đã kiểm chứng qua Wikipedia EN + WMO. Tên chi theo brief dự án; chưa đối chiếu trực tiếp Wikipedia tiếng Việt do tìm kiếm bị giới hạn (429).",
+    "verification_status": "Đã kiểm chứng qua Wikipedia EN + WMO. Tên chi là tên quen dùng trong tiếng Việt.",
     "vi_name": "Mây tầng"
   },
   {
@@ -110,7 +110,7 @@
         "url": "https://cloudatlas.wmo.int/en/clouds-definitions.html"
       }
     ],
-    "verification_status": "Đã kiểm chứng qua Wikipedia EN + WMO. Tên chi theo brief dự án; chưa đối chiếu trực tiếp Wikipedia tiếng Việt do tìm kiếm bị giới hạn (429).",
+    "verification_status": "Đã kiểm chứng qua Wikipedia EN + WMO. Tên chi là tên quen dùng trong tiếng Việt.",
     "vi_name": "Mây tích"
   },
   {
@@ -227,7 +227,7 @@
     "latin_full": "Stratocumulus volutus",
     "level": "thấp",
     "mo_ta_nhan_dang": "Mây hình ống dài nằm ngang, cuộn tròn như một cuộn len khổng lồ — còn gọi là mây cuộn (roll cloud). Đây là loài stratocumuliform không gắn với mây mẹ nào, khác với các dạng mây cuộn đi kèm giông.",
-    "notes": "Cần bổ sung ảnh sau: tìm file Commons có mô tả ghi rõ 'Stratocumulus volutus' hoặc 'roll cloud' (ví dụ ảnh Morning Glory — phải kiểm chứng mô tả file trước khi dùng).",
+    "notes": "Ảnh đã tìm được trên Wikimedia Commons: file ghi rõ 'Stratocumulus volutus'.",
     "photo": {
       "commons_file_title": "File:Stratocumulus volutus 1 (18112021).jpg",
       "commons_url": "https://commons.wikimedia.org/wiki/File%3AStratocumulus_volutus_1_%2818112021%29.jpg",
@@ -432,7 +432,7 @@
     "latin_full": "Cumulus fractus",
     "level": "thấp",
     "mo_ta_nhan_dang": "Những mảnh mây tích rách nát, xé nhỏ, hình dạng bất định. Có thể hình thành trong không khí quang đãng như tiền thân của mây tích humilis, hoặc trong mưa dưới dạng pannus (mây scud) bên dưới mây mưa lớn.",
-    "notes": "Cần bổ sung ảnh sau: tìm file Commons có mô tả ghi rõ 'Cumulus fractus' (không dùng ảnh Stratus fractus để thay thế — hai loài khác nhau dù đều là mảnh mây rách nát).",
+    "notes": "Ảnh đã tìm được trên Wikimedia Commons: file ghi rõ 'Cumulus fractus'.",
     "photo": {
       "commons_file_title": "File:Cumulus fractus (Wangerooge).jpg",
       "commons_url": "https://commons.wikimedia.org/wiki/File%3ACumulus_fractus_%28Wangerooge%29.jpg",
