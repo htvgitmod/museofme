@@ -1,0 +1,426 @@
+[
+  {
+    "altitude": "76–85 km",
+    "altitude_note": "Tầng trung lưu (mesosphere), gần mesopause; là loại mây cao nhất trong khí quyển Trái Đất, cao hơn mọi mây đối lưu. WMO ghi khoảng 80–85 km.",
+    "bao_hieu_thoi_tiet": "Không báo mưa hay bão ở mặt đất; là dấu hiệu của tầng khí quyển trên rất lạnh và khô. Các nhà khoa học dùng chúng để nghiên cứu khí quyển trên và biến đổi khí hậu.",
+    "en_name": "Noctilucent clouds",
+    "genus_parent": "Không thuộc 10 chi WMO đối lưu — mây tầng cao trên đối lưu (upper atmospheric cloud)",
+    "group": "Mây đặc biệt & hiếm",
+    "id": "noctilucent-clouds",
+    "khi_nao_thuong_thay": "Chỉ thấy vào chạng vạng sâu sau hoàng hôn hoặc trước bình minh, vào mùa hè, ở vĩ độ cao khoảng 50–70° Bắc (và tương ứng ở Nam bán cầu). Ở Việt Nam (vĩ độ thấp) gần như không quan sát được.",
+    "latin_full": "Noctilucent clouds (NLC / PMC)",
+    "level": "đặc biệt",
+    "mo_ta_nhan_dang": "Mây rất mỏng, dạng vệt, dải hoặc sóng màu xanh bạc, phát sáng trong bóng tối chạng vạng vì vẫn được Mặt Trời chiếu sáng dù mặt đất đã tối. Gồm những tinh thể băng nước rất nhỏ, tới khoảng 100 nm. Nhìn từ vũ trụ gọi là mây trung lưu cực (polar mesospheric clouds, PMC).",
+    "notes": "Tên tiếng Việt là dịch mô tả, chưa có tên chuẩn tiếng Việt được kiểm chứng. Không phải mây thời tiết đối lưu.",
+    "photo": {
+      "commons_file_title": "File:Noctilucent-clouds-msu-6817.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ANoctilucent-clouds-msu-6817.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Noctilucent-clouds-msu-6817.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Matthias Süßen",
+      "license": "CC BY-SA 4.0",
+      "local_file": "images/noctilucent-clouds.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Noctilucent cloud",
+        "url": "https://en.wikipedia.org/wiki/Noctilucent_cloud"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Upper atmospheric clouds",
+        "url": "https://cloudatlas.wmo.int/en/upper-atmospheric-clouds.html"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — Wikipedia EN + WMO (độ cao 76–85 km, thành phần tinh thể băng, mùa hè vĩ độ cao)",
+    "vi_name": "Mây dạ quang"
+  },
+  {
+    "altitude": "15–25 km",
+    "altitude_note": "Tầng bình lưu vùng cực mùa đông; Wikipedia ghi 15.000–25.000 m, WMO ghi khoảng 15–30 km. Hình thành dưới −78 °C.",
+    "bao_hieu_thoi_tiet": "Không báo mưa ở mặt đất. Loại Type I liên quan tới sự hình thành lỗ thủng tầng ozone; loại Type II chỉ gồm băng thì không gây hại. Chỉ là dấu hiệu của xoáy cực mùa đông rất lạnh.",
+    "en_name": "Nacreous clouds / Polar stratospheric clouds",
+    "genus_parent": "Không thuộc 10 chi WMO đối lưu — mây tầng bình lưu (upper atmospheric cloud)",
+    "group": "Mây đặc biệt & hiếm",
+    "id": "nacreous-clouds",
+    "khi_nao_thuong_thay": "Mùa đông ở vùng cực, vĩ độ cao; hiếm hơn ở Bắc Cực vì xoáy cực kém ổn định hơn Nam Cực. Ở Việt Nam không quan sát được.",
+    "latin_full": "Polar stratospheric cloud (PSC), nacreous",
+    "level": "đặc biệt",
+    "mo_ta_nhan_dang": "Mây mỏng, sáng rực với màu óng ánh như xà cừ (nacre, vỏ trai), thấy rõ nhất lúc chạng vạng khi Mặt Trời ở 1–6° dưới chân trời. Loại chỉ gồm tinh thể băng (Type II) mới nhất thiết là mây xà cừ; loại gồm giọt nước siêu lạnh + axit nitric (Type I) cũng có thể óng ánh. Ban ngày nhìn thường giống mây ti nhạt, tưởng như đứng yên.",
+    "notes": "Tên tiếng Việt là dịch mô tả, chưa có tên chuẩn tiếng Việt được kiểm chứng. WMO hiện chỉ phân biệt PSC axit-nước siêu lạnh dạng tầng và PSC băng xà cừ dạng ti/thấu kính, không dùng danh pháp Type I/II cũ. Ảnh là mây tầng bình lưu loại 2 (nacreous) ở Tromsø, Na Uy.",
+    "photo": {
+      "commons_file_title": "File:Polar Stratospheric Cloud type 2.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3APolar_Stratospheric_Cloud_type_2.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Polar_Stratospheric_Cloud_type_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Patodrg",
+      "license": "CC0",
+      "local_file": "images/nacreous-clouds.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Polar stratospheric cloud",
+        "url": "https://en.wikipedia.org/wiki/Nacreous_cloud"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Upper atmospheric clouds",
+        "url": "https://cloudatlas.wmo.int/en/upper-atmospheric-clouds.html"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — Wikipedia EN + WMO (độ cao 15–25 km, dưới −78 °C, Type II băng mới nhất thiết là nacreous)",
+    "vi_name": "Mây xà cừ (mây tầng bình lưu vùng cực)"
+  },
+  {
+    "altitude": "Theo mây mẹ — thường thấp đến trung",
+    "altitude_note": "Là supplementary feature (đặc điểm bổ sung), không phải chi riêng; xuất hiện ở mặt dưới của Stratocumulus và Altocumulus là chủ yếu, nên độ cao theo mây mẹ đó.",
+    "bao_hieu_thoi_tiet": "Bản thân asperitas không gây mưa, nhưng có thể gắn với giông ở gần. Nguyên nhân hình thành chưa được hiểu đầy đủ; giả thuyết liên quan sóng trọng lực trong khí quyển và wind shear.",
+    "en_name": "Asperitas",
+    "genus_parent": "Supplementary feature — thường gặp với Stratocumulus, Altocumulus",
+    "group": "Mây đặc biệt & hiếm",
+    "id": "asperitas",
+    "khi_nao_thuong_thay": "Hiếm, thường sau hoặc quanh giông, khi có dòng khí lạnh lan ra từ giông. Được đề xuất năm 2008–2009 bởi Gavin Pretor-Pinney (Cloud Appreciation Society), WMO chính thức công nhận là supplementary feature trong bản International Cloud Atlas 2017 (tháng 3/2017) — lần bổ sung đầu tiên kể từ cirrus intortus năm 1951.",
+    "latin_full": "Asperitas",
+    "level": "đặc biệt",
+    "mo_ta_nhan_dang": "Theo định nghĩa WMO: cấu trúc sóng rõ nét ở mặt dưới của mây, hỗn loạn hơn và ít tổ chức theo chiều ngang hơn variety undulatus. Sóng cục bộ ở đáy mây, nhẵn hoặc lốm đốm, đôi khi nhọn xuống như nhìn mặt biển động từ dưới lên. Ánh sáng và độ dày khác nhau tạo hiệu ứng thị giác rất ấn tượng.",
+    "notes": "Tên tiếng Việt là dịch mô tả, chưa có tên chuẩn tiếng Việt được kiểm chứng. Tên cũ: undulatus asperatus. Là supplementary feature, không phải chi hay loài riêng.",
+    "photo": {
+      "commons_file_title": "File:Asperitas Galley Common April 5 2022 01.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3AAsperitas_Galley_Common_April_5_2022_01.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Asperitas_Galley_Common_April_5_2022_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Rubbish computer",
+      "license": "CC BY-SA 4.0",
+      "local_file": "images/asperitas.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Asperitas (cloud)",
+        "url": "https://en.wikipedia.org/wiki/Undulatus_asperatus"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Appendix 3, History of cloud nomenclature (Asperitas, 2017)",
+        "url": "https://cloudatlas.wmo.int/en/appendix-3-history-of-cloud-nomenclature.html"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — Wikipedia EN + WMO (định nghĩa WMO, công nhận tháng 3/2017, lần đầu kể từ 1951)",
+    "vi_name": "Mây sóng hỗn loạn (Asperitas)"
+  },
+  {
+    "altitude": "Theo mây mẹ — thường gặp nhất ở tầng trung (Altocumulus)",
+    "altitude_note": "Là supplementary feature; lỗ xuất hiện trong lớp mây mỏng gồm giọt nước siêu lạnh, thường là Altocumulus ở tầng trung, nên độ cao theo mây mẹ đó.",
+    "bao_hieu_thoi_tiet": "Không báo mưa lớn hay bão; chỉ cho thấy lớp mây trên cao đang ở trạng thái siêu lạnh và không ổn định. Thường do máy bay bay xuyên qua mây kích hoạt, không phải hiện tượng thời tiết nguy hiểm.",
+    "en_name": "Cavum (fallstreak hole)",
+    "genus_parent": "Supplementary feature — thường gặp với Altocumulus (cũng có thể ở Cirrocumulus/Stratocumulus)",
+    "group": "Mây đặc biệt & hiếm",
+    "id": "cavum",
+    "khi_nao_thuong_thay": "Hiếm, bất chợt, khi có lớp Altocumulus mỏng gồm giọt siêu lạnh và có máy bay bay qua lúc cất/hạ cánh. Còn gọi là fallstreak hole hay hole-punch cloud; WMO đặt tên chính thức là cavum trong bản 2017.",
+    "latin_full": "Cavum",
+    "level": "đặc biệt",
+    "mo_ta_nhan_dang": "Một lỗ tròn hoặc bầu dục rõ rệt xuyên qua lớp mây mỏng, để lộ bầu trời xanh, thường có vệt tinh thể băng mỏng (virga) rơi xuống ở giữa lỗ. Lỗ hình thành khi tinh thể băng được đưa vào lớp mây gồm giọt nước siêu lạnh (nước lỏng dưới 0 °C nhưng chưa đóng băng); các giọt xung quanh bay hơi/đóng băng lên tinh thể, làm lỗ loang rộng.",
+    "notes": "Tên tiếng Việt là dịch mô tả, chưa có tên chuẩn tiếng Việt được kiểm chứng. Là supplementary feature, không phải chi hay loài riêng.",
+    "photo": {
+      "commons_file_title": "File:Cavum, Bad Salzhausen 02.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ACavum%2C_Bad_Salzhausen_02.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Cavum%2C_Bad_Salzhausen_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Cherubino",
+      "license": "CC BY-SA 4.0",
+      "local_file": "images/cavum.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.wikipedia.org/wiki/Cloud_types"
+      },
+      {
+        "label": "Wikipedia EN — International Cloud Atlas (12 bổ sung 2017, trong đó có cavum)",
+        "url": "https://en.wikipedia.org/wiki/International_Cloud_Atlas"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng một phần — cơ chế lỗ siêu lạnh + máy bay kích hoạt và tên WMO 2017 đã kiểm chứng qua kết quả tìm kiếm; trang WMO chuyên về Cavum chưa mở được do giới hạn tìm kiếm (429) — cần kiểm chứng lại link WMO trước khi đăng",
+    "vi_name": "Lỗ mây (Cavum / lỗ rơi)"
+  },
+  {
+    "altitude": "Đáy Cumulonimbus — tầng thấp",
+    "altitude_note": "Là supplementary feature gắn với Cumulonimbus; phần hạ thấp cục bộ từ đáy mây giông, nên ở tầng thấp.",
+    "bao_hieu_thoi_tiet": "Dấu hiệu giông mạnh, nguy hiểm. Murus xoay mạnh và có chuyển động thẳng đứng đáng kể có thể hình thành tuba (vòi) rồi lốc xoáy (tornado). Thấy murus xoay là phải trú ẩn ngay, không đứng ngoài quan sát.",
+    "en_name": "Murus (wall cloud)",
+    "genus_parent": "Supplementary feature — Cumulonimbus",
+    "group": "Mây đặc biệt & hiếm",
+    "id": "murus",
+    "khi_nao_thuong_thay": "Chỉ trong giông mạnh, nhất là supercell vào buổi chiều tối ở vùng đồng bằng. WMO bổ sung murus là supplementary feature trong bản 2017.",
+    "latin_full": "Murus",
+    "level": "đặc biệt",
+    "mo_ta_nhan_dang": "Theo WMO: một vùng hạ thấp cục bộ, dai dẳng và thường đột ngột của mây từ đáy Cumulonimbus, trông như một bức tường mây tối sẫm treo dưới đáy giông. Thường phát triển ở phần không mưa của siêu bão (supercell) hoặc giông đa bào mạnh, chỉ ra vùng có dòng thăng mạnh.",
+    "notes": "Tên tiếng Việt là dịch mô tả, chưa có tên chuẩn tiếng Việt được kiểm chứng. Là supplementary feature, không phải chi hay loài riêng.",
+    "photo": {
+      "commons_file_title": "File:Wall Cloud in NE Colorado.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3AWall_Cloud_in_NE_Colorado.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Wall_Cloud_in_NE_Colorado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Stefan Klein",
+      "license": "CC BY-SA 4.0",
+      "local_file": "images/murus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "WMO International Cloud Atlas — Murus",
+        "url": "https://cloudatlas.wmo.int/en/clouds-supplementary-features-murus.html"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.wikipedia.org/wiki/Cloud_types"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — WMO (định nghĩa, gắn với supercell, xoay mạnh có thể thành tuba/tornado)",
+    "vi_name": "Mây tường (Murus)"
+  },
+  {
+    "altitude": "Mây cao — độ cao bay của máy bay phản lực",
+    "altitude_note": "Là special cloud (mây đặc biệt) thuộc chi Cirrus; hình thành ở tầng cao nơi máy bay bay, trong không khí rất lạnh.",
+    "bao_hieu_thoi_tiet": "Không tự nó gây mưa. Vệt dai dẳng, lan rộng cho thấy không khí trên cao đang ẩm dần — có thể là dấu hiệu sớm của frông ấm đang tới; khi lan ra thành tấm mây và không còn nhận ra vệt nữa thì gọi là cirrus homomutatus.",
+    "en_name": "Contrail / Cirrus homogenitus",
+    "genus_parent": "Special cloud — chi Cirrus, nguồn gốc homogenitus (do con người tạo ra)",
+    "group": "Mây đặc biệt & hiếm",
+    "id": "contrail-cirrus-homogenitus",
+    "khi_nao_thuong_thay": "Bất cứ khi nào máy bay phản lực bay qua vùng không khí trên cao đủ lạnh và đủ ẩm; vệt ngắn tan trong khoảng 1 phút trong không khí khô, vệt dai có thể tồn tại hàng giờ và lan rộng.",
+    "latin_full": "Cirrus homogenitus",
+    "level": "đặc biệt",
+    "mo_ta_nhan_dang": "Vệt trắng dài, thẳng, hẹp nằm ngang phía sau máy bay. Theo WMO: vệt ngưng tụ của máy bay tồn tại ít nhất 10 phút sẽ được gọi tên chi Cirrus + tên mây đặc biệt homogenitus, thành Cirrus homogenitus. Vệt mới hình thành thay đổi nhanh, có nhiều hình dạng thoáng qua nên không gắn thêm loài, variety hay supplementary feature.",
+    "notes": "Tên tiếng Việt là dịch mô tả, chưa có tên chuẩn tiếng Việt được kiểm chứng. Là mây do con người tạo ra (homogenitus), không phải mây tự nhiên — ghi rõ trong bài. Ảnh ghi rõ cirrus homogenitus (vệt mây cũ đã loang) cùng vệt ngưng tụ mới.",
+    "photo": {
+      "commons_file_title": "File:Cirrus homogenitus und neue Kondensstreifen.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ACirrus_homogenitus_und_neue_Kondensstreifen.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Cirrus_homogenitus_und_neue_Kondensstreifen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "GerritR",
+      "license": "CC BY-SA 4.0",
+      "local_file": "images/contrail-cirrus-homogenitus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "WMO International Cloud Atlas — Aircraft condensation trails",
+        "url": "https://cloudatlas.wmo.int/en/aircraft-condensation-trails.html"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types (Cirrus homogenitus)",
+        "url": "https://en.wikipedia.org/wiki/Cloud_types"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — WMO (vệt tồn tại ít nhất 10 phút mới gọi là Cirrus homogenitus; không gắn loài/variety)",
+    "vi_name": "Vệt mây máy bay (Cirrus homogenitus)"
+  },
+  {
+    "altitude": "Trên 6.000 m — mây cao",
+    "altitude_note": "Mây cao (high-level), tầng đối lưu trên; variety intortus chỉ gặp ở chi Cirrus.",
+    "bao_hieu_thoi_tiet": "Như mây ti nói chung: riêng lẻ thì không mưa; xuất hiện nhiều, dày dần có thể báo hệ thống bão/frông đang tới, sau đó trời có thể mưa rồi quang lại.",
+    "en_name": "Cirrus intortus",
+    "genus_parent": "Variety — chi Cirrus, loài fibratus",
+    "group": "Mây đặc biệt & hiếm",
+    "id": "cirrus-intortus",
+    "khi_nao_thuong_thay": "Khi có wind shear mạnh ở tầng cao làm xoắn các sợi mây ti. Đây là variety được bổ sung vào Atlas năm 1951 — mốc mà asperitas năm 2017 là lần bổ sung đầu tiên kể từ đó.",
+    "latin_full": "Cirrus fibratus intortus (Ci in)",
+    "level": "đặc biệt",
+    "mo_ta_nhan_dang": "Sợi mây ti cong queo, xoắn rối bất thường, trông như bị vò rối hoặc đan vào nhau một cách tùy hứng. Tên intortus trong tiếng Latin nghĩa là xoắn, vặn. Là một trong các variety của Cirrus fibratus; sóng Kelvin–Helmholtz là một dạng cirrus intortus bị wind shear xoắn thành vòng.",
+    "notes": "Tên tiếng Việt là dịch mô tả, chưa có tên chuẩn tiếng Việt được kiểm chứng. Là variety, không phải chi hay loài riêng.",
+    "photo": {
+      "commons_file_title": "File:Cirrus fibratus intortus über Limburg II.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ACirrus_fibratus_intortus_%C3%BCber_Limburg_II.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Cirrus_fibratus_intortus_%C3%BCber_Limburg_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "GerritR",
+      "license": "CC BY-SA 4.0",
+      "local_file": "images/cirrus-intortus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — List of cloud types (Cirrus fibratus intortus)",
+        "url": "https://en.wikipedia.org/wiki/Cloud_types"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Appendix 3, History of cloud nomenclature (cirrus intortus 1951)",
+        "url": "https://cloudatlas.wmo.int/en/appendix-3-history-of-cloud-nomenclature.html"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — Wikipedia EN (sợi cong/xoắn rối bất thường) + WMO (mốc 1951)",
+    "vi_name": "Mây ti xoắn rối (Cirrus intortus)"
+  },
+  {
+    "altitude": "Trên 6.000 m — mây cao",
+    "altitude_note": "Mây cao (high-level), Family A theo Wikipedia; variety vertebratus chỉ gặp ở chi Cirrus.",
+    "bao_hieu_thoi_tiet": "Như mây ti nói chung: riêng lẻ không mưa; nhiều và dày dần có thể báo frông/bão đang tới. Dạng này hiếm, chủ yếu có giá trị nhận dạng và cho thấy có jet stream mạnh trên cao.",
+    "en_name": "Cirrus vertebratus",
+    "genus_parent": "Variety — chi Cirrus, loài fibratus",
+    "group": "Mây đặc biệt & hiếm",
+    "id": "cirrus-vertebratus",
+    "khi_nao_thuong_thay": "Hiếm, khi có jet stream mạnh sắp xếp các sợi mây ti thành hàng xương sườn song song.",
+    "latin_full": "Cirrus fibratus vertebratus (Ci ve)",
+    "level": "đặc biệt",
+    "mo_ta_nhan_dang": "Theo WMO: mây ti mà các thành phần xếp thành hình gợi nhớ đốt sống, xương sườn hoặc xương cá. Nhìn như một cột sống hay bộ xương cá vắt ngang trời. Tên vertebratus nghĩa là dạng đốt sống. Hình thành khi không khí chuyển động song song với đường mây chính; sự xuất hiện dường như liên quan tới vị trí của dòng tia (jet stream).",
+    "notes": "Tên tiếng Việt là dịch mô tả, chưa có tên chuẩn tiếng Việt được kiểm chứng. Là variety, không phải chi hay loài riêng.",
+    "photo": {
+      "commons_file_title": "File:Cirrus vertebratus.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ACirrus_vertebratus.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Cirrus_vertebratus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Jen Scheer",
+      "license": "CC BY-SA 2.0",
+      "local_file": "images/cirrus-vertebratus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cirrus vertebratus",
+        "url": "https://en.wikipedia.org/wiki/Cirrus_vertebratus"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Cirrus vertebratus (Ci ve)",
+        "url": "https://cloudatlas.wmo.int/en/varieties-cirrus-vertebratus-ci-ve.html"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — Wikipedia EN + WMO (trên 6.000 m, hình xương sống/xương cá, liên quan jet stream)",
+    "vi_name": "Mây ti xương sống (Cirrus vertebratus)"
+  },
+  {
+    "altitude": "2–7 km — mây trung (ôn đới)",
+    "altitude_note": "Mây trung (middle-level); khoảng 2–7 km ở vĩ độ ôn đới theo phân loại chung của WMO/Wikipedia.",
+    "bao_hieu_thoi_tiet": "Không phải dấu hiệu mưa chắc chắn; có thể có mưa rào nhẹ, tuyết hoặc hạt tuyết, nhưng thường chỉ là virga không chạm đất. Lỗ thủng cho thấy có dòng giáng cục bộ và lớp mây đang biến đổi nhanh.",
+    "en_name": "Altocumulus lacunosus",
+    "genus_parent": "Variety — chi Altocumulus",
+    "group": "Mây đặc biệt & hiếm",
+    "id": "altocumulus-lacunosus",
+    "khi_nao_thuong_thay": "Hiếm và ngắn ngủi, khi có hai lớp không khí lạnh/ấm tiếp xúc nhau ở tầng trung. Thường gắn với loài stratiformis, castellanus hoặc floccus của Altocumulus.",
+    "latin_full": "Altocumulus lacunosus (Ac la)",
+    "level": "đặc biệt",
+    "mo_ta_nhan_dang": "Theo WMO: tấm, lớp hoặc mảng Altocumulus có những lỗ tròn phân bố khá đều, nhiều lỗ có mép tua rua; các thành phần mây và khoảng trống thường xếp thành dạng lưới hoặc tổ ong. Chi tiết thay đổi rất nhanh. Tên lacunosus trong tiếng Latin nghĩa là đầy lỗ hổng. Hình thành khi lớp không khí lạnh gặp lớp không khí ấm hơn, khí lạnh chìm xuống thành dòng giáng cục bộ và xuyên thủng mây tạo lỗ. Được xem là hiếm vì thường tồn tại ngắn.",
+    "notes": "Tên tiếng Việt là dịch mô tả, chưa có tên chuẩn tiếng Việt được kiểm chứng. Là variety, không phải chi hay loài riêng. Không nhầm với cavum: lacunosus là nhiều lỗ nhỏ đều nhau trên tấm mây, cavum là một lỗ lớn đơn lẻ. Tác giả Simon Eugster theo mô tả trên trang Commons (bản trích tìm kiếm ghi rõ photographer).",
+    "photo": {
+      "commons_file_title": "File:Altocumulus lacunosus.JPG",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3AAltocumulus_lacunosus.JPG",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Altocumulus_lacunosus.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Simon Eugster",
+      "license": "CC BY-SA 3.0",
+      "local_file": "images/altocumulus-lacunosus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Altocumulus lacunosus cloud",
+        "url": "https://en.wikipedia.org/wiki/Altocumulus_lacunosus_cloud"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Altocumulus lacunosus (Ac la)",
+        "url": "https://cloudatlas.wmo.int/en/varieties-altocumulus-lacunosus-ac-la.html"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — Wikipedia EN + WMO (lỗ tròn mép tua rua, dạng lưới/tổ ong, hiếm và ngắn ngủi)",
+    "vi_name": "Mây trung tích thủng lỗ (Altocumulus lacunosus)"
+  },
+  {
+    "altitude": "5–12 km — mây cao (ôn đới)",
+    "altitude_note": "Mây cao (high-level); khoảng 5–12 km ở vĩ độ ôn đới theo phân loại chung của WMO/Wikipedia.",
+    "bao_hieu_thoi_tiet": "Như mây ti tầng nói chung: nếu xuất hiện sau mây ti và lan rộng thì có thể báo frông ấm đang tới, mưa có thể theo sau trong 12–24 giờ (nhanh thì 6–8 giờ). Bản thân duplicatus không làm đổi dự báo đó, chỉ cho biết có nhiều lớp mây ở độ cao khác nhau.",
+    "en_name": "Cirrostratus duplicatus",
+    "genus_parent": "Variety — chi Cirrostratus, loài fibratus",
+    "group": "Mây đặc biệt & hiếm",
+    "id": "cirrostratus-duplicatus",
+    "khi_nao_thuong_thay": "Không thường gặp; khi có nhiều đợt phát triển cirrostratus liên tiếp, bị gió tốc độ cao ở tầng cao tách thành từng lớp. Variety duplicatus cũng gặp ở Cirrus, Altocumulus, Altostratus và Stratocumulus.",
+    "latin_full": "Cirrostratus fibratus duplicatus (Cs du)",
+    "level": "đặc biệt",
+    "mo_ta_nhan_dang": "Theo WMO về variety duplicatus: các mảng, tấm hoặc lớp mây ở những độ cao hơi khác nhau, thành hai lớp trở lên, đôi khi hợp nhất một phần. Với Cirrostratus: hai tấm mây ti tầng riêng biệt hoặc hợp nhất một phần, một lớp nằm hơi cao hơn lớp kia. Từ mặt đất nhìn thường giống hệt cirrostratus nebulosus (một tấm màn đều), chỉ khi quan sát từ máy bay hoặc lúc bình minh/hoàng hôn (màu sắc khác nhau theo độ cao) mới thấy rõ hai lớp.",
+    "notes": "Tên tiếng Việt là dịch mô tả, chưa có tên chuẩn tiếng Việt được kiểm chứng. Là variety, không phải chi hay loài riêng; gắn với loài fibratus, ít gặp với loài nebulosus vì nebulosus không có chi tiết. Ảnh chụp hiện tượng parhelion (mặt trời giả) do lớp Cirrostratus duplicatus undulatus gây ra — mô tả Commons ghi rõ tên loại mây này.",
+    "photo": {
+      "commons_file_title": "File:Parhelion in summertime 1.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3AParhelion_in_summertime_1.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Parhelion_in_summertime_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Uberprutser",
+      "license": "CC BY-SA 3.0 nl",
+      "local_file": "images/cirrostratus-duplicatus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cirrostratus",
+        "url": "https://en.wikipedia.org/wiki/Cirrostratus"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Duplicatus",
+        "url": "https://cloudatlas.wmo.int/en/clouds-varieties-duplicatus.html"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types (Cirrostratus fibratus duplicatus)",
+        "url": "https://en.wikipedia.org/wiki/Cloud_types"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — Wikipedia EN + WMO (tấm mây ở độ cao hơi khác nhau, hai lớp trở lên, đôi khi hợp nhất một phần)",
+    "vi_name": "Mây ti tầng hai lớp (Cirrostratus duplicatus)"
+  },
+  {
+    "altitude": "Dưới 2 km — mây thấp (ôn đới)",
+    "altitude_note": "Mây thấp (low-level); Stratocumulus nói chung có đáy ở tầng thấp, dưới khoảng 2 km ở vĩ độ ôn đới.",
+    "bao_hieu_thoi_tiet": "Thường không mưa, hoặc chỉ mưa phùn/rắc nhẹ; là dạng mây tầng tích ổn định, cho thấy không khí tầng thấp có sóng nhưng không có đối lưu mạnh. Nếu dày lên và tối lại thì có thể chuyển sang mưa nhỏ.",
+    "en_name": "Stratocumulus undulatus",
+    "genus_parent": "Variety — chi Stratocumulus, loài stratiformis",
+    "group": "Mây đặc biệt & hiếm",
+    "id": "stratocumulus-undulatus",
+    "khi_nao_thuong_thay": "Khá thường gặp so với các variety khác trong batch này, khi có wind shear nhẹ ở tầng thấp tạo sóng trên lớp mây tầng tích. Phân biệt với radiatus: undulatus di chuyển vuông góc với wind shear, radiatus di chuyển song song với wind shear.",
+    "latin_full": "Stratocumulus undulatus (Sc un)",
+    "level": "đặc biệt",
+    "mo_ta_nhan_dang": "Theo WMO: một lớp gồm các thành phần khá lớn, thường màu xám, xếp thành hệ thống những đường gần như song song. Đôi khi thấy hệ thống gợn sóng thứ hai cắt ngang hệ thống chính, các thành phần trông như xếp hàng ngay ngắn. Xuất hiện ở loài stratiformis. Khác với asperitas: undulatus có sóng đều, tổ chức theo chiều ngang rõ ràng; asperitas hỗn loạn hơn.",
+    "notes": "Tên tiếng Việt là dịch mô tả, chưa có tên chuẩn tiếng Việt được kiểm chứng. Là variety, không phải chi hay loài riêng.",
+    "photo": {
+      "commons_file_title": "File:Stratocumulus stratiformis undulatus 01.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3AStratocumulus_stratiformis_undulatus_01.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Stratocumulus_stratiformis_undulatus_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Rollcloud",
+      "license": "CC BY 3.0",
+      "local_file": "images/stratocumulus-undulatus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "WMO International Cloud Atlas — Stratocumulus undulatus (Sc un)",
+        "url": "https://cloudatlas.wmo.int/en/varieties-stratocumulus-undulatus-sc-un.html"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.wikipedia.org/wiki/Cloud_types"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — WMO (thành phần lớn màu xám, đường gần song song, hệ gợn thứ hai cắt ngang, loài stratiformis)",
+    "vi_name": "Mây tầng tích gợn sóng (Stratocumulus undulatus)"
+  },
+  {
+    "altitude": "Theo mây mẹ — cao, trung hoặc thấp",
+    "altitude_note": "Là supplementary feature; xuất hiện ở mặt trên của mây mẹ, chủ yếu với Cirrus, Altocumulus, Stratocumulus, Stratus và đôi khi Cumulus, nên độ cao theo mây mẹ đó.",
+    "bao_hieu_thoi_tiet": "Là dấu hiệu trực quan của wind shear mạnh và nhiễu loạn khí quyển ở độ cao đó — phi công đặc biệt chú ý. Bản thân fluctus không gây mưa, nhưng cho thấy ranh giới giữa hai lớp khí đang không ổn định.",
+    "en_name": "Fluctus (Kelvin-Helmholtz clouds)",
+    "genus_parent": "Supplementary feature — thường gặp với Cirrus, Altocumulus, Stratocumulus, Stratus, đôi khi Cumulus",
+    "group": "Mây đặc biệt & hiếm",
+    "id": "fluctus",
+    "khi_nao_thuong_thay": "Hiếm và ngắn ngủi, chỉ vài phút rồi tan vì sóng vỡ ra; vì vậy ảnh đẹp về fluctus rất khó chụp. WMO đặt tên chính thức là fluctus trong bản 2017; trước đó thường gọi là mây Kelvin–Helmholtz.",
+    "latin_full": "Fluctus",
+    "level": "đặc biệt",
+    "mo_ta_nhan_dang": "Theo WMO: một cấu trúc sóng tồn tại tương đối ngắn, thường ở mặt trên của mây, dạng cuộn tròn hoặc sóng vỡ (sóng Kelvin–Helmholtz), trông như sóng biển đang vỡ trên trời. Hình thành khi gió trên đỉnh mây thổi nhanh hơn gió trong mây (wind shear / vận tốc khác nhau giữa hai lớp khí), tạo xoáy cuốn đỉnh mây lên thành hình cuộn sóng.",
+    "notes": "Tên tiếng Việt là dịch mô tả, chưa có tên chuẩn tiếng Việt được kiểm chứng. Là supplementary feature, không phải chi hay loài riêng. Mô tả Commons ghi rõ đây là mây Kelvin-Helmholtz, còn gọi là fluctus.",
+    "photo": {
+      "commons_file_title": "File:Kelvin-Helmholtz Wave Clouds. Very rare and beautiful.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3AKelvin-Helmholtz_Wave_Clouds._Very_rare_and_beautiful.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Kelvin-Helmholtz_Wave_Clouds._Very_rare_and_beautiful.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Stevejewett",
+      "license": "CC0",
+      "local_file": "images/fluctus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "WMO International Cloud Atlas — Fluctus",
+        "url": "https://cloudatlas.wmo.int/en/clouds-supplementary-features-fluctus.html"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.wikipedia.org/wiki/Cloud_types"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — WMO (sóng ngắn ngủi ở mặt trên mây, dạng cuộn/sóng vỡ Kelvin–Helmholtz, gặp chủ yếu với Cirrus/Altocumulus/Stratocumulus/Stratus)",
+    "vi_name": "Mây sóng vỡ (Fluctus / sóng Kelvin–Helmholtz)"
+  }
+]

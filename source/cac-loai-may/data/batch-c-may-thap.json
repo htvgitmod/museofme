@@ -1,0 +1,458 @@
+[
+  {
+    "altitude": "500–2.000 m",
+    "altitude_note": "Mây thấp theo WMO: từ gần mặt đất đến 2.000 m; Wikipedia ghi đáy mây tầng tích 500–2.000 m.",
+    "bao_hieu_thoi_tiet": "Thường không mưa, hoặc chỉ mưa phùn, mưa nhẹ hay tuyết nhẹ. Hay xuất hiện ở đầu hoặc cuối thời tiết xấu nên có thể báo hiệu giông hoặc gió mạnh sắp tới; ngày u ám kéo dài nhiều ngày trong vùng áp cao.",
+    "en_name": "Stratocumulus",
+    "genus_parent": "Stratocumulus",
+    "group": "Mây thấp",
+    "id": "stratocumulus",
+    "khi_nao_thuong_thay": "Rất phổ biến, là một trong những loại mây thường gặp nhất; phủ rộng trên biển cận nhiệt đới và vùng cực. Thường tan dần vào buổi trưa dưới nắng rồi tụ lại vào chiều tối; hay gặp sau front lạnh và trong vùng áp cao.",
+    "latin_full": "Stratocumulus",
+    "level": "thấp",
+    "mo_ta_nhan_dang": "Những cụm hoặc mảng mây tròn, trắng đến xám đậm, thường tụ thành nhóm, hàng hoặc sóng; từng phần tử mây lớn và hơi nối nhau thành lớp. Cách phân biệt với mây trung tích (altocumulus): giơ tay về phía mây, một cụm mây tầng tích to cỡ nắm tay, còn altocumulus chỉ cỡ ngón cái. Đáy mây thường ở 500–2.000 m, mây dày và có thể phủ kín bầu trời thành biển mây.",
+    "notes": "Ảnh mô tả trên Commons: 'Stratocumulus in the sky'. Loài (species) của chi này gồm stratiformis, lenticularis, castellanus, floccus, volutus.",
+    "photo": {
+      "author": "Couch-scratching-cats",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Stratocumulus_1.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Stratocumulus_1.jpg",
+      "license": "Public domain",
+      "local_file": "images/stratocumulus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Stratocumulus cloud",
+        "url": "https://en.wikipedia.org/wiki/Stratocumulus_cloud"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.wikipedia.org/wiki/List_of_cloud_types"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Definitions of clouds",
+        "url": "https://cloudatlas.wmo.int/en/clouds-definitions.html"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng qua Wikipedia EN + WMO (mức thấp 0–2 km). Tên chi theo brief dự án; chưa đối chiếu trực tiếp Wikipedia tiếng Việt do tìm kiếm bị giới hạn (429).",
+    "vi_name": "Mây tầng tích"
+  },
+  {
+    "altitude": "0–2.000 m",
+    "altitude_note": "Mây thấp nhất trong 10 chi; đáy có thể chạm mặt đất — khi đó được gọi là sương mù (fog), không còn tên Latin.",
+    "bao_hieu_thoi_tiet": "Thời tiết ổn định, âm u kéo dài; có thể có mưa phùn nhẹ hoặc tuyết hạt nhỏ. Nếu lớp mây dày lên và tối dần thì mưa sẽ nặng hạt hơn và có thể chuyển thành mây vũ tầng (nimbostratus).",
+    "en_name": "Stratus",
+    "genus_parent": "Stratus",
+    "group": "Mây thấp",
+    "id": "stratus",
+    "khi_nao_thuong_thay": "Sáng sớm mùa lạnh, vùng ven biển và vùng ẩm, khi sương mù buổi sáng được nâng lên thành mây; có thể kéo dài nhiều ngày trong điều kiện áp cao ổn định.",
+    "latin_full": "Stratus",
+    "level": "thấp",
+    "mo_ta_nhan_dang": "Lớp mây phẳng, xám đến trắng, không có cấu trúc hay chi tiết rõ rệt, phủ kín bầu trời như một tấm màn đồng nhất với đáy bằng phẳng. Về bản chất là 'sương mù được nâng lên khỏi mặt đất', hình thành khi dòng khí yếu nâng một lớp không khí ẩm lên cao.",
+    "notes": "Ảnh là hình infobox của bài Stratus cloud trên Wikipedia EN ('Typical stratus clouds over Skopje'). File local là bản thu nhỏ 960px của ảnh gốc 5.100 px. Loài của chi này chỉ có 2: nebulosus và fractus.",
+    "photo": {
+      "author": "kallerna",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Stratus_clouds_Vodno_4.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Stratus_clouds_Vodno_4.jpg",
+      "license": "CC BY-SA 4.0",
+      "local_file": "images/stratus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Stratus cloud",
+        "url": "https://en.wikipedia.org/wiki/Stratus_cloud"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.wikipedia.org/wiki/List_of_cloud_types"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Definitions of clouds",
+        "url": "https://cloudatlas.wmo.int/en/clouds-definitions.html"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng qua Wikipedia EN + WMO. Tên chi theo brief dự án; chưa đối chiếu trực tiếp Wikipedia tiếng Việt do tìm kiếm bị giới hạn (429).",
+    "vi_name": "Mây tầng"
+  },
+  {
+    "altitude": "200–2.000 m",
+    "altitude_note": "Mây thấp theo WMO (đáy từ gần mặt đất đến 2.000 m); Wikipedia ghi 200–2.000 m, riêng loài congestus có đỉnh vươn cao vượt khỏi tầng thấp.",
+    "bao_hieu_thoi_tiet": "Dạng nhỏ (humilis) báo trời đẹp, ổn định. Nhưng nếu mây mọc cao dần thì có thể phát triển thành mây vũ tích gây mưa rào, sấm sét, gió mạnh.",
+    "en_name": "Cumulus",
+    "genus_parent": "Cumulus",
+    "group": "Mây thấp",
+    "id": "cumulus",
+    "khi_nao_thuong_thay": "Ban ngày có nắng, nhất là buổi trưa–chiều khi mặt đất nóng lên và đối lưu mạnh; thường gặp sau front lạnh trong vùng áp cao.",
+    "latin_full": "Cumulus",
+    "level": "thấp",
+    "mo_ta_nhan_dang": "Đám mây trắng như bông gòn, đáy phẳng, đỉnh vòm tròn, viền rõ nét; hình thành khi không khí ấm gần mặt đất bốc lên (đối lưu) và hơi nước ngưng tụ. Có thể đứng riêng lẻ, xếp thành hàng dài gọi là 'cloud streets' (dài tới hàng trăm km), hoặc thành cụm.",
+    "notes": "Ảnh minh họa trong bài Cumulus cloud trên Wikipedia EN: 'Lines of cumulus clouds over Brittany, France'. File local là bản thu nhỏ 960px của ảnh gốc 4.156 px.",
+    "photo": {
+      "author": "Adam Cli",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Brittany_01.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Brittany_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "local_file": "images/cumulus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cumulus cloud",
+        "url": "https://en.wikipedia.org/wiki/Cumulus_cloud"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.wikipedia.org/wiki/List_of_cloud_types"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Definitions of clouds",
+        "url": "https://cloudatlas.wmo.int/en/clouds-definitions.html"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng qua Wikipedia EN + WMO. Tên chi theo brief dự án; chưa đối chiếu trực tiếp Wikipedia tiếng Việt do tìm kiếm bị giới hạn (429).",
+    "vi_name": "Mây tích"
+  },
+  {
+    "altitude": "500–2.000 m",
+    "altitude_note": "Cùng tầng với chi Stratocumulus (mây thấp, đến 2.000 m).",
+    "bao_hieu_thoi_tiet": "Trời âm u ổn định, thường không mưa; nếu lớp mây dày lên có thể có mưa nhẹ hoặc mưa phùn.",
+    "en_name": "Stratocumulus stratiformis",
+    "genus_parent": "Stratocumulus",
+    "group": "Mây thấp",
+    "id": "stratocumulus-stratiformis",
+    "khi_nao_thuong_thay": "Loài phổ biến nhất của mây tầng tích; thường thấy vào sáng sớm hoặc chiều tối khi đối lưu yếu, trên biển và vùng ven biển, trong vùng áp cao.",
+    "latin_full": "Stratocumulus stratiformis",
+    "level": "thấp",
+    "mo_ta_nhan_dang": "Tấm mây tầng tích trải rộng, khá phẳng nhưng hơi lổn nhổn, hoạt động đối lưu rất yếu. Đây là dạng trải thành lớp của mây tầng tích — các phần tử mây dẹt, nối nhau thành phiến lớn che phủ bầu trời, khác với dạng cụm rời rạc.",
+    "notes": "Ảnh minh họa trực tiếp trong mục Species của bài Stratocumulus cloud ('Stratocumulus stratiformis'). Mô tả trên Commons: 'A flat stratocumulus cloud'.",
+    "photo": {
+      "author": "Rollcloud",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Flat_Stratocumulus_Cloud.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Flat_Stratocumulus_Cloud.jpg",
+      "license": "Public domain",
+      "local_file": "images/stratocumulus-stratiformis.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Stratocumulus cloud",
+        "url": "https://en.wikipedia.org/wiki/Stratocumulus_cloud"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.wikipedia.org/wiki/List_of_cloud_types"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng qua Wikipedia EN. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt.",
+    "vi_name": "Mây tầng tích dạng tầng trải"
+  },
+  {
+    "altitude": "500–2.000 m",
+    "altitude_note": "Cùng tầng với chi Stratocumulus (mây thấp, đến 2.000 m); hình thành ở tầng thấp khi có sóng núi.",
+    "bao_hieu_thoi_tiet": "Bản thân ít khi gây mưa, nhưng cho thấy có gió mạnh trên cao và sóng núi trong không khí ẩm; phi công xem đây là dấu hiệu nhiễu động mạnh gần núi.",
+    "en_name": "Stratocumulus lenticularis",
+    "genus_parent": "Stratocumulus",
+    "group": "Mây thấp",
+    "id": "stratocumulus-lenticularis",
+    "khi_nao_thuong_thay": "Vùng cực hoặc mùa đông ở vùng khí hậu ấm; gần đồi núi khi có gió vượt núi; có thể đứng yên một chỗ hàng giờ dù gió thổi mạnh.",
+    "latin_full": "Stratocumulus lenticularis",
+    "level": "thấp",
+    "mo_ta_nhan_dang": "Đám mây riêng lẻ, phẳng, dài, hình hạt đậu hay thấu kính, hai đầu nhọn. Thường rất đều đặn và trông như đĩa bay khi hình thành do gió vượt qua đồi núi (gió Foehn) tạo sóng đứng trong khí quyển.",
+    "notes": "Ảnh minh họa trực tiếp trong mục Species của bài Stratocumulus cloud. Mô tả trên Commons: 'Stratocumulus lenticularis undulatus in Jackson, Wyoming'. File local là bản thu nhỏ 960px của ảnh gốc 3.264 px.",
+    "photo": {
+      "author": "Djclimber",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Stratocumulus_lenticularis_2.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Stratocumulus_lenticularis_2.jpg",
+      "license": "CC BY-SA 3.0",
+      "local_file": "images/stratocumulus-lenticularis.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Stratocumulus cloud",
+        "url": "https://en.wikipedia.org/wiki/Stratocumulus_cloud"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.wikipedia.org/wiki/List_of_cloud_types"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng qua Wikipedia EN. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt.",
+    "vi_name": "Mây tầng tích dạng thấu kính"
+  },
+  {
+    "altitude": "500–2.000 m",
+    "altitude_note": "Cùng tầng với chi Stratocumulus (mây thấp, đến 2.000 m); các tháp mây có thể nhô cao hơn mặt lớp mây nền.",
+    "bao_hieu_thoi_tiet": "Báo hiệu không khí bất ổn tăng dần; có thể phát triển thành mây tích congestus và gây mưa rào, nhưng mưa thường nhẹ hơn mưa từ congestus.",
+    "en_name": "Stratocumulus castellanus",
+    "genus_parent": "Stratocumulus",
+    "group": "Mây thấp",
+    "id": "stratocumulus-castellanus",
+    "khi_nao_thuong_thay": "Khi khối không khí ẩm, nóng dần lên trong ngày và đối lưu bắt đầu mạnh lên; trước các đợt đối lưu mạnh vào buổi chiều.",
+    "latin_full": "Stratocumulus castellanus",
+    "level": "thấp",
+    "mo_ta_nhan_dang": "Lớp mây tầng tích có các tháp mây phồng lên như tường thành hay lâu đài trên mặt lớp mây, do không khí ngày càng bất ổn. Dễ nhầm với mây tích congestus, nhưng ở đây luôn có một lớp mây nền rõ rệt bên dưới các tháp, còn tháp của congestus mọc trên từng đám mây riêng lẻ.",
+    "notes": "Ảnh minh họa trực tiếp trong mục Species của bài Stratocumulus cloud. Mô tả trên Commons: 'A stratocumulus castellanus cloud'.",
+    "photo": {
+      "author": "Couch-scratching-cats",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Stratocumulus_castellanus_3oct.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Stratocumulus_castellanus_3oct.jpg",
+      "license": "CC BY 2.5 mx",
+      "local_file": "images/stratocumulus-castellanus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Stratocumulus cloud",
+        "url": "https://en.wikipedia.org/wiki/Stratocumulus_cloud"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.wikipedia.org/wiki/List_of_cloud_types"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng qua Wikipedia EN. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt.",
+    "vi_name": "Mây tầng tích dạng tháp"
+  },
+  {
+    "altitude": "500–2.000 m",
+    "altitude_note": "Cùng tầng với chi Stratocumulus (mây thấp, đến 2.000 m); WMO mô tả là mây ống dài nằm ngang ở tầng thấp.",
+    "bao_hieu_thoi_tiet": "Ít gây mưa trực tiếp; hình ống cuộn cho thấy có sóng hoặc gió mạnh trong tầng không khí thấp — cần theo dõi diễn biến thời tiết tiếp theo.",
+    "en_name": "Stratocumulus volutus",
+    "genus_parent": "Stratocumulus",
+    "group": "Mây thấp",
+    "id": "stratocumulus-volutus",
+    "khi_nao_thuong_thay": "Dọc các ranh giới gió như front lạnh hoặc gió biển, khi không khí ẩm bị nâng thành ống cuộn ngang; khá hiếm gặp so với các loài stratocumulus khác.",
+    "latin_full": "Stratocumulus volutus",
+    "level": "thấp",
+    "mo_ta_nhan_dang": "Mây hình ống dài nằm ngang, cuộn tròn như một cuộn len khổng lồ — còn gọi là mây cuộn (roll cloud). Đây là loài stratocumuliform không gắn với mây mẹ nào, khác với các dạng mây cuộn đi kèm giông.",
+    "notes": "Cần bổ sung ảnh sau: tìm file Commons có mô tả ghi rõ 'Stratocumulus volutus' hoặc 'roll cloud' (ví dụ ảnh Morning Glory — phải kiểm chứng mô tả file trước khi dùng).",
+    "photo": {
+      "commons_file_title": "File:Stratocumulus volutus 1 (18112021).jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3AStratocumulus_volutus_1_%2818112021%29.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Stratocumulus_volutus_1_%2818112021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Rollcloud",
+      "license": "CC BY-SA 3.0",
+      "local_file": "images/stratocumulus-volutus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Stratocumulus cloud",
+        "url": "https://en.wikipedia.org/wiki/Stratocumulus_cloud"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.wikipedia.org/wiki/List_of_cloud_types"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng sự tồn tại và định nghĩa của loài qua Wikipedia EN (List of cloud types). Ảnh đã tìm được trên Wikimedia Commons và tải về local.",
+    "vi_name": "Mây tầng tích dạng cuộn"
+  },
+  {
+    "altitude": "0–2.000 m",
+    "altitude_note": "Cùng tầng với chi Stratus (0–2.000 m); đáy rất thấp, có thể gần mặt đất.",
+    "bao_hieu_thoi_tiet": "Dấu hiệu không khí ổn định, thời tiết âm u kéo dài ổn định; có thể có mưa nhẹ, mưa phùn hoặc tuyết rơi nhẹ.",
+    "en_name": "Stratus nebulosus",
+    "genus_parent": "Stratus",
+    "group": "Mây thấp",
+    "id": "stratus-nebulosus",
+    "khi_nao_thuong_thay": "Sáng sớm mùa lạnh, vùng ven biển và vùng ẩm; khi sương mù buổi sáng được nâng lên thành mây; ngày đông âm u kéo dài.",
+    "latin_full": "Stratus nebulosus",
+    "level": "thấp",
+    "mo_ta_nhan_dang": "Lớp mây tầng không có chi tiết hay cấu trúc nào — như một tấm màn sương mù đồng nhất, xám hoặc trắng, phủ kín bầu trời. Đây là dạng mây tầng điển hình nhất, thường được mô tả là 'không có đặc điểm gì để nhận dạng ngoài sự phẳng lặng'.",
+    "notes": "Mô tả trên Commons: 'A stratus nebulosus opacus cloud and some stratus fractus underneath it' — lớp mây chính trong ảnh là stratus nebulosus opacus, các mảnh fractus chỉ ở phía dưới. Phiên bản giấy phép CC BY: biểu tượng trên trang file chỉ hiện CC + attribution (không hiện share-alike), phiên bản số không ghi rõ trong bản trích.",
+    "photo": {
+      "author": "Rollcloud",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Stratus_nebulosus_opacus_and_Stratus_fractus_(14122021).jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Stratus_nebulosus_opacus_and_Stratus_fractus_%2814122021%29.jpg",
+      "license": "CC BY",
+      "local_file": "images/stratus-nebulosus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Stratus cloud",
+        "url": "https://en.wikipedia.org/wiki/Stratus_cloud"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.wikipedia.org/wiki/List_of_cloud_types"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng qua Wikipedia EN. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt.",
+    "vi_name": "Mây tầng dạng mù sương"
+  },
+  {
+    "altitude": "0–2.000 m",
+    "altitude_note": "Cùng tầng với chi Stratus (0–2.000 m); thường ở ngay dưới đáy mây mưa.",
+    "bao_hieu_thoi_tiet": "Báo hiệu đang có mưa bên trên (mây mưa lớn đang hoạt động) hoặc gió mạnh xé mây; không phải dấu hiệu thời tiết ổn định.",
+    "en_name": "Stratus fractus",
+    "genus_parent": "Stratus",
+    "group": "Mây thấp",
+    "id": "stratus-fractus",
+    "khi_nao_thuong_thay": "Dưới đáy mây mưa trong cơn mưa lớn; bên sườn núi khi gió mạnh; khi một lớp mây tầng đang tan rã và vỡ ra thành mảnh.",
+    "latin_full": "Stratus fractus",
+    "level": "thấp",
+    "mo_ta_nhan_dang": "Những mảnh mây tầng rách nát, xé nhỏ, hình dạng bất định, màu từ xám đậm đến gần trắng. Thường là các mảnh vụn dưới đáy mây mưa lớn (nimbostratus, cumulonimbus) — khi đó gọi là mây scud hay pannus — hoặc bên sườn núi khi gió mạnh xé mây.",
+    "notes": "Mô tả trên Commons: 'Stratus fractus clouds under a stratocumulus cloud sheet, after a cold front'. Ảnh nhỏ (640×463, 35 KB) nhưng đúng loại mây. Giấy phép CC BY theo biểu tượng trên trang file (chỉ hiện CC + attribution).",
+    "photo": {
+      "author": "Couch-scratching-cats",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Stratus_fractus_clouds_1.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Stratus_fractus_clouds_1.jpg",
+      "license": "CC BY",
+      "local_file": "images/stratus-fractus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Stratus cloud",
+        "url": "https://en.wikipedia.org/wiki/Stratus_cloud"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.wikipedia.org/wiki/List_of_cloud_types"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng qua Wikipedia EN. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt.",
+    "vi_name": "Mây tầng dạng rách nát"
+  },
+  {
+    "altitude": "200–2.000 m",
+    "altitude_note": "Cùng tầng với chi Cumulus (mây thấp); chiều cao từ đáy lên đỉnh thường nhỏ hơn chiều rộng của đáy mây.",
+    "bao_hieu_thoi_tiet": "Báo trời đẹp, ổn định; ít hoặc không mưa.",
+    "en_name": "Cumulus humilis",
+    "genus_parent": "Cumulus",
+    "group": "Mây thấp",
+    "id": "cumulus-humilis",
+    "khi_nao_thuong_thay": "Ban ngày nắng nhẹ, buổi sáng đến trưa khi đối lưu vừa bắt đầu; trên đồng bằng và vùng ven biển vào ngày trời đẹp.",
+    "latin_full": "Cumulus humilis",
+    "level": "thấp",
+    "mo_ta_nhan_dang": "Đám mây tích nhỏ, dẹt, rộng hơn cao, đáy phẳng màu xám nhạt, đỉnh vòm trắng nhỏ — hình ảnh 'mây trời đẹp' cổ điển. Đây là giai đoạn đầu, ít đối lưu nhất của mây tích.",
+    "notes": "Ảnh là hình infobox của bài Cumulus cloud trên Wikipedia EN, chú thích: 'Small cumulus humilis clouds that can have noticeable vertical development and clearly defined edges'.",
+    "photo": {
+      "author": "PiccoloNamek",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:GoldenMedows.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/GoldenMedows.jpg",
+      "license": "CC BY-SA 3.0",
+      "local_file": "images/cumulus-humilis.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cumulus cloud",
+        "url": "https://en.wikipedia.org/wiki/Cumulus_cloud"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.wikipedia.org/wiki/List_of_cloud_types"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng qua Wikipedia EN. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt.",
+    "vi_name": "Mây tích dạng thấp phẳng"
+  },
+  {
+    "altitude": "200–2.000 m",
+    "altitude_note": "Cùng tầng với chi Cumulus; WMO xếp mediocris vào nhóm 'multi-level / moderate vertical' — đáy ở tầng thấp, đỉnh vươn lên cao hơn humilis.",
+    "bao_hieu_thoi_tiet": "Trời còn đẹp nhưng cần để ý: mây có thể tiếp tục mọc thành congestus rồi thành mây vũ tích, gây mưa rào, sấm sét, gió mạnh, mưa đá.",
+    "en_name": "Cumulus mediocris",
+    "genus_parent": "Cumulus",
+    "group": "Mây thấp",
+    "id": "cumulus-mediocris",
+    "khi_nao_thuong_thay": "Buổi trưa–chiều nắng nóng khi đối lưu mạnh dần; ngày hè ẩm, khi mặt đất nóng lên nhiều.",
+    "latin_full": "Cumulus mediocris",
+    "level": "thấp",
+    "mo_ta_nhan_dang": "Giống mây tích humilis nhưng đã mọc cao hơn — cao gần bằng rộng, đỉnh vòm rõ và phồng hơn; cho thấy đối lưu ở mức vừa phải. Là giai đoạn giữa của quá trình mây tích lớn dần.",
+    "notes": "Ảnh minh họa trong bài Cumulus cloud trên Wikipedia EN, chú thích: 'Cumulus mediocris clouds over Sweden'. Mô tả trên Commons: 'Small cumulus mediocris clouds'.",
+    "photo": {
+      "author": "Kr-val",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Cumulusmediocrissweden.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Cumulusmediocrissweden.jpg",
+      "license": "Public domain",
+      "local_file": "images/cumulus-mediocris.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cumulus cloud",
+        "url": "https://en.wikipedia.org/wiki/Cumulus_cloud"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.wikipedia.org/wiki/List_of_cloud_types"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng qua Wikipedia EN. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt.",
+    "vi_name": "Mây tích dạng vừa"
+  },
+  {
+    "altitude": "Đáy 200–2.000 m; đỉnh vươn cao vượt khỏi tầng thấp",
+    "altitude_note": "WMO xếp congestus vào nhóm 'towering vertical' — đáy ở tầng thấp nhưng đỉnh mọc rất cao, gần tới tầng đối lưu trên; không còn bị giới hạn 2.000 m như các loài mây tích khác.",
+    "bao_hieu_thoi_tiet": "Báo hiệu đối lưu mạnh; thường tiếp tục phát triển thành mây vũ tích gây mưa rào lớn, sấm sét, gió mạnh, mưa đá. Khi thấy mây này mọc nhanh thì nên tránh ở ngoài trời và theo dõi giông.",
+    "en_name": "Cumulus congestus",
+    "genus_parent": "Cumulus",
+    "group": "Mây thấp",
+    "id": "cumulus-congestus",
+    "khi_nao_thuong_thay": "Chiều hè nóng ẩm, khi không khí bất ổn mạnh; trước cơn giông, ở vùng có đối lưu mạnh.",
+    "latin_full": "Cumulus congestus",
+    "level": "thấp",
+    "mo_ta_nhan_dang": "Mây tích mọc cao như cây súp lơ hay khối tháp lớn, đỉnh vẫn sắc nét và cuộn tròn — còn gọi là towering cumulus (mây tích tháp). Đây là giai đoạn phát triển mạnh nhất của mây tích, ngay trước khi trở thành mây vũ tích.",
+    "notes": "PHÂN BIỆT VỚI CUMULONIMBUS: congestus chưa có đỉnh đe băng (anvil) xòe sợi băng và chưa gây sấm sét; khi đỉnh bắt đầu xòe thành đe băng thì mây đã chuyển thành cumulonimbus. Ảnh: mô tả trên Commons 'Anvil of a large Cumulonimbus, Cumulus con at the bottom' — mây congestus là các tháp mây ở PHÍA DƯỚI ảnh, còn đe mây vũ tích ở phía trên; cần ghi chú này khi hiển thị để người đọc không nhầm.",
+    "photo": {
+      "author": "Simon Eugster",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Anvil_of_Cumulonimbus_and_Cu_con.JPG",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Anvil_of_Cumulonimbus_and_Cu_con.JPG",
+      "license": "CC BY-SA 3.0",
+      "local_file": "images/cumulus-congestus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cumulus cloud",
+        "url": "https://en.wikipedia.org/wiki/Cumulus_cloud"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.wikipedia.org/wiki/List_of_cloud_types"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng qua Wikipedia EN. Tên tiếng Việt là tên dịch mô tả, chưa có tên chuẩn tiếng Việt.",
+    "vi_name": "Mây tích dạng phát triển cao"
+  },
+  {
+    "altitude": "200–2.000 m",
+    "altitude_note": "Cùng tầng với chi Cumulus (mây thấp); thường ở dưới đáy mây mưa khi đóng vai trò pannus.",
+    "bao_hieu_thoi_tiet": "Trong trời quang: báo hiệu mây tích đang bắt đầu hình thành. Trong mưa: cho thấy đang có mưa lớn bên trên, cần chú ý thời tiết xấu.",
+    "en_name": "Cumulus fractus",
+    "genus_parent": "Cumulus",
+    "group": "Mây thấp",
+    "id": "cumulus-fractus",
+    "khi_nao_thuong_thay": "Sáng sớm khi mây tích mới hình thành; dưới đáy mây mưa trong cơn mưa rào; khi gió mạnh xé nhỏ các đám mây tích.",
+    "latin_full": "Cumulus fractus",
+    "level": "thấp",
+    "mo_ta_nhan_dang": "Những mảnh mây tích rách nát, xé nhỏ, hình dạng bất định. Có thể hình thành trong không khí quang đãng như tiền thân của mây tích humilis, hoặc trong mưa dưới dạng pannus (mây scud) bên dưới mây mưa lớn.",
+    "notes": "Cần bổ sung ảnh sau: tìm file Commons có mô tả ghi rõ 'Cumulus fractus' (không dùng ảnh Stratus fractus để thay thế — hai loài khác nhau dù đều là mảnh mây rách nát).",
+    "photo": {
+      "commons_file_title": "File:Cumulus fractus (Wangerooge).jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ACumulus_fractus_%28Wangerooge%29.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Cumulus_fractus_%28Wangerooge%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Rhetos",
+      "license": "CC0",
+      "local_file": "images/cumulus-fractus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cumulus cloud",
+        "url": "https://en.wikipedia.org/wiki/Cumulus_cloud"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.wikipedia.org/wiki/List_of_cloud_types"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng sự tồn tại và định nghĩa của loài qua Wikipedia EN (List of cloud types). Ảnh đã tìm được trên Wikimedia Commons và tải về local.",
+    "vi_name": "Mây tích dạng rách nát"
+  }
+]

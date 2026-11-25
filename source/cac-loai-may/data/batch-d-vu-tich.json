@@ -1,0 +1,490 @@
+[
+  {
+    "id": "d01-cumulonimbus",
+    "en_name": "Cumulonimbus",
+    "vi_name": "Mây vũ tích",
+    "latin_full": "Cumulonimbus (Cb)",
+    "group": "Mây vũ tích & đặc điểm phụ",
+    "level": "thẳng đứng",
+    "altitude": "Đáy ~500 m – đỉnh 10.000–16.000 m",
+    "altitude_note": "WMO: đáy thường dưới 2 km, đỉnh thường cao hơn 10 km; độ dày thẳng đứng 3 km tới hiếm khi hơn 15 km. Wikipedia ghi khoảng 500–16.000 m.",
+    "genus_parent": "Cumulonimbus (chi mây)",
+    "mo_ta_nhan_dang": "Mây dày, nặng, phát triển thẳng đứng rất lớn, dạng núi hoặc tháp khổng lồ. Ít nhất một phần đỉnh thường nhẵn, dạng sợi hoặc có vân, gần như luôn dẹt ra và xòe thành hình đe hoặc chùm lớn. Đáy mây thường rất tối; dưới đáy hay có những đám mây rách thấp và đôi khi có mưa virga.",
+    "bao_hieu_thoi_tiet": "Giông bão: mưa rào lớn, sấm sét, mưa đá, gió giật mạnh; Cumulonimbus là chi mây duy nhất gắn với giông. Cần tìm nơi trú ẩn khi thấy tháp mây này dâng cao và tối sầm.",
+    "khi_nao_thuong_thay": "Thường gặp nhất ở vùng nhiệt đới và vào mùa ấm ở vĩ độ trung bình, vào buổi chiều nóng ẩm khi không khí ẩm, bất ổn và có lực nâng. Một tế bào giông thường sống khoảng 30 phút, nhưng cụm giông có thể kéo dài nhiều giờ.",
+    "sources": [
+      {
+        "label": "WMO — Định nghĩa Cumulonimbus",
+        "url": "https://cloudatlas.wmo.int/en/definition-cumulonimbus-cb.html"
+      },
+      {
+        "label": "WMO — Mô tả Cumulonimbus",
+        "url": "https://cloudatlas.wmo.int/en/observation-of-clouds-from-aircraft-descriptions-cumulonimbus.html"
+      },
+      {
+        "label": "Wikipedia EN — Cumulonimbus cloud",
+        "url": "https://en.wikipedia.org/wiki/Cumulonimbus_cloud"
+      }
+    ],
+    "photo": {
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Cloud_cumulonimbus_at_baltic_sea(1).jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Cloud_cumulonimbus_at_baltic_sea%281%29.jpg",
+      "author": "Arnold Paul",
+      "license": "CC BY-SA 2.5",
+      "local_file": "images/cumulonimbus.jpg"
+    },
+    "photo_status": "co_anh",
+    "verification_status": "Đã kiểm chứng (WMO + Wikipedia EN)",
+    "notes": "Chi mây (genus) thứ 10 trong phân loại WMO. Tên Latin: cumulus (đống) + nimbus (mây mưa)."
+  },
+  {
+    "id": "d02-cumulonimbus-calvus",
+    "en_name": "Cumulonimbus calvus",
+    "vi_name": "Mây vũ tích đầu trọc",
+    "latin_full": "Cumulonimbus calvus (Cb cal)",
+    "group": "Mây vũ tích & đặc điểm phụ",
+    "level": "thẳng đứng",
+    "altitude": "Đáy ~500 m – đỉnh ~10.000 m",
+    "altitude_note": "Cùng khoảng cao như Cumulonimbus; đỉnh chưa lên tới tầng đối lưu đỉnh nên chưa xòe đe.",
+    "genus_parent": "Cumulonimbus (loài — species)",
+    "mo_ta_nhan_dang": "Đỉnh mây bắt đầu mất đường nét hình tích, hơi mờ và có vân dọc, nhưng chưa thấy rõ phần dạng ti (cirriform) nào; các chồi ở đỉnh có xu hướng tụ thành khối trắng. Đây là giai đoạn trung gian giữa Cumulus congestus phát triển quá mức và Cumulonimbus capillatus.",
+    "bao_hieu_thoi_tiet": "Mưa rào sắp tới; nếu tiếp tục phát triển sẽ thành capillatus có đe và giông mạnh hơn. Đây là lúc cần theo dõi bầu trời chặt chẽ.",
+    "khi_nao_thuong_thay": "Khi một tháp tích đang dâng cao trong ngày nóng ẩm; thường thấy ngay trước khi giông đạt đỉnh, phát triển từ Cumulus congestus.",
+    "sources": [
+      {
+        "label": "WMO — Bảng phân loại mây (Cb: calvus, capillatus)",
+        "url": "https://cloudatlas.wmo.int/en/cloud-classification-summary.html"
+      },
+      {
+        "label": "Wikipedia EN — Cumulonimbus cloud (Species: calvus)",
+        "url": "https://en.wikipedia.org/wiki/Cumulonimbus_cloud"
+      }
+    ],
+    "photo": {
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Cumulonimbus_calvus_a2.JPG",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cumulonimbus_calvus_a2.JPG",
+      "author": "Janne Naukkarinen",
+      "license": "Public domain",
+      "local_file": "images/cumulonimbus-calvus.jpg"
+    },
+    "photo_status": "co_anh",
+    "verification_status": "Đã kiểm chứng (WMO + Wikipedia EN)",
+    "notes": "Loài (species) của Cumulonimbus. Tên Việt là dịch mô tả từ Latin calvus = trọc, hói; chưa có tên chuẩn tiếng Việt."
+  },
+  {
+    "id": "d03-cumulonimbus-capillatus",
+    "en_name": "Cumulonimbus capillatus",
+    "vi_name": "Mây vũ tích dạng sợi tóc",
+    "latin_full": "Cumulonimbus capillatus (Cb cap)",
+    "group": "Mây vũ tích & đặc điểm phụ",
+    "level": "thẳng đứng",
+    "altitude": "Đáy ~500 m – đỉnh 10.000–16.000 m",
+    "altitude_note": "Đỉnh chạm tầng đối lưu đỉnh nên xòe thành đe; cùng khoảng cao như Cumulonimbus.",
+    "genus_parent": "Cumulonimbus (loài — species)",
+    "mo_ta_nhan_dang": "Phần trên của mây có cấu trúc sợi hoặc vân rõ rệt, thường xòe thành hình đe, chùm lông hoặc khối tóc rối; khác calvus ở chỗ đã có phần dạng ti rõ ràng. Thường kèm mưa rào hoặc giông, đôi khi có gió giật và mưa đá, và thường tạo virga rõ nét.",
+    "bao_hieu_thoi_tiet": "Giông đã trưởng thành: sấm sét, mưa rào lớn, mưa đá, gió giật mạnh. Đe mây cho thấy dòng thăng đã chạm tầng đối lưu đỉnh.",
+    "khi_nao_thuong_thay": "Giai đoạn trưởng thành của giông, thường buổi chiều hè nóng ẩm; phát triển từ Cumulonimbus calvus.",
+    "sources": [
+      {
+        "label": "WMO — CL = 9: Cumulonimbus capillatus",
+        "url": "https://cloudatlas.wmo.int/en/cl-9.html"
+      },
+      {
+        "label": "WMO — Bảng phân loại mây (Cb: calvus, capillatus)",
+        "url": "https://cloudatlas.wmo.int/en/cloud-classification-summary.html"
+      },
+      {
+        "label": "Wikipedia EN — Cumulonimbus cloud (Species: capillatus)",
+        "url": "https://en.wikipedia.org/wiki/Cumulonimbus_cloud"
+      }
+    ],
+    "photo": {
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Cumulonimbus_capillatus_incus_anvil_cloud.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Cumulonimbus_capillatus_incus_anvil_cloud.jpg",
+      "author": "Couch-scratching-cats",
+      "license": "CC BY-SA 3.0",
+      "local_file": "images/cumulonimbus-capillatus.jpg"
+    },
+    "photo_status": "co_anh",
+    "verification_status": "Đã kiểm chứng (WMO + Wikipedia EN)",
+    "notes": "Loài (species) của Cumulonimbus; chỉ loài này mới có đặc điểm phụ incus (đe). Tên Việt là dịch mô tả từ Latin capillatus = có tóc; chưa có tên chuẩn tiếng Việt."
+  },
+  {
+    "id": "d04-incus",
+    "en_name": "Incus",
+    "vi_name": "Mây đe (đỉnh đe)",
+    "latin_full": "Cumulonimbus capillatus incus (Cb cap inc)",
+    "group": "Mây vũ tích & đặc điểm phụ",
+    "level": "thẳng đứng",
+    "altitude": "Đỉnh mây mẹ, ~10.000–16.000 m",
+    "altitude_note": "Incus là phần đỉnh của Cumulonimbus, ở độ cao của đe mây; không có độ cao riêng.",
+    "genus_parent": "Cumulonimbus capillatus (đặc điểm phụ — supplementary feature, chỉ gặp ở loài capillatus)",
+    "mo_ta_nhan_dang": "Phần trên của Cumulonimbus xòe ra thành hình đe: nhẵn, dạng sợi hoặc có vân, do dòng khí dâng chạm lớp nghịch nhiệt ở đỉnh tầng đối lưu rồi lan ngang. Đe có thể trải dài hàng chục km theo hướng gió trên cao.",
+    "bao_hieu_thoi_tiet": "Giông đã trưởng thành hoàn toàn; dưới đe thường có mưa lớn, sét, mưa đá và gió giật. Thấy đe mây là thấy một cơn giông mạnh đang hoạt động.",
+    "khi_nao_thuong_thay": "Khi giông đạt độ cao tối đa, thường buổi chiều; đe xòe theo chiều gió tầng cao nên đầu đe chỉ hướng gió thổi tới.",
+    "sources": [
+      {
+        "label": "WMO — Cumulonimbus: các đặc điểm phụ (gồm incus)",
+        "url": "https://cloudatlas.wmo.int/en/supplementary-features-and-accessory-clouds-cumulonimbus.html"
+      },
+      {
+        "label": "WMO — Từ nguyên Latin: incus = đe",
+        "url": "https://cloudatlas.wmo.int/en/appendix-1-etymology-of-latin-names-of-clouds.html"
+      },
+      {
+        "label": "Wikipedia EN — Cumulonimbus cloud (Incus)",
+        "url": "https://en.wikipedia.org/wiki/Cumulonimbus_cloud"
+      }
+    ],
+    "photo": {
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Cumulonimbus_incus_over_Warsaw,_Poland.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Cumulonimbus_incus_over_Warsaw%2C_Poland.jpg",
+      "author": "Kamil Nowacki",
+      "license": "CC BY-SA 4.0",
+      "local_file": "images/incus.jpg"
+    },
+    "photo_status": "co_anh",
+    "verification_status": "Đã kiểm chứng (WMO + Wikipedia EN)",
+    "notes": "Đặc điểm phụ (supplementary feature), KHÔNG phải chi hay loài mây riêng. Ảnh này cũng là ảnh minh họa chính trên trang Wikipedia EN về Cumulonimbus."
+  },
+  {
+    "id": "d05-mamma",
+    "en_name": "Mamma (Mammatus)",
+    "vi_name": "Mây vú",
+    "latin_full": "Mamma (mam) — thường gọi Mammatus",
+    "group": "Mây vũ tích & đặc điểm phụ",
+    "level": "thẳng đứng",
+    "altitude": "Mặt dưới của mây mẹ, thường ~6.000–12.000 m khi treo dưới đe giông",
+    "altitude_note": "Mamma không có tầng cao riêng; độ cao theo mây mẹ. Dưới đe Cumulonimbus thì ở độ cao của đe; cũng gặp ở mây cao, trung và thấp.",
+    "genus_parent": "Cumulonimbus (thường nhất, dưới đe); cũng gặp ở Cirrus, Cirrocumulus, Altocumulus, Altostratus, Stratocumulus (đặc điểm phụ — supplementary feature)",
+    "mo_ta_nhan_dang": "Những chỗ lồi xuống dạng túi tròn, như bầu vú, ở mặt dưới của mây; từng túi thường rộng 1–3 km, có thể nhẵn, rách hoặc lổn nhổn, mờ hoặc trong. Mỗi túi tồn tại trung bình khoảng 10 phút, cả vùng mây vú có thể kéo dài từ 15 phút tới vài giờ.",
+    "bao_hieu_thoi_tiet": "Bản thân mamma không tự gây thời tiết xấu, nhưng hay treo dưới đe giông nên báo hiệu giông đang ở gần; cần theo dõi radar và cảnh báo thời tiết thay vì chỉ nhìn hình dạng mây.",
+    "khi_nao_thuong_thay": "Thường nhất dưới đe của Cumulonimbus khi giông đang tàn hoặc sau giông; cũng gặp dưới các mây khác khi không khí dưới đáy mây khô và lạnh hơn.",
+    "sources": [
+      {
+        "label": "WMO — Cumulonimbus: các đặc điểm phụ (gồm mamma)",
+        "url": "https://cloudatlas.wmo.int/en/supplementary-features-and-accessory-clouds-cumulonimbus.html"
+      },
+      {
+        "label": "Wikipedia EN — Mammatus cloud",
+        "url": "https://en.wikipedia.org/wiki/Mammatus_cloud"
+      },
+      {
+        "label": "Wikipedia EN — Cumulonimbus cloud (Mamma)",
+        "url": "https://en.wikipedia.org/wiki/Cumulonimbus_cloud"
+      }
+    ],
+    "photo": {
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Mammatus-clouds.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Mammatus-clouds.jpg",
+      "author": "Theov999",
+      "license": "CC BY-SA 4.0",
+      "local_file": "images/mamma.jpg"
+    },
+    "photo_status": "co_anh",
+    "verification_status": "Đã kiểm chứng (WMO + Wikipedia EN)",
+    "notes": "Đặc điểm phụ (supplementary feature), KHÔNG phải chi hay loài mây riêng. Latin mamma = bầu vú. Tên Việt 'mây vú' là dịch mô tả, chưa có tên chuẩn tiếng Việt."
+  },
+  {
+    "id": "d06-arcus",
+    "en_name": "Arcus",
+    "vi_name": "Mây vòng cung (mây kệ)",
+    "latin_full": "Cumulonimbus arcus (Cb arc) — shelf cloud",
+    "group": "Mây vũ tích & đặc điểm phụ",
+    "level": "thẳng đứng",
+    "altitude": "Gần mặt đất – dưới đáy mây mẹ (~500–2.000 m)",
+    "altitude_note": "Arcus nằm sát mặt đất ở rìa trước của giông, theo đáy mây mẹ (thấp); không có tầng cao riêng.",
+    "genus_parent": "Cumulonimbus (thường nhất); ít gặp hơn ở Cumulus (đặc điểm phụ — supplementary feature)",
+    "mo_ta_nhan_dang": "Cuộn mây ngang dày đặc, mép dưới rách tơi, nằm ở phần trước dưới của mây; khi trải rộng trông như một vòm tối đầy đe dọa. Dạng thường thấy nhất là shelf cloud (mây kệ): hình nêm ngang, gắn với đáy mây giông phía trên.",
+    "bao_hieu_thoi_tiet": "Mưa giông và gió giật mạnh sắp ập tới theo rìa gió giật (gust front) — đây là dấu hiệu cần hành động: vào nhà ngay khi thấy arcus tiến tới.",
+    "khi_nao_thuong_thay": "Ở rìa trước của giông Cumulonimbus; có thể tách khỏi mây mẹ khi rìa gió giật lan rộng ra xa.",
+    "sources": [
+      {
+        "label": "WMO — Arcus (định nghĩa)",
+        "url": "https://cloudatlas.wmo.int/en/clouds-supplementary-features-arcus.html"
+      },
+      {
+        "label": "WMO — Cumulonimbus: các đặc điểm phụ (gồm arcus)",
+        "url": "https://cloudatlas.wmo.int/en/supplementary-features-and-accessory-clouds-cumulonimbus.html"
+      },
+      {
+        "label": "Wikipedia EN — Cumulonimbus cloud (Arcus)",
+        "url": "https://en.wikipedia.org/wiki/Cumulonimbus_cloud"
+      }
+    ],
+    "photo": {
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Arcus_28_July_2021_Galley_Common_01.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Arcus_28_July_2021_Galley_Common_01.jpg",
+      "author": "Rubbish computer",
+      "license": "CC BY-SA 4.0",
+      "local_file": "images/arcus.jpg"
+    },
+    "photo_status": "co_anh",
+    "verification_status": "Đã kiểm chứng (WMO + Wikipedia EN)",
+    "notes": "Đặc điểm phụ (supplementary feature), KHÔNG phải chi hay loài mây riêng. Latin arcus = vòng cung. Tên Việt là dịch mô tả; chưa có tên chuẩn tiếng Việt."
+  },
+  {
+    "id": "d07-tuba",
+    "en_name": "Tuba",
+    "vi_name": "Mây phễu (phễu mây)",
+    "latin_full": "Cumulonimbus tuba (Cb tub) — funnel cloud",
+    "group": "Mây vũ tích & đặc điểm phụ",
+    "level": "thẳng đứng",
+    "altitude": "Từ đáy mây mẹ (~500–2.000 m) thò xuống",
+    "altitude_note": "Tuba treo dưới đáy mây mẹ và dài dần xuống dưới; độ cao theo đáy mây mẹ.",
+    "genus_parent": "Cumulonimbus (thường nhất); đôi khi Cumulus (đặc điểm phụ — supplementary feature)",
+    "mo_ta_nhan_dang": "Cột mây hoặc phễu mây hình nón ngược thò xuống từ đáy mây, là biểu hiện nhìn thấy được của một xoáy mạnh. Phễu chỉ là hơi nước ngưng tụ trong vùng áp thấp của xoáy — bản thân cột gió xoáy đã tồn tại trước và rộng hơn phần phễu nhìn thấy.",
+    "bao_hieu_thoi_tiet": "Xoáy mạnh đang hoạt động trong giông; nếu phễu hạ thấp dần thì nguy cơ lốc xoáy tăng — cần trú ẩn ngay. Chỉ khi phễu chạm đất (hoặc mặt nước) mới gọi là lốc xoáy (tornado) hay vòi rồng (waterspout); phễu chưa chạm đất thì chưa phải lốc xoáy.",
+    "khi_nao_thuong_thay": "Thường gắn với Cumulonimbus, nhất là siêu bão (supercell); đôi khi với Cumulus. Ảnh minh họa là một tuba nhỏ dưới Cumulus mediocris.",
+    "sources": [
+      {
+        "label": "WMO — Cumulonimbus: các đặc điểm phụ (gồm tuba)",
+        "url": "https://cloudatlas.wmo.int/en/supplementary-features-and-accessory-clouds-cumulonimbus.html"
+      },
+      {
+        "label": "Wikipedia EN — Funnel cloud (tuba)",
+        "url": "http://en.wikipedia.org/wiki/Funnel_Cloud"
+      },
+      {
+        "label": "Wikipedia EN — Cumulonimbus cloud (Tuba)",
+        "url": "https://en.wikipedia.org/wiki/Cumulonimbus_cloud"
+      }
+    ],
+    "photo": {
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Cumulus_mediocris_tuba_II.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Cumulus_mediocris_tuba_II.jpg",
+      "author": "GerritR",
+      "license": "CC BY-SA 4.0",
+      "local_file": "images/tuba.jpg"
+    },
+    "photo_status": "co_anh",
+    "verification_status": "Đã kiểm chứng (WMO + Wikipedia EN)",
+    "notes": "Đặc điểm phụ (supplementary feature), KHÔNG phải chi hay loài mây riêng. Latin tuba = kèn, ống. Phân biệt rõ: tuba = phễu mây chưa chạm đất; chạm đất mới là tornado."
+  },
+  {
+    "id": "d08-pileus",
+    "en_name": "Pileus",
+    "vi_name": "Mây mũ",
+    "latin_full": "Cumulonimbus pileus (Cb pil) — cap cloud",
+    "group": "Mây vũ tích & đặc điểm phụ",
+    "level": "thẳng đứng",
+    "altitude": "Ngay trên đỉnh tháp mây mẹ đang dâng, ~2.000–12.000 m tùy mây mẹ",
+    "altitude_note": "Pileus bám sát đỉnh mây mẹ đang dâng nhanh; độ cao theo đỉnh mây mẹ.",
+    "genus_parent": "Cumulus congestus hoặc Cumulonimbus non trẻ (mây phụ — accessory cloud)",
+    "mo_ta_nhan_dang": "Mây phụ mỏng, nhẵn, dạng mũ, nón hoặc khăn choàng phủ ngay trên đỉnh tháp tích đang dâng nhanh. Không khí bị đẩy lên trên đỉnh mây mẹ rồi ngưng tụ thành lớp mũ mỏng; mây mẹ nhanh chóng dâng xuyên qua và nuốt chửng nó nên pileus chỉ tồn tại rất ngắn.",
+    "bao_hieu_thoi_tiet": "Tháp tích đang dâng rất mạnh — dấu hiệu đối lưu mạnh, có thể phát triển thành giông trong thời gian ngắn.",
+    "khi_nao_thuong_thay": "Trên đỉnh Cumulus congestus hoặc Cumulonimbus non trẻ đang phát triển nhanh trong ngày nóng ẩm; theo Wikipedia EN, với Cumulonimbus thì pileus chỉ gặp ở loài calvus.",
+    "sources": [
+      {
+        "label": "WMO — Cumulonimbus: các đặc điểm phụ (gồm pileus)",
+        "url": "https://cloudatlas.wmo.int/en/supplementary-features-and-accessory-clouds-cumulonimbus.html"
+      },
+      {
+        "label": "WMO — Từ nguyên Latin: pileus = mũ",
+        "url": "https://cloudatlas.wmo.int/en/appendix-1-etymology-of-latin-names-of-clouds.html"
+      },
+      {
+        "label": "Wikipedia EN — Cumulonimbus cloud (Pileus)",
+        "url": "https://en.wikipedia.org/wiki/Cumulonimbus_cloud"
+      }
+    ],
+    "photo": {
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Cap_cloud_on_developing_cumulonimbus.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Cap_cloud_on_developing_cumulonimbus.jpg",
+      "author": "Couch-scratching-cats",
+      "license": "CC BY-SA 3.0",
+      "local_file": "images/pileus.jpg"
+    },
+    "photo_status": "co_anh",
+    "verification_status": "Đã kiểm chứng (WMO + Wikipedia EN)",
+    "notes": "Mây phụ (accessory cloud), KHÔNG phải chi hay loài mây riêng. 'Cap cloud' là tên thường gọi của pileus. Tên Việt 'mây mũ' là dịch mô tả; chưa có tên chuẩn tiếng Việt."
+  },
+  {
+    "id": "d09-velum",
+    "en_name": "Velum",
+    "vi_name": "Mây màn",
+    "latin_full": "Cumulonimbus velum (Cb vel)",
+    "group": "Mây vũ tích & đặc điểm phụ",
+    "level": "thẳng đứng",
+    "altitude": "Quanh phần giữa/trên của mây mẹ, ~2.000–12.000 m tùy mây mẹ",
+    "altitude_note": "Velum là tấm mây ngang trải rộng quanh mây mẹ; độ cao theo mây mẹ.",
+    "genus_parent": "Cumulus hoặc Cumulonimbus (mây phụ — accessory cloud)",
+    "mo_ta_nhan_dang": "Màn mây mỏng, dạng tấm phẳng trải ngang rộng, nằm trên hoặc bám vào phần trên của một hay nhiều mây tích; các tháp tích thường xuyên đâm xuyên qua tấm màn này. Trong ảnh minh họa, hai dải màn ngang phủ trên đỉnh Cumulonimbus.",
+    "bao_hieu_thoi_tiet": "Đối lưu đang mạnh lên và mây mẹ đang lớn dần; bản thân velum không báo mưa trực tiếp mà cho thấy tháp tích đang phát triển.",
+    "khi_nao_thuong_thay": "Quanh phần giữa hoặc phần trên của Cumulus hoặc Cumulonimbus đang lớn, khi không khí ẩm bị đẩy lên quanh chướng ngại là tháp mây.",
+    "sources": [
+      {
+        "label": "WMO — Cumulonimbus: các đặc điểm phụ (gồm velum)",
+        "url": "https://cloudatlas.wmo.int/en/supplementary-features-and-accessory-clouds-cumulonimbus.html"
+      },
+      {
+        "label": "WMO — Từ nguyên Latin: velum = buồm",
+        "url": "https://cloudatlas.wmo.int/en/appendix-1-etymology-of-latin-names-of-clouds.html"
+      },
+      {
+        "label": "Wikipedia EN — Cumulonimbus cloud (Velum)",
+        "url": "https://en.wikipedia.org/wiki/Cumulonimbus_cloud"
+      }
+    ],
+    "photo": {
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Cumulonimbus_Velum_cloud_top.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Cumulonimbus_Velum_cloud_top.jpg",
+      "author": "SMMcF",
+      "license": "CC BY-SA 4.0",
+      "local_file": "images/velum.jpg"
+    },
+    "photo_status": "co_anh",
+    "verification_status": "Đã kiểm chứng (WMO + Wikipedia EN)",
+    "notes": "Mây phụ (accessory cloud), KHÔNG phải chi hay loài mây riêng. Tên Việt 'mây màn' là dịch mô tả; chưa có tên chuẩn tiếng Việt."
+  },
+  {
+    "id": "d10-pannus",
+    "en_name": "Pannus",
+    "vi_name": "Mây rách dưới đáy",
+    "latin_full": "Cumulonimbus pannus (Cb pan)",
+    "group": "Mây vũ tích & đặc điểm phụ",
+    "level": "thẳng đứng",
+    "altitude": "Dưới đáy mây mẹ, rất thấp (thường dưới 2.000 m, hay chỉ vài trăm m)",
+    "altitude_note": "Pannus nằm dưới mây mẹ, theo đáy mây mẹ; với Cumulonimbus thì ở tầng thấp.",
+    "genus_parent": "Altostratus, Nimbostratus, Cumulus hoặc Cumulonimbus (mây phụ — accessory cloud)",
+    "mo_ta_nhan_dang": "Những mảnh mây rách, tơi, đôi khi hợp thành một lớp liên tục, nằm dưới một đám mây khác và đôi khi dính vào nó. Pannus hình thành trong không khí rất ẩm dưới mây mẹ đang mưa, thường là các mảnh Stratus fractus hoặc Cumulus fractus của thời tiết xấu.",
+    "bao_hieu_thoi_tiet": "Mưa đang rơi từ mây mẹ phía trên; trời tối, tầm nhìn kém, mưa có thể kéo dài. Pannus dày đặc dưới đáy mây là dấu hiệu trời đang mưa chứ không chỉ sắp mưa.",
+    "khi_nao_thuong_thay": "Dưới Altostratus, Nimbostratus, Cumulus và Cumulonimbus đang mưa; ảnh minh họa: pannus dưới Cumulonimbus, phía sau thấy rõ đe mây.",
+    "sources": [
+      {
+        "label": "WMO — Pannus (định nghĩa)",
+        "url": "https://cloudatlas.wmo.int/en/clouds-accessory-pannus.html"
+      },
+      {
+        "label": "WMO — Cumulonimbus: các đặc điểm phụ (gồm pannus)",
+        "url": "https://cloudatlas.wmo.int/en/supplementary-features-and-accessory-clouds-cumulonimbus.html"
+      },
+      {
+        "label": "Wikipedia EN — Cumulonimbus cloud (Pannus)",
+        "url": "https://en.wikipedia.org/wiki/Cumulonimbus_cloud"
+      }
+    ],
+    "photo": {
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Cumulonimbus_pannus_updraft_1.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Cumulonimbus_pannus_updraft_1.jpg",
+      "author": "Rollcloud",
+      "license": "CC BY 4.0",
+      "local_file": "images/pannus.jpg"
+    },
+    "photo_status": "co_anh",
+    "verification_status": "Đã kiểm chứng (WMO + Wikipedia EN)",
+    "notes": "Mây phụ (accessory cloud), KHÔNG phải chi hay loài mây riêng. Latin pannus = mảnh vải rách. Tên Việt là dịch mô tả; chưa có tên chuẩn tiếng Việt."
+  },
+  {
+    "id": "d11-praecipitatio",
+    "en_name": "Praecipitatio",
+    "vi_name": "Mưa rơi từ mây (mưa chạm đất)",
+    "latin_full": "Cumulonimbus praecipitatio (Cb pra)",
+    "group": "Mây vũ tích & đặc điểm phụ",
+    "level": "thẳng đứng",
+    "altitude": "Từ đáy mây mẹ xuống tới mặt đất",
+    "altitude_note": "Praecipitatio là mưa rơi từ mây mẹ xuống đất nên trải dài từ đáy mây tới mặt đất; theo mây mẹ (với Cumulonimbus: từ ~500 m xuống đất).",
+    "genus_parent": "Altostratus, Nimbostratus, Stratocumulus, Stratus, Cumulus hoặc Cumulonimbus (đặc điểm phụ theo mưa — precipitation-based supplementary feature)",
+    "mo_ta_nhan_dang": "Mưa (mưa rào, tuyết, mưa đá...) rơi từ mây và chạm tới mặt đất, thường thấy rõ thành vệt mưa (precipitation shaft) dưới đáy mây. Khác virga ở chỗ mưa không bốc hơi hết trên đường rơi.",
+    "bao_hieu_thoi_tiet": "Mưa đang tới mặt đất: với Cumulonimbus là mưa rào lớn, sấm sét, có thể kèm mưa đá và gió giật; với Nimbostratus/Altostratus là mưa diện rộng, kéo dài hơn.",
+    "khi_nao_thuong_thay": "Khi mây đủ dày và ẩm: Cumulonimbus cho mưa rào; Altostratus/Nimbostratus cho mưa liên tục. Ảnh minh họa: tháp Cumulonimbus với vệt mưa rõ rệt dưới đáy mây.",
+    "sources": [
+      {
+        "label": "WMO — Cumulonimbus: các đặc điểm phụ (gồm praecipitatio)",
+        "url": "https://cloudatlas.wmo.int/en/supplementary-features-and-accessory-clouds-cumulonimbus.html"
+      },
+      {
+        "label": "Wikipedia EN — Cumulonimbus cloud (Rain / praecipitatio)",
+        "url": "https://en.wikipedia.org/wiki/Cumulonimbus_cloud"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types (Praecipitatio)",
+        "url": "https://en.wikipedia.org/wiki/List_of_cloud_types"
+      }
+    ],
+    "photo": {
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Cumulonimbus_cloud_with_visible_precipitation_shaft.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Cumulonimbus_cloud_with_visible_precipitation_shaft.jpg",
+      "author": "OkEj1000",
+      "license": "CC0",
+      "local_file": "images/praecipitatio.jpg"
+    },
+    "photo_status": "co_anh",
+    "verification_status": "Đã kiểm chứng (WMO + Wikipedia EN)",
+    "notes": "Đặc điểm phụ theo mưa (supplementary feature), KHÔNG phải chi hay loài mây riêng; nó mô tả mưa của mây mẹ. Latin praecipitatio = sự rơi xuống. Tên Việt là dịch mô tả; chưa có tên chuẩn tiếng Việt."
+  },
+  {
+    "id": "d12-virga",
+    "en_name": "Virga",
+    "vi_name": "Mưa không chạm đất (vệt mưa khô)",
+    "latin_full": "Virga (vir) — fallstreaks",
+    "group": "Mây vũ tích & đặc điểm phụ",
+    "level": "thẳng đứng",
+    "altitude": "Dưới đáy mây mẹ, tới khi bốc hơi hết (thường ~500–6.000 m tùy mây mẹ)",
+    "altitude_note": "Virga treo dưới đáy mây mẹ và bốc hơi trước khi chạm đất; độ cao theo mây mẹ. Ảnh minh họa là virga của Altocumulus (tầng trung), không phải của Cumulonimbus — xem ghi chú.",
+    "genus_parent": "Cirrocumulus, Altocumulus, Altostratus, Nimbostratus, Stratocumulus, Cumulus hoặc Cumulonimbus (đặc điểm phụ theo mưa — precipitation-based supplementary feature)",
+    "mo_ta_nhan_dang": "Vệt mưa dạng sợi, thẳng đứng hoặc xiên, treo dưới đáy mây nhưng bốc hơi hoặc thăng hoa hết trước khi chạm đất; không khí dưới mây càng khô thì virga càng rõ. Vệt mưa có thể cong khi gặp gió mạnh đổi hướng theo độ cao.",
+    "bao_hieu_thoi_tiet": "Mưa đang rơi nhưng không tới đất; trời vẫn khô. Tuy vậy virga làm lạnh không khí khi bốc hơi nên có thể gây gió giật, thậm chí microburst — vẫn cần để ý dù trời chưa mưa.",
+    "khi_nao_thuong_thay": "Thường gặp ở vùng khô, sa mạc và miền Tây nước Mỹ; gặp ở nhiều chi mây, rõ nhất dưới Altocumulus và Altostratus. Ảnh minh họa: virga dưới Altocumulus lúc hoàng hôn.",
+    "sources": [
+      {
+        "label": "WMO — Cumulonimbus: các đặc điểm phụ (gồm virga)",
+        "url": "https://cloudatlas.wmo.int/en/supplementary-features-and-accessory-clouds-cumulonimbus.html"
+      },
+      {
+        "label": "Wikipedia EN — Virga",
+        "url": "https://en.wikipedia.org/wiki/Virga"
+      },
+      {
+        "label": "Wikipedia EN — Cumulonimbus cloud (Virga)",
+        "url": "https://en.wikipedia.org/wiki/Cumulonimbus_cloud"
+      }
+    ],
+    "photo": {
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Virga_an_Altocumulus_im_Abendrot_III.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Virga_an_Altocumulus_im_Abendrot_III.jpg",
+      "author": "GerritR",
+      "license": "CC BY-SA 4.0",
+      "local_file": "images/virga.jpg"
+    },
+    "photo_status": "co_anh",
+    "verification_status": "Đã kiểm chứng (WMO + Wikipedia EN)",
+    "notes": "Đặc điểm phụ theo mưa (supplementary feature), KHÔNG phải chi hay loài mây riêng. Latin virga = cành, que. Lưu ý: ảnh minh họa là virga của Altocumulus (mây mẹ tầng trung) — virga đúng hiện tượng, mây mẹ khác Cumulonimbus; đã ghi rõ để tránh hiểu lầm. Tên Việt là dịch mô tả; chưa có tên chuẩn tiếng Việt."
+  },
+  {
+    "id": "d13-flumen",
+    "en_name": "Flumen",
+    "vi_name": "Mây đuôi hải ly (dải mây inflow)",
+    "latin_full": "Cumulonimbus flumen (Cb flm) — beaver's tail",
+    "group": "Mây vũ tích & đặc điểm phụ",
+    "level": "thẳng đứng",
+    "altitude": "Tầng thấp, gần mặt đất tới ~1.000–2.000 m",
+    "altitude_note": "Flumen là dải mây thấp chảy vào đáy siêu bão; độ cao ở tầng thấp, theo luồng inflow.",
+    "genus_parent": "Cumulonimbus siêu bão / supercell (mây phụ — accessory cloud; WMO công nhận từ bản 2017)",
+    "mo_ta_nhan_dang": "Dải mây thấp, dạng 'đuôi hải ly' (beaver's tail), gồm các dải mây thấp xếp song song với gió tầng thấp, chảy vào (inflow) đáy của siêu bão Cumulonimbus. Flumen là mây phụ của Cumulonimbus, khác cauda (đuôi mây nối vùng mưa với wall cloud) ở chỗ flumen là luồng khí ấm ẩm đi vào bão.",
+    "bao_hieu_thoi_tiet": "Siêu bão đang hút ẩm mạnh — giông rất mạnh, có thể kèm mưa đá lớn và nguy cơ lốc xoáy; cần theo dõi cảnh báo. Flumen không tự xoay như tuba nên đừng nhầm nó với lốc xoáy.",
+    "khi_nao_thuong_thay": "Chỉ gặp ở siêu bão (supercell) Cumulonimbus, điển hình ở vùng đồng bằng nước Mỹ; WMO ghi cauda, flumen và tuba là những đặc điểm 'hiếm khi quan sát được' ở Cumulonimbus.",
+    "sources": [
+      {
+        "label": "WMO — Cumulonimbus: các đặc điểm phụ (cauda, flumen, tuba hiếm gặp)",
+        "url": "https://cloudatlas.wmo.int/en/supplementary-features-and-accessory-clouds-cumulonimbus.html"
+      },
+      {
+        "label": "WMO — Chú thích ảnh siêu bão: dải mây thấp flumen đi vào siêu bão",
+        "url": "https://cloudatlas.wmo.int/en/imgviewer-4959.txt"
+      },
+      {
+        "label": "WMO — Từ nguyên Latin: flumen = dòng chảy",
+        "url": "https://cloudatlas.wmo.int/en/appendix-1-etymology-of-latin-names-of-clouds.html"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types (Flumen)",
+        "url": "https://en.wikipedia.org/wiki/List_of_cloud_types"
+      }
+    ],
+    "photo": null,
+    "photo_status": "chua_co_anh",
+    "verification_status": "Đã kiểm chứng định nghĩa (WMO + Wikipedia EN); chưa tìm được ảnh đúng trên Wikimedia Commons nên mục này chưa có ảnh.",
+    "notes": "Mây phụ (accessory cloud), KHÔNG phải chi hay loài mây riêng. Đã tìm trên Wikimedia Commons bằng các từ khóa 'flumen cloud', 'beaver tail cloud supercell': không có file nào ghi rõ là flumen/beaver's tail (chỉ có 1 ảnh siêu bão ở Oklahoma mô tả dải inflow chung chung, không ghi rõ là flumen) nên theo quy tắc KHÔNG gắn ảnh sai — để trống 'chưa có ảnh'. Tên Việt là dịch mô tả ('đuôi hải ly' là tên gọi thông dụng trong tiếng Anh: beaver's tail); chưa có tên chuẩn tiếng Việt."
+  }
+]

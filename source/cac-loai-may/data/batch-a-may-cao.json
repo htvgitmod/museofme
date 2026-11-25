@@ -1,0 +1,520 @@
+[
+  {
+    "altitude": "6.000–20.000 m",
+    "altitude_note": "Toàn cầu 6.000–20.000 m theo Wikipedia EN; ở vĩ độ ôn đới đáy mây cao khoảng 5.000–12.000 m, ở nhiệt đới cao hơn (trung bình khoảng 13.500 m), ở vùng cực thấp hơn (khoảng 7.000 m). Luôn bị giới hạn bởi tầng đối lưu đỉnh (tropopause).",
+    "bao_hieu_thoi_tiet": "Bản thân mây ti không gây mưa (tinh thể băng rơi xuống sẽ tan/bốc hơi trước khi chạm đất). Mây ti rời rạc riêng lẻ ít ý nghĩa; nhưng nhiều mây ti dày lên và lan rộng thường báo hiệu frông thời tiết đang đến gần, thời tiết sắp xấu đi, có thể có mưa hoặc bão trong thời gian tới.",
+    "en_name": "Cirrus",
+    "genus_parent": "Cirrus",
+    "group": "Mây cao",
+    "id": "cirrus",
+    "khi_nao_thuong_thay": "Quanh năm, ở rìa trước của frông ấm, trên đỉnh giông bão và xoáy thuận nhiệt đới (tán mây giông lan ra), hoặc do gió dòng tia (jet stream) kéo dài thành dải. Ban ngày ít hơn, ban đêm nhiều hơn theo dữ liệu vệ tinh.",
+    "latin_full": "Cirrus (Ci)",
+    "level": "cao",
+    "mo_ta_nhan_dang": "Mây cao mỏng, nhẹ, gồm tinh thể băng, trông như sợi tơ, lông vũ hoặc dải mỏng màu trắng, trong suốt nên vẫn nhìn xuyên thấy Mặt Trời. Thường xuất hiện rời rạc thành từng sợi dài, có khi tạo vệt rủ (fall streaks) bên dưới. Hoàng hôn có thể nhuộm mây vàng hoặc đỏ.",
+    "notes": "Tên tiếng Việt 'Mây ti' theo brief dự án. Ảnh là rìa frông mây ti (cirrus front), đúng chi Cirrus. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "photo": {
+      "author": "Ximonic (Simo Räsänen)",
+      "commons_file_title": "File:Cirrus front over Austnesfjorden, Austvågøya, Lofoten, Norway, 2015 April.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ACirrus_front_over_Austnesfjorden%2C_Austv%C3%A5g%C3%B8ya%2C_Lofoten%2C_Norway%2C_2015_April.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Cirrus_front_over_Austnesfjorden%2C_Austv%C3%A5g%C3%B8ya%2C_Lofoten%2C_Norway%2C_2015_April.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 3.0",
+      "local_file": "images/cirrus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cirrus cloud",
+        "url": "https://en.wikipedia.org/wiki/Cirrus_cloud"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Cloud classification summary",
+        "url": "https://cloudatlas.wmo.int/en/cloud-classification-summary.html"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.m.wikipedia.org/wiki/List_of_cloud_types"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.",
+    "vi_name": "Mây ti"
+  },
+  {
+    "altitude": "6.096–15.000 m",
+    "altitude_note": "Infobox Wikipedia EN ghi 6.096–15.000 m; trong bài ghi thường ở 5–12 km, có thể xuống tới 3 km ở vùng Bắc Cực. Đáy mây cao, nhìn từ mặt đất các cụm mây rất nhỏ.",
+    "bao_hieu_thoi_tiet": "Thường chỉ là giai đoạn chuyển tiếp ngắn ngủi trong vùng mây ti và nhanh chóng biến thành mây ti tầng. Nếu xuất hiện thành mảng cùng mây ti/mây ti tầng và lan rộng, thường báo mưa sau khoảng 8–10 giờ (lâu hơn nếu frông di chuyển chậm). Chỉ vài mảng nhỏ thì thời tiết tốt vẫn tiếp tục; xuất hiện sau mưa thường nghĩa là trời đang tốt dần lên. Thỉnh thoảng có virga (mưa rơi không tới đất).",
+    "en_name": "Cirrocumulus",
+    "genus_parent": "Cirrocumulus",
+    "group": "Mây cao",
+    "id": "cirrocumulus",
+    "khi_nao_thuong_thay": "Thường thấy ở rìa trước của frông ấm, cùng các mây ti khác; đôi khi hình thành ngắn ngủi khi một phần tán đe giông (cumulonimbus) vỡ ra. Thường tồn tại ngắn, hay thấy vào buổi chiều và lúc hoàng hôn (phản chiếu vàng, cam, đỏ rất đẹp).",
+    "latin_full": "Cirrocumulus (Cc)",
+    "level": "cao",
+    "mo_ta_nhan_dang": "Mảng mây trắng nhỏ, mỏng như vảy cá, gồm nhiều 'mây con' (cloudlet) nhỏ — mỗi cụm không lớn hơn một ngón tay giơ ra ở tầm tay. Không có bóng xám, hơi trong mờ, thường xếp thành hàng hoặc gợn sóng như 'trời vảy cá thu' (mackerel sky). Phân biệt với mây trung tích (altocumulus) nhờ cụm mây nhỏ hơn và ở cao hơn.",
+    "notes": "Tên tiếng Việt 'Mây ti tích' theo brief dự án. Ảnh này cũng xuất hiện trong bài Wikipedia EN về Cirrocumulus. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "photo": {
+      "author": "King of Hearts",
+      "commons_file_title": "File:Cirrocumulus clouds Thousand Oaks July 2010.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ACirrocumulus_clouds_Thousand_Oaks_July_2010.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Cirrocumulus_clouds_Thousand_Oaks_July_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 3.0",
+      "local_file": "images/cirrocumulus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cirrocumulus cloud",
+        "url": "https://en.wikipedia.org/wiki/Cirrocumulus_cloud"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Cloud classification summary",
+        "url": "https://cloudatlas.wmo.int/en/cloud-classification-summary.html"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.m.wikipedia.org/wiki/List_of_cloud_types"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.",
+    "vi_name": "Mây ti tích"
+  },
+  {
+    "altitude": "6.000–13.000 m",
+    "altitude_note": "Infobox Wikipedia EN ghi 6.000–13.000 m; trong bài ghi thường nằm trên 5.500 m. Mây cao, mỏng, phủ rộng.",
+    "bao_hieu_thoi_tiet": "Bản thân không gây mưa, nhưng thường báo hiệu frông ấm đang đến: nếu mây hình thành sau mây ti và lan khắp trời, mưa có thể đến trong 12–24 giờ tới, hoặc chỉ 6–8 giờ nếu frông di chuyển nhanh. Nếu mây dày lên và hạ thấp dần thành mây trung tầng rồi mây vũ tầng thì mưa gần như chắc chắn. Dạng fibratus rời rạc thì frông yếu, chỉ có mưa phùn hoặc hạt tuyết nhẹ.",
+    "en_name": "Cirrostratus",
+    "genus_parent": "Cirrostratus",
+    "group": "Mây cao",
+    "id": "cirrostratus",
+    "khi_nao_thuong_thay": "Thường thấy trước frông ấm, khi mây ti bắt đầu tụ lại và phủ kín trời; cũng gặp khi đỉnh giông lan phẳng ra. Vệt máy bay (contrail) trong mây ti tầng có thể lan rộng và nhìn thấy tới khoảng 1 giờ.",
+    "latin_full": "Cirrostratus (Cs)",
+    "level": "cao",
+    "mo_ta_nhan_dang": "Lớp mây mỏng, rất đều, trong mờ như tấm voan trắng phủ kín cả bầu trời, khó nhận ra nếu không để ý. Dạng nebulosus tạo quầng sáng (halo) quanh Mặt Trời hoặc Mặt Trăng; dạng fibratus có kết cấu sợi, không tạo quầng. Bầu trời khi có mây ti tầng thường có vẻ 'sữa đục' (milky sunshine).",
+    "notes": "Tên tiếng Việt 'Mây ti tầng' theo brief dự án. Ảnh quầng sáng trong mây ti tầng — quầng halo là dấu hiệu nhận biết đặc trưng của chi này. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "photo": {
+      "author": "Chrumps",
+      "commons_file_title": "File:Halo in cirrostratus 1.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3AHalo_in_cirrostratus_1.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Halo_in_cirrostratus_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY 2.5",
+      "local_file": "images/cirrostratus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cirrostratus cloud",
+        "url": "https://en.wikipedia.org/wiki/Cirrostratus_cloud"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Cloud classification summary",
+        "url": "https://cloudatlas.wmo.int/en/cloud-classification-summary.html"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.m.wikipedia.org/wiki/List_of_cloud_types"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.",
+    "vi_name": "Mây ti tầng"
+  },
+  {
+    "altitude": "6.000–20.000 m",
+    "altitude_note": "Cùng độ cao với chi Cirrus (toàn cầu 6.000–20.000 m; ôn đới khoảng 5.000–13.000 m).",
+    "bao_hieu_thoi_tiet": "Khi mây ti dạng sợi dày lên và lan rộng, đặc biệt ở dạng tỏa (radiatus), thường báo hiệu frông thời tiết đang đến gần; nếu tiếp tục phát triển thành mây ti tầng rồi mây thấp hơn thì mưa sẽ đến sau đó.",
+    "en_name": "Cirrus fibratus",
+    "genus_parent": "Cirrus",
+    "group": "Mây cao",
+    "id": "cirrus-fibratus",
+    "khi_nao_thuong_thay": "Rất thường gặp, quanh năm; gió dòng tia ở tầng cao kéo sợi mây thành dải dài, có khi vắt ngang cả lục địa. Thường thấy trước frông ấm.",
+    "latin_full": "Cirrus fibratus (Ci fib)",
+    "level": "cao",
+    "mo_ta_nhan_dang": "Dạng mây ti phổ biến nhất: các sợi thẳng, mảnh, gần như song song, trông như vạch kẻ trắng kéo dài trên trời, thường xếp theo hướng gió ở tầng cao. Sợi mây tách rời, không có đầu móc câu như uncinus và không dày đặc như spissatus.",
+    "notes": "Tên tiếng Việt 'Mây ti dạng sợi' là tên dịch mô tả (fibratus = dạng sợi), chưa có tên chuẩn tiếng Việt — không dùng như tên chính thức. Ảnh có tên file ghi rõ Cirrus fibratus. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "photo": {
+      "author": "Downtowngal",
+      "commons_file_title": "File:Cirrus fibratus clouds, Los Angeles.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ACirrus_fibratus_clouds%2C_Los_Angeles.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Cirrus_fibratus_clouds%2C_Los_Angeles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 4.0",
+      "local_file": "images/cirrus-fibratus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cirrus cloud",
+        "url": "https://en.wikipedia.org/wiki/Cirrus_cloud"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Cloud classification summary",
+        "url": "https://cloudatlas.wmo.int/en/cloud-classification-summary.html"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.",
+    "vi_name": "Mây ti dạng sợi"
+  },
+  {
+    "altitude": "6.000–20.000 m",
+    "altitude_note": "Cùng độ cao với chi Cirrus (toàn cầu 6.000–20.000 m; ôn đới khoảng 5.000–13.000 m).",
+    "bao_hieu_thoi_tiet": "Như mây ti nói chung: xuất hiện nhiều, dày lên và lan rộng thì báo hiệu frông hoặc nhiễu động tầng cao đang đến, thời tiết sắp xấu đi. Riêng lẻ thì ít ý nghĩa.",
+    "en_name": "Cirrus uncinus",
+    "genus_parent": "Cirrus",
+    "group": "Mây cao",
+    "id": "cirrus-uncinus",
+    "khi_nao_thuong_thay": "Thường gặp khi gió tầng cao mạnh và có độ đứt gió (wind shear) rõ rệt; hay thấy ở rìa trước của frông ấm và quanh vùng xoáy thuận.",
+    "latin_full": "Cirrus uncinus (Ci unc)",
+    "level": "cao",
+    "mo_ta_nhan_dang": "Sợi mây ti có đầu cong thành móc câu hoặc hình dấu phẩy, thường gọi là 'đuôi ngựa' (mare's tails). Phần đầu móc là nơi tinh thể băng nặng rơi xuống và bị gió tầng cao uốn cong. Nhận biết nhờ 'cái móc' ở cuối mỗi sợi — không có móc thì không phải uncinus.",
+    "notes": "Tên tiếng Việt 'Mây ti dạng móc câu (đuôi ngựa)' là tên dịch mô tả (uncinus = dạng móc; mare's tails = đuôi ngựa), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrus uncinus. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "photo": {
+      "author": "1bumer",
+      "commons_file_title": "File:Cirrus uncinus.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ACirrus_uncinus.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Cirrus_uncinus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 4.0",
+      "local_file": "images/cirrus-uncinus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cirrus cloud",
+        "url": "https://en.wikipedia.org/wiki/Cirrus_cloud"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Cloud classification summary",
+        "url": "https://cloudatlas.wmo.int/en/cloud-classification-summary.html"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.",
+    "vi_name": "Mây ti dạng móc câu (đuôi ngựa)"
+  },
+  {
+    "altitude": "6.000–20.000 m",
+    "altitude_note": "Cùng độ cao với chi Cirrus; thường ở gần đỉnh tầng đối lưu, là phần còn lại của tán đe giông.",
+    "bao_hieu_thoi_tiet": "Thường gắn với giông bão vừa qua hoặc frông ấm đang đi qua; xuất hiện sau giông có thể nghĩa là giông đang tan, nhưng nếu đi cùng các mây ti khác đang dày lên thì thời tiết xấu vẫn có thể tiếp diễn.",
+    "en_name": "Cirrus spissatus",
+    "genus_parent": "Cirrus",
+    "group": "Mây cao",
+    "id": "cirrus-spissatus",
+    "khi_nao_thuong_thay": "Sau giông bão (phần đe còn sót lại), hoặc khi frông ấm mạnh đi qua; gặp ở gần đỉnh tầng đối lưu.",
+    "latin_full": "Cirrus spissatus (Ci spi)",
+    "level": "cao",
+    "mo_ta_nhan_dang": "Dạng mây ti đặc biệt dày và đậm, trông xám hơn các mây ti khác, chiếm phần lớn bầu trời phía trên, không còn mỏng trong suốt. Thường là tàn dư của tán đe giông (cumulonimbus) sau khi giông tan, hoặc hình thành khi frông ấm đi qua.",
+    "notes": "Tên tiếng Việt 'Mây ti dạng dày đặc' là tên dịch mô tả (spissatus = làm dày, đặc), chưa có tên chuẩn tiếng Việt. Ảnh này cũng là ảnh minh họa loài spissatus trong bài Wikipedia EN về Cirrus; tên file ghi rõ nguồn gốc từ cumulonimbus (cumulonimbogenitus). local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "photo": {
+      "author": "GerritR",
+      "commons_file_title": "File:Cirrus spissatus cumulonimbogenitus in Oklahoma.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ACirrus_spissatus_cumulonimbogenitus_in_Oklahoma.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Cirrus_spissatus_cumulonimbogenitus_in_Oklahoma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 4.0",
+      "local_file": "images/cirrus-spissatus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cirrus cloud",
+        "url": "https://en.wikipedia.org/wiki/Cirrus_cloud"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Cloud classification summary",
+        "url": "https://cloudatlas.wmo.int/en/cloud-classification-summary.html"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.",
+    "vi_name": "Mây ti dạng dày đặc"
+  },
+  {
+    "altitude": "6.000–20.000 m",
+    "altitude_note": "Cùng độ cao với chi Cirrus; loài hiếm, mọc tháp thẳng đứng từ thân mây chính.",
+    "bao_hieu_thoi_tiet": "Báo hiệu có sự bất ổn định (đối lưu) ở tầng cao. Theo Wikipedia EN, nếu thấy cirrus castellanus thì có thể có bất ổn định ở độ cao lớn — dấu hiệu thời tiết sắp thay đổi, cần theo dõi thêm các mây đối lưu phía dưới.",
+    "en_name": "Cirrus castellanus",
+    "genus_parent": "Cirrus",
+    "group": "Mây cao",
+    "id": "cirrus-castellanus",
+    "khi_nao_thuong_thay": "Hiếm gặp, trên toàn thế giới nhưng không thường xuyên; khi có đối lưu tầng cao và độ ẩm vừa đủ, kèm theo nhiệt độ giảm mạnh theo độ cao.",
+    "latin_full": "Cirrus castellanus (Ci cas)",
+    "level": "cao",
+    "mo_ta_nhan_dang": "Mây ti có phần đỉnh mọc lên thành các tháp nhỏ trông như tường thành, tháp canh của lâu đài (castellanus = thuộc về lâu đài) — tháp cao hơn chiều rộng của nó. Hiếm gặp hơn các loài mây ti khác, trông như dãy ụ nhỏ nối nhau trên một nền mây mỏng.",
+    "notes": "Tên tiếng Việt 'Mây ti dạng tháp' là tên dịch mô tả (castellanus = dạng lâu đài/tháp canh), chưa có tên chuẩn tiếng Việt. Ảnh này cũng là ảnh minh họa loài castellanus trong bài Wikipedia EN về Cirrus. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "photo": {
+      "author": "GerritR",
+      "commons_file_title": "File:Cirrus castellanus.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ACirrus_castellanus.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Cirrus_castellanus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 4.0",
+      "local_file": "images/cirrus-castellanus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cirrus cloud",
+        "url": "https://en.wikipedia.org/wiki/Cirrus_cloud"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Cloud classification summary",
+        "url": "https://cloudatlas.wmo.int/en/cloud-classification-summary.html"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.",
+    "vi_name": "Mây ti dạng tháp"
+  },
+  {
+    "altitude": "6.000–20.000 m",
+    "altitude_note": "Cùng độ cao với chi Cirrus.",
+    "bao_hieu_thoi_tiet": "Như mây ti nói chung, có đối lưu hạn chế ở tầng cao; xuất hiện nhiều kèm các mây ti khác đang dày lên thì báo hiệu frông đang đến. Bản thân không gây mưa tới mặt đất.",
+    "en_name": "Cirrus floccus",
+    "genus_parent": "Cirrus",
+    "group": "Mây cao",
+    "id": "cirrus-floccus",
+    "khi_nao_thuong_thay": "Khi có đối lưu nhẹ ở tầng cao trong khối không khí tương đối khô; thường thấy cùng các dạng mây ti khác trong cùng một vùng trời.",
+    "latin_full": "Cirrus floccus (Ci flo)",
+    "level": "cao",
+    "mo_ta_nhan_dang": "Mây ti xuất hiện thành chuỗi cụm nhỏ rời rạc như túm bông gòn (floccus = túm len, bông), đầu tròn, chân rách xơ xác, lớn hơn nhiều so với các cụm của cirrocumulus floccus. Mỗi cụm có thể kèm vệt mưa băng (virga) rủ xuống dưới.",
+    "notes": "Tên tiếng Việt 'Mây ti dạng cụm bông' là tên dịch mô tả (floccus = túm bông len), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrus floccus (Rome, 2014-07). local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "photo": {
+      "author": "Daniele.Brundu",
+      "commons_file_title": "File:Cirrus floccus (Rome, 2014-07).jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ACirrus_floccus_%28Rome%2C_2014-07%29.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Cirrus_floccus_%28Rome%2C_2014-07%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY 4.0",
+      "local_file": "images/cirrus-floccus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cirrus cloud",
+        "url": "https://en.wikipedia.org/wiki/Cirrus_cloud"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Cloud classification summary",
+        "url": "https://cloudatlas.wmo.int/en/cloud-classification-summary.html"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.",
+    "vi_name": "Mây ti dạng cụm bông"
+  },
+  {
+    "altitude": "6.096–15.000 m",
+    "altitude_note": "Cùng độ cao với chi Cirrocumulus (infobox Wikipedia EN: 6.096–15.000 m; thường 5–12 km).",
+    "bao_hieu_thoi_tiet": "Như chi Cirrocumulus: mảng lan rộng cùng mây ti/mây ti tầng báo mưa sau khoảng 8–10 giờ; chỉ vài mảng nhỏ thì thời tiết tốt vẫn tiếp tục; sau mưa thì trời đang tốt dần lên.",
+    "en_name": "Cirrocumulus stratiformis",
+    "genus_parent": "Cirrocumulus",
+    "group": "Mây cao",
+    "id": "cirrocumulus-stratiformis",
+    "khi_nao_thuong_thay": "Ở rìa trước của frông ấm, trong vùng có nhiều mây ti; thường là giai đoạn chuyển tiếp ngắn trước khi biến thành mây ti tầng.",
+    "latin_full": "Cirrocumulus stratiformis (Cc str)",
+    "level": "cao",
+    "mo_ta_nhan_dang": "Dạng mây ti tích trải thành tấm hoặc mảng tương đối phẳng, các cụm mây nhỏ li ti xếp thành lớp mỏng trên diện rộng, trông như mặt biển gợn vảy. Đây là loài phổ biến của chi Cirrocumulus, ít nhô cao hơn dạng castellanus hay floccus.",
+    "notes": "Tên tiếng Việt 'Mây ti tích dạng tầng trải' là tên dịch mô tả (stratiformis = trải thành tầng), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrocumulus stratiformis. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "photo": {
+      "author": "GerritR",
+      "commons_file_title": "File:Cirrocumulus stratiformis.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ACirrocumulus_stratiformis.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Cirrocumulus_stratiformis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 4.0",
+      "local_file": "images/cirrocumulus-stratiformis.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cirrocumulus cloud",
+        "url": "https://en.wikipedia.org/wiki/Cirrocumulus_cloud"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.m.wikipedia.org/wiki/List_of_cloud_types"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Cloud classification summary",
+        "url": "https://cloudatlas.wmo.int/en/cloud-classification-summary.html"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.",
+    "vi_name": "Mây ti tích dạng tầng trải"
+  },
+  {
+    "altitude": "6.096–15.000 m",
+    "altitude_note": "Cùng độ cao với chi Cirrocumulus (infobox Wikipedia EN: 6.096–15.000 m; thường 5–12 km).",
+    "bao_hieu_thoi_tiet": "Báo hiệu có sóng núi và gió mạnh, đứt gió ở tầng cao; bản thân không gây mưa, nhưng cho thấy không khí tầng cao ẩm và đang có chuyển động sóng — phi công xem đây là dấu hiệu nhiễu động mạnh.",
+    "en_name": "Cirrocumulus lenticularis",
+    "genus_parent": "Cirrocumulus",
+    "group": "Mây cao",
+    "id": "cirrocumulus-lenticularis",
+    "khi_nao_thuong_thay": "Thường gặp ở vùng núi khi gió mạnh thổi qua địa hình cao; cũng có thể xuất hiện ở bất cứ đâu có gió đứt mạnh kết hợp không khí ổn định. Thường đứng yên một chỗ dù gió thổi mạnh.",
+    "latin_full": "Cirrocumulus lenticularis (Cc len)",
+    "level": "cao",
+    "mo_ta_nhan_dang": "Mây ti tích có hình thấu kính (lens) — dẹt, thuôn nhọn ở hai đầu, mép nhẵn, trông như chiếc đĩa bay hoặc hạt hạnh nhân nằm ngang trên trời. Hình thành khi không khí ẩm ổn định bị sóng địa hình (thường trên núi) nâng lên rồi hạ xuống, mây đọng lại đúng ở đỉnh sóng.",
+    "notes": "Tên tiếng Việt 'Mây ti tích dạng thấu kính' là tên dịch mô tả (lenticularis = hình thấu kính), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrocumulus lenticularis. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "photo": {
+      "author": "Couch-scratching-cats",
+      "commons_file_title": "File:Cirrocumulus lenticularis cloud 2.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ACirrocumulus_lenticularis_cloud_2.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Cirrocumulus_lenticularis_cloud_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY 3.0",
+      "local_file": "images/cirrocumulus-lenticularis.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cirrocumulus cloud",
+        "url": "https://en.wikipedia.org/wiki/Cirrocumulus_cloud"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.m.wikipedia.org/wiki/List_of_cloud_types"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Cloud classification summary",
+        "url": "https://cloudatlas.wmo.int/en/cloud-classification-summary.html"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.",
+    "vi_name": "Mây ti tích dạng thấu kính"
+  },
+  {
+    "altitude": "6.096–15.000 m",
+    "altitude_note": "Cùng độ cao với chi Cirrocumulus; có thể phát triển thẳng đứng đôi chút nhưng thường không được xếp vào mây thẳng đứng.",
+    "bao_hieu_thoi_tiet": "Cho thấy có đối lưu hạn chế ở tầng cao (không khí hơi bất ổn định ở độ cao lớn). Như chi Cirrocumulus, nếu lan rộng cùng mây ti/mây ti tầng thì có thể báo mưa sau khoảng 8–10 giờ.",
+    "en_name": "Cirrocumulus castellanus",
+    "genus_parent": "Cirrocumulus",
+    "group": "Mây cao",
+    "id": "cirrocumulus-castellanus",
+    "khi_nao_thuong_thay": "Hiếm hơn dạng stratiformis; khi không khí tầng cao có đối lưu nhẹ, thường ở rìa trước frông ấm cùng các mây ti khác.",
+    "latin_full": "Cirrocumulus castellanus (Cc cas)",
+    "level": "cao",
+    "mo_ta_nhan_dang": "Mây ti tích có các cụm mây mọc lên thành tháp nhỏ như tường thành (turreted), cao hơn rộng, nối nhau ở chân thành một lớp chung. Các tháp nhỏ li ti, trông như lâu đài thu nhỏ ở rất cao trên trời — khó thấy rõ vì cụm mây quá nhỏ.",
+    "notes": "Tên tiếng Việt 'Mây ti tích dạng tháp' là tên dịch mô tả (castellanus = dạng lâu đài/tháp), chưa có tên chuẩn tiếng Việt. Lưu ý: ảnh có cả Cirrocumulus castellanus và Cirrus castellanus trong cùng một khung hình (theo tên file) — cần xem lại ảnh khi duyệt để chắc phần Cirrocumulus castellanus nhìn rõ. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "photo": {
+      "author": "Rollcloud",
+      "commons_file_title": "File:Cirrocumulus castellanus and Cirrus castellanus 01.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ACirrocumulus_castellanus_and_Cirrus_castellanus_01.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Cirrocumulus_castellanus_and_Cirrus_castellanus_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY 3.0",
+      "local_file": "images/cirrocumulus-castellanus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cirrocumulus cloud",
+        "url": "https://en.wikipedia.org/wiki/Cirrocumulus_cloud"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.m.wikipedia.org/wiki/List_of_cloud_types"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Cloud classification summary",
+        "url": "https://cloudatlas.wmo.int/en/cloud-classification-summary.html"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.",
+    "vi_name": "Mây ti tích dạng tháp"
+  },
+  {
+    "altitude": "6.096–15.000 m",
+    "altitude_note": "Cùng độ cao với chi Cirrocumulus (infobox Wikipedia EN: 6.096–15.000 m; thường 5–12 km).",
+    "bao_hieu_thoi_tiet": "Như chi Cirrocumulus: mảng lan rộng cùng mây ti/mây ti tầng báo mưa sau khoảng 8–10 giờ; vài cụm nhỏ riêng lẻ thì thời tiết tốt vẫn tiếp tục. Có thể kèm virga.",
+    "en_name": "Cirrocumulus floccus",
+    "genus_parent": "Cirrocumulus",
+    "group": "Mây cao",
+    "id": "cirrocumulus-floccus",
+    "khi_nao_thuong_thay": "Trong các mảng mây ti tích ở rìa trước frông ấm; thường xuất hiện thành từng cụm nhỏ rời rạc, tồn tại ngắn rồi biến thành mây ti hoặc mây ti tầng.",
+    "latin_full": "Cirrocumulus floccus (Cc flo)",
+    "level": "cao",
+    "mo_ta_nhan_dang": "Các cụm mây ti tích nhỏ li ti như túm bông (floccus = túm len), đầu tròn, chân rách xơ xác, trông xù xì hơn các loài ti tích khác. Đây cũng là ảnh đại diện (infobox) của chi Cirrocumulus trên Wikipedia EN. Các cụm nhỏ hơn nhiều so với cụm của Cirrus floccus.",
+    "notes": "Tên tiếng Việt 'Mây ti tích dạng cụm bông' là tên dịch mô tả (floccus = túm bông len), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrocumulus floccus; ảnh infobox của bài Wikipedia EN (Cirrocumulus_20040830.jpg, chú thích 'Cirrocumulus floccus') là ảnh dự phòng cùng loài. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "photo": {
+      "author": "Van der Fall",
+      "commons_file_title": "File:Cirrocumulus floccus.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ACirrocumulus_floccus.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Cirrocumulus_floccus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY 4.0",
+      "local_file": "images/cirrocumulus-floccus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cirrocumulus cloud",
+        "url": "https://en.wikipedia.org/wiki/Cirrocumulus_cloud"
+      },
+      {
+        "label": "Wikipedia EN — List of cloud types",
+        "url": "https://en.m.wikipedia.org/wiki/List_of_cloud_types"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Cloud classification summary",
+        "url": "https://cloudatlas.wmo.int/en/cloud-classification-summary.html"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.",
+    "vi_name": "Mây ti tích dạng cụm bông"
+  },
+  {
+    "altitude": "6.000–13.000 m",
+    "altitude_note": "Cùng độ cao với chi Cirrostratus (infobox Wikipedia EN: 6.000–13.000 m; thường trên 5.500 m).",
+    "bao_hieu_thoi_tiet": "Như chi Cirrostratus: báo hiệu frông ấm đang đến, mưa có thể đến trong 12–24 giờ (6–8 giờ nếu frông nhanh). Nếu mây ở dạng fibratus rời rạc, vỡ vụn thì frông yếu — chỉ có mưa phùn hoặc hạt tuyết nhẹ thay vì mưa vừa.",
+    "en_name": "Cirrostratus fibratus",
+    "genus_parent": "Cirrostratus",
+    "group": "Mây cao",
+    "id": "cirrostratus-fibratus",
+    "khi_nao_thuong_thay": "Khi frông ấm tiến đến và mây ti bắt đầu dày lên thành lớp; cũng gặp khi đỉnh giông lan phẳng ra thành lớp mây tầng cao.",
+    "latin_full": "Cirrostratus fibratus (Cs fib)",
+    "level": "cao",
+    "mo_ta_nhan_dang": "Lớp mây ti tầng có kết cấu sợi rõ rệt — như tấm màn sợi mỏng phủ khắp trời, các sợi nửa tách rời, nửa dính nhau. Dày hơn dạng nebulosus nên không tạo quầng halo (hoặc quầng rất mờ). Khi frông đến gần, mây ti tầng thường bắt đầu từ dạng nebulosus rồi chuyển sang fibratus.",
+    "notes": "Tên tiếng Việt 'Mây ti tầng dạng sợi' là tên dịch mô tả (fibratus = dạng sợi), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cirrostratus fibratus. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "photo": {
+      "author": "Rollcloud",
+      "commons_file_title": "File:Cirrostratus fibratus (06122021).jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ACirrostratus_fibratus_%2806122021%29.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Cirrostratus_fibratus_%2806122021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 3.0",
+      "local_file": "images/cirrostratus-fibratus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cirrostratus cloud",
+        "url": "https://en.wikipedia.org/wiki/Cirrostratus_cloud"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Cloud classification summary",
+        "url": "https://cloudatlas.wmo.int/en/cloud-classification-summary.html"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.",
+    "vi_name": "Mây ti tầng dạng sợi"
+  },
+  {
+    "altitude": "6.000–13.000 m",
+    "altitude_note": "Cùng độ cao với chi Cirrostratus (infobox Wikipedia EN: 6.000–13.000 m; thường trên 5.500 m).",
+    "bao_hieu_thoi_tiet": "Như chi Cirrostratus: báo hiệu frông ấm đang đến, mưa có thể đến trong 12–24 giờ (6–8 giờ nếu frông nhanh). Nếu lớp mây dày lên và hạ thấp dần thì mưa gần như chắc chắn; nếu chỉ là lớp mỏng có quầng thì frông còn xa.",
+    "en_name": "Cirrostratus nebulosus",
+    "genus_parent": "Cirrostratus",
+    "group": "Mây cao",
+    "id": "cirrostratus-nebulosus",
+    "khi_nao_thuong_thay": "Khi frông ấm bắt đầu đến, mây ti tầng thường bắt đầu ở dạng nebulosus rồi mới chuyển sang fibratus khi frông gần hơn. Quầng Mặt Trăng do dạng này tạo ra dễ thấy vào ban đêm.",
+    "latin_full": "Cirrostratus nebulosus (Cs neb)",
+    "level": "cao",
+    "mo_ta_nhan_dang": "Lớp mây ti tầng trơn nhẵn, không có chi tiết gì, như tấm voan mỏng không đặc điểm phủ kín cả bầu trời, khiến bầu trời có vẻ mờ sương, 'sữa đục'. Chính dạng này tạo ra quầng sáng (halo, thường là vòng 22 độ) quanh Mặt Trời hoặc Mặt Trăng — dấu hiệu nhận biết rõ nhất. Mặt Trời/Mặt Trăng vẫn nhìn xuyên qua được.",
+    "notes": "Tên tiếng Việt 'Mây ti tầng dạng mù sương' là tên dịch mô tả (nebulosus = dạng mù sương, không đặc điểm), chưa có tên chuẩn tiếng Việt. Ảnh có tên file ghi rõ Cs nebulosus kèm quầng mờ (faint halo) — đúng dấu hiệu đặc trưng của loài này; giấy phép Public domain theo API Commons. local_file là đường dẫn đích, file chưa được tải về trong batch này.",
+    "photo": {
+      "author": "Rollcloud",
+      "commons_file_title": "File:Cs nebulosus with faint halo.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ACs_nebulosus_with_faint_halo.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Cs_nebulosus_with_faint_halo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "Public domain",
+      "local_file": "images/cirrostratus-nebulosus.jpg"
+    },
+    "photo_status": "co_anh",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cirrostratus cloud",
+        "url": "https://en.wikipedia.org/wiki/Cirrostratus_cloud"
+      },
+      {
+        "label": "WMO International Cloud Atlas — Cloud classification summary",
+        "url": "https://cloudatlas.wmo.int/en/cloud-classification-summary.html"
+      }
+    ],
+    "verification_status": "Đã kiểm chứng — Wikipedia EN + WMO International Cloud Atlas; ảnh đã tải về local, tác giả + giấy phép đã đối chiếu trang Commons.",
+    "vi_name": "Mây ti tầng dạng mù sương"
+  }
+]
