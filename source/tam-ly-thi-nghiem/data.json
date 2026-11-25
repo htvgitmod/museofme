@@ -1,0 +1,1744 @@
+[
+  {
+    "controversy": "Rất cao",
+    "controversy_text": "Tranh cãi rất cao về đạo đức: người tham gia bị lừa dối, chịu căng thẳng tâm lý nặng nề mà không được biết trước và không được rút lui dễ dàng. Về phương pháp, nghiên cứu lưu trữ của Gina Perry (2012) cho thấy nhiều người tham gia nghi ngờ điện giật là giả, và người điều hành đôi khi thúc giục mạnh hơn bốn câu chuẩn được mô tả, nên tỉ lệ 65% có thể không phản ánh 'vâng lời mù quáng' thuần túy. Dù vậy, các phân tích gộp sau này cho thấy tỉ lệ vâng lời vẫn ổn định khoảng 61–66% qua nhiều thời kỳ và quốc gia.",
+    "en_name": "Milgram experiment",
+    "field": "Tam ly xa hoi",
+    "id": "tn-01",
+    "image": {
+      "author": "Không rõ (quảng cáo tuyển dụng của Đại học Yale, 1961)",
+      "caption": "Quảng cáo tuyển người tham gia thí nghiệm Milgram trên báo New Haven, 1961 (thù lao 4 USD)",
+      "license": "Public domain (Mỹ — xuất bản 1931–1963, bản quyền không được gia hạn)",
+      "page": "https://commons.wikimedia.org/wiki/File:Milgram_Experiment_advertising.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Milgram_Experiment_advertising.png"
+    },
+    "lesson": "Người bình thường có thể làm điều trái với lương tâm khi có một nhân vật có thẩm quyền ra lệnh và chịu trách nhiệm thay. Vâng lời không chỉ do tính cách 'ác' mà do hoàn cảnh, vai trò và áp lực từ cấp trên. Bài học này được dùng để lý giải vì sao nhiều người tham gia vào các hành vi phi nhân đạo trong tổ chức mà vẫn tự thấy mình 'chỉ làm theo lệnh'.",
+    "method": "Milgram tuyển người tham gia qua quảng cáo báo ở New Haven, nói rằng đây là nghiên cứu về trí nhớ và học tập tại Đại học Yale. Người tham gia được giao vai 'thầy giáo' (bốc thăm đã sắp đặt sẵn) và được lệnh cho 'học viên' — thực ra là diễn viên — uống thuốc điện giật mỗi khi trả lời sai, tăng dần 15 volt mỗi lần, từ 15 lên tới 450 volt. Người điều hành mặc áo khoác phòng thí nghiệm, đứng cạnh và thúc giục bằng các câu như 'Xin hãy tiếp tục' mỗi khi người tham gia do dự.",
+    "notes": "Số 65% là kết quả nghiên cứu đầu tiên (26/40); các biến thể khác cho tỉ lệ khác nhau (ví dụ 47,5% khi chuyển địa điểm).",
+    "researcher": "Stanley Milgram",
+    "results": "Trong nghiên cứu đầu tiên (40 nam giới), 65% người tham gia (26/40) đi tới mức điện giật tối đa 450 volt, và 100% đi tới ít nhất 300 volt — dù hầu hết tỏ ra rất căng thẳng, khó chịu. Trước đó Milgram hỏi ý kiến các sinh viên tâm lý Yale, họ dự đoán chỉ 1–3% người sẽ đi tới cùng. Ở các biến thể sau, tỉ lệ vâng lời thay đổi theo hoàn cảnh: khi thí nghiệm chuyển khỏi Yale tới một tòa văn phòng bình thường ở Bridgeport, tỉ lệ giảm còn 47,5%.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Milgram experiment",
+        "url": "https://en.wikipedia.org/wiki/Milgram_experiment?oldid=12411103"
+      },
+      {
+        "label": "Britannica — Milgram experiment",
+        "url": "https://www.britannica.com/science/Milgram-experiment?sfnsn=mo"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm vâng lời Milgram",
+    "year": 1963
+  },
+  {
+    "controversy": "Rất cao",
+    "controversy_text": "Tranh cãi rất cao và vẫn tiếp diễn. Các nhà phê bình cho rằng thí nghiệm thiếu tính khoa học: Zimbardo vừa là nghiên cứu viên vừa là quản giáo trưởng, đã hướng dẫn cai tù phải 'cứng rắn'; nhu cầu của thí nghiệm (demand characteristics) khiến người tham gia diễn theo kỳ vọng. Nghiên cứu lưu trữ của Thibault Le Texier (2019) cho thấy một số cai tù được chỉ đạo trực tiếp và tù nhân đầu tiên được thả ra (số 8612) sau này thừa nhận đã giả vờ suy sụp. Một số ý kiến gọi đây là 'trình diễn' hơn là thí nghiệm. Dù vậy, thí nghiệm vẫn là cột mốc khiến các trường đại học siết chặt quy định đạo đức nghiên cứu trên người.",
+    "en_name": "Stanford prison experiment",
+    "field": "Tam ly xa hoi",
+    "id": "tn-02",
+    "image": null,
+    "lesson": "Vai trò xã hội, đồng phục, quyền lực và hoàn cảnh có thể biến người bình thường thành kẻ lạm dụng hoặc nạn nhân chỉ trong vài ngày. Bài học nổi tiếng nhất: 'hoàn cảnh mạnh hơn tính cách' — hành vi xấu không nhất thiết xuất phát từ con người xấu mà từ hệ thống và vai trò được giao.",
+    "method": "Zimbardo tuyển 24 nam sinh viên khỏe mạnh về thể chất và tâm lý qua quảng cáo báo, trả 15 USD/ngày, rồi bốc thăm chia ngẫu nhiên thành 'cai tù' và 'tù nhân'. Một nhà tù giả được dựng ở tầng hầm khoa Tâm lý Đại học Stanford: tù nhân mặc áo choàng, đeo xích chân, đội mũ trùm đầu và chỉ được gọi bằng số hiệu; cai tù mặc đồng phục kaki, đeo kính râm phản chiếu, mang dùi cui và còi. 'Tù nhân' bị cảnh sát Palo Alto bắt giữ thật ngoài đời rồi đưa vào nhà tù giả. Thí nghiệm dự kiến kéo dài 2 tuần, Zimbardo đóng vai trò quản giáo trưởng.",
+    "notes": "Ảnh tấm biển kỷ niệm tại địa điểm thí nghiệm có trên Wikimedia Commons nhưng chưa xác minh được trang file và giấy phép nên để image = null.",
+    "researcher": "Philip Zimbardo",
+    "results": "Chỉ sau vài ngày, một số cai tù trở nên lạm dụng: bắt tù nhân thức đêm điểm danh, nhục mạ, phạt biệt giam và quấy rối. Nhiều tù nhân suy sụp tinh thần, có người phải thả ra sớm vì khóc lóc, rối loạn cảm xúc. Zimbardo dừng thí nghiệm vào ngày thứ 6 — sớm hơn 8 ngày so với kế hoạch — sau khi một quan sát viên bên ngoài (Christina Maslach) phản đối mạnh mẽ.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Stanford prison experiment",
+        "url": "https://en.wikipedia.org/wiki/Stanford_prison_experiment"
+      },
+      {
+        "label": "Britannica — Stanford Prison Experiment",
+        "url": "https://www.britannica.com/event/Stanford-Prison-Experiment"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm nhà tù Stanford",
+    "year": 1971
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Tranh cãi trung bình. Mẫu nghiên cứu chỉ gồm nam sinh viên Mỹ nên khó khái quát hóa sang nữ giới hay các nền văn hóa khác (nghiên cứu sau này cho thấy mức phục tùng khác nhau theo văn hóa). Nhiệm vụ so sánh độ dài đường thẳng khá giả tạo, tính thực tế (ecological validity) thấp. Tuy nhiên hiệu ứng phục tùng đã được tái lập nhiều lần, dù mức độ ở thời hiện đại có phần thấp hơn thập niên 1950.",
+    "en_name": "Asch conformity experiments",
+    "field": "Tam ly xa hoi",
+    "id": "tn-03",
+    "image": null,
+    "lesson": "Áp lực của đa số có thể khiến con người nói điều mình biết là sai, chỉ để hòa nhập hoặc tránh bị chê cười. Nhưng sự nhất trí của nhóm mới là yếu tố quyết định: chỉ cần một người dám nói đúng, sức ép phục tùng giảm hẳn. Bài học này giải thích nhiều hiện tượng từ họp nhóm, mạng xã hội tới 'tư duy bầy đàn' trong tổ chức.",
+    "method": "Asch mời 50 nam sinh viên Swarthmore College tham gia một 'bài kiểm tra thị giác'. Mỗi người ngồi cùng 7 'người tham gia' khác — thực ra đều là diễn viên đã thống nhất trước đáp án. Họ xem một thẻ có một đường chuẩn, rồi một thẻ có ba đường A, B, C và lần lượt nói to đường nào dài bằng đường chuẩn. Đáp án đúng rất rõ ràng. Có 18 lượt thử, trong đó 12 lượt 'quan trọng' cả 7 diễn viên đều đồng loạt đưa ra đáp án sai hiển nhiên, và người tham gia thật luôn trả lời cuối cùng.",
+    "notes": "Một số nguồn ghi tổng cộng 123 người tham gia qua các biến thể; con số 50 là nghiên cứu đầu tiên năm 1951. Chưa xác minh được ảnh sơ đồ đường thẳng Asch có giấy phép tự do nên để image = null.",
+    "researcher": "Solomon Asch",
+    "results": "Ở nhóm đối chứng làm bài một mình, tỉ lệ trả lời sai dưới 1%. Nhưng khi chịu áp lực nhóm, người tham gia đi theo đáp án sai của đa số trong khoảng 32% số lượt quan trọng, và khoảng 75% người tham gia phục tùng ít nhất một lần trong 12 lượt. Khoảng 25% không bao giờ phục tùng. Khi có một diễn viên 'đồng minh' đưa đáp án đúng, tỉ lệ phục tùng giảm mạnh xuống còn khoảng 5%.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Asch conformity experiments",
+        "url": "https://en.wikipedia.org/wiki/Asch_conformity_experiments"
+      },
+      {
+        "label": "FORRT Open Social Psychology — Conformity",
+        "url": "https://forrt.org/open-social-psychology/chapter21.html"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm phục tùng nhóm của Asch",
+    "year": 1951
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Tranh cãi trung bình. Nghiên cứu 1954 thực ra là trại hè thứ ba trong chuỗi ba nghiên cứu (1949, 1953, 1954); hai trại đầu ít được nhắc tới vì kết quả không như ý hoặc gặp sự cố. Mẫu rất nhỏ, đồng nhất (toàn bé trai da trắng, trung lưu, theo đạo Tin lành) nên khó khái quát hóa. Các nhà nghiên cứu đã can thiệp sâu vào diễn biến (ví dụ dàn dựng sự cố mất nước) và trẻ em không biết mình đang tham gia nghiên cứu — vấn đề đạo đức theo chuẩn hiện nay.",
+    "en_name": "Robbers Cave experiment",
+    "field": "Tam ly xa hoi",
+    "id": "tn-04",
+    "image": null,
+    "lesson": "Xung đột giữa các nhóm không cần khác biệt cá nhân hay thù hận sẵn có — chỉ cần cạnh tranh tài nguyên có hạn là đủ để nảy sinh định kiến và thù địch. Ngược lại, hòa giải không đến từ việc 'gặp nhau cho quen' mà từ mục tiêu chung buộc các bên phải hợp tác. Đây là nền tảng của thuyết xung đột thực tế (realistic conflict theory).",
+    "method": "Hai vợ chồng Sherif tổ chức một trại hè 3 tuần tại Công viên bang Robbers Cave, Oklahoma, với 22 bé trai 11–12 tuổi chưa từng quen nhau, có hoàn cảnh tương đồng. Giai đoạn 1: các em được chia ngẫu nhiên thành hai nhóm (tự đặt tên Đại bàng và Rắn chuông) và gắn bó trong nhóm mà không biết nhóm kia tồn tại. Giai đoạn 2: hai nhóm thi đấu tranh giải thưởng (bóng chày, kéo co...). Giai đoạn 3: các nhà nghiên cứu tạo ra các 'mục tiêu tối cao' (superordinate goals) buộc hai nhóm phải hợp tác, ví dụ cùng sửa xe tải chở nước bị hỏng.",
+    "notes": "Chưa xác minh được ảnh tự do về trại hè/trẻ em tham gia nên để image = null.",
+    "researcher": "Muzafer Sherif và Carolyn Sherif",
+    "results": "Khi thi đấu, hai nhóm nhanh chóng thù địch: chửi bới, đốt cờ của nhau, đột kích lán trại đối phương; tới giai đoạn xung đột, 93% tình bạn của các em nằm trong nhóm của mình. Tiếp xúc đơn thuần không làm giảm thù địch. Chỉ khi cùng hợp tác vì mục tiêu chung không nhóm nào tự làm được, thái độ thù địch mới giảm rõ rệt và quan hệ giữa hai nhóm cải thiện.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Robbers Cave Experiment",
+        "url": "https://en.wikipedia.org/wiki/Robbers_Cave_Experiment"
+      },
+      {
+        "label": "Simply Psychology — Robbers Cave Experiment",
+        "url": "https://www.simplypsychology.org/robbers-cave.html"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm hang Robbers Cave",
+    "year": 1954
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Tranh cãi trung bình. Thuyết tự nhận thức (self-perception theory) của Daryl Bem (1967) đưa ra cách giải thích khác: người tham gia không hề cảm thấy 'khó chịu' mà chỉ suy ra thái độ của mình từ hành vi đã làm. Mẫu nhỏ (71 người, toàn nam) và hiệu ứng gốc khá mong manh khi tái lập; tuy nhiên lý thuyết bất hòa nhận thức nói chung vẫn được ủng hộ rộng rãi qua hàng trăm nghiên cứu sau này.",
+    "en_name": "Festinger and Carlsmith cognitive dissonance experiment",
+    "field": "Tam ly xa hoi",
+    "id": "tn-05",
+    "image": null,
+    "lesson": "Khi hành vi mâu thuẫn với niềm tin mà không có lý do bên ngoài đủ mạnh để biện minh (20 USD là lý do đủ, 1 USD thì không), con người sẽ tự thay đổi niềm tin cho khớp với hành vi để giảm cảm giác khó chịu — gọi là bất hòa nhận thức. Đây là lý do vì sao phần thưởng nhỏ đôi khi thay đổi thái độ mạnh hơn phần thưởng lớn, và vì sao người ta hay tự thuyết phục mình thích thứ mình đã chọn.",
+    "method": "71 nam sinh viên Stanford được giao hai việc cực kỳ nhàm chán trong khoảng một giờ: xếp 12 cuộn chỉ lên khay rồi dỡ ra lặp đi lặp lại bằng một tay, rồi xoay 48 chốt vuông mỗi chốt một phần tư vòng, hết lần này tới lần khác. Sau đó, người điều hành nói rằng trợ lý vắng mặt và nhờ người tham gia nói với 'người chờ tiếp theo' (thực ra là diễn viên) rằng nhiệm vụ rất thú vị. Một nhóm được trả 1 USD, một nhóm 20 USD, nhóm đối chứng không phải nói gì. Cuối cùng tất cả được hỏi họ thực sự thấy nhiệm vụ thú vị tới mức nào.",
+    "notes": "Điểm trung bình +1,35 / −0,05 / −0,45 lấy theo bảng kết quả gốc được trích dẫn trong các nguồn thứ cấp; chưa đối chiếu trực tiếp từng con số với bản PDF gốc.",
+    "researcher": "Leon Festinger và James Carlsmith",
+    "results": "Trên thang đánh giá từ −5 (rất chán) tới +5 (rất thú vị), nhóm 1 USD chấm trung bình +1,35, nhóm 20 USD chấm −0,05 và nhóm đối chứng chấm −0,45. Nghĩa là nhóm được trả ít tiền nhất lại thực sự thấy nhiệm vụ thú vị hơn hẳn — ngược với dự đoán thông thường rằng thưởng càng lớn thì thái độ càng tích cực.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cognitive dissonance",
+        "url": "https://en.wikipedia.org/wiki/Cognitive_dissonance"
+      },
+      {
+        "label": "York University Classics — Festinger & Carlsmith (1959), toàn văn gốc",
+        "url": "http://psychclassics.yorku.ca/Festinger/?iframe=true&"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm bất hòa nhận thức 1 đô la / 20 đô la",
+    "year": 1959
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Tranh cãi trung bình. Câu chuyện gốc về Kitty Genovese — '38 nhân chứng đứng nhìn mà không gọi cảnh sát' — sau này được chứng minh là báo chí thổi phồng: thực tế có người đã gọi cảnh sát và vụ án diễn ra trong hai đợt tấn công riêng biệt. Tuy nhiên bản thân hiệu ứng người ngoài cuộc đã được tái lập nhiều lần; phân tích gộp của Fischer và cộng sự (2011) cho thấy hiệu ứng vẫn tồn tại, dù yếu hơn khi tình huống nguy hiểm rõ ràng.",
+    "en_name": "Darley and Latané bystander experiments",
+    "field": "Tam ly xa hoi",
+    "id": "tn-06",
+    "image": null,
+    "lesson": "Đông người không đồng nghĩa với an toàn hơn: sự hiện diện của người khác làm giảm khả năng mỗi người hành động. Muốn được giúp khi gặp nạn, cách tốt nhất là chỉ đích danh một người cụ thể ('Anh áo đỏ ơi, gọi cấp cứu giúp tôi!') thay vì kêu gọi chung chung. Bài học này đã thay đổi cách đào tạo sơ cứu và ứng phó khẩn cấp trên toàn thế giới.",
+    "method": "Lấy cảm hứng từ vụ sát hại Kitty Genovese năm 1964, Darley và Latané làm hai thí nghiệm tại Đại học Columbia. Thí nghiệm 1 (cơn động kinh): người tham gia ngồi riêng từng phòng, trò chuyện qua bộ đàm và nghe một người khác dường như lên cơn động kinh; họ tưởng có 0, 1 hoặc 4 người khác cùng nghe. Thí nghiệm 2 (phòng đầy khói): sinh viên ngồi làm bảng hỏi một mình, theo nhóm 3 người thật, hoặc cùng 2 diễn viên được dặn ngồi im; khói trắng được bơm vào phòng qua lỗ thông gió cho tới khi cay mắt, khó thở.",
+    "notes": "Chưa xác minh được ảnh tự do về thí nghiệm nên để image = null.",
+    "researcher": "John Darley và Bibb Latané",
+    "results": "Thí nghiệm cơn động kinh: 85% người tưởng mình là nhân chứng duy nhất báo cáo sự việc trước khi giọng nạn nhân im hẳn, so với chỉ 31% khi tưởng có 4 nhân chứng khác. Thí nghiệm phòng khói: 75% người ngồi một mình báo cáo khói trong 4 phút, so với 38% nhóm 3 người thật và chỉ 10% người ngồi cùng 2 diễn viên thụ động. Càng đông người chứng kiến, mỗi cá nhân càng ít có khả năng giúp đỡ — do phân tán trách nhiệm và 'vô tri đa nguyên' (nhìn người khác bình tĩnh nên cho rằng không có gì nghiêm trọng).",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Bystander effect",
+        "url": "https://en.wikipedia.org/wiki/Bystander_effect"
+      },
+      {
+        "label": "EBSCO Research Starters — Bystander intervention",
+        "url": "https://www.ebsco.com/research-starters/psychology/bystander-intervention-and-social-psychology/"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm hiệu ứng người ngoài cuộc",
+    "year": 1968
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Tranh cãi trung bình. Nghiên cứu chỉ dựa trên một cặp vợ chồng duy nhất, không có nhóm đối chứng, và LaPiere tự ghi chép, diễn giải theo cảm nhận cá nhân. Các nhà nghiên cứu sau này chỉ ra vấn đề 'tương ứng' (principle of correspondence, Ajzen & Fishbein 1977): thái độ và hành vi chỉ khớp nhau khi cùng đo về một hành động, đối tượng, bối cảnh và thời điểm cụ thể. Ngoài ra ngôn ngữ và kết luận của LaPiere mang dấu ấn quan điểm chủng tộc của thời đó. Dù vậy, đây vẫn là nghiên cứu kinh điển mở đầu cho câu hỏi thái độ có dự đoán được hành vi hay không.",
+    "en_name": "LaPiere attitudes versus actions study",
+    "field": "Tam ly xa hoi",
+    "id": "tn-07",
+    "image": null,
+    "lesson": "Đừng vội tin lời người ta nói về việc họ sẽ làm gì — hãy nhìn việc họ thực sự làm. Thái độ đo bằng bảng hỏi thường dự đoán hành vi rất kém, đặc biệt khi câu hỏi chung chung ('người Hoa nói chung') còn hành vi thì cụ thể (một cặp vợ chồng lịch sự, ăn mặc gọn gàng trước mặt mình). Bài học này đặt nền móng cho cả ngành nghiên cứu thái độ — hành vi sau này.",
+    "method": "Trong bối cảnh nước Mỹ thập niên 1930 còn nặng định kiến chống người Hoa, nhà xã hội học Richard LaPiere cùng một cặp vợ chồng trẻ người Hoa đi ô tô khắp nước Mỹ trong hai năm (1930–1932), ghé 251 cơ sở gồm 67 khách sạn, nhà trọ và 184 nhà hàng, quán ăn. Ông ghi chép lại cách họ được đối xử mà không cho cặp vợ chồng biết mình đang ghi chép. Sáu tháng sau mỗi chuyến thăm, ông gửi thư hỏi các cơ sở đó: 'Quý vị có tiếp nhận người Hoa không?'",
+    "notes": "LaPiere là nhà xã hội học, không phải nhà tâm lý học; nghiên cứu này là khảo sát thực địa chứ không phải thí nghiệm phòng lab. Chưa xác minh được ảnh tự do nên để image = null.",
+    "researcher": "Richard LaPiere",
+    "results": "Trong 251 lần ghé thăm, cặp vợ chồng chỉ bị từ chối phục vụ đúng 1 lần. Nhưng trong 128 cơ sở trả lời thư, tới 92% trả lời 'Không' — tức là từ chối người Hoa trên giấy, dù trước đó đã phục vụ chính cặp vợ chồng ấy ngoài đời. Kết quả cho thấy thái độ nói ra và hành vi thực tế có thể khác nhau hoàn toàn.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Richard LaPiere",
+        "url": "https://en.wikipedia.org/wiki/Richard_LaPiere"
+      },
+      {
+        "label": "Simply Psychology — Attitudes (LaPiere 1934)",
+        "url": "https://www.simplypsychology.org/attitudes.html"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Nghiên cứu thái độ và hành động của LaPiere",
+    "year": 1934
+  },
+  {
+    "controversy": "Cao",
+    "controversy_text": "Tranh cãi cao. Ngay sau khi công bố, Robert Thorndike (1968) chỉ ra bài kiểm tra IQ dùng cho trẻ 6–7 tuổi không phù hợp về mặt đo lường, và hiệu ứng chỉ có ý nghĩa ở 2 trong 6 khối lớp năm đầu. Phân tích gộp của Raudenbush (1984) trên 18 nghiên cứu cho hiệu ứng trung bình chỉ khoảng d = 0,14 — rất nhỏ. Jussim và Harber kết luận kỳ vọng của giáo viên dự đoán kết quả học tập chủ yếu vì chúng thường chính xác, chứ không phải vì chúng tự tạo ra kết quả. Nói cách khác: hiệu ứng Pygmalion có thật nhưng nhỏ và có điều kiện, không 'kỳ diệu' như bản kể phổ biến.",
+    "en_name": "Rosenthal and Jacobson Pygmalion study",
+    "field": "Tam ly xa hoi",
+    "id": "tn-08",
+    "image": null,
+    "lesson": "Kỳ vọng của người khác có thể trở thành lời tiên tri tự ứng nghiệm: giáo viên vô thức đối xử tốt hơn, kiên nhẫn hơn và giao bài khó hơn cho học sinh mà mình tin là giỏi, và học sinh đáp lại bằng kết quả tốt hơn. Hiệu ứng mạnh nhất khi giáo viên chưa kịp hình thành ấn tượng riêng về học sinh — lời cảnh báo về định kiến trong giáo dục, quản lý và nuôi dạy con.",
+    "method": "Tại trường tiểu học Oak School (tên giả của trường Spruce Elementary, California), mọi học sinh được làm một bài kiểm tra trí tuệ (TOGA) đầu năm học 1964. Giáo viên được nói rằng đây là 'Bài kiểm tra Harvard về khả năng bộc lộ' có thể dự đoán học sinh nào sắp 'nở rộ' về trí tuệ. Thực ra khoảng 20% học sinh được chọn hoàn toàn ngẫu nhiên và báo cho giáo viên là nhóm 'sắp nở rộ'. Sau khoảng 8 tháng, tất cả học sinh làm lại bài kiểm tra.",
+    "notes": "Năm thí nghiệm 1964–1965, sách xuất bản 1968; một số nguồn ghi 1965 là năm nghiên cứu. Chưa xác minh được ảnh tự do nên để image = null.",
+    "researcher": "Robert Rosenthal và Lenore Jacobson",
+    "results": "Nhóm 'nở rộ' tăng trung bình khoảng 12 điểm IQ so với khoảng 8 điểm ở nhóm còn lại. Hiệu ứng tập trung gần như hoàn toàn ở khối nhỏ: học sinh lớp 1 được gắn nhãn tăng 27,4 điểm so với 12,0 điểm ở nhóm đối chứng; lớp 2 tăng 16,5 so với 7,0. Từ lớp 3 trở lên, chênh lệch gần như bằng 0. Kết quả được công bố trong cuốn sách 'Pygmalion in the Classroom' (1968).",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Pygmalion effect",
+        "url": "https://en.wikipedia.org/wiki/Pygmalion_effect"
+      },
+      {
+        "label": "EBSCO Research Starters — Pygmalion effect",
+        "url": "https://www.ebsco.com/research-starters/education/pygmalion-effect-rosenthal-effect/"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Nghiên cứu hiệu ứng Pygmalion (kỳ vọng của giáo viên)",
+    "year": 1968
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Tranh cãi trung bình. Mẫu nhỏ (47 người trong phần thí nghiệm), toàn nam sinh viên chủng viện ở một trường duy nhất nên khó khái quát hóa. Tình huống được dàn dựng khá lộ liễu và chỉ đo hành vi giúp đỡ trong một khoảnh khắc, không đo lòng tốt nói chung. Các nỗ lực tái lập sau này ít và kết quả không đồng nhất, nhưng kết luận cốt lõi — áp lực thời gian làm giảm giúp đỡ — vẫn được nhiều nghiên cứu khác ủng hộ.",
+    "en_name": "Good Samaritan experiment",
+    "field": "Tam ly xa hoi",
+    "id": "tn-09",
+    "image": null,
+    "lesson": "Hoàn cảnh — cụ thể là áp lực thời gian — có thể lấn át cả tính cách và niềm tin: ngay cả người sắp làm mục sư, vừa nghĩ về lòng nhân ái, cũng bỏ qua người cần giúp khi đang vội. Muốn giúp người khác, trước hết cần tạo điều kiện có thời gian và sự chú ý, chứ không chỉ trông vào 'tấm lòng tốt'.",
+    "method": "67 sinh viên Chủng viện Thần học Princeton — những người đang học để làm mục sư — được mời chuẩn bị một bài nói ngắn rồi đi bộ sang tòa nhà khác để thu âm. Một nửa được giao chủ đề dụ ngôn người Samari nhân hậu, nửa còn lại nói về nghề nghiệp cho sinh viên thần học. Trước khi lên đường, mỗi người được dặn một trong ba mức: 'còn nhiều thời gian', 'đi ngay đi' hoặc 'anh đã trễ rồi, nhanh lên'. Trên đường đi, ai cũng gặp một người đàn ông (diễn viên) nằm gục ở cửa ra vào, ho sù sụ và rên rỉ vì đau. Có 47 sinh viên tham gia phần thí nghiệm chính.",
+    "notes": "Không có bài Wikipedia EN riêng cho thí nghiệm này (đã tìm kiếm, không thấy); nguồn dùng là bài báo gốc và Stanford SPARQ. Số 67 là số sinh viên được khảo sát ban đầu, 47 người tham gia phần thí nghiệm.",
+    "researcher": "John Darley và C. Daniel Batson",
+    "results": "Chủ đề bài nói và mức độ sùng đạo đều không dự đoán được ai sẽ giúp. Yếu tố quyết định duy nhất là vội hay không: 63% người không vội dừng lại giúp, 45% người vội vừa giúp, và chỉ 10% người được bảo là 'đã trễ' dừng lại. Nhiều sinh viên vội vã đã bước qua người đàn ông đang khốn khổ trên đường đi nói về bổn phận giúp đỡ người khốn khổ.",
+    "sources": [
+      {
+        "label": "Stanford SPARQ — Take Time to Be a Good Samaritan",
+        "url": "https://sparq.stanford.edu/solutions/take-time-be-good-samaritan"
+      },
+      {
+        "label": "Bài báo gốc — Darley & Batson (1973), PDF qua Greater Good (UC Berkeley)",
+        "url": "https://greatergood.berkeley.edu/images/uploads/Darley-JersualemJericho.pdf"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm người Samari nhân hậu",
+    "year": 1973
+  },
+  {
+    "controversy": "Cao",
+    "controversy_text": "Tranh cãi cao. Đây không phải thí nghiệm có đối chứng theo nghĩa khoa học: không có nhóm đối chứng, không đo lường hệ thống, không qua hội đồng đạo đức. Nhiều nhà phê bình cho rằng Elliott đã lừa dối và gây tổn thương tâm lý cho trẻ 8–9 tuổi, dùng chính học trò làm 'chuột bạch' vì mục đích chính trị — gia đình Elliott sau đó bị cộng đồng tẩy chay, con trai bà bị đánh ở trường. Bản thân Elliott khẳng định bài tập giúp học trò trưởng thành và nhiều học trò trưởng thành vẫn bảo vệ cô. Dù tranh cãi, bài tập trở thành một trong những công cụ giáo dục chống phân biệt chủng tộc nổi tiếng nhất nước Mỹ.",
+    "en_name": "Blue Eyes/Brown Eyes exercise",
+    "field": "Tam ly xa hoi",
+    "id": "tn-10",
+    "image": null,
+    "lesson": "Phân biệt đối xử không cần lý do thật — chỉ cần một tiêu chí tùy tiện (màu mắt) cộng với quyền lực của người lớn là đủ để trẻ em nhanh chóng học cách khinh miệt và tự ti. Trải nghiệm trực tiếp dạy về định kiến hiệu quả hơn nhiều so với giảng giải suông, và thành kiến có thể đảo ngược nhanh chóng khi vai trò xã hội thay đổi.",
+    "method": "Ngày 5 tháng 4 năm 1968 — một ngày sau vụ ám sát Martin Luther King Jr. — cô giáo Jane Elliott quyết định dạy 28 học sinh lớp 3 toàn da trắng ở Riceville, Iowa, về phân biệt chủng tộc bằng cách cho các em trực tiếp trải nghiệm. Ngày đầu, cô tuyên bố trẻ mắt nâu ưu việt hơn: thông minh hơn, sạch sẽ hơn, văn minh hơn, với lý do bịa ra là chất melanin; trẻ mắt xanh phải đeo băng tay, uống nước bằng cốc giấy, không được chơi cầu trượt và không được ăn thêm. Ngày hôm sau, cô đảo ngược vai trò: mắt xanh thành nhóm ưu việt, mắt nâu thành nhóm thấp kém.",
+    "notes": "Ảnh chân dung Jane Elliott (PBS, 1985) có trên Wikimedia Commons nhưng chưa xác minh được trang file và giấy phép nên để image = null. Kết quả 'làm bài chậm hẳn đi' là mô tả định tính từ các nguồn kể lại, không có số liệu đo lường hệ thống nên không ghi con số cụ thể.",
+    "researcher": "Jane Elliott",
+    "results": "Chỉ trong vài giờ, trẻ em đã nhập vai đầy đủ: nhóm 'ưu việt' trở nên hống hách, chê bai bạn bè; nhóm 'thấp kém' trở nên rụt rè, mất tự tin và làm bài tập đọc, chính tả chậm hẳn đi. Khi đảo vai ngày hôm sau, hành vi đảo theo ngay. Các em sau đó viết bài thu hoạch thể hiện sự thấu hiểu sâu sắc về cảm giác bị phân biệt đối xử. Bài tập được quay thành phim tài liệu 'The Eye of the Storm' (1970) và tập phim Frontline 'A Class Divided' (1985).",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Jane Elliott",
+        "url": "https://en.wikipedia.org/wiki/Jane_Elliott"
+      },
+      {
+        "label": "University of Iowa Archives — Jane Elliott papers",
+        "url": "http://aspace.lib.uiowa.edu/agents/people/78"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Bài tập Mắt xanh / Mắt nâu của Jane Elliott",
+    "year": 1968
+  },
+  {
+    "controversy": "Thấp",
+    "controversy_text": "Ít tranh cãi — hiệu ứng Stroop là một trong những hiệu ứng vững chắc nhất của tâm lý học nhận thức, được tái lập hàng trăm lần. Tranh luận còn lại chủ yếu là về cơ chế giải thích (tính tự động của việc đọc, cạnh tranh phản ứng, hay chú ý chọn lọc), chứ không phải về sự tồn tại của hiệu ứng. Lưu ý lịch sử: hiện tượng đã được Erich Rudolf Jaensch công bố bằng tiếng Đức năm 1929, trước bài báo tiếng Anh của Stroop năm 1935.",
+    "en_name": "Stroop Effect",
+    "field": "Nhan thuc va Tri nho",
+    "id": "tn-11",
+    "image": {
+      "author": "MUSINGSOFANASPIE (tải lên bởi Cdaffs)",
+      "caption": "Ví dụ bài kiểm tra Stroop: gọi tên màu mực của chữ, không đọc chữ.",
+      "license": "CC0 1.0 Universal (Public Domain Dedication)",
+      "page": "https://commons.wikimedia.org/wiki/File:Stroop.webp",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Stroop.webp"
+    },
+    "lesson": "Đọc chữ là quá trình tự động, khó kìm nén, nên nó chen ngang vào nhiệm vụ có chủ đích là gọi tên màu mực. Hiệu ứng cho thấy sự chú ý và kiểm soát nhận thức có giới hạn: hai quá trình xung đột nhau sẽ làm chậm phản ứng và tăng lỗi. Ngày nay bài kiểm tra Stroop được dùng rộng rãi trong lâm sàng để đánh giá chú ý, tốc độ xử lý và chức năng điều hành của não.",
+    "method": "Stroop công bố ba thí nghiệm trong bài báo \"Studies of interference in serial verbal reactions\" (Journal of Experimental Psychology, 1935). Người tham gia (sinh viên đại học) làm ba loại nhiệm vụ với thẻ giấy và đồng hồ bấm giây: đọc tên màu in bằng mực đen, đọc tên màu khi mực in khác với tên màu (ví dụ chữ \"đỏ\" in mực xanh), và gọi tên màu của các ô vuông màu. Thí nghiệm 1 đo tốc độ đọc chữ (70 người), thí nghiệm 2 đo tốc độ gọi tên màu mực (100 người), thí nghiệm 3 đo tác động của luyện tập trong 8 ngày (32 người).",
+    "notes": "Các con số 2,3 giây / 47 giây / 74,3% lấy từ tóm tắt bài báo gốc trên Simply Psychology, khớp với mô tả trên Wikipedia. Không có nguồn nào bị chặn.",
+    "researcher": "John Ridley Stroop",
+    "results": "Đọc chữ gần như không bị ảnh hưởng bởi màu mực (chỉ chậm hơn 2,3 giây khi đọc 100 từ, tăng 5,6%). Ngược lại, gọi tên màu mực khi chữ và mực mâu thuẫn chậm hơn trung bình 47 giây trên 100 mục, tăng 74,3% so với đối chứng, và hơn 99% số lần thử trong điều kiện mâu thuẫn đều chậm hơn đối chứng. Luyện tập nhiều ngày làm giảm nhưng không xóa hẳn hiệu ứng. Bài báo gốc trở thành một trong những bài được trích dẫn nhiều nhất trong tâm lý học thực nghiệm, với hơn 700 nghiên cứu liên quan.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Stroop effect",
+        "url": "https://en.m.wikipedia.org/wiki/Stroop_Effect#Automaticity"
+      },
+      {
+        "label": "Simply Psychology — Stroop Effect",
+        "url": "https://www.simplypsychology.org/stroop-effect.html"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Hiệu ứng Stroop — nhiễu khi đọc màu chữ",
+    "year": 1935
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Tranh cãi ở mức trung bình. Hiệu ứng thông tin sai lệch đã được tái lập nhiều lần trong phòng thí nghiệm, nhưng có tranh luận về mức độ áp dụng ra đời thực: phim tai nạn trong phòng thí nghiệm khác xa một vụ tai nạn thật gây chấn động, và một số nhà nghiên cứu cho rằng người tham gia có thể chỉ đang suy luận theo gợi ý của câu hỏi (đáp ứng theo kỳ vọng) chứ không hẳn ký ức đã bị thay đổi. Dù vậy, đồng thuận chung là lời khai nhân chứng kém tin cậy hơn nhiều so với cảm nhận thông thường.",
+    "en_name": "Misinformation Effect (Loftus & Palmer car crash experiment)",
+    "field": "Nhan thuc va Tri nho",
+    "id": "tn-12",
+    "image": {
+      "author": "BDEngler",
+      "caption": "Elizabeth Loftus tại một hội thảo ở Las Vegas, tháng 7/2011.",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Elizabeth_Loftus-TAM_9-July_2011.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Elizabeth_Loftus-TAM_9-July_2011.JPG"
+    },
+    "lesson": "Cách đặt câu hỏi có thể thay đổi ký ức của nhân chứng, chứ không chỉ thay đổi câu trả lời. Trí nhớ không phải bản ghi chép cố định mà được tái cấu trúc mỗi lần nhớ lại, và thông tin gợi ý sau sự kiện có thể lồng ghép vào ký ức gốc. Bài học này làm thay đổi cách cảnh sát lấy lời khai và cách tòa án đánh giá lời khai nhân chứng.",
+    "method": "Loftus và Palmer cho sinh viên Đại học Washington xem phim ngắn về tai nạn giao thông rồi hỏi họ ước lượng tốc độ xe. Thí nghiệm 1 (45 người): mỗi người xem một trong các đoạn phim va chạm ở tốc độ thật 20, 30 hoặc 40 dặm/giờ, rồi trả lời câu hỏi \"Xe chạy nhanh khoảng bao nhiêu khi chúng ___ nhau?\" — động từ trong chỗ trống thay đổi giữa các nhóm: smashed (đâm sầm), collided (va chạm), bumped (húc), hit (đụng), contacted (chạm). Thí nghiệm 2 (150 người): ba nhóm nghe \"smashed\", \"hit\" hoặc không được hỏi về tốc độ; một tuần sau tất cả được hỏi có thấy mảnh kính vỡ không — trong phim thực ra không có mảnh kính nào.",
+    "notes": "Số liệu 40,8 / 31,8 dặm/giờ và 16/50 so với 7/50 và 6/50 khớp nhau giữa Wikipedia và Simply Psychology. Không có nguồn nào bị chặn.",
+    "researcher": "Elizabeth Loftus & John Palmer",
+    "results": "Ước lượng tốc độ trung bình phụ thuộc rõ rệt vào động từ: \"smashed\" 40,8 dặm/giờ, \"collided\" 39,3, \"bumped\" 38,1, \"hit\" 34,0 và \"contacted\" 31,8 — dù tốc độ thật trong phim là như nhau. Một tuần sau, 16/50 người nhóm \"smashed\" nói rằng đã thấy mảnh kính vỡ, so với 7/50 nhóm \"hit\" và 6/50 nhóm đối chứng, dù trong phim không hề có kính vỡ.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — False memory (mục Loftus & Palmer 1974)",
+        "url": "https://en.wikipedia.org/wiki/False_memory"
+      },
+      {
+        "label": "Simply Psychology — Loftus and Palmer 1974",
+        "url": "https://www.simplypsychology.org/loftus-palmer.html"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Hiệu ứng thông tin sai lệch — thí nghiệm tai nạn xe hơi của Loftus và Palmer",
+    "year": 1974
+  },
+  {
+    "controversy": "Thấp",
+    "controversy_text": "Ít tranh cãi — hình dạng chung của đường cong lãng quên đã được nhiều nghiên cứu sau này xác nhận, kể cả lần tái lập năm 2015. Hạn chế được thừa nhận rộng rãi: mẫu chỉ có một người (chính Ebbinghaus), tài liệu là âm tiết vô nghĩa nên khó khái quát sang việc học có ý nghĩa trong đời thực, và các con số phần trăm cụ thể thay đổi tùy loại tài liệu. Tranh cãi không nằm ở việc \"quên có nhanh lúc đầu không\" mà ở con số chính xác và tốc độ quên với từng loại nội dung.",
+    "en_name": "Ebbinghaus Forgetting Curve",
+    "field": "Nhan thuc va Tri nho",
+    "id": "tn-13",
+    "image": {
+      "author": "Không rõ",
+      "caption": "Chân dung Hermann Ebbinghaus (1850–1909).",
+      "license": "Public domain (tác giả không rõ, ảnh thế kỷ 19)",
+      "page": "https://commons.wikimedia.org/wiki/File:Ebbinghaus2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Ebbinghaus2.jpg"
+    },
+    "lesson": "Quên diễn ra nhanh nhất ngay sau khi học, rồi chậm dần — vì vậy ôn lại sớm có hiệu quả hơn ôn muộn. Học thuộc lòng không có ý nghĩa vẫn tuân theo quy luật này, và việc ôn tập ngắt quãng (spaced repetition) chính là cách \"làm phẳng\" đường cong lãng quên. Đây là thí nghiệm đầu tiên đo lường trí nhớ bằng phương pháp khoa học chặt chẽ, đặt nền móng cho tâm lý học thực nghiệm về trí nhớ.",
+    "method": "Từ 1879–1880 rồi lặp lại 1883–1884, Ebbinghaus tự làm thí nghiệm trên chính mình và công bố kết quả năm 1885 trong cuốn \"Über das Gedächtnis\" (Về trí nhớ). Để loại bỏ ảnh hưởng của ý nghĩa và liên tưởng sẵn có, ông tự tạo khoảng 2.300 âm tiết vô nghĩa (phụ âm–nguyên âm–phụ âm, ví dụ \"WID\", \"ZOF\"), xếp thành danh sách 13 âm tiết, đọc theo nhịp máy đếm nhịp cho đến khi đọc thuộc hai lần liên tiếp không sai. Sau một khoảng chờ (từ 20 phút đến 31 ngày), ông học lại cùng danh sách và đo \"mức tiết kiệm\" (savings): thời gian học lại ít hơn bao nhiêu so với lần học đầu.",
+    "notes": "Bảng phần trăm 58% / 44% / 36% / 34% / 28% / 25% / 21% khớp giữa Wikipedia và các nguồn tóm tắt. Không có nguồn nào bị chặn.",
+    "researcher": "Hermann Ebbinghaus",
+    "results": "Mức tiết kiệm (phần trí nhớ còn giữ được) giảm nhanh lúc đầu rồi chậm dần: sau 20 phút còn 58%, sau 1 giờ còn 44%, sau 9 giờ còn 36%, sau 1 ngày còn 34%, sau 2 ngày còn 28%, sau 6 ngày còn 25%, sau 31 ngày còn 21%. Đường cong lãng quên có dạng suy giảm hàm mũ. Một nghiên cứu năm 2015 thử tái lập đường cong trên một người tham gia cho kết quả tương tự dữ liệu gốc của Ebbinghaus.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Forgetting curve",
+        "url": "https://en.wikipedia.org/wiki/Forgetting_curve"
+      },
+      {
+        "label": "Taalhammer — The forgetting curve: Hermann Ebbinghaus (1885)",
+        "url": "https://www.taalhammer.com/the-forgetting-curve-hermann-ebbinghaus/"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Đường cong lãng quên Ebbinghaus",
+    "year": 1885
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Tranh cãi ở mức trung bình, chủ yếu do cách diễn giải phổ biến đã làm sai lệch ý gốc. Bản thân Miller nhấn mạnh sự trùng hợp của hai con số 7 có thể chỉ là ngẫu nhiên và hai giới hạn này khác nhau về bản chất. Nghiên cứu hiện đại (Nelson Cowan, 2001) cho rằng khi loại bỏ chunking và nhẩm lại, dung lượng thực của sự tập trung chỉ khoảng 4 khối, không phải 7. Vì vậy \"7 ± 2\" nên được hiểu như một hướng dẫn thực hành hữu ích, không phải một hằng số chính xác của não bộ.",
+    "en_name": "The Magical Number Seven, Plus or Minus Two",
+    "field": "Nhan thuc va Tri nho",
+    "id": "tn-14",
+    "image": null,
+    "lesson": "Trí nhớ ngắn hạn có dung lượng nhỏ và giới hạn theo số khối ý nghĩa, không theo số ký tự thô. Muốn nhớ nhiều hơn, hãy gom thông tin thành nhóm có nghĩa (ví dụ số điện thoại chia thành 3 cụm). Đây là một trong những bài báo được trích dẫn nhiều nhất trong tâm lý học và là cột mốc khai sinh tâm lý học nhận thức.",
+    "method": "Đây là một bài báo tổng hợp và phân tích (Psychological Review, 1956), không phải một thí nghiệm đơn lẻ. Miller đối chiếu hai dòng nghiên cứu thực nghiệm: (1) các nhiệm vụ phán đoán tuyệt đối một chiều — ví dụ phân biệt cao độ âm thanh, độ mặn hay vị trí trên đường thẳng; (2) các nhiệm vụ đo độ dài chuỗi nhớ (memory span) — nghe một dãy chữ số, chữ cái hoặc từ rồi nhắc lại đúng thứ tự ngay sau đó. Ông so sánh giới hạn hiệu năng của con người trong cả hai loại nhiệm vụ.",
+    "notes": "Không tìm được ảnh chân dung George A. Miller trên Wikimedia Commons đã xác minh giấy phép trong phạm vi tra cứu — để image null. Bài báo gốc: Miller, G. A. (1956), Psychological Review, 63(2), 81–97.",
+    "researcher": "George A. Miller",
+    "results": "Trong phán đoán tuyệt đối một chiều, con người phân biệt đáng tin cậy khoảng 7 mức (tương đương kênh thông tin khoảng 2–3 bit). Trong nhiệm vụ nhắc lại, độ dài chuỗi nhớ trung bình của người trẻ cũng khoảng 7 mục, dù các mục chứa lượng thông tin rất khác nhau (chữ số nhị phân 1 bit, chữ số thập phân 3,32 bit, từ khoảng 10 bit). Miller kết luận giới hạn nằm ở số \"khối\" (chunk) chứ không phải số bit, và đề xuất khái niệm chunking: gom nhiều mục thành một khối có ý nghĩa để nhớ được nhiều hơn.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — The Magical Number Seven, Plus or Minus Two",
+        "url": "https://en.wikipedia.org/wiki/Magical_number_seven"
+      },
+      {
+        "label": "APA Dictionary of Psychology — seven plus or minus two",
+        "url": "https://dictionary.apa.org/seven-plus-or-minus-two"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Con số kỳ diệu 7 ± 2 — giới hạn trí nhớ ngắn hạn",
+    "year": 1956
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Tranh cãi ở mức trung bình. Tỷ lệ thất bại cao là kết quả vững chắc và được tái lập, nhưng giới khoa học vẫn tranh luận về cách giải thích: liệu nhiệm vụ có thực sự đo khả năng suy luận logic, hay nó đo cách người ta hiểu ngôn ngữ và ngữ cảnh của bài toán (nhiều người hiểu quy tắc \"nếu P thì Q\" như quan hệ hai chiều). Các lý thuyết thay thế — thiên kiến xác nhận, module phát hiện kẻ gian lận (Cosmides & Tooby), hay lý thuyết mô hình tâm trí — vẫn cạnh tranh nhau trong việc giải thích hiệu ứng nội dung của nhiệm vụ.",
+    "en_name": "Wason Selection Task (Four-Card Problem)",
+    "field": "Nhan thuc va Tri nho",
+    "id": "tn-15",
+    "image": null,
+    "lesson": "Con người suy luận kém với quy tắc trừu tượng dạng \"nếu... thì...\" vì thiên kiến xác nhận: ta tìm bằng chứng ủng hộ giả thuyết thay vì tìm bằng chứng có thể bác bỏ nó. Nhưng khi vấn đề gắn với quy tắc xã hội và việc phát hiện kẻ gian lận, khả năng suy luận cải thiện rõ rệt — gợi ý rằng lý trí của con người nhạy cảm với bối cảnh xã hội hơn là với logic hình thức thuần túy.",
+    "method": "Wason đưa người tham gia bốn lá bài trên bàn, mỗi lá một mặt là chữ cái, mặt kia là con số, cùng một quy tắc dạng \"nếu P thì Q\" — ví dụ \"nếu một lá bài có nguyên âm ở một mặt thì mặt kia là số chẵn\". Bốn lá bài hiện ra thường là A, K, 4, 7 (nguyên âm, phụ âm, số chẵn, số lẻ). Người tham gia phải chọn những lá bài CẦN lật để kiểm tra quy tắc đúng hay sai, và chỉ lật những lá thực sự cần thiết. Đáp án đúng theo logic là lật lá nguyên âm (A) và lá số lẻ (7): lá A có thể vi phạm quy tắc nếu mặt sau là số lẻ, lá 7 có thể vi phạm nếu mặt sau là nguyên âm.",
+    "notes": "Con số \"chưa tới 10%\" lấy từ Wikipedia; con số \"khoảng 4%\" (Wason & Shapiro, 1971) lấy từ nguồn thứ cấp Psychology in Action, chưa đối chiếu trực tiếp bài báo gốc — đã ghi rõ nguồn trong ghi chú này. Không tìm được sơ đồ bốn lá bài trên Wikimedia Commons đã xác minh giấy phép trong phạm vi tra cứu — để image null.",
+    "researcher": "Peter Cathcart Wason",
+    "results": "Trong nghiên cứu gốc của Wason, chưa tới 10% người tham gia tìm ra đáp án đúng. Nghiên cứu Wason & Shapiro (1971) còn ghi nhận chỉ khoảng 4% chọn đúng cặp A và 7; đáp án phổ biến nhất là chỉ lật A, hoặc lật A và 4. Kết quả này được tái lập năm 1993. Khi cùng cấu trúc logic được đặt trong bối cảnh quy tắc xã hội (ví dụ kiểm tra ai uống rượu khi chưa đủ tuổi), tỷ lệ giải đúng tăng vọt.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Wason selection task",
+        "url": "https://en.wikipedia.org/wiki/Wason_selection_task"
+      },
+      {
+        "label": "APA Dictionary of Psychology — Wason selection task",
+        "url": "https://dictionary.apa.org/wason-selection-task"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Nhiệm vụ chọn thẻ Wason — bài toán bốn lá bài",
+    "year": 1966
+  },
+  {
+    "controversy": "Cao",
+    "controversy_text": "Tranh cãi ở mức cao — đây là một trong những thí nghiệm nổi tiếng nhất nhưng cũng bị chất vấn mạnh nhất về khả năng khái quát. Mẫu nghiên cứu rất nhỏ (56 trẻ trong nghiên cứu 1972) và toàn là con em gia đình trung lưu, thượng lưu gắn với Stanford. Nghiên cứu tái lập quy mô lớn của Watts và cộng sự (2018) trên mẫu đa dạng hơn cho thấy mối liên hệ giữa thời gian chờ và thành tích sau này giảm mạnh khi tính đến hoàn cảnh kinh tế–xã hội của gia đình; một nghiên cứu năm 2020 cũng thách thức sức mạnh dự báo của bài kiểm tra. Đồng thuận hiện nay: chiến lược chú ý giúp trẻ chờ đợi là kết quả vững chắc, nhưng việc \"bài kiểm tra kẹo dẻo dự báo thành công cả đời\" đã bị thổi phồng.",
+    "en_name": "Stanford Marshmallow Experiment",
+    "field": "Nhan thuc va Tri nho",
+    "id": "tn-16",
+    "image": null,
+    "lesson": "Khả năng chờ đợi không phải là \"ý chí sắt đá\" bẩm sinh mà phụ thuộc vào chiến lược chú ý: che phần thưởng đi, nghĩ về chuyện khác, tự đánh lạc hướng. Bài học thực hành là muốn cưỡng lại cám dỗ, đừng nhìn chằm chằm vào nó — hãy thay đổi môi trường và hướng sự chú ý đi chỗ khác. Thí nghiệm cũng cho thấy tự kiểm soát ở tuổi mẫu giáo có liên hệ với nhiều kết quả cuộc sống sau này.",
+    "method": "Chuỗi nghiên cứu về trì hoãn thỏa mãn do Walter Mischel dẫn đầu tại Trường mẫu giáo Bing, Đại học Stanford, cuối thập niên 1960–đầu 1970. Thí nghiệm đầu tiên (Mischel & Ebbesen, 1970) dùng bánh quy và que bánh pretzel; phiên bản kẹo dẻo nổi tiếng nhất là nghiên cứu năm 1972 của Mischel, Ebbesen và Zeiss với 56 trẻ. Trẻ 3–5 tuổi được dẫn vào một phòng trống, được cho chọn món ăn vặt ưa thích (kẹo dẻo, bánh quy hoặc pretzel) rồi nghe luật chơi: ăn ngay thì chỉ được một cái, chờ khoảng 15 phút cho đến khi người thí nghiệm quay lại thì được hai cái; trẻ có thể rung chuông để gọi người thí nghiệm về sớm nhưng khi đó chỉ nhận một cái. Các điều kiện thay đổi cách trẻ chú ý tới phần thưởng (nhìn thấy, che đi, nghĩ về chuyện vui, chơi đồ chơi). Nhiều năm sau, nhóm nghiên cứu theo dõi lại những đứa trẻ này (điểm SAT, trình độ học vấn, chỉ số BMI).",
+    "notes": "Năm 1972 là năm của nghiên cứu dùng kẹo dẻo (Mischel, Ebbesen & Zeiss); chuỗi nghiên cứu bắt đầu từ 1970 với bánh quy/pretzel — đã ghi rõ trong method. Không tìm được ảnh chân dung Walter Mischel trên Wikimedia Commons đã xác minh giấy phép trong phạm vi tra cứu — để image null. Không có nguồn nào bị chặn.",
+    "researcher": "Walter Mischel, Ebbe B. Ebbesen & Antonette Raskoff Zeiss",
+    "results": "Trẻ chờ lâu hơn nhiều khi phần thưởng khuất tầm mắt (trung bình 8,90 phút khi không thấy món ăn, so với 3,09 phút khi món ăn ở ngay trước mặt) và khi được đánh lạc hướng bằng suy nghĩ vui vẻ hoặc đồ chơi. Trong các nghiên cứu theo dõi, trẻ chờ lâu hơn có xu hướng đạt điểm SAT cao hơn, học vấn cao hơn và BMI thấp hơn khi trưởng thành. Trong tổng số hơn 600 trẻ tham gia chuỗi nghiên cứu, chỉ một thiểu số ăn ngay lập tức và khoảng một phần ba số trẻ cố gắng chờ đã chờ đủ lâu để nhận phần thưởng gấp đôi.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Stanford marshmallow experiment",
+        "url": "https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment"
+      },
+      {
+        "label": "Simply Psychology — Marshmallow Test Experiment in Psychology",
+        "url": "https://www.simplypsychology.org/marshmallow-test.html"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm kẹo dẻo Stanford — trì hoãn sự thỏa mãn",
+    "year": 1972
+  },
+  {
+    "controversy": "Thấp",
+    "controversy_text": "Ít tranh cãi — thí nghiệm Sperling là một thiết kế kinh điển, được tái lập nhiều lần và là nền tảng của mô hình trí nhớ Atkinson–Shiffrin. Tranh luận còn lại mang tính lý thuyết: kho lưu trữ này là \"trí nhớ hình ảnh\" (iconic memory, thuật ngữ Ulric Neisser đặt năm 1967) hay chỉ là sự tồn tại dai dẳng của cảm giác thị giác (visual persistence), và ranh giới chính xác giữa hai thành phần đó ở đâu. Những tranh luận này không làm lung lay kết quả thực nghiệm gốc.",
+    "en_name": "Sperling's Partial Report Experiment (Iconic Memory)",
+    "field": "Nhan thuc va Tri nho",
+    "id": "tn-17",
+    "image": null,
+    "lesson": "Não bộ lưu giữ một \"ảnh chụp\" thị giác ngắn ngủi với dung lượng rất lớn ngay sau khi ta nhìn thấy một cảnh — nhiều hơn hẳn những gì ta kịp nói ra. Giới hạn không nằm ở chỗ ta đã ghi nhận được bao nhiêu, mà ở tốc độ ta kịp \"đọc\" thông tin ra khỏi kho lưu trữ đó trước khi nó phai mất trong chưa đầy một giây. Đây là bằng chứng nền tảng cho khái niệm trí nhớ giác quan (sensory memory) và mô hình xử lý thông tin nhiều tầng của trí nhớ.",
+    "method": "Sperling chiếu nhanh (50 mili-giây) một bảng gồm 12 chữ cái xếp thành 3 hàng × 4 cột, ví dụ hàng trên \"P Y F G\", hàng giữa \"V J S A\", hàng dưới \"D H B U\". Ông so sánh hai điều kiện: báo cáo toàn bộ (whole report) — kể lại càng nhiều chữ càng tốt; và báo cáo một phần (partial report) — ngay sau khi bảng biến mất, một âm báo cao, trung bình hoặc thấp vang lên, chỉ định người tham gia chỉ cần kể lại hàng trên, hàng giữa hay hàng dưới. Vì người tham gia không biết trước hàng nào sẽ được gọi, kết quả của hàng được gọi là mẫu ngẫu nhiên đại diện cho toàn bộ bảng. Ông còn thay đổi độ trễ của âm báo từ 0 đến 1 giây.",
+    "notes": "Các con số 4–5 chữ (báo cáo toàn bộ), 75–90% (báo cáo một phần), ~9–10 chữ và mốc 1 giây khớp nhau giữa Wikipedia và bản tóm tắt của Jim Davies. Không tìm được ảnh chân dung George Sperling hay sơ đồ thí nghiệm trên Wikimedia Commons đã xác minh giấy phép trong phạm vi tra cứu — để image null.",
+    "researcher": "George Sperling",
+    "results": "Ở điều kiện báo cáo toàn bộ, người tham gia chỉ kể được trung bình khoảng 4–5 chữ trong 12 chữ (khoảng 35%). Ở điều kiện báo cáo một phần, họ kể được khoảng 75–90% số chữ của hàng được gọi — bất kể hàng nào được gọi. Suy ra ngay sau khi hình ảnh biến mất, họ vẫn có trong tay khoảng 9–10 chữ trong tổng số 12. Khi âm báo bị trì hoãn, lợi thế của báo cáo một phần giảm dần và biến mất hoàn toàn sau khoảng 1 giây.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Iconic memory",
+        "url": "https://en.wikipedia.org/wiki/Iconic_memory"
+      },
+      {
+        "label": "Jim Davies — Sperling (1960) summary (Psychological Monographs, 74, 1–29)",
+        "url": "https://www.jimdavies.org/summaries/sperling1960.html"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm báo cáo một phần của Sperling — trí nhớ hình ảnh (iconic memory)",
+    "year": 1960
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Tranh cãi ở mức trung bình, chủ yếu về phương pháp chứ không về ý tưởng. Theo chuẩn mực hiện đại, nghiên cứu của Bartlett thiếu chặt chẽ: mẫu nhỏ, toàn nam sinh Cambridge thuộc tầng lớp ưu tú, không có thống kê định lượng, quy trình thay đổi giữa các lần chạy và không kiểm soát chặt biến số. Bản thân Bartlett cũng thừa nhận tính chất khám phá của nghiên cứu. Tuy nhiên, ý tưởng cốt lõi — trí nhớ tái cấu trúc theo schema — đã được vô số nghiên cứu hiện đại với phương pháp chặt chẽ xác nhận, nên kết luận lớn vẫn đứng vững dù số liệu gốc mang tính định tính.",
+    "en_name": "Bartlett's War of the Ghosts Experiment",
+    "field": "Nhan thuc va Tri nho",
+    "id": "tn-18",
+    "image": null,
+    "lesson": "Trí nhớ không phải máy ghi âm mà là quá trình tái dựng: mỗi lần nhớ lại, não bộ lấp đầy chỗ trống bằng những gì \"hợp lý\" theo kinh nghiệm và văn hóa của ta — và vô tình bóp méo sự thật. Đây là nền tảng của lý thuyết schema trong tâm lý học nhận thức, và là lời cảnh báo cho mọi lĩnh vực dựa vào trí nhớ con người: từ lời khai nhân chứng đến lịch sử truyền miệng.",
+    "method": "Bartlett cho người tham gia (sinh viên Anh, chủ yếu là nam sinh Cambridge) đọc hai lần một truyện dân gian của người da đỏ Bắc Mỹ tên \"The War of the Ghosts\" (Cuộc chiến của những bóng ma) — câu chuyện khoảng 350 từ với nhiều tên địa danh, từ ngữ và sự kiện xa lạ với người Anh thời đó. Ông dùng hai phương pháp: tái hiện lặp lại (repeated reproduction) — cùng một người kể lại câu chuyện sau vài phút, vài ngày, vài tuần, vài tháng, thậm chí vài năm; và tái hiện nối tiếp (serial reproduction) — người này kể cho người khác nghe, người khác kể tiếp cho người nữa, cho đến người thứ 10. Kết quả được công bố trong cuốn \"Remembering: A Study in Experimental and Social Psychology\" (1932).",
+    "notes": "Chi tiết mẫu \"20 nam sinh Cambridge\" và con số \"350 từ còn khoảng 180 từ\" lấy từ nguồn thứ cấp Save My Exams, chưa đối chiếu trực tiếp cuốn Remembering (1932) — đã ghi rõ. Ảnh chân dung Bartlett năm 1948 có trên Wikipedia (nguồn National Portrait Gallery, ảnh Bassano Ltd) nhưng giấy phép trên Commons chưa được xác minh đủ trong phạm vi tra cứu — để image null cho an toàn.",
+    "researcher": "Frederic Charles Bartlett",
+    "results": "Câu chuyện bị biến đổi theo những hướng nhất quán: chi tiết xa lạ bị lược bỏ (ví dụ \"mặt vặn vẹo\", \"màu đen trào ra từ miệng\", thậm chí cả chủ đề chính là ma đánh nhau cũng thường biến mất); câu chuyện được rút gọn và đơn giản hóa (bản kể lại chỉ còn khoảng 180 từ so với 350 từ gốc); chi tiết được đồng hóa theo văn hóa Anh (\"canoe\" thành \"thuyền\", \"chèo\" thành \"bơi thuyền\", vết thương của linh hồn được diễn giải lại thành vết thương thịt da); người kể thêm các từ nối như \"vì vậy\", \"bởi vì\" để câu chuyện hợp lý hơn. Bartlett kết luận trí nhớ mang tính tái cấu trúc: ta không \"phát lại\" ký ức mà dựng lại nó theo khuôn mẫu (schema) sẵn có của mình.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Frederic Bartlett",
+        "url": "https://en.wikipedia.org/wiki/Frederic_Bartlett"
+      },
+      {
+        "label": "Save My Exams — Bartlett (1932): cultural schemas and memory",
+        "url": "https://www.savemyexams.com/dp/psychology/ib/25/hl/revision-notes/learning-and-cognition/cognitive-processes/the-effect-of-cultural-schemas-on-memory-/"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm \"Cuộc chiến của những bóng ma\" của Bartlett — trí nhớ tái cấu trúc",
+    "year": 1932
+  },
+  {
+    "controversy": "Thấp",
+    "controversy_text": "Ít tranh cãi — hiệu ứng đã được tái lập nhiều lần trong nhiều bối cảnh, từ phòng thí nghiệm đến mô phỏng ngoài đời thực (ví dụ người chạy bộ ban đêm bỏ sót một vụ ẩu đả ngay bên cạnh). Tranh luận còn lại mang tính sắc thái: \"mù chú ý\" có phải là hoàn toàn không tri giác được vật thể, hay người ta có tri giác thoáng qua rồi quên mất (inattentional amnesia)? Và hiệu ứng phụ thuộc mạnh vào độ khó của nhiệm vụ, nên không thể suy ra rằng con người lúc nào cũng bỏ sót mọi thứ xung quanh. Bản thân hiện tượng thì vững chắc.",
+    "en_name": "The Invisible Gorilla Test (Sustained Inattentional Blindness)",
+    "field": "Nhan thuc va Tri nho",
+    "id": "tn-19",
+    "image": null,
+    "lesson": "Ta nhìn thấy ít hơn nhiều so với ta tưởng: khi sự chú ý bị chiếm hết bởi một nhiệm vụ, ngay cả một con khỉ đột đi qua giữa sân cũng có thể \"tàng hình\". Nhận thức không phải camera ghi lại mọi thứ trong tầm mắt mà là quá trình chọn lọc theo chú ý. Bài học có ý nghĩa thực tế lớn: lái xe khi nhắn tin, nhân chứng bỏ sót chi tiết quan trọng, hay bác sĩ bỏ sót khối u trên phim X-quang khi đang tập trung tìm thứ khác.",
+    "method": "Simons và Chabris phát triển từ các phim của Ulric Neisser (1975) và cuốn \"Inattentional Blindness\" của Mack & Rock (1998). Họ quay các video dài khoảng 75 giây: hai đội, mỗi đội ba người (một đội áo trắng, một đội áo đen), chuyền bóng rổ cho nhau. Người tham gia được giao đếm số lần chuyền bóng của một đội (bản dễ: đếm tổng; bản khó: đếm riêng chuyền nảy và chuyền bổng). Giữa video, một sự kiện bất ngờ xuất hiện: một người phụ nữ mặc đồ khỉ đột đi xuyên qua cảnh, dừng lại đối mặt máy quay, đấm ngực rồi đi ra (xuất hiện khoảng 9 giây), hoặc một phụ nữ cao cầm ô đi qua. Sau đó người tham gia được hỏi có nhận thấy điều gì bất thường không. Tổng cộng 228 người tham gia, 192 người được đưa vào phân tích.",
+    "notes": "Số liệu 46% bỏ sót, 44% nhận thấy khỉ đột, 64% (dễ) so với 45% (khó) khớp nhau giữa Wikipedia và Simply Psychology; chi tiết 228 người / 192 người phân tích lấy từ Wikipedia. Không dùng ảnh tĩnh từ video thí nghiệm vì bản quyền video chưa xác minh — để image null.",
+    "researcher": "Daniel J. Simons & Christopher F. Chabris",
+    "results": "Tổng cộng 46% người tham gia không hề nhận thấy sự kiện bất ngờ dù nó ở ngay trước mắt trong nhiều giây. Tỷ lệ nhận thấy con khỉ đột chỉ là 44% (người cầm ô: 65%); nhiệm vụ đếm dễ thì 64% nhận thấy, nhiệm vụ khó chỉ còn 45%. Kết quả được công bố trong bài \"Gorillas in our midst: Sustained inattentional blindness for dynamic events\" (Perception, 1999, 28(9), 1059–1074).",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Invisible Gorilla Test",
+        "url": "https://en.wikipedia.org/wiki/Invisible_Gorilla_Test"
+      },
+      {
+        "label": "Wikipedia EN — Inattentional blindness",
+        "url": "https://en.wikipedia.org/wiki/Inattentional_blindness"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm \"con khỉ đột tàng hình\" — mù chú ý (inattentional blindness)",
+    "year": 1999
+  },
+  {
+    "controversy": "Cao",
+    "controversy_text": "Tranh cãi ở mức cao. Nghiên cứu gốc bị phê bình vì mẫu quá nhỏ (24 người), cách chấm \"nhớ thật\" hay \"chỉ tin là có\" còn mơ hồ và phụ thuộc vào đánh giá chủ quan của người thí nghiệm, và vấn đề đạo đức khi cố tình cấy ký ức giả vào người tham gia. Cuộc tranh luận bùng lên trở lại sau nghiên cứu tái lập của Murphy và cộng sự (2023) và bài phân tích lại của Andrews & Brewin (2024): tỷ lệ \"ký ức giả hoàn chỉnh\" thực sự là bao nhiêu vẫn còn tranh cãi, tùy theo định nghĩa và cách chấm. Dù vậy, đồng thuận chung là việc cấy ký ức giả là có thể — câu hỏi còn mở là nó dễ xảy ra đến mức nào ngoài phòng thí nghiệm.",
+    "en_name": "Lost in the Mall Technique (False Memory Implantation)",
+    "field": "Nhan thuc va Tri nho",
+    "id": "tn-20",
+    "image": {
+      "author": "BDEngler",
+      "caption": "Elizabeth Loftus tại một hội thảo ở Las Vegas, tháng 7/2011.",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Elizabeth_Loftus-TAM_9-July_2011.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Elizabeth_Loftus-TAM_9-July_2011.JPG"
+    },
+    "lesson": "Có thể cấy vào đầu người ta cả một sự kiện chưa từng xảy ra — chỉ cần gợi ý từ một nguồn đáng tin (người thân), lặp lại nhiều lần và để họ tự tưởng tượng thêm chi tiết. Đây là bằng chứng mạnh nhất cho thấy ký ức tự truyện rất mong manh và dễ bị thao túng. Hệ quả trực tiếp: các liệu pháp \"khơi lại ký ức bị đè nén\" về lạm dụng thời thơ ấu có thể vô tình tạo ra ký ức giả, với hậu quả pháp lý và gia đình nghiêm trọng.",
+    "method": "Kỹ thuật do sinh viên Jim Coan khởi xướng dưới sự hướng dẫn của Loftus, rồi được Loftus và Pickrell chính thức hóa trong nghiên cứu công bố năm 1995 (\"The formation of false memories\", Psychiatric Annals). 24 người tham gia nhận được một cuốn sổ gồm bốn câu chuyện ngắn về thời thơ ấu do người thân trong gia đình cung cấp — ba chuyện thật và một chuyện bịa: lúc khoảng 5 tuổi, họ bị lạc trong trung tâm thương mại, được một người lớn tuổi cứu giúp rồi đoàn tụ với gia đình. Trong sáu ngày, người tham gia cố gắng nhớ lại càng nhiều chi tiết càng tốt về cả bốn sự kiện, cả bằng văn bản lẫn phỏng vấn. Khi kết thúc, họ được cho biết một trong bốn câu chuyện là giả và được yêu cầu chỉ ra câu nào.",
+    "notes": "Số liệu 25% (6/24) và 5/24 khớp giữa Wikipedia và PMC; con số tái lập ~35% (Murphy et al., 2023) lấy từ bài tổng quan PMC. Tỷ lệ \"ký ức giả hoàn chỉnh\" trong tái lập còn tranh cãi theo phân tích Andrews & Brewin (2024) — đã ghi trong controversy_text. Ảnh dùng chung chân dung Loftus đã xác minh ở tn-12.",
+    "researcher": "Elizabeth Loftus & Jacqueline E. Pickrell (khởi nguồn: Jim Coan)",
+    "results": "Khoảng 25% người tham gia (6/24) cho biết họ nhớ được sự kiện bị lạc trong trung tâm thương mại — dù nó chưa bao giờ xảy ra — và còn tự bịa thêm nhiều chi tiết phong phú. Ký ức giả thường kém rõ ràng hơn ký ức thật và được kể bằng ít từ hơn. 5/24 người khi được báo có một câu chuyện giả đã không nhận ra đó là câu chuyện lạc trong trung tâm thương mại mà lại chọn nhầm một câu chuyện thật. Một nghiên cứu tái lập có đăng ký trước (Murphy và cộng sự, 2023) cho kết quả tương tự, với khoảng 35% người tham gia được đánh giá là đã tiếp nhận ký ức giả.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Lost in the mall technique",
+        "url": "https://en.wikipedia.org/wiki/Lost_in_the_mall_technique"
+      },
+      {
+        "label": "PMC — Current state of 'lost in the mall' (tổng quan 2025)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13618130/"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Kỹ thuật \"lạc trong trung tâm thương mại\" — cấy ký ức giả",
+    "year": 1995
+  },
+  {
+    "controversy": "Rất cao",
+    "controversy_text": "Rất cao về đạo đức: tách khỉ sơ sinh khỏi mẹ, gây sợ hãi có chủ đích và cô lập khỉ con tới 24 tháng trong các thí nghiệm sau này — những phương pháp này ngày nay không bao giờ được hội đồng đạo đức phê duyệt. Nhiều con khỉ chịu tổn thương tâm lý vĩnh viễn. Ngoài ra, việc khái quát từ khỉ sang trẻ em cũng bị đặt câu hỏi: khỉ không phải là người, và điều kiện phòng thí nghiệm cực đoan khác xa đời sống gia đình bình thường.",
+    "en_name": "Harlow's Rhesus Monkey Experiments (Wire vs. Cloth Mother)",
+    "field": "Phat trien",
+    "id": "tn-21",
+    "image": {
+      "author": "Harry Harlow",
+      "caption": "Khỉ con bám vào 'mẹ vải' trong bài kiểm tra gây sợ (Harlow, 1958)",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Natural_of_Love_Typical_response_to_cloth_mother_surrogate_in_fear_test.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Natural_of_Love_Typical_response_to_cloth_mother_surrogate_in_fear_test.jpg"
+    },
+    "lesson": "Gắn bó không hình thành chỉ vì được cho ăn. Nhu cầu được chạm, ôm ấp và cảm thấy an toàn — 'contact comfort' — là nhu cầu cơ bản như nhu cầu ăn uống. Phát hiện này đặt nền móng cho lý thuyết gắn bó (Bowlby, Ainsworth) và thay đổi cách bệnh viện, nhà trẻ nhìn nhận việc tách trẻ nhỏ khỏi người chăm sóc.",
+    "method": "Harlow tách 8 khỉ con rhesus khỏi mẹ ruột ngay sau khi sinh và nuôi mỗi con cùng hai 'mẹ giả': một làm bằng dây thép trần, một bọc vải bông mềm. Chỉ một trong hai mẹ giả có bình sữa; 4 con được mẹ dây thép cho bú, 4 con được mẹ vải cho bú. Nhóm nghiên cứu ghi lại thời gian khỉ con bám vào từng mẹ giả, và quan sát phản ứng khi cho khỉ con gặp đồ chơi gây sợ. Các thí nghiệm tiếp theo còn cô lập khỉ con hoàn toàn trong nhiều tháng để xem tác động của việc thiếu tiếp xúc xã hội.",
+    "notes": "Số giờ 17–18 giờ/ngày và 'hơn 1 giờ' lấy từ Simply Psychology tóm tắt Harlow (1958); mốc 90 ngày cho giai đoạn nhạy cảm lấy từ cùng nguồn — chưa đối chiếu trực tiếp bản gốc.",
+    "researcher": "Harry Harlow",
+    "results": "Dù mẹ nào cho bú, khỉ con cũng dành phần lớn thời gian — khoảng 17–18 giờ mỗi ngày — bám vào mẹ vải, và chỉ ghé mẹ dây thép chừng hơn 1 giờ để bú. Khi sợ hãi, khỉ con chạy về phía mẹ vải để tìm an ủi, rồi lấy đó làm 'căn cứ an toàn' để khám phá xung quanh. Khỉ con chỉ được nuôi bằng mẹ giả lớn lên với nhiều rối loạn: sợ hãi, kém kỹ năng xã hội, khó giao phối và làm mẹ kém. Khỉ bị cô lập hoàn toàn hơn khoảng 90 ngày chịu tổn thương khó hồi phục.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Harry Harlow",
+        "url": "https://en.wikipedia.org/wiki/Harry_Harlow"
+      },
+      {
+        "label": "Simply Psychology — Harry Harlow's Monkey Experiments",
+        "url": "https://www.simplypsychology.org/harlow-monkey.html"
+      },
+      {
+        "label": "Association for Psychological Science — Harlow's Classic Studies",
+        "url": "https://www.psychologicalscience.org/publications/observer/obsonline/harlows-classic-studies-revealed-the-importance-of-maternal-contact.html"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm khỉ rhesus của Harlow — mẹ dây thép và mẹ vải",
+    "year": 1958
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Trung bình. Mẫu ban đầu nhỏ (khoảng 100 trẻ), toàn gia đình trung lưu người Mỹ, nên tính phổ quát qua các nền văn hóa bị nghi ngờ — tỉ lệ các kiểu gắn bó khác nhau rõ rệt giữa các nước. Quy trình cố tình gây căng thẳng cho trẻ sơ sinh cũng bị bàn về đạo đức, dù mức stress được coi là nhẹ và ngắn. Ngoài ra, kiểu gắn bó đo ở 12 tháng tuổi không quyết định vĩnh viễn tính cách về sau như nhiều người lầm tưởng.",
+    "en_name": "The Strange Situation",
+    "field": "Phat trien",
+    "id": "tn-22",
+    "image": null,
+    "lesson": "Chất lượng gắn bó có thể quan sát và phân loại một cách có hệ thống, và nó gắn với sự nhạy cảm, đáp ứng của người chăm sóc: trẻ có người chăm sóc đáp ứng nhất quán thường gắn bó an toàn và tự tin khám phá thế giới. Strange Situation trở thành công cụ chuẩn để nghiên cứu gắn bó suốt nhiều thập kỷ.",
+    "method": "Ainsworth quan sát trẻ khoảng 12–18 tháng tuổi cùng người chăm sóc (thường là mẹ) trong một phòng chơi lạ, qua gương một chiều, trong khoảng 20 phút với 8 đoạn, mỗi đoạn khoảng 3 phút. Người mẹ và một người lạ lần lượt ra vào phòng, tạo ra các tình huống xa cách và đoàn tụ với mức căng thẳng tăng dần. Nhóm nghiên cứu chấm điểm mức độ khám phá, lo âu khi xa mẹ, sợ người lạ và đặc biệt là hành vi của trẻ khi mẹ quay lại.",
+    "notes": "Tỉ lệ 70/15/15 là con số thường được trích từ Ainsworth et al. (1978); một số nguồn tóm tắt khác ghi 67/21/12 hoặc 66/22/12 theo mẫu n=105–106 — con số chính xác phụ thuộc mẫu cụ thể, nên chỉ nên hiểu là 'khoảng'. Không dùng ảnh chân dung Ainsworth vì chưa xác minh được ảnh tự do trên Wikimedia Commons.",
+    "researcher": "Mary Ainsworth",
+    "results": "Dựa trên hành vi lúc đoàn tụ, Ainsworth phân loại trẻ thành 3 kiểu gắn bó: gắn bó an toàn (kiểu B) — buồn khi mẹ đi, vui và nhanh được dỗ khi mẹ về, dùng mẹ làm căn cứ để khám phá; gắn bó né tránh (kiểu A) — gần như không tỏ ra buồn khi mẹ đi và lảng tránh mẹ khi mẹ về; gắn bó kháng cự/mâu thuẫn (kiểu C) — rất đau khổ khi xa mẹ nhưng vừa tìm vừa đẩy mẹ ra khi đoàn tụ. Theo Ainsworth và cộng sự (1978), khoảng 70% trẻ thuộc kiểu an toàn, 15% né tránh và 15% kháng cự. Kiểu thứ tư — gắn bó vô tổ chức (D) — được Main và Solomon bổ sung năm 1990.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Strange situation",
+        "url": "https://en.wikipedia.org/wiki/Strange_situation"
+      },
+      {
+        "label": "Simply Psychology — Mary Ainsworth Strange Situation Experiment",
+        "url": "https://www.simplypsychology.org/mary-ainsworth.html"
+      },
+      {
+        "label": "Ainsworth & Bell (1970), Child Development, 41(1), 49–67",
+        "url": "https://doi.org/10.2307/1127388"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Tình huống lạ — Thí nghiệm Strange Situation của Ainsworth",
+    "year": 1970
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Trung bình. Nghiên cứu sau này cho thấy cách hỏi ảnh hưởng lớn tới kết quả: khi chỉ hỏi một câu thay vì hai, hoặc khi sự thay đổi trông như vô tình (Samuel & Bryant, 1984), nhiều trẻ nhỏ hơn cũng trả lời đúng — tức thất bại có thể do yêu cầu của nhiệm vụ, không chỉ do tư duy. Mẫu nghiên cứu ban đầu cũng nhỏ, chỉ gồm trẻ em Geneva (trong đó có cả con ruột của Piaget), và độ tuổi vượt qua nhiệm vụ thay đổi theo văn hóa và giáo dục.",
+    "en_name": "Piaget's Conservation Tasks",
+    "field": "Phat trien",
+    "id": "tn-23",
+    "image": {
+      "author": "Không rõ (Michiganensian 1968)",
+      "caption": "Jean Piaget tại Đại học Michigan, khoảng 1967–1968",
+      "license": "Public domain (xuất bản trước 1978, không có thông báo bản quyền)",
+      "page": "https://commons.wikimedia.org/wiki/File:Jean_Piaget_in_Ann_Arbor_(cropped).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Jean_Piaget_in_Ann_Arbor_%28cropped%29.png"
+    },
+    "lesson": "Tư duy của trẻ không phải là tư duy người lớn thu nhỏ: trẻ nhỏ bị chi phối bởi một đặc điểm nổi bật (chiều cao của nước — 'centration') và chưa đảo ngược được phép biến đổi trong đầu. Khả năng bảo toàn cho thấy tư duy logic xuất hiện theo từng giai đoạn, không phải dần dần đều nhau.",
+    "method": "Piaget cho trẻ xem hai cốc giống hệt nhau chứa lượng nước bằng nhau, trẻ xác nhận hai cốc bằng nhau. Sau đó, trước mắt trẻ, ông đổ nước từ một cốc sang một cốc cao và hẹp hơn, rồi hỏi: bây giờ cốc nào có nhiều nước hơn, hay hai bên vẫn bằng nhau? Ông làm tương tự với các nhiệm vụ khác: dàn hàng viên bi ra dài hơn (bảo toàn số lượng), kéo dài viên đất sét (bảo toàn khối lượng), dịch chuyển que (bảo toàn độ dài). Trẻ được hỏi ở nhiều độ tuổi khác nhau để xem khả năng bảo toàn xuất hiện khi nào.",
+    "notes": "Năm 1952 là năm xuất bản 'The Child's Conception of Number' (bản tiếng Anh); các nhiệm vụ bảo toàn được Piaget mô tả lần đầu bằng tiếng Pháp từ 1941. Độ tuổi 6–7/7–8/9–10/11–12 lấy từ các nguồn tóm tắt, có dao động nhỏ giữa các nguồn.",
+    "researcher": "Jean Piaget",
+    "results": "Trẻ tiền thao tác (khoảng 2–7 tuổi) thường trả lời cốc cao hơn có nhiều nước hơn, dù chính mắt thấy không thêm không bớt nước. Trẻ bắt đầu bảo toàn số lượng và chất lỏng khoảng 6–7 tuổi, khối lượng khoảng 7–8 tuổi, trọng lượng khoảng 9–10 tuổi và thể tích khoảng 11–12 tuổi. Piaget xem việc vượt qua các nhiệm vụ này là dấu mốc chuyển sang giai đoạn thao tác cụ thể (7–11 tuổi), khi trẻ suy luận logic về vật thật và hiểu rằng vẻ ngoài có thể đánh lừa.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Conservation (psychology)",
+        "url": "https://en.wikipedia.org/wiki/Conservation_(psychology)"
+      },
+      {
+        "label": "Simply Psychology — Conservation (Piaget)",
+        "url": "https://www.simplypsychology.org/conservation-in-psychology.html"
+      },
+      {
+        "label": "Simply Psychology — Piaget (1952) Conservation of Number Study",
+        "url": "https://www.simplypsychology.org/piaget-conservation-of-number-study.html"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Nhiệm vụ bảo toàn của Piaget",
+    "year": 1952
+  },
+  {
+    "controversy": "Cao",
+    "controversy_text": "Cao. Mẫu ban đầu toàn bé trai, nên Carol Gilligan (1982) chỉ trích lý thuyết này thiên lệch giới: cách lý luận về quan tâm và quan hệ bị chấm thấp hơn lý luận về công bằng. Tính phổ quát cũng bị nghi ngờ: giai đoạn 5–6 gần như không xuất hiện ở nhiều nền văn hóa, và một số nhà nghiên cứu cho rằng đó là giá trị phương Tây hơn là đỉnh cao phổ quát. Cuối cùng, bài kiểm tra chỉ đo lý luận đạo đức qua câu chuyện giả định, không đo hành vi đạo đức thật ngoài đời.",
+    "en_name": "Kohlberg's Heinz Dilemma and Stages of Moral Development",
+    "field": "Phat trien",
+    "id": "tn-24",
+    "image": null,
+    "lesson": "Lý luận đạo đức phát triển theo một trình tự cố định, từ nghĩ về hậu quả cho bản thân tới nghĩ về luật lệ rồi tới nguyên tắc. Điều quan trọng không phải người ta chọn làm gì, mà là họ lý giải lựa chọn đó như thế nào — cùng một quyết định có thể xuất phát từ những tầng lý luận cách nhau nhiều giai đoạn.",
+    "method": "Kohlberg phỏng vấn 72 bé trai ở Chicago, tuổi 10, 13 và 16, về một loạt tình huống đạo đức giả định, nổi tiếng nhất là tình huống Heinz: vợ Heinz sắp chết vì ung thư, chỉ có một loại thuốc mới cứu được, nhưng người dược sĩ đòi 2.000 đô la — gấp 10 lần giá vốn 200 đô la — trong khi Heinz chỉ gom được 1.000 đô la và bị từ chối bán rẻ hay trả chậm; Heinz đột nhập lấy trộm thuốc. Kohlberg hỏi 'Heinz có nên trộm thuốc không, và vì sao?', rồi thay đổi chi tiết câu chuyện để thử lý lẽ của trẻ. Ông không chấm câu trả lời đúng/sai mà chấm lý do đằng sau nó, rồi theo dõi lại nhiều người trong số họ suốt khoảng 20 năm.",
+    "notes": "Số liệu 72 bé trai, tuổi 10/13/16, giá thuốc 200/2.000/1.000 đô la và theo dõi 20 năm đều khớp giữa Simply Psychology và tài liệu Crain (AppState). Không dùng ảnh chân dung Kohlberg vì chưa xác minh được ảnh tự do trên Wikimedia Commons.",
+    "researcher": "Lawrence Kohlberg",
+    "results": "Lý do của trẻ thay đổi theo tuổi và xếp thành 3 cấp độ, 6 giai đoạn: tiền quy ước (tránh bị phạt, vụ lợi), quy ước (làm vừa lòng người khác, tuân thủ luật pháp) và hậu quy ước (khế ước xã hội, nguyên tắc phổ quát). Trong nghiên cứu theo dõi, hầu như không ai bỏ qua giai đoạn nào và hiếm khi thụt lùi. Chỉ một thiểu số người trưởng thành đạt tới hai giai đoạn cao nhất; giai đoạn 6 hiếm tới mức thang chấm chuẩn sau này bỏ hẳn việc chấm nó.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Heinz dilemma",
+        "url": "https://en.wikipedia.org/wiki/Heinz_dilemma"
+      },
+      {
+        "label": "Simply Psychology — Heinz Dilemma",
+        "url": "https://www.simplypsychology.org/heinz-dilemma.html"
+      },
+      {
+        "label": "Appalachian State Univ. — Crain, Theories of Development, ch. 7 (Kohlberg)",
+        "url": "https://www.appstate.edu/~steelekm/classes/psy2664/kohlberg.htm"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Tình huống tiến thoái lưỡng nan Heinz và các giai đoạn phát triển đạo đức của Kohlberg",
+    "year": 1958
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Trung bình. Về đạo đức, việc cho trẻ nhỏ xem bạo lực rồi cố tình gây bực cho trẻ bị nhiều người phê phán. Về phương pháp, búp bê Bobo là đồ chơi bơm hơi vốn được thiết kế để đánh ngã rồi bật dậy — trẻ đánh nó có thể chỉ là đang chơi đúng cách, không phải 'hung hăng' thật. Ngoài ra, hành vi hung hăng trong phòng thí nghiệm với búp bê không đồng nghĩa trẻ sẽ đánh người thật ngoài đời, và hiệu ứng dài hạn của việc xem một lần là chưa rõ.",
+    "en_name": "Bandura's Bobo Doll Experiment",
+    "field": "Phat trien",
+    "id": "tn-25",
+    "image": {
+      "author": "bandura@stanford.edu",
+      "caption": "Albert Bandura năm 2005",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Albert_Bandura_Psychologist.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Albert_Bandura_Psychologist.jpg"
+    },
+    "lesson": "Con người học được hành vi — kể cả hành vi hung hăng — chỉ bằng cách quan sát người khác, không cần tự mình bị thưởng hay phạt. Đây là nền tảng của lý thuyết học tập xã hội (sau này là lý thuyết nhận thức xã hội) và là cơ sở cho các tranh luận về ảnh hưởng của bạo lực trên truyền hình, trò chơi điện tử đối với trẻ em.",
+    "method": "Bandura thử nghiệm 72 trẻ mẫu giáo (36 bé trai, 36 bé gái), tuổi 37–69 tháng, tại trường mẫu giáo Đại học Stanford. Mỗi trẻ được xếp ngẫu nhiên vào một trong ba nhóm: xem người lớn hung hăng với búp bê Bobo (đấm, đá, đập bằng búa đồ chơi, kèm câu nói như 'Sock him in the nose'), xem người lớn điềm tĩnh chơi đồ chơi khác, hoặc không xem mẫu nào. Sau đó, trẻ bị gây bực nhẹ (được chơi đồ chơi hấp dẫn rồi bị lấy lại sau 2 phút) rồi được đưa vào phòng có búp bê Bobo và quan sát trong 20 phút, ghi lại hành vi hung hăng thể chất và lời nói.",
+    "notes": "Tuổi 37–69 tháng, 72 trẻ, quan sát 20 phút lấy từ Wikipedia; câu nói 'Sock him in the nose' lấy từ Britannica. Chi tiết biến thể 1963 (thưởng/phạt mẫu) lấy từ Wikipedia.",
+    "researcher": "Albert Bandura",
+    "results": "Trẻ xem mẫu hung hăng bắt chước nhiều hành vi hung hăng hơn hẳn — cả hành vi giống hệt mẫu lẫn hành vi hung hăng mới mà mẫu không hề thể hiện — so với hai nhóm còn lại. Bé trai hung hăng về thể chất nhiều hơn bé gái, và trẻ bắt chước mạnh nhất khi mẫu cùng giới. Trẻ xem mẫu điềm tĩnh thậm chí còn ít hung hăng hơn cả nhóm đối chứng không có mẫu. Trong biến thể 1963, trẻ xem mẫu hung hăng bị phạt thì bắt chước ít hơn, còn mẫu được thưởng thì bắt chước nhiều hơn.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Bobo doll experiment",
+        "url": "https://en.wikipedia.org/wiki/Bobo_doll_experiment"
+      },
+      {
+        "label": "Britannica — Bobo doll experiment",
+        "url": "https://britannica.com/event/Bobo-doll-experiment"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm búp bê Bobo của Bandura",
+    "year": 1961
+  },
+  {
+    "controversy": "Thấp",
+    "controversy_text": "Thấp. Đây là một trong những phát hiện được tái lập tốt nhất trong tâm lý phát triển, và mức độ tranh cãi về bản thân hiệu ứng gần như không có. Tranh cãi còn lại chủ yếu là về đạo đức và cách diễn giải: thí nghiệm cố tình gây buồn bã ngắn hạn cho trẻ sơ sinh (dù có pha đoàn tụ sửa chữa ngay sau đó), và một số cách kể phổ biến đã phóng đại — 2 phút mẹ 'đơ mặt' trong phòng thí nghiệm không đồng nghĩa với việc mẹ ít đáp ứng trong đời thường sẽ gây tổn thương lâu dài cho trẻ.",
+    "en_name": "The Still Face Experiment",
+    "field": "Phat trien",
+    "id": "tn-26",
+    "image": null,
+    "lesson": "Trẻ sơ sinh không phải người nhận thụ động: chỉ vài tháng tuổi, trẻ đã chủ động tham gia giao tiếp xã hội, có kỳ vọng về sự đáp lại, và biết điều chỉnh cảm xúc của mình. Sự đáp ứng của người chăm sóc — và việc 'sửa chữa' sau những lúc lệch nhịp — là nền tảng của điều hòa cảm xúc và gắn bó.",
+    "method": "Tronick cho mẹ và trẻ sơ sinh (thường 2–9 tháng tuổi, phổ biến nhất 2–4 tháng) tương tác mặt đối mặt bình thường trong 2–3 phút: mẹ cười, nói chuyện, đáp lại tín hiệu của con. Sau đó, mẹ đột ngột giữ khuôn mặt bất động, không biểu cảm, không nói, không phản ứng — nhưng vẫn nhìn con — trong khoảng 2 phút. Cuối cùng là pha đoàn tụ: mẹ trở lại tương tác bình thường trong 2–3 phút. Toàn bộ quá trình được quay video để phân tích nét mặt, tiếng kêu, cử động và nỗ lực thu hút lại sự chú ý của trẻ.",
+    "notes": "CHƯA KIỂM CHỨNG ĐẦY ĐỦ: không tìm thấy bài Wikipedia EN riêng cho Still Face paradigm (chỉ có mục trong các bài khác); nội dung đã kiểm chứng qua Scientific American + tóm tắt PubMed của Brazelton et al. (1975). Năm 1975 là năm trình bày tại hội nghị SRCD; bài báo đăng tạp chí là Tronick et al. (1978). Không dùng ảnh vì chưa xác minh được ảnh tự do.",
+    "researcher": "Edward Tronick",
+    "results": "Trẻ phản ứng rất nhanh và nhất quán: đầu tiên trẻ cố gắng lôi kéo mẹ trở lại — cười, kêu, với tay, chỉ trỏ. Khi các nỗ lực thất bại, trẻ trở nên buồn bã, lo lắng, quay mặt đi, thu mình lại với vẻ mặt tuyệt vọng. Ngay khi mẹ tương tác trở lại, trẻ thường 'sống lại' sau một thoáng bối rối. Hiệu ứng này đã được tái lập nhiều lần ở nhiều nền văn hóa và được dùng để nghiên cứu trẻ của các bà mẹ trầm cảm, trẻ khiếm thính, trẻ Down và trẻ tự kỷ.",
+    "sources": [
+      {
+        "label": "Scientific American — Ed Tronick and the Still Face Experiment",
+        "url": "https://www.scientificamerican.com/blog/thoughtful-animal/ed-tronick-and-the-8220-still-face-experiment-8221/"
+      },
+      {
+        "label": "PubMed — Brazelton, Tronick et al. (1975), Early mother-infant reciprocity",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1045978/"
+      },
+      {
+        "label": "Adamson & Frick (2003) — The Still Face: A History of a Shared Experimental Paradigm, Infancy 4(4)",
+        "url": "https://www.academia.edu/26583059/The_Still_Face_A_History_of_a_Shared_Experimental_Paradigm"
+      }
+    ],
+    "verified": false,
+    "vi_name": "Thí nghiệm khuôn mặt bất động (Still Face) của Tronick",
+    "year": 1975
+  },
+  {
+    "controversy": "Cao",
+    "controversy_text": "Cao. Đây là nghiên cứu hồi cứu dựa trên lời kể lại của cha mẹ sau khi vấn đề đã xảy ra, nên trí nhớ có thể sai lệch; và nó chỉ cho thấy tương quan, không chứng minh xa cách gây ra trộm cắp — gia đình xung đột hay nghèo khó đều có thể là nguyên nhân chung. Bowlby tự mình chẩn đoán trong khi biết trẻ thuộc nhóm nào, nên có nguy cơ thiên kiến xác nhận. Michael Rutter sau này chỉ ra Bowlby đã lẫn lộn 'mất gắn bó đã hình thành' (deprivation) với 'chưa từng hình thành gắn bó' (privation), mà trường hợp sau mới gây hại nặng nhất.",
+    "en_name": "Bowlby's 44 Juvenile Thieves Study",
+    "field": "Phat trien",
+    "id": "tn-27",
+    "image": null,
+    "lesson": "Nghiên cứu này là bằng chứng nền tảng cho giả thuyết thiếu thốn tình mẫu tử (maternal deprivation) của Bowlby: mối gắn bó sớm với người chăm sóc không chỉ là chuyện tình cảm mà ảnh hưởng lâu dài tới nhân cách và hành vi. Nó góp phần thay đổi chính sách bệnh viện — cho phép cha mẹ thăm con nhỏ nằm viện — và đặt nền cho lý thuyết gắn bó hiện đại.",
+    "method": "Bowlby, bác sĩ tâm thần tại Phòng khám Hướng dẫn Trẻ em London, nghiên cứu 88 trẻ được giới thiệu tới phòng khám: 44 trẻ bị đưa tới vì trộm cắp (31 bé trai, 13 bé gái, tuổi 5–16) và 44 trẻ đối chứng cũng có vấn đề cảm xúc nhưng không trộm cắp. Ông cùng một nhà tâm lý và một nhân viên xã hội phỏng vấn từng trẻ và cha mẹ về thời thơ ấu, đặc biệt là các lần xa cách mẹ, rồi phân loại mỗi trẻ trộm cắp vào 1 trong 6 kiểu tính cách, trong đó có kiểu 'vô cảm' (affectionless): thiếu tình cảm, xấu hổ hay ý thức trách nhiệm bình thường.",
+    "notes": "Các con số 14/44, 12/14, 17/44 và 2/44 khớp giữa Simply Psychology và Wikipedia (bài John Bowlby). Một nguồn tóm tắt khác ghi 13/14 trẻ vô cảm từng xa cách sớm — đã dùng con số 12/14 theo bản gốc được trích phổ biến nhất; chênh lệch nhỏ này cần lưu ý khi trích dẫn. Không dùng ảnh chân dung Bowlby vì ảnh trên Wikipedia EN là file nội bộ (fair use), không phải ảnh tự do trên Commons.",
+    "researcher": "John Bowlby",
+    "results": "14 trong số 44 tên trộm được xếp loại 'vô cảm', trong khi nhóm đối chứng không có ai. 12 trong 14 trẻ vô cảm này đã xa mẹ (hoặc mẹ thay thế) từ 6 tháng trở lên trước 5 tuổi. Tính chung, 17 trong 44 tên trộm từng xa cách kéo dài sớm, so với chỉ 2 trong 44 trẻ đối chứng. Bowlby kết luận xa cách mẹ sớm kéo dài có liên quan tới tính cách vô cảm và trộm cắp dai dẳng — 13 trong 14 trẻ vô cảm là những tên trộm nghiêm trọng, dai dẳng nhất (mức IV).",
+    "sources": [
+      {
+        "label": "Wikipedia EN — John Bowlby",
+        "url": "https://en.wikipedia.org/wiki/John_Bowlby"
+      },
+      {
+        "label": "Simply Psychology — Bowlby's 44 Thieves Study (1944)",
+        "url": "https://www.simplypsychology.org/bowlby-44-thieves-study.html"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Nghiên cứu 44 tên trộm vị thành niên của Bowlby",
+    "year": 1944
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Trung bình. Mẫu nghiên cứu ban đầu là các gia đình trung lưu, có học vấn, người Mỹ da trắng ở Berkeley, nên kết quả không tự động đúng ở mọi nền văn hóa — ở một số nền văn hóa, phong cách độc đoán không gắn với kết quả xấu như ở Mỹ. Quan trọng hơn, đây là nghiên cứu tương quan: không chỉ cha mẹ ảnh hưởng tới con, tính khí của trẻ cũng ảnh hưởng tới cách cha mẹ nuôi dạy. Các kiểu phân loại cũng bị chê là quá rộng và lý tưởng hóa kiểu authoritative.",
+    "en_name": "Baumrind's Parenting Styles Study",
+    "field": "Phat trien",
+    "id": "tn-28",
+    "image": null,
+    "lesson": "Nuôi dạy con không nằm trên một trục 'nghiêm — dễ' duy nhất: nghiêm khắc và ấm áp có thể đi cùng nhau, và chính sự kết hợp đó — quy tắc rõ ràng cộng với lý do và sự lắng nghe — cho kết quả tốt nhất. Phong cách nuôi dạy là một 'khí hậu' gia đình ổn định, không phải một mẹo vặt đơn lẻ.",
+    "method": "Baumrind quan sát hơn 100 trẻ mẫu giáo và cha mẹ của các em tại Berkeley, đánh giá cha mẹ theo hai chiều: mức độ đòi hỏi/kiểm soát và mức độ ấm áp/đáp ứng. Từ đó bà phân loại cha mẹ thành 3 phong cách: độc đoán (authoritarian — đòi hỏi cao, ấm áp thấp, 'vì bố/mẹ nói thế'), dễ dãi (permissive — đòi hỏi thấp, ấm áp cao, ít giới hạn) và uyển chuyển có nguyên tắc (authoritative — đòi hỏi cao và ấm áp cao, đặt quy tắc rõ ràng nhưng giải thích lý do và lắng nghe con). Bà theo dõi sự phát triển của trẻ qua các lần quan sát và phỏng vấn, và nghiên cứu dọc sau này theo dõi 150 trẻ từ năm 1967 tới 8–9 tuổi.",
+    "notes": "Năm 1967 là năm công bố 'Child care practices anteceding three patterns of preschool behavior' (Genetic Psychology Monographs, 75, 43–88). Con số 'hơn 100 trẻ mẫu giáo' lấy từ Open University; nghiên cứu dọc 150 trẻ (1967, theo dõi tới 8–9 tuổi) lấy từ ERIC — hai con số thuộc hai giai đoạn nghiên cứu khác nhau, đã phân biệt trong phần method. Không dùng ảnh chân dung Baumrind vì chưa xác minh được ảnh tự do.",
+    "researcher": "Diana Baumrind",
+    "results": "Trẻ của cha mẹ 'authoritative' (kiên định mà ấm áp) là nhóm có năng lực tốt nhất ở trường mẫu giáo: tự chủ, tự tin, vui vẻ, có trách nhiệm xã hội và định hướng thành tích. Trẻ của cha mẹ độc đoán thường ngoan nhưng rụt rè, không vui và kém độc lập; trẻ của cha mẹ dễ dãi thường bốc đồng, khó tự kiểm soát và kém kiên trì. Kết quả này vẫn đúng khi theo dõi lại lúc trẻ 8–9 tuổi, và nghiên cứu sau này trên thanh thiếu niên cũng thấy cha mẹ authoritative gắn với kết quả học tập tốt hơn và ít hành vi vấn đề hơn.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Parenting styles",
+        "url": "https://en.wikipedia.org/wiki/Parenting_styles"
+      },
+      {
+        "label": "Wikipedia EN — Diana Baumrind",
+        "url": "https://en.wikipedia.org/wiki/Diana_Baumrind"
+      },
+      {
+        "label": "ERIC — Baumrind's studies of parental control (ED157622)",
+        "url": "https://eric.ed.gov/?id=ED157622"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Nghiên cứu phong cách nuôi dạy con của Baumrind",
+    "year": 1967
+  },
+  {
+    "controversy": "Cao",
+    "controversy_text": "Cao. Giả thuyết 'thiếu theory of mind giải thích tự kỷ' ngày càng bị tranh cãi: nhiều trẻ tự kỷ vẫn vượt qua bài kiểm tra (đặc biệt khi lớn hơn), và một số nhà nghiên cứu cho rằng thất bại có thể do yêu cầu ngôn ngữ, trí nhớ hoặc kiểm soát ức chế của bài test, không chỉ do không hiểu tâm trí người khác. Nghiên cứu nhìn lâu (Onishi & Baillargeon, 2005) còn gợi ý trẻ 15 tháng tuổi đã có dấu hiệu hiểu niềm tin sai, sớm hơn nhiều so với độ tuổi 4–5 mà bài kiểm tra bằng lời nói cho thấy. Ngày nay Sally–Anne được xem là một chỉ dấu hữu ích, không phải chẩn đoán hay lời giải thích đầy đủ về tự kỷ.",
+    "en_name": "The Sally–Anne Test",
+    "field": "Phat trien",
+    "id": "tn-29",
+    "image": null,
+    "lesson": "Bài kiểm tra Sally–Anne biến khái niệm trừu tượng 'theory of mind' — khả năng hiểu người khác nghĩ gì — thành một phép đo cụ thể, và trở thành công cụ chuẩn của tâm lý phát triển. Nó cho thấy hiểu tâm trí người khác là một kỹ năng nhận thức riêng biệt, phát triển rõ rệt ở trẻ từ 3 tới 5 tuổi, chứ không tự động đi kèm trí tuệ chung.",
+    "method": "Dựa trên nhiệm vụ niềm tin sai của Wimmer và Perner (1983), Baron-Cohen, Leslie và Frith kể cho trẻ nghe một câu chuyện bằng búp bê: Sally bỏ một viên bi vào giỏ của mình rồi rời phòng; trong lúc Sally vắng mặt, Anne lấy viên bi sang hộp của mình. Trẻ được hỏi: 'Khi Sally quay lại, bạn ấy sẽ tìm viên bi ở đâu?' — kèm hai câu hỏi kiểm tra: viên bi thực sự ở đâu, và ban đầu nó ở đâu. Nhóm nghiên cứu thử nghiệm 61 trẻ: 20 trẻ tự kỷ (tuổi trung bình khoảng 11), 14 trẻ Down (tuổi trung bình khoảng 10) và 27 trẻ phát triển bình thường (tuổi trung bình khoảng 4,5).",
+    "notes": "Số liệu 23/27 (85%), 12/14 (86%), 4/20 (20%) lấy từ Wikipedia (bài Sally–Anne test) và khớp với The Transmitter. Ý tưởng gốc thuộc về Wimmer & Perner (1983) và Dennett — đã ghi rõ trong method. Không dùng ảnh minh họa gốc trong bài báo 1985 vì có bản quyền; chưa tìm được sơ đồ tương đương có giấy phép tự do trên Commons.",
+    "researcher": "Simon Baron-Cohen, Alan M. Leslie và Uta Frith",
+    "results": "23/27 trẻ phát triển bình thường (85%) và 12/14 trẻ Down (86%) trả lời đúng: Sally sẽ tìm ở giỏ, nơi bạn ấy tin viên bi vẫn còn. Nhưng chỉ 4/20 trẻ tự kỷ (20%) trả lời đúng; 80% chỉ vào hộp — nơi viên bi thực sự ở — dù vẫn nhớ đúng diễn biến câu chuyện. Nhóm nghiên cứu kết luận trẻ tự kỷ gặp khó khăn đặc thù trong việc hiểu rằng người khác có thể có niềm tin sai khác với thực tế, và khó khăn này không giải thích được bằng mức IQ chung, vì nhóm Down có IQ thấp hơn mà vẫn làm đúng.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Sally–Anne test",
+        "url": "https://en.wikipedia.org/wiki/Sally%E2%80%93Anne_test"
+      },
+      {
+        "label": "The Transmitter — 1985 paper on the theory of mind",
+        "url": "https://www.thetransmitter.org/spectrum/1985-paper-on-the-theory-of-mind/"
+      },
+      {
+        "label": "Open University — The Sally–Anne false belief task",
+        "url": "https://www.open.edu/openlearn/mod/oucontent/view.php?id=67018&section=1.3"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Bài kiểm tra Sally–Anne (niềm tin sai)",
+    "year": 1985
+  },
+  {
+    "controversy": "Cao",
+    "controversy_text": "Cao. Đây là một trong những phát hiện gây tranh cãi dai dẳng nhất trong tâm lý phát triển. Phân tích tổng hợp của Anisfeld (1996) trên 35 nghiên cứu cho thấy chỉ hiệu ứng bắt chước thè lưỡi là nhất quán; các cử chỉ khác cho kết quả lẫn lộn giữa các nghiên cứu. Các nhà phê bình cho rằng thè lưỡi có thể chỉ là phản ứng hưng phấn chung khi thấy khuôn mặt người chuyển động, hoặc là phản xạ khám phá bằng miệng, chứ không phải bắt chước có chủ ý. Meltzoff và cộng sự bảo vệ kết quả bằng các thiết kế đối chứng chặt chẽ, nhưng tới nay giới nghiên cứu vẫn chưa thống nhất.",
+    "en_name": "Meltzoff and Moore's Neonatal Imitation Study",
+    "field": "Phat trien",
+    "id": "tn-30",
+    "image": null,
+    "lesson": "Khả năng bắt chước xuất hiện sớm hơn nhiều so với điều Piaget từng nghĩ (ông cho rằng bắt chước khuôn mặt chỉ bắt đầu khoảng 8–12 tháng). Trẻ sơ sinh đã có thể nối cái mình thấy trên khuôn mặt người khác với cái mình cảm nhận trên khuôn mặt mình — một dạng 'bản đồ liên giác quan' bẩm sinh — và đây được xem là nền tảng sớm của học tập xã hội, đồng cảm và hiểu người khác.",
+    "method": "Meltzoff và Moore cho 6 trẻ sơ sinh 12–21 ngày tuổi xem một người lớn lần lượt thể hiện 4 cử chỉ: thè lưỡi, há miệng, mím môi và cử động tay. Mỗi cử chỉ được trình diễn nhiều lần trong 15 giây, sau đó trẻ có 20 giây để đáp lại. Phản ứng của trẻ được quay video và chấm điểm bởi những người quan sát không biết trẻ vừa xem cử chỉ nào, để tránh thiên kiến. Trong một biến thể, trẻ được ngậm ti giả trong lúc xem, chỉ được tháo ra sau khi người mẫu đã ngừng thể hiện — nhằm kiểm tra xem trẻ có bắt chước từ trí nhớ không.",
+    "notes": "Mẫu 6 trẻ 12–21 ngày tuổi và thiết kế 15 giây trình diễn/20 giây đáp lại lấy từ Wikipedia + bài tổng quan PMC; nghiên cứu 40 trẻ sơ sinh tuổi trung bình 72 giờ lấy từ Wikipedia (bài Andrew N. Meltzoff). Không dùng ảnh chân dung Meltzoff vì ông còn sống và chưa xác minh được ảnh tự do.",
+    "researcher": "Andrew N. Meltzoff và M. Keith Moore",
+    "results": "Trẻ 12–21 ngày tuổi bắt chước cả 4 cử chỉ một cách có phân biệt: xem thè lưỡi thì thè lưỡi nhiều hơn, xem há miệng thì há miệng nhiều hơn, chứ không chỉ tăng hoạt động miệng chung chung. Kết quả có ý nghĩa thống kê dù mẫu chỉ có 6 trẻ. Nghiên cứu sau đó trên 40 trẻ sơ sinh (tuổi trung bình 72 giờ, trẻ nhỏ nhất mới 42 phút) cho kết quả tương tự, và trẻ 6 tuần tuổi còn bắt chước được cử chỉ đã xem từ hôm trước, tức có trí nhớ về hành động đã quan sát.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Andrew N. Meltzoff",
+        "url": "https://en.wikipedia.org/wiki/Andrew_N._Meltzoff"
+      },
+      {
+        "label": "Meltzoff & Moore (1977), Science 198, 75–78 (bản PDF, Univ. of Washington)",
+        "url": "https://ilabs.uw.edu/wp-content/uploads/77_Meltzoff_Moore_Neonatal_Imitation_Science.pdf"
+      },
+      {
+        "label": "PMC — The development of imitation in infancy",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2865075/"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm bắt chước ở trẻ sơ sinh của Meltzoff và Moore",
+    "year": 1977
+  },
+  {
+    "controversy": "Thấp",
+    "controversy_text": "Ít tranh cãi — kết quả gốc về điều kiện hóa đã được tái lập rộng rãi. Có hai lưu ý: (1) 'tiếng chuông' là cách kể lại phổ biến; trong thí nghiệm Pavlov dùng nhiều kích thích khác nhau như metronome và còi, không chỉ chuông. (2) Edwin Twitmyer (Mỹ) đã công bố phát hiện tương tự khoảng một năm trước Pavlov, nên đây là trường hợp phát hiện đồng thời.",
+    "en_name": "Pavlov's Dogs — Classical Conditioning",
+    "field": "Hanh vi va Hoc tap",
+    "id": "tn-31",
+    "image": {
+      "author": "Không rõ",
+      "caption": "Chân dung Ivan Pavlov",
+      "license": "Public domain (Thư viện Y khoa Quốc gia Mỹ — NLM)",
+      "page": "https://commons.wikimedia.org/wiki/File:Ivan_Pavlov_NLM3.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Ivan_Pavlov_NLM3.jpg"
+    },
+    "lesson": "Nhiều phản ứng tưởng như 'tự nhiên' thực ra được học qua liên kết lặp lại. Hiểu cơ chế này giúp giải thích nỗi sợ, thói quen, cơn thèm và cả quảng cáo. Muốn đổi một phản ứng đã học, cần thay đổi liên kết cũ hoặc tạo liên kết mới.",
+    "method": "Pavlov nghiên cứu tiêu hóa ở chó, đặt ống dẫn (cannula) để đo lượng nước bọt tiết ra. Ông nhận thấy chó bắt đầu tiết nước bọt khi thấy người thường cho ăn, dù chưa thấy thức ăn. Ông kiểm chứng bằng cách lặp lại việc phát một kích thích trung tính (tiếng máy đếm nhịp/metronome, còi, và trong các bản kể lại là tiếng chuông) ngay trước khi cho ăn. Sau nhiều lần ghép đôi, chỉ riêng âm thanh cũng khiến chó tiết nước bọt. Ông cũng thử ngừng cho ăn kèm để xem phản xạ tắt dần ra sao.",
+    "researcher": "Ivan Pavlov",
+    "results": "Chó học liên kết âm thanh với thức ăn: kích thích trung tính trở thành kích thích có điều kiện, nước bọt trở thành phản ứng có điều kiện. Phản xạ có điều kiện có thể tăng lên, tắt dần khi ngừng củng cố, và khái quát sang các kích thích tương tự. Đây là nền tảng của điều kiện hóa cổ điển (điều kiện hóa Pavlov).",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Classical conditioning",
+        "url": "https://en.wikipedia.org/w/index.php?title=Classical_conditioning&mobileaction=toggle_view_mobile"
+      },
+      {
+        "label": "Psychologist World — Pavlov's Dogs and Classical Conditioning",
+        "url": "https://www.psychologistworld.com/behavior/pavlov-dogs-classical-conditioning"
+      }
+    ],
+    "unverified_notes": "Năm 1897 là năm Pavlov công bố kết quả nghiên cứu tiêu hóa/điều kiện hóa; các thí nghiệm kéo dài nhiều năm sau đó.",
+    "verified": true,
+    "vi_name": "Thí nghiệm chó của Pavlov — Điều kiện hóa cổ điển",
+    "year": 1897
+  },
+  {
+    "controversy": "Thấp",
+    "controversy_text": "Ít tranh cãi — hộp Skinner và các định luật củng cố cơ bản đã được tái lập nhiều lần. Lưu ý: chính Skinner không thích tên 'hộp Skinner' và từng đề nghị gọi là 'hộp cần gạt'. Hộp cũng không chứng minh được rằng mọi loài đều học được mọi thứ — khả năng học còn phụ thuộc vào bản năng và giới hạn sinh học của loài.",
+    "en_name": "The Skinner Box — Operant Conditioning Chamber",
+    "field": "Hanh vi va Hoc tap",
+    "id": "tn-32",
+    "image": {
+      "author": "Andreas1 (bản gốc), Pixelsquid (vector hóa)",
+      "caption": "Sơ đồ hộp Skinner",
+      "license": "CC-BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Skinner_box_scheme_01.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Skinner_box_scheme_01.svg"
+    },
+    "lesson": "Hành vi được định hình bởi hậu quả của nó: hành vi được thưởng có xu hướng lặp lại. Nguyên tắc này vẫn dùng trong giáo dục, huấn luyện, trị liệu và cả thiết kế game/ứng dụng. Nhưng thưởng không phải là toàn bộ câu chuyện — bối cảnh và tín hiệu cũng quyết định hành vi.",
+    "method": "Skinner chế tạo hộp kín cách âm, bên trong có cần gạt (dùng cho chuột) hoặc đĩa mổ (dùng cho bồ câu), khay thức ăn, đèn/loa tín hiệu và máy ghi tích lũy. Chuột đói được thả vào hộp; khi vô tình gạt cần, một viên thức ăn rơi xuống. Máy ghi vẽ từng lần gạt cần thành đường dốc, cho thấy tốc độ phản ứng thay đổi ra sao. Skinner còn thử các lịch trình thưởng khác nhau và cả hình phạt (điện nhẹ ở sàn hộp).",
+    "researcher": "B. F. Skinner",
+    "results": "Chuột nhanh chóng học gạt cần có chủ đích để lấy thức ăn; tần suất gạt cần tăng khi được thưởng và giảm khi ngừng thưởng. Thưởng ngắt quãng duy trì hành vi bền hơn thưởng liên tục. Từ đó hình thành các khái niệm: củng cố dương/âm, hình phạt, tạo hình (shaping) và tắt dần.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Operant conditioning chamber",
+        "url": "https://en.wikipedia.org/wiki/Operant_conditioning_chamber"
+      },
+      {
+        "label": "Simply Psychology — Skinner Box",
+        "url": "https://www.simplypsychology.org/what-is-a-skinner-box.html"
+      }
+    ],
+    "unverified_notes": "Năm 1938 là năm Skinner công bố hệ thống điều kiện hóa tạo tác trong sách 'The Behavior of Organisms'; hộp được chế tạo từ thời ông còn là nghiên cứu sinh Harvard đầu thập niên 1930.",
+    "verified": true,
+    "vi_name": "Hộp Skinner — Điều kiện hóa tạo tác",
+    "year": 1938
+  },
+  {
+    "controversy": "Thấp",
+    "controversy_text": "Ít tranh cãi về đường cong học tập — đã được tái lập. Lưu ý: Thorndike sau này (khoảng 1930) tự sửa luật hiệu ứng: ông thấy thưởng củng cố hành vi rõ rệt, nhưng phạt chỉ làm hành vi yếu đi tạm thời chứ không 'xóa' nó hiệu quả như ông từng nghĩ. Ngoài ra, mèo trong hộp là mô hình đơn giản, khó khái quát sang học tập phức tạp ở người.",
+    "en_name": "Thorndike's Puzzle Box — The Law of Effect",
+    "field": "Hanh vi va Hoc tap",
+    "id": "tn-33",
+    "image": {
+      "author": "Edward L. Thorndike",
+      "caption": "Bản vẽ gốc hộp đố của Thorndike trong 'Animal Intelligence' (1898)",
+      "license": "Public domain (xuất bản 1898)",
+      "page": "https://commons.wikimedia.org/wiki/File:Original_%22Puzzle_Box%22_Apparatus_Design.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Original_%22Puzzle_Box%22_Apparatus_Design.png"
+    },
+    "lesson": "Học thường là quá trình dần dần 'đóng dấu' hành vi thành công và 'xóa' hành vi vô ích, chứ không phải khoảnh khắc bừng tỉnh. Luật hiệu ứng là tiền thân trực tiếp của điều kiện hóa tạo tác và mọi hệ thống thưởng-phạt hiện đại.",
+    "method": "Thorndike nhốt mèo đói vào hộp đố (khoảng 50×38×30 cm) có cửa mở khi mèo gạt cần hoặc kéo vòng; bên ngoài đặt thức ăn. Ông bấm giờ từng lần mèo thoát ra và lặp lại nhiều lần với cùng một con mèo. Ông cũng thử cho mèo quan sát mèo khác thoát ra trước để xem chúng có học qua quan sát không.",
+    "researcher": "Edward L. Thorndike",
+    "results": "Lúc đầu mèo cào, cắn, đi loanh quanh ngẫu nhiên; sau nhiều lần thử, thời gian thoát giảm dần theo đường cong học tập dốc xuống rồi phẳng lại. Mèo được quan sát mèo khác cũng không học nhanh hơn — cho thấy học qua thử-và-sai chứ không phải qua suy luận hay bắt chước. Từ đó Thorndike phát biểu luật hiệu ứng: phản ứng mang lại kết quả dễ chịu sẽ được lặp lại, phản ứng gây khó chịu sẽ bị loại bỏ.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Law of effect",
+        "url": "https://en.wikipedia.org/wiki/Law_of_effect"
+      },
+      {
+        "label": "Simply Psychology — Edward Thorndike: Law of Effect",
+        "url": "https://www.simplypsychology.org/edward-thorndike.html"
+      }
+    ],
+    "unverified_notes": "Con số thời gian thoát cụ thể (phút → giây) khác nhau giữa các nguồn tóm tắt nên không ghi số tuyệt đối trong mục này.",
+    "verified": true,
+    "vi_name": "Hộp đố của Thorndike — Luật hiệu ứng",
+    "year": 1898
+  },
+  {
+    "controversy": "Rất cao",
+    "controversy_text": "Rất cao — về đạo đức và phương pháp. Chỉ có 1 đối tượng duy nhất (N=1), không có nhóm đối chứng, không thử gỡ bỏ nỗi sợ cho bé. Mẹ của Albert là y tá nuôi trong bệnh viện, có thể đã cảm thấy bị ép phải đồng ý. Danh tính 'Albert thật' vẫn tranh cãi: Beck và cộng sự (2009) cho là Douglas Merritte (mất năm 6 tuổi vì bệnh thần kinh), Powell và cộng sự (2014) cho là William Albert Barger (sống tới ngoài 80 tuổi). Việc nỗi sợ có lan rộng như sách kể hay không cũng bị nghi ngờ khi đọc lại báo cáo gốc.",
+    "en_name": "The Little Albert Experiment",
+    "field": "Hanh vi va Hoc tap",
+    "id": "tn-34",
+    "image": {
+      "author": "John B. Watson",
+      "caption": "Ảnh cắt từ phim thí nghiệm Bé Albert (1920)",
+      "license": "Public domain tại Mỹ (xuất bản trước 1931)",
+      "page": "https://commons.wikimedia.org/wiki/File:Little-albert_(cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Little-albert_%28cropped%29.jpg"
+    },
+    "lesson": "Cảm xúc, kể cả nỗi sợ, có thể được học qua điều kiện hóa — đây là bằng chứng kinh điển của chủ nghĩa hành vi. Nhưng bài học lớn hơn nằm ở đạo đức: thí nghiệm này là lý do ngày nay mọi nghiên cứu trên người đều phải qua hội đồng đạo đức và có sự đồng ý đầy đủ.",
+    "method": "Watson và Rayner chọn Albert B., bé trai 9 tháng tuổi khỏe mạnh, sống trong bệnh viện, được mô tả là điềm tĩnh, ít khóc. Trước thí nghiệm, Albert được cho tiếp xúc với chuột trắng, thỏ, chó, khỉ, mặt nạ, bông gòn, báo cháy... và không sợ thứ gì. Khi Albert khoảng 11 tháng, mỗi lần bé chạm vào chuột trắng, các nhà nghiên cứu gõ mạnh thanh thép sau lưng bé. Sau vài lần ghép đôi, chỉ cần thấy chuột là Albert khóc và bò tránh.",
+    "researcher": "John B. Watson & Rosalie Rayner",
+    "results": "Albert hình thành nỗi sợ chuột trắng dù trước đó không sợ. Nỗi sợ dường như lan sang các vật tương tự như thỏ, chó, áo lông và mặt nạ có râu — tuy nhiên bản báo cáo gốc không cho thấy sợ lan theo màu sắc hay chất liệu một cách rõ ràng như sách giáo khoa thường kể. Albert rời bệnh viện khi khoảng 1 tuổi, ngay sau thí nghiệm, và nỗi sợ không bao giờ được 'gỡ bỏ'.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Little Albert experiment",
+        "url": "https://en.wikipedia.org/wiki/Little_Albert_experiment"
+      },
+      {
+        "label": "Simply Psychology — Little Albert Experiment (Watson & Rayner)",
+        "url": "https://www.simplypsychology.org/little-albert.html"
+      }
+    ],
+    "unverified_notes": "Danh tính Albert chưa ngã ngũ — đã ghi cả hai giả thuyết trong mục tranh cãi.",
+    "verified": true,
+    "vi_name": "Thí nghiệm 'Bé Albert' — Điều kiện hóa nỗi sợ ở trẻ",
+    "year": 1920
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Trung bình — ý tưởng bản đồ nhận thức được chấp nhận rộng rãi và có cơ sở thần kinh (tế bào vị trí ở hồi hải mã), nhưng thí nghiệm 'sunburst maze' gốc khó tái lập trọn vẹn: các lần lặp lại sau cho kết quả yếu hơn, và chuột thí nghiệm thuộc dòng chuột được lai tạo riêng để chạy mê cung giỏi (dòng Tryon), nên khó khái quát. Con số 36% lấy từ nguồn tóm tắt thứ cấp, chưa đối chiếu trực tiếp bài báo gốc 1946.",
+    "en_name": "Tolman's Cognitive Map Experiments (Sunburst Maze)",
+    "field": "Hanh vi va Hoc tap",
+    "id": "tn-35",
+    "image": null,
+    "lesson": "Học không chỉ là ghi nhớ chuỗi động tác; sinh vật xây dựng mô hình nội tâm về môi trường và dùng nó để ứng biến linh hoạt. Đây là cầu nối từ chủ nghĩa hành vi sang tâm lý học nhận thức, và là tiền thân của nghiên cứu về tế bào vị trí (place cells) trong não.",
+    "method": "Chuột được huấn luyện chạy theo một lối đi ngoằn ngoèo duy nhất từ điểm xuất phát tới hộp thức ăn, qua nhiều đêm. Sau đó lối đi cũ bị chặn và thay bằng 18 lối đi mới xòe ra như nan quạt ('sunburst maze') từ một bàn tròn ở giữa. Một trong các lối (lối số 6) chỉ thẳng về hướng hộp thức ăn — lối mà chuột chưa từng đi qua. Tolman cũng làm thí nghiệm học tiềm ẩn: chuột chạy mê cung không thưởng vẫn học được bố cục, và khi có thưởng thì chạy nhanh hẳn lên.",
+    "researcher": "Edward C. Tolman (với Benbow Ritchie & Donald Kalish)",
+    "results": "Nhiều chuột chọn lối số 6 — lối tắt chưa từng đi — thay vì chỉ lặp lại chuỗi rẽ trái/phải đã học (theo bản tóm tắt thứ cấp, khoảng 36% chọn lối này). Chuột học tiềm ẩn cũng chứng minh chúng học được bố cục mê cung ngay cả khi chưa được thưởng. Tolman kết luận chuột hình thành 'bản đồ nhận thức' — biểu tượng nội tâm về không gian — chứ không chỉ chuỗi phản xạ kích thích-phản ứng.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Cognitive map",
+        "url": "https://en.wikipedia.org/wiki/Cognitive_map"
+      },
+      {
+        "label": "Britannica — Edward C. Tolman",
+        "url": "https://www.britannica.com/biography/Edward-C-Tolman"
+      },
+      {
+        "label": "Science Insights — Who Developed the Concept of the Cognitive Map?",
+        "url": "https://scienceinsights.org/who-developed-the-concept-of-the-cognitive-map/"
+      }
+    ],
+    "unverified_notes": "Chưa đối chiếu trực tiếp bài báo gốc Tolman, Ritchie & Kalish (1946); con số 36% lấy từ nguồn thứ cấp (scienceinsights.org). Ảnh: chân dung Tolman trên Wikipedia có dùng trên Commons (File:Tolman, E.C. portrait.jpg, ảnh Dorothy Moore khoảng 1936, UC Archives) nhưng bản text fetch trang Commons không hiển thị rõ giấy phép nên để image=null cho an toàn.",
+    "verified": false,
+    "vi_name": "Mê cung của Tolman — Bản đồ nhận thức",
+    "year": 1948
+  },
+  {
+    "controversy": "Cao",
+    "controversy_text": "Cao — về đạo đức và cơ chế. Thí nghiệm dùng điện giật trên chó, ngày nay khó được phê duyệt; nhà phê bình Alastair Norcross cho rằng lợi ích cho con người không xứng với tổn hại gây ra cho chó. Về cơ chế: chính Maier và Seligman năm 2016 đã đảo ngược giải thích gốc — họ kết luận sự thụ động là phản ứng mặc định của não trước sự kiện xấu kéo dài, còn 'học được sự kiểm soát' mới là thứ thay đổi phản ứng đó; nói cách khác, 'bất lực học được' như sách giáo khoa kể trong 40 năm là chưa đúng về cơ chế. Các con số chi tiết (giây, tỉ lệ) trong mục này lấy từ nguồn tóm tắt thứ cấp (Simply Psychology), chưa đối chiếu trực tiếp bài báo gốc 1967.",
+    "en_name": "Seligman's Learned Helplessness Experiment",
+    "field": "Hanh vi va Hoc tap",
+    "id": "tn-36",
+    "image": {
+      "author": "D. Myles Cullen (Bộ Quốc phòng Mỹ)",
+      "caption": "Martin Seligman thuyết trình tại Đại học Pennsylvania, 16/11/2009",
+      "license": "Public domain (ảnh của Bộ Quốc phòng Mỹ)",
+      "page": "https://commons.wikimedia.org/wiki/File:Martin_Seligman_Philadelphia_2009.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Martin_Seligman_Philadelphia_2009.jpg"
+    },
+    "lesson": "Khi một sinh vật học được rằng 'dù làm gì cũng không thay đổi được kết quả', nó có thể bỏ cuộc ngay cả khi hoàn cảnh đã thay đổi. Đây là mô hình động vật có ảnh hưởng lớn cho nghiên cứu trầm cảm — và cũng là lời nhắc: cảm giác mất kiểm soát có thể học được, và do đó cũng có thể 'học lại' được.",
+    "method": "24 con chó được chia 3 nhóm, mỗi nhóm 8 con. Nhóm 1 chỉ đeo đai một lúc rồi thả. Nhóm 2 và 3 là cặp 'yoked': nhóm 2 bị điện giật và có thể dừng giật bằng cách gạt cần; nhóm 3 nhận cú giật y hệt (cùng cường độ, thời gian) nhưng cần gạt không có tác dụng. Hôm sau, cả ba nhóm được thử trong hộp hai ngăn (shuttle box): chó có thể nhảy qua vách thấp để tránh giật.",
+    "researcher": "Martin E. P. Seligman & Steven F. Maier",
+    "results": "Chó nhóm 1 và nhóm 2 nhanh chóng học nhảy qua vách để thoát. Phần lớn chó nhóm 3 — từng trải qua giật không thể kiểm soát — chỉ nằm im và rên khi bị giật dù hoàn toàn có thể nhảy thoát (theo bản tóm tắt thứ cấp: 6/8 chó nhóm 'yoked' không thoát được trong ít nhất 9/10 lần thử; thời gian thoát trung bình 48,22 giây so với 27 giây ở nhóm thoát được và 25,93 giây ở nhóm đối chứng). Khi các nhà nghiên cứu bế chó và di chuyển chân chúng qua vách vài lần, chó mới bắt đầu tự nhảy thoát.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Learned helplessness",
+        "url": "https://en.wikipedia.org/wiki/Learned_helplessness"
+      },
+      {
+        "label": "Simply Psychology — Learned Helplessness Experiment",
+        "url": "https://www.simplypsychology.org/learned-helplessness-experiment.html"
+      }
+    ],
+    "unverified_notes": "Chưa đối chiếu trực tiếp bài báo gốc Seligman & Maier (1967); số liệu chi tiết (giây, tỉ lệ 6/8) lấy từ nguồn thứ cấp Simply Psychology.",
+    "verified": false,
+    "vi_name": "Thí nghiệm bất lực học được của Seligman",
+    "year": 1967
+  },
+  {
+    "controversy": "Thấp",
+    "controversy_text": "Ít tranh cãi về kết quả — hiệu ứng Garcia đã được tái lập nhiều lần và ứng dụng rộng rãi. Lưu ý lịch sử: khi mới công bố, kết quả bị giới học thuật hoài nghi và nhiều tạp chí từ chối đăng, vì nó mâu thuẫn với lý thuyết điều kiện hóa thời đó cho rằng mọi liên kết đều tuân theo cùng một quy tắc. Ngày nay tranh cãi chỉ còn ở mức giải thích cơ chế thần kinh chi tiết, không phải ở bản thân hiện tượng.",
+    "en_name": "The Garcia Effect — Conditioned Taste Aversion",
+    "field": "Hanh vi va Hoc tap",
+    "id": "tn-37",
+    "image": null,
+    "lesson": "Não không liên kết mọi thứ một cách bình đẳng: vị giác 'thuộc về' bệnh tật, còn ánh sáng/âm thanh 'thuộc về' đau đớn bên ngoài — đó là học tập đã được tiến hóa 'chuẩn bị sẵn'. Đây là lý do một lần ngộ độc thức ăn có thể khiến ta sợ món đó nhiều năm, và là cơ sở cho ứng dụng thực tế như huấn luyện thú hoang tránh gia súc bằng thức ăn gây buồn nôn nhẹ.",
+    "method": "Garcia nghiên cứu tác động của phóng xạ trên chuột và nhận thấy chuột chán nước uống có vị sau khi bị chiếu xạ. Trong thí nghiệm quyết định (Garcia & Koelling, 1966), chuột được uống nước vừa ngọt (saccharin), vừa sáng và kêu lách cách mỗi lần liếm. Một nhóm sau đó bị gây buồn nôn (phóng xạ hoặc tiêm lithium chloride), nhóm kia bị điện giật nhẹ ở chân. Thí nghiệm đầu tiên (Garcia, Kimeldorf & Koelling, 1955) cho chuột uống nước saccharin rồi chiếu xạ gamma.",
+    "researcher": "John Garcia (với Robert A. Koelling & Frank R. Ervin)",
+    "results": "Chuột bị gây buồn nôn sau đó tránh vị ngọt nhưng vẫn uống nước sáng-kêu bình thường; chuột bị điện giật thì tránh nước sáng-kêu nhưng vẫn uống nước ngọt. Ác cảm hình thành chỉ sau một lần thử duy nhất và dù khoảng cách giữa uống và ốm lên tới 75 phút (Garcia, Ervin & Koelling, 1966). Điều này phá vỡ quy tắc 'điều kiện hóa cần lặp lại nhiều lần và xảy ra gần như ngay lập tức'.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Conditioned taste aversion",
+        "url": "https://en.wikipedia.org/wiki/Conditioned_taste_aversion"
+      },
+      {
+        "label": "APA Dictionary of Psychology — Garcia effect",
+        "url": "https://dictionary.apa.org/garcia-effect"
+      },
+      {
+        "label": "EBSCO Research Starters — Taste aversion",
+        "url": "https://www.ebsco.com/research-starters/health-and-medicine/taste-aversion/"
+      }
+    ],
+    "unverified_notes": "Năm 1966 là năm của thí nghiệm 'cue-to-consequence' quyết định; thí nghiệm saccharin-phóng xạ đầu tiên công bố năm 1955. Không tìm được chân dung John Garcia có giấy phép tự do xác minh được trên Wikimedia Commons nên để image=null.",
+    "verified": true,
+    "vi_name": "Hiệu ứng Garcia — Ác cảm vị giác có điều kiện",
+    "year": 1966
+  },
+  {
+    "controversy": "Cao",
+    "controversy_text": "Cao — về cách diễn giải, không phải về dữ kiện quan sát. Staddon và Simmelhag (1971) lặp lại thí nghiệm và thấy hành vi tương tự nhưng cho rằng đó là hành vi đặc trưng của loài khi chờ thức ăn, không phải 'mê tín' do củng cố. Một nghiên cứu lặp lại năm 2020 cũng nghiêng về giải thích hành vi loài. Ngoài ra, về mặt kỹ thuật, quy trình này là điều kiện hóa cổ điển theo thời gian (thức ăn đến theo đồng hồ), chứ không phải điều kiện hóa tạo tác như Skinner trình bày. Bản thân Skinner chỉ quan sát bằng mắt (không ghi tự động) trong thí nghiệm này — điểm khác biệt so với các nghiên cứu khác của ông.",
+    "en_name": "'Superstition' in the Pigeon",
+    "field": "Hanh vi va Hoc tap",
+    "id": "tn-38",
+    "image": {
+      "author": "Bd008",
+      "caption": "Hộp Skinner dùng cho chuột (cùng loại thiết bị dùng trong thí nghiệm bồ câu)",
+      "license": "CC-BY-SA",
+      "page": "https://commons.wikimedia.org/wiki/File:Skinner_box_photo_02.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Skinner_box_photo_02.jpg"
+    },
+    "lesson": "Khi phần thưởng đến trùng lúc với một hành vi ngẫu nhiên, não rất dễ 'đọc' ra quan hệ nhân quả không có thật. Đây là cơ chế đằng sau mê tín, nghi lễ cầu may và cả ảo giác kiểm soát — từ việc mặc 'áo may mắn' tới việc tin một thói quen nào đó giúp giao dịch chứng khoán thắng.",
+    "method": "Skinner cho 8 con bồ câu đói (giảm còn 75% trọng lượng bình thường) vào lồng, gắn máy phát thức ăn tự động theo đồng hồ: cứ mỗi 15 giây khay thức ăn lại hiện ra 5 giây, hoàn toàn không phụ thuộc vào hành vi của chim. Chim chỉ cần chờ và ăn. Skinner quan sát và ghi lại hành vi của từng con trong các buổi thử kéo dài vài phút mỗi ngày.",
+    "researcher": "B. F. Skinner",
+    "results": "6/8 con bồ câu hình thành các 'nghi thức' lặp lại rõ rệt: một con xoay ngược chiều kim đồng hồ 2–3 vòng giữa các lần ăn, một con liên tục húc đầu vào góc lồng, một con làm động tác 'hất' đầu như nâng thanh vô hình, hai con lắc đầu qua lại như con lắc. Skinner kết luận chim hành xử như thể hành vi của chúng gây ra thức ăn — một dạng 'mê tín' — và liên hệ với các nghi lễ của con người như cầu may khi đánh bài.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — B. F. Skinner ('Superstition' in the Pigeon)",
+        "url": "https://en.wikipedia.org/wiki/B.F._Skinner"
+      },
+      {
+        "label": "Bản gốc Skinner (1948) — Classics in the History of Psychology, York University",
+        "url": "http://psychclassics.yorku.ca/Skinner/Pigeon/"
+      }
+    ],
+    "unverified_notes": "Số liệu 6/8 chim và chu kỳ 15 giây lấy từ bài báo gốc Skinner (1948) qua bản lưu trữ York University (psychclassics).",
+    "verified": true,
+    "vi_name": "Thí nghiệm 'mê tín' ở bồ câu của Skinner",
+    "year": 1948
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Trung bình — về phương pháp, không phải về ý tưởng. Đây là nghiên cứu trường hợp trên 1 trẻ duy nhất (N=1), không có nhóm đối chứng, các buổi quan sát cách nhau không đều (có lúc 2 lần/ngày, có lúc cách nhau 2 tháng), và tiến triển thụt lùi nhiều lần. Không thể khẳng định chắc chắn phần nào của cải thiện đến từ điều kiện hóa trực tiếp, phần nào từ việc chơi cùng bạn không sợ thỏ hay đơn giản là Peter lớn lên. Dù vậy, ý tưởng cốt lõi đã được kiểm chứng rộng rãi trong trị liệu hiện đại.",
+    "en_name": "The Little Peter Experiment",
+    "field": "Hanh vi va Hoc tap",
+    "id": "tn-39",
+    "image": null,
+    "lesson": "Nỗi sợ học được thì cũng gỡ được — bằng cách tiếp xúc từng bước nhỏ trong khi trải nghiệm dễ chịu vẫn diễn ra. Đây là nền móng của liệu pháp giải mẫn cảm (desensitization) và liệu pháp phơi nhiễm trong trị liệu lo âu, ám ảnh ngày nay. Jones được Joseph Wolpe gọi là 'mẹ của liệu pháp hành vi'.",
+    "method": "Peter, bé trai 2 tuổi 10 tháng (IQ 102 theo thang Kuhlmann-Binet), sợ chuột trắng, thỏ, áo lông, lông vũ và bông gòn nhưng không sợ đồ chơi gỗ. Jones chọn thỏ — thứ Peter sợ nhất — để 'gỡ sợ'. Mỗi ngày Peter chơi cùng ba trẻ khác không sợ thỏ, trong khi thỏ trong lồng được đưa lại gần dần: từ 12 feet (khoảng 3,6 m) tới gần, rồi thỏ tự do trong phòng, rồi Peter chạm và ôm thỏ. Từ buổi thứ 8, Jones kết hợp cho Peter ăn món bé thích trong lúc thỏ ở gần — gọi là 'điều kiện hóa trực tiếp'. Tiến triển được ghi theo thang 17 mức chịu đựng (A–Q).",
+    "researcher": "Mary Cover Jones",
+    "results": "Tiến triển không đều: có lúc Peter tiến nhanh, có lúc thụt lùi — sau khi bị thỏ cào và ngã, hay sau hai tháng nghỉ ốm vì sốt tinh hồng nhiệt và một lần bị chó lớn dọa. Nhưng cuối cùng Peter thực sự quý thỏ: để thỏ gặm ngón tay, ôm thỏ vào lòng. Nỗi sợ áo lông, lông vũ và bông gòn biến mất; sợ chuột và thảm lông cũng giảm nhiều. Đây là nghiên cứu đầu tiên cho thấy nỗi sợ có thể được gỡ bỏ có hệ thống bằng điều kiện hóa.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Mary Cover Jones",
+        "url": "https://en.wikipedia.org/wiki/Mary_Cover_Jones"
+      },
+      {
+        "label": "Bản gốc Jones (1924) — Classics in the History of Psychology, York University",
+        "url": "https://psychclassics.yorku.ca/Jones/"
+      }
+    ],
+    "unverified_notes": "Tuổi Peter (2 tuổi 10 tháng), IQ 102 và thang 17 mức A–Q lấy từ bài báo gốc Jones (1924) qua bản lưu trữ York University. Ảnh: chân dung Jones từ kỷ yếu Vassar 1919 có trên Wikipedia nhưng chưa xác minh được tên file/giấy phép trên Commons nên để image=null.",
+    "verified": true,
+    "vi_name": "Thí nghiệm 'Bé Peter' — Gỡ bỏ nỗi sợ bằng điều kiện hóa",
+    "year": 1924
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Trung bình — ý tưởng in dấu được chấp nhận, nhưng ba điểm gốc của Lorenz đã được sửa lại: (1) 'Giai đoạn quyết định' cứng nhắc nay được hiểu là 'giai đoạn nhạy cảm' — ranh giới mờ dần theo loài và hành vi. (2) Tính không thể đảo ngược không còn đúng tuyệt đối: Guiton (1966) cho thấy tiếp xúc sau đó với đồng loài có thể đảo ngược một phần. (3) Lorenz không phải người đầu tiên phát hiện hiện tượng này — Douglas Spalding mô tả năm 1873 và Oskar Heinroth đã nghiên cứu có hệ thống từ 1911; công của Lorenz là biến nó thành biến số thí nghiệm và đưa ra khái niệm giai đoạn quyết định. Ngoài ra, Lorenz từng gia nhập Đảng Quốc xã năm 1938 và có các bài viết mang ngôn ngữ chính sách chủng tộc thời đó — đây là vết nhơ trong tiểu sử ông, không làm thay đổi dữ kiện thí nghiệm nhưng cần được biết khi trích dẫn ông.",
+    "en_name": "Lorenz's Imprinting Experiment with Greylag Geese",
+    "field": "Hanh vi va Hoc tap",
+    "id": "tn-40",
+    "image": {
+      "author": "Max Planck Gesellschaft",
+      "caption": "Konrad Lorenz (phải) cùng Nikolaas Tinbergen, 1978",
+      "license": "CC-BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Lorenz_and_Tinbergen1.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Lorenz_and_Tinbergen1.jpg"
+    },
+    "lesson": "Gắn bó sớm có thể là bản năng, không cần dựa trên việc được cho ăn — phát hiện này giúp John Bowlby xây dựng lý thuyết gắn bó ở người. Nó cũng nhắc rằng những giờ đầu đời có 'cửa sổ' đặc biệt nhạy cảm, và trải nghiệm trong cửa sổ đó có thể để lại dấu ấn dài lâu.",
+    "method": "Lorenz chia một ổ trứng ngỗng xám thành hai nửa: một nửa nở tự nhiên dưới ngỗng mẹ, nửa còn lại nở trong lồng ấp và vật chuyển động lớn đầu tiên ngỗng con nhìn thấy sau khi nở là chính Lorenz. Ông đánh dấu từng con để phân biệt nhóm, rồi thả chung cả hai nhóm dưới một chiếc hộp úp ngược; khi nhấc hộp lên, mỗi nhóm đi về phía 'mẹ' của mình. Ông cũng thay đổi khoảng thời gian từ lúc nở tới lúc nhìn thấy vật chuyển động để đo 'giai đoạn quyết định'.",
+    "researcher": "Konrad Lorenz",
+    "results": "Ngỗng nở với mẹ đi theo mẹ; ngỗng nở trong lồng ấp đi theo Lorenz và kêu gọi ông như mẹ thật — dù không hề được ông cho ăn. Gắn bó hình thành trong vài giờ sau khi nở, mạnh nhất khoảng 12–17 giờ sau nở (theo Hess, 1958) và hiếm khi xảy ra sau khoảng 32 giờ. Lorenz gọi đó là 'in dấu' (imprinting): gắn bó nhanh, tự động, không cần thưởng. Ngỗng in dấu lên người sau này còn hướng cả hành vi giao phối về phía người.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Konrad Lorenz",
+        "url": "https://en.wikipedia.org/wiki/Konrad_Lorenz"
+      },
+      {
+        "label": "Simply Psychology — Imprinting Psychology: Konrad Lorenz Theory",
+        "url": "https://www.simplypsychology.org/konrad-lorenz.html"
+      }
+    ],
+    "unverified_notes": "Khoảng 12–17 giờ và 32 giờ lấy từ nguồn thứ cấp (Simply Psychology, dẫn Hess 1958); năm 1935 là năm công bố 'Der Kumpan in der Umwelt des Vogels'.",
+    "verified": true,
+    "vi_name": "Thí nghiệm in dấu của Lorenz — Ngỗng con theo 'mẹ' đầu tiên",
+    "year": 1935
+  },
+  {
+    "controversy": "Cao",
+    "controversy_text": "Tranh cãi cao. Các nỗ lực tái lập đã thất bại hoặc cho kết quả yếu: Marshall và Zimbardo (1979) thấy người đóng giả hưng phấn gần như không làm tăng cảm xúc hưng phấn của người tham gia; Maslach (1979) dùng thôi miên thay cho epinephrine thì chỉ thu được cảm xúc tiêu cực trong mọi nhóm. Reisenzein (1983) phân tích lại dữ liệu gốc và cho rằng hiệu ứng yếu hơn nhiều so với báo cáo, một số điều kiện không cho ra khác biệt như dự đoán. Ngoài ra, lý thuyết giả định kích thích sinh lý là 'không phân biệt được', nhưng nghiên cứu sau này cho thấy sợ hãi và giận dữ có dấu hiệu sinh lý khác nhau. Vì vậy thí nghiệm được coi là có tầm ảnh hưởng lịch sử lớn nhưng kết quả gốc không vững như sách giáo khoa thường trình bày.",
+    "en_name": "Schachter–Singer Two-Factor Theory Experiment (Epinephrine Study)",
+    "field": "Cam xuc, Dong luc, Nhan cach",
+    "id": "tn-41",
+    "image": null,
+    "lesson": "Cùng một trạng thái cơ thể (tim đập nhanh, tay run) có thể được cảm nhận thành những cảm xúc khác nhau tùy vào cách ta giải thích nó. Cảm xúc không chỉ là phản ứng sinh học mà còn là một quá trình 'đặt tên' cho cảm giác dựa vào bối cảnh. Bài học này là nền tảng của nhiều nghiên cứu sau này về việc hiểu lầm nguồn gốc cảm xúc và cách bối cảnh định hình cảm nhận của ta.",
+    "method": "Các sinh viên nam được bảo rằng họ sẽ được tiêm một loại thuốc mới tên Suproxin để kiểm tra thị lực, nhưng thực ra họ được tiêm epinephrine (adrenaline, gây tăng nhịp tim, run tay, đỏ mặt) hoặc giả dược nước muối. Họ được chia thành bốn nhóm: được báo trước đúng tác dụng phụ, được báo sai tác dụng phụ, không được báo gì, và nhóm giả dược. Sau đó mỗi người được đặt vào phòng cùng một người đóng giả, người này diễn vai hưng phấn hoặc giận dữ, trong khi các nhà nghiên cứu quan sát qua gương một chiều và đo nhịp tim, rồi cho làm bảng hỏi về cảm xúc.",
+    "notes": "Chưa kiểm chứng: số lượng người tham gia chính xác còn mâu thuẫn giữa các nguồn thứ cấp (EBSCO ghi 184, Simply Psychology ghi 185) nên trong mục này không ghi con số cụ thể. Không tìm được ảnh tự do đã xác minh của Schachter hoặc Singer nên image = null.",
+    "researcher": "Stanley Schachter và Jerome E. Singer",
+    "results": "Những người tiêm epinephrine nhưng không biết hoặc bị báo sai về tác dụng phụ dễ bị 'nhiễm' cảm xúc của người đóng giả nhất: nhóm bị báo sai cảm thấy hưng phấn mạnh nhất, nhóm không được báo gì cảm thấy giận dữ mạnh nhất. Ngược lại, nhóm được báo trước đúng tác dụng phụ và nhóm giả dược ít bị ảnh hưởng. Kết quả ủng hộ giả thuyết rằng cảm xúc = kích thích sinh lý + nhãn nhận thức mà người ta gán cho sự kích thích đó dựa trên gợi ý của môi trường.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Two-factor theory of emotion",
+        "url": "https://en.wikipedia.org/wiki/Two-factor_theory_of_emotion"
+      },
+      {
+        "label": "Simply Psychology — Schachter-Singer Two-Factor Theory",
+        "url": "https://www.simplypsychology.org/schachter-singer-theory.html"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm hai yếu tố cảm xúc Schachter–Singer (nghiên cứu adrenaline)",
+    "year": 1962
+  },
+  {
+    "controversy": "Cao",
+    "controversy_text": "Tranh cãi cao. Bốn lần tái lập hiệu ứng sợ hãi–hấp dẫn trong phòng thí nghiệm đã không tìm ra hiệu ứng; bản thân nghiên cứu gốc có mẫu nhỏ và chỉ khảo sát đàn ông dị tính với phỏng vấn viên nữ, nên kết quả khó khái quát hóa. Hiệu ứng dường như phụ thuộc nhiều vào thời điểm (phải phỏng vấn ngay khi nhịp tim còn cao) và bối cảnh. Tuy nhiên, các nghiên cứu sau này — ví dụ người vừa xuống tàu lượn đánh giá ảnh người lạ hấp dẫn hơn — vẫn ủng hộ ý tưởng hẹp hơn: kích thích còn sót lại từ một việc có thể làm tăng cường cảm xúc về một việc khác.",
+    "en_name": "Dutton–Aron Suspension Bridge Experiment (Misattribution of Arousal)",
+    "field": "Cam xuc, Dong luc, Nhan cach",
+    "id": "tn-42",
+    "image": null,
+    "lesson": "Cơ thể ta không phải lúc nào cũng biết rõ vì sao tim mình đập nhanh — và bộ não có thể gán nhầm sự kích thích đó cho người đang ở trước mặt. Đây là lý do vì sao những trải nghiệm mạnh (xem phim kinh dị, đi tàu lượn, tập thể thao cùng nhau) có thể làm tăng cảm giác rung động. Bài học thực tế: đừng vội tin rằng cảm xúc mãnh liệt trong một hoàn cảnh căng thẳng chắc chắn là 'tình yêu sét đánh'.",
+    "method": "Nghiên cứu được làm ngoài đời thực tại Vancouver, Canada. Một nữ phỏng vấn viên tiếp cận những người đàn ông đi một mình sau khi họ đi qua một trong hai cây cầu: cầu treo Capilano cao, hẹp, dài khoảng 140 m, đung đưa trên vực sâu (gây sợ hãi, tim đập nhanh), hoặc một cây cầu gỗ thấp, vững chắc bắc qua con suối nhỏ. Cô nhờ họ viết một câu chuyện ngắn dựa trên một bức tranh mơ hồ, rồi đưa số điện thoại của mình 'để hỏi thêm về nghiên cứu'. Một điều kiện đối chứng khác: phỏng vấn sau khi người đi cầu treo đã nghỉ ngơi cho nhịp tim trở lại bình thường. Một phiên bản đối chứng nữa dùng phỏng vấn viên nam.",
+    "notes": "Chưa kiểm chứng: tra cứu ảnh cầu treo Capilano trên Wikimedia Commons bị chặn (lỗi 429) nên không xác minh được ảnh tự do, image = null. Các con số 9/18, 2/16 và 2,47/1,41 lấy từ bài tổng hợp có trích dẫn Dutton & Aron (1974), J. Pers. Soc. Psychol. 30(4): 510–517.",
+    "researcher": "Donald G. Dutton và Arthur P. Aron",
+    "results": "Đàn ông vừa đi qua cầu treo viết câu chuyện có nội dung tình dục nhiều hơn (điểm trung bình 2,47 so với 1,41 ở cầu thấp, thang 1–5). Trong số những người đã lấy số điện thoại, 9 trên 18 người ở cầu treo đã gọi lại, so với chỉ 2 trên 16 người ở cầu thấp. Khi phỏng vấn viên là nam, sự khác biệt giữa hai cây cầu biến mất. Các tác giả kết luận rằng nỗi sợ từ cây cầu đã bị 'gán nhầm' thành sự hấp dẫn đối với người phỏng vấn.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Misattribution of arousal",
+        "url": "https://en.wikipedia.org/wiki/Misattribution_of_arousal"
+      },
+      {
+        "label": "Wikipedia EN — Two-factor theory of emotion (trích dẫn Dutton & Aron 1974)",
+        "url": "https://en.wikipedia.org/wiki/Two-factor_theory_of_emotion"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm cầu treo Dutton–Aron (hiểu lầm nguồn gốc kích thích)",
+    "year": 1974
+  },
+  {
+    "controversy": "Cao",
+    "controversy_text": "Tranh cãi cao. Các nhà phê bình (Russell 1994; Nelson & Russell 2013; Gendron, Crivelli & Barrett 2018) cho rằng phương pháp chọn-trong-số-các-lựa-chọn-có-sẵn đã 'thổi phồng' mức đồng thuận, vì người tham gia bị ép phải chọn một từ cảm xúc do nhà nghiên cứu đưa ra. Các nghiên cứu mới từ 2008 trở đi ở nhiều xã hội quy mô nhỏ tại châu Phi và Nam Mỹ cho thấy sự đa dạng lớn hơn trong cách hiểu biểu cảm. Tổng quan của Lisa Feldman Barrett (2019) kết luận không thể suy ra một cảm xúc cụ thể một cách đáng tin cậy chỉ từ khuôn mặt. Vì vậy, khẳng định mạnh '6 cảm xúc cơ bản là phổ quát' hiện bị nghi ngờ, dù mức nhận diện cao hơn đoán mò vẫn được ghi nhận rộng rãi.",
+    "en_name": "Ekman & Friesen Cross-Cultural Facial Expression Study (Fore People of Papua New Guinea)",
+    "field": "Cam xuc, Dong luc, Nhan cach",
+    "id": "tn-43",
+    "image": {
+      "author": "Paul Ekman Group, LLC",
+      "caption": "Paul Ekman năm 2013",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Paul_Ekman_(cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Paul_Ekman_%28cropped%29.jpg"
+    },
+    "lesson": "Khuôn mặt con người có một 'ngôn ngữ' chung vượt qua biên giới văn hóa: nụ cười, cái nhăn mặt ghê tởm hay đôi mắt mở to vì sợ hãi được hiểu giống nhau ở những cộng đồng chưa từng gặp nhau. Đồng thời Ekman cũng chỉ ra 'quy tắc thể hiện' (display rules) mang tính văn hóa — mỗi nền văn hóa quy định ai được thể hiện cảm xúc nào, với ai và khi nào — nên cùng một cảm xúc có thể được bộc lộ mạnh hay kìm nén khác nhau tùy nơi.",
+    "method": "Để kiểm tra giả thuyết cho rằng một số biểu cảm khuôn mặt là bẩm sinh chứ không phải học được từ văn hóa, Ekman và Friesen mang các bức ảnh chụp khuôn mặt thể hiện cảm xúc của người Mỹ đến vùng cao nguyên Papua New Guinea. Họ làm việc với 319 người thuộc bộ tộc Fore — một cộng đồng tiền văn tự, gần như chưa từng tiếp xúc với phim ảnh, tạp chí hay người phương Tây. Với mỗi người, họ kể một câu chuyện ngắn về một tình huống cảm xúc (ví dụ: con bạn vừa chết, bạn sắp đánh nhau, bạn ngửi thấy mùi hôi thối), rồi đưa ra ba bức ảnh khuôn mặt và yêu cầu chọn khuôn mặt phù hợp với câu chuyện. Họ cũng làm chiều ngược lại: nhờ người Fore tự diễn đạt cảm xúc bằng mặt, chụp ảnh lại, rồi cho sinh viên Mỹ đoán.",
+    "notes": "Năm 1969 là năm công bố bài báo trên Science; nghiên cứu thực địa ở New Guinea diễn ra 1967–1968 và được mở rộng trong bài báo Ekman & Friesen (1971). Con số 319 người Fore lấy từ bài tổng hợp trên Psychology Today. Giấy phép ảnh CC BY-SA 3.0 theo hồ sơ tác quyền của Thư viện Quốc gia Israel dẫn lại file Commons.",
+    "researcher": "Paul Ekman, Wallace V. Friesen (cùng E. Richard Sorenson)",
+    "results": "Người Fore chọn đúng khuôn mặt tương ứng với câu chuyện ở mức cao hơn nhiều so với đoán mò, đối với các cảm xúc vui vẻ, buồn bã, giận dữ, sợ hãi, ngạc nhiên và ghê tởm. Sinh viên Mỹ cũng đọc đúng các biểu cảm do người Fore diễn đạt. Kết quả này trở thành bằng chứng nền tảng cho lý thuyết 'cảm xúc cơ bản': một số cảm xúc có tín hiệu khuôn mặt phổ quát trên toàn nhân loại, và Ekman sau đó phát triển Hệ thống mã hóa hành động trên khuôn mặt (FACS) để đo các cử động cơ mặt một cách khách quan.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Facial expression (Universality hypothesis)",
+        "url": "https://en.wikipedia.org/wiki/Facial_expression"
+      },
+      {
+        "label": "Wikipedia EN — Paul Ekman",
+        "url": "https://www.wikipedia.org/wiki/Paul_Ekman"
+      },
+      {
+        "label": "Ekman, Sorenson & Friesen (1969), Science 164(3875): 86–88 (DOI)",
+        "url": "https://doi.org/10.1126/science.164.3875.86"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Nghiên cứu biểu cảm khuôn mặt xuyên văn hóa của Ekman và Friesen (người Fore, Papua New Guinea)",
+    "year": 1969
+  },
+  {
+    "controversy": "Thấp",
+    "controversy_text": "Ít tranh cãi — hiệu ứng được tái lập rộng rãi và được củng cố bởi phân tích gộp (meta-analysis) của Bornstein (1989) trên 208 thí nghiệm, với hệ số tương quan trung bình r = 0,26. Tuy nhiên có hai giới hạn được ghi nhận: (1) quan hệ giữa tiếp xúc và thiện cảm có dạng chữ U ngược theo một phân tích gộp năm 2017 trên 268 đường cong — tiếp xúc quá nhiều sẽ gây nhàm chán và giảm thích; (2) hiệu ứng chủ yếu đúng với kích thích ban đầu trung tính hoặc hơi tích cực, còn thứ vốn đã bị ghét thì lặp lại thường chỉ làm ghét thêm. Ngoài ra, cơ chế giải thích vẫn còn tranh luận: do 'trôi chảy trong xử lý' (dễ nhận biết nên thấy thích) hay do tiếp xúc lặp lại tạo cảm giác an toàn.",
+    "en_name": "Zajonc Mere-Exposure Effect",
+    "field": "Cam xuc, Dong luc, Nhan cach",
+    "id": "tn-44",
+    "image": null,
+    "lesson": "Sự quen thuộc tự nó đã tạo ra thiện cảm. Đây là lý do vì sao một bài hát nghe lần đầu thấy bình thường, nghe vài lần lại thấy hay; vì sao quảng cáo lặp đi lặp lại có tác dụng dù ta không để ý; và vì sao ta thường tin tưởng người hay thứ mình đã gặp nhiều lần. Bài học ngược lại cũng quan trọng: cảm giác 'thích' đôi khi không phản ánh chất lượng thật của sự vật, mà chỉ phản ánh mức độ ta đã quen với nó.",
+    "method": "Zajonc đưa ra giả thuyết rằng chỉ cần tiếp xúc lặp lại với một kích thích cũng đủ làm tăng thiện cảm dành cho nó, không cần phần thưởng hay lý do gì thêm. Trong các thí nghiệm, người tham gia được cho xem những thứ hoàn toàn trung tính và xa lạ: các từ vô nghĩa 7 chữ cái được giới thiệu là 'từ tiếng Thổ Nhĩ Kỳ', các ký tự giống chữ Hán mà họ không đọc được, và ảnh chân dung tốt nghiệp của những người đàn ông lạ. Mỗi kích thích xuất hiện với tần suất khác nhau: 0, 1, 2, 5, 10 hoặc 25 lần. Người tham gia chỉ cần đọc to hoặc nhìn các kích thích; sau đó họ được hỏi đoán xem từ đó mang nghĩa tốt hay xấu, hoặc họ thích người trong ảnh đến mức nào. Ông cũng so sánh 154 cặp từ trái nghĩa trong tiếng Anh để xem từ nào được dùng thường xuyên hơn thì có được đánh giá tích cực hơn không.",
+    "notes": "Không tìm được ảnh tự do đã xác minh của Robert Zajonc nên image = null. Các con số (0–25 lần tiếp xúc, 154 cặp từ, >80%, 60% so với 48%, r = 0,26 trên 208 thí nghiệm) đều lấy từ các nguồn đã dẫn.",
+    "researcher": "Robert B. Zajonc",
+    "results": "Thiện cảm tăng theo tần suất tiếp xúc ở mọi loại kích thích, theo đường cong tăng nhanh lúc đầu rồi chậm dần — vài lần tiếp xúc đầu tiên tạo ra phần lớn hiệu ứng. Trong 154 cặp từ trái nghĩa, thành viên được dùng thường xuyên hơn được đánh giá tích cực hơn trong hơn 80% trường hợp. Thí nghiệm nổi tiếng sau đó của Kunst-Wilson và Zajonc (1980) còn cho thấy: các hình đa giác lóe lên chỉ 1 mili-giây — nhanh đến mức người xem không nhận ra mình đã thấy chúng (độ chính xác nhận diện 48%, ngang đoán mò) — vẫn được ưa thích hơn trong 60% trường hợp.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Mere-exposure effect",
+        "url": "https://en.wikipedia.org/wiki/Mere-exposure_effect"
+      },
+      {
+        "label": "Bản gốc Zajonc (1968), J. Pers. Soc. Psychol. Monograph Suppl. 9(2, Pt. 2): 1–27 (PDF, MIT)",
+        "url": "https://web.mit.edu/curhan/www/docs/Articles/biases/9_J_Personality_Social_Psychology_1_(Zajonc).pdf"
+      },
+      {
+        "label": "Simply Psychology — Mere Exposure Effect",
+        "url": "https://www.simplypsychology.org/mere-exposure-effect.html"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Hiệu ứng chỉ-cần-tiếp-xúc của Zajonc (càng quen càng thích)",
+    "year": 1968
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Tranh cãi trung bình. Hiệu ứng 'làm suy yếu' (undermining effect) đã được phân tích gộp của Deci, Koestner và Ryan (1999) trên 128 nghiên cứu xác nhận đối với phần thưởng hữu hình gắn với việc làm xong nhiệm vụ. Tuy nhiên, Cameron và Pierce (1994) từng phân tích gộp và cho rằng hiệu ứng này nhỏ hoặc không đáng kể, gây ra một cuộc tranh luận kéo dài về phương pháp phân tích gộp. Một nghiên cứu tái lập trực tiếp quy trình gốc (Peters và cộng sự, 2022) cũng đã được thực hiện, nhưng kết quả chi tiết của nó chưa được kiểm chứng trong batch này. Nhìn chung, hiệu ứng được chấp nhận là có thật nhưng phụ thuộc vào loại phần thưởng, loại nhiệm vụ và cách thưởng.",
+    "en_name": "Deci Soma Puzzle Experiment (Effects of Extrinsic Rewards on Intrinsic Motivation)",
+    "field": "Cam xuc, Dong luc, Nhan cach",
+    "id": "tn-45",
+    "image": null,
+    "lesson": "Tiền thưởng không phải lúc nào cũng là 'thêm động lực' — với những việc người ta vốn đã thích làm, trả tiền theo từng việc có thể biến niềm vui thành nghĩa vụ, và khi tiền hết thì hứng thú cũng hết theo. Bài học này là nền tảng của lý thuyết tự quyết (Self-Determination Theory) của Deci và Ryan: con người cần cảm giác tự chủ, năng lực và kết nối. Trong quản lý và giáo dục, khen ngợi cụ thể và cho quyền tự chọn thường bền vững hơn thưởng tiền cho từng nhiệm vụ.",
+    "method": "Deci muốn đo động lực nội tại bằng hành vi thay vì chỉ hỏi cảm nhận. Ông tuyển 24 sinh viên đại học, chia đều thành nhóm thí nghiệm (12 người) và nhóm đối chứng (12 người), làm việc với khối Soma — một trò xếp hình không gian 3D — trong ba buổi, mỗi buổi cách nhau ít nhất một ngày. Mỗi buổi, người tham gia được yêu cầu xếp khối thành bốn hình mẫu cho trước trong giới hạn thời gian. Ở buổi 1, không ai được thưởng. Ở buổi 2, nhóm thí nghiệm được trả 1 đô-la cho mỗi hình xếp xong đúng hạn, nhóm đối chứng vẫn không được thưởng. Ở buổi 3, không ai được thưởng nữa. Điểm mấu chốt: giữa mỗi buổi, người làm thí nghiệm giả vờ phải ra ngoài 8 phút, để người tham gia 'tự do làm gì tùy thích' — và ông bí mật ghi lại họ dành bao nhiêu giây tiếp tục chơi với khối xếp hình khi không còn ai quan sát.",
+    "notes": "Chưa kiểm chứng: kết quả chi tiết của nghiên cứu tái lập Peters và cộng sự (2022) — chỉ biết có nghiên cứu này tồn tại, chưa đọc được kết quả cụ thể nên không ghi vào mục. Không tìm được ảnh tự do đã xác minh của Edward Deci nên image = null.",
+    "researcher": "Edward L. Deci",
+    "results": "Ở buổi 2, nhóm được trả tiền dành nhiều thời gian chơi xếp hình trong giờ nghỉ hơn. Nhưng ở buổi 3, khi tiền thưởng bị rút lại, thời gian họ tự nguyện chơi tụt xuống thấp hơn cả buổi 1 — trong khi nhóm đối chứng không thay đổi đáng kể. Ngược lại, trong một thí nghiệm khác cùng loạt nghiên cứu, lời khen bằng lời nói lại làm tăng động lực nội tại. Deci kết luận: phần thưởng tiền bạc khiến người ta cảm thấy hành vi của mình bị 'mua' và bị kiểm soát, làm xói mòn cảm giác tự chủ — còn lời khen thì củng cố cảm giác năng lực.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Motivation crowding theory (trình bày thí nghiệm Deci 1971)",
+        "url": "https://en.wikipedia.org/wiki/Motivation_crowding_theory"
+      },
+      {
+        "label": "Ryan & Deci — Deci (1971) on rewards and self-determination (PDF)",
+        "url": "https://selfdeterminationtheory.org/wp-content/uploads/2019/03/2019_RyanRyanDiDomencio_Deci1971.pdf"
+      },
+      {
+        "label": "Peters et al. (2022) — Replication of Deci (1971), APA PsycNet",
+        "url": "https://psycnet.apa.org/fulltext/2022-53480-001.html"
+      }
+    ],
+    "verified": false,
+    "vi_name": "Thí nghiệm khối Soma của Deci (phần thưởng bên ngoài làm giảm động lực nội tại)",
+    "year": 1971
+  },
+  {
+    "controversy": "Thấp",
+    "controversy_text": "Ít tranh cãi — kết quả đã được tái lập nhiều lần và là một trong những phát hiện kinh điển về nhu cầu gắn kết. Hạn chế chính: mẫu nghiên cứu chỉ gồm nữ sinh viên đại học, nên chưa rõ mức độ khái quát sang nam giới và các nhóm tuổi khác; thí nghiệm dùng lừa dối (không ai thực sự bị giật) và người tham gia thực ra chưa bao giờ trải qua sự kiện căng thẳng thật, mà chỉ 'chờ đợi' nó. Ngoài ra, lời giải thích gốc của Schachter nhấn mạnh nhu cầu so sánh xã hội, trong khi các lý giải sau này nhấn mạnh thêm vai trò xoa dịu trực tiếp của sự hiện diện của người khác.",
+    "en_name": "Schachter Affiliation Under Anxiety Experiment (Misery Loves Company)",
+    "field": "Cam xuc, Dong luc, Nhan cach",
+    "id": "tn-46",
+    "image": null,
+    "lesson": "Khi sợ hãi hay căng thẳng, bản năng của con người là tìm đến nhau — và tìm đến đúng những người đang trải qua điều tương tự. Đó là lý do các nhóm hỗ trợ (bệnh nhân cùng bệnh, phụ huynh cùng hoàn cảnh, đồng nghiệp cùng áp lực) có sức mạnh đặc biệt: ta không chỉ cần ai đó bên cạnh, ta cần người hiểu đúng cảm giác của mình. Trong khủng hoảng, đừng chịu đựng một mình; tìm 'đồng đội cùng cảnh ngộ' là một chiến lược đối phó lành mạnh.",
+    "method": "Các nữ sinh viên đại học tình nguyện tham gia một nghiên cứu tâm lý. Họ được đón bởi một người đàn ông mặc áo blouse trắng, tự giới thiệu là 'Tiến sĩ Zilstein' thuộc Khoa Thần kinh – Tâm thần, đứng trước một dàn máy móc điện đồ sộ, và được bảo rằng nghiên cứu này về tác động của điện giật. Một nửa được phân ngẫu nhiên vào điều kiện lo âu cao: họ được bảo sẽ bị giật 'đau' và 'mạnh', dù không gây tổn thương vĩnh viễn. Nửa còn lại vào điều kiện lo âu thấp: điện giật chỉ 'nhẹ như bị cù'. Thực ra không ai bị giật cả — đó chỉ là câu chuyện che đậy. Trước khi 'chuẩn bị máy', họ được hỏi muốn chờ một mình trong phòng riêng hay chờ cùng những người tham gia khác. Trong các nghiên cứu tiếp theo, họ còn được chọn chờ cùng những người cũng sắp bị giật hay những người chỉ đang chờ gặp giáo sư.",
+    "notes": "Chưa kiểm chứng: chưa tìm được trang Wikipedia EN riêng cho thí nghiệm này để dẫn link (đặc tả yêu cầu Wikipedia EN bắt buộc) — hai nguồn đã dẫn là giáo trình đại học (Lumen/LibreTexts) và EBSCO; con số 63% so với 33% lấy từ giáo trình này. Không tìm được ảnh tự do đã xác minh của Stanley Schachter nên image = null.",
+    "researcher": "Stanley Schachter",
+    "results": "63% phụ nữ trong nhóm lo âu cao muốn chờ cùng người khác, so với chỉ 33% ở nhóm lo âu thấp — một khác biệt có ý nghĩa thống kê. Hơn nữa, họ không muốn chờ cùng bất kỳ ai: họ đặc biệt muốn chờ cùng những người cũng sắp chịu chung số phận bị giật mạnh, chứ không phải người ngoài cuộc. Schachter kết luận rằng khi lo âu, người ta tìm đến người khác không chỉ để được an ủi, mà còn để so sánh cảm xúc của mình với người cùng cảnh ngộ — 'nỗi khổ không chỉ thích có bạn, mà thích có bạn cùng khổ'.",
+    "sources": [
+      {
+        "label": "Principles of Social Psychology — Affiliation and Social Comparison (Lumen / LibreTexts)",
+        "url": "https://courses.lumenlearning.com/atd-herkimer-socialpsychology/chapter/the-social-self-the-role-of-the-social-situation/"
+      },
+      {
+        "label": "EBSCO Research Starters — Psychology of affiliation and friendship",
+        "url": "https://www.ebsco.com/research-starters/psychology/psychology-affiliation-and-friendship/"
+      }
+    ],
+    "verified": false,
+    "vi_name": "Thí nghiệm gắn kết khi lo âu của Schachter (hoạn nạn thì muốn có nhau)",
+    "year": 1959
+  },
+  {
+    "controversy": "Thấp",
+    "controversy_text": "Ít tranh cãi về bản thân phát hiện — hiện tượng tự kích thích não (ICSS) đã được tái lập ở mọi loài động vật có xương sống được thử nghiệm, kể cả người. Tranh cãi chủ yếu nằm ở cách diễn giải: cụm từ 'trung tâm khoái cảm' (pleasure center) là cách nói đơn giản hóa quá mức của báo chí thời đó. Nghiên cứu sau này cho thấy không có một 'trung tâm' duy nhất, mà là cả một mạng lưới phân tán gồm nhiều vùng não; và kích thích não có thể tạo ra 'muốn' (wanting, động lực) nhiều hơn là 'thích' (liking, khoái cảm) theo nghĩa chủ quan. Về mặt đạo đức, các thí nghiệm kích thích não trên người trong thập niên 1960 cũng gây tranh luận và ngày nay chịu kiểm soát rất chặt.",
+    "en_name": "Olds & Milner Brain Stimulation Reward Experiment (Pleasure Center)",
+    "field": "Cam xuc, Dong luc, Nhan cach",
+    "id": "tn-47",
+    "image": null,
+    "lesson": "Trong não có một hệ thống khen thưởng riêng — một mạch thần kinh khiến một số trải nghiệm trở nên 'đáng làm lại'. Hiểu được mạch này giúp ta hiểu vì sao phần thưởng có thể lấn át cả nhu cầu sinh tồn, và vì sao nghiện (ma túy, cờ bạc, mạng xã hội) khó cai đến vậy: chúng đều 'đi tắt' vào cùng một hệ thống. Đồng thời, phát hiện này nhắc ta rằng động lực không chỉ là chuyện ý chí — nó có nền tảng sinh học cụ thể trong não.",
+    "method": "Ban đầu Olds và Milner (Đại học McGill) chỉ định nghiên cứu vai trò của thể lưới (reticular formation) trong sự tỉnh táo và giấc ngủ ở chuột. Họ cấy điện cực nhỏ vào não chuột. Do Olds còn non tay với kỹ thuật định vị lập thể, một điện cực đã đặt lệch vào vùng trước não (vùng vách ngăn/septal area) thay vì vị trí dự định. Khi bật dòng điện, họ nhận thấy con chuột cứ quay lại đúng chỗ trên bàn nơi nó vừa được kích thích. Nhận ra kích thích này có tính thưởng, họ chuyển sang hộp Skinner (do chính Milner tự chế vì phòng thí nghiệm không có sẵn): chuột có thể tự ấn cần gạt để nhận một xung điện ngắn vào vùng não đó.",
+    "notes": "Năm phát hiện: quan sát đầu tiên năm 1953, bài báo kinh điển công bố năm 1954 (Olds & Milner, J. Comp. Physiol. Psychol. 47: 419–427) — mục này lấy năm 1954 theo brief. Không tìm được ảnh tự do đã xác minh của Olds hoặc Milner nên image = null.",
+    "researcher": "James Olds và Peter Milner",
+    "results": "Chuột ấn cần gạt hàng trăm lần mỗi giờ để tự kích thích não, có khi liên tục nhiều ngày liền mà bỏ ăn, bỏ uống. Khi phải vượt qua sàn có điện giật gây đau để tới được cần gạt, chuột vẫn chấp nhận chịu đau để được kích thích — thậm chí chấp nhận mức giật mạnh hơn mức mà chúng từ chối khi phần thưởng chỉ là thức ăn hay nước uống. Phát hiện này đặt 'phần thưởng' lên bản đồ giải phẫu của não: vùng dưới đồi bên (lateral hypothalamus) và bó não trước giữa (medial forebrain bundle) là những vị trí cho hiệu ứng thưởng mạnh nhất, mở đường cho toàn bộ khoa học về hệ thống khen thưởng và nghiện sau này.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Pleasure center / Brain stimulation reward",
+        "url": "https://en.wikipedia.org/wiki/Pleasure_center"
+      },
+      {
+        "label": "Wikipedia EN — James Olds",
+        "url": "http://en.wikipedia.org/wiki/James_Olds"
+      },
+      {
+        "label": "Society for the Study of Ingestive Behavior — James Olds and Pleasure in the Brain",
+        "url": "https://www.ssib.org/web/classic11.php"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm kích thích não tạo phần thưởng của Olds và Milner (trung tâm khoái cảm)",
+    "year": 1954
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Tranh cãi trung bình. Nghiên cứu có mẫu rất nhỏ (22 người trúng số, 29 người bị liệt) và là nghiên cứu cắt ngang — phỏng vấn một lần, không theo dõi cùng một người theo thời gian — nên không thể khẳng định chắc chắn về quá trình thích nghi. Các nghiên cứu bảng (panel study) dài hạn sau này (Diener, Lucas & Scollon, 2006) cho thấy bức tranh phức tạp hơn: có thích nghi, nhưng không hoàn toàn — ly hôn, mất người thân, thất nghiệp hay khuyết tật vẫn có thể làm thay đổi mức hạnh phúc dài hạn, và mỗi người thích nghi khác nhau. Vì vậy, phiên bản 'mọi người đều trở về đúng vạch xuất phát' của lý thuyết vòng quay hưởng lạc đã được sửa lại đáng kể, dù ý tưởng cốt lõi về thích nghi khoái cảm vẫn đứng vững.",
+    "en_name": "Brickman, Coates & Janoff-Bulman Lottery Winners and Accident Victims Study (Hedonic Treadmill)",
+    "field": "Cam xuc, Dong luc, Nhan cach",
+    "id": "tn-48",
+    "image": null,
+    "lesson": "Niềm vui lớn thường ngắn hơn ta tưởng, và nỗi buồn lớn cũng vậy — con người thích nghi nhanh đến mức đáng ngạc nhiên. Điều này không có nghĩa là tiền bạc hay sức khỏe không quan trọng, mà là hạnh phúc lâu dài phụ thuộc ít vào một sự kiện đơn lẻ và nhiều vào những trải nghiệm thường ngày, các mối quan hệ và cách ta diễn giải cuộc sống. Thay vì chờ một 'cú trúng số' đổi đời, đầu tư vào những niềm vui nhỏ bền vững thường hiệu quả hơn.",
+    "method": "Dựa trên lý thuyết mức thích nghi (adaptation-level theory) của Helson và khái niệm 'vòng quay hưởng lạc' do Brickman và Campbell đặt ra năm 1971, các nhà nghiên cứu phỏng vấn ba nhóm: 22 người trúng xổ số lớn (sự kiện xảy ra từ 1 tháng đến 1,5 năm trước đó), 29 người bị liệt do tai nạn, và 22 người đối chứng không gặp sự kiện đặc biệt nào. Họ được hỏi về mức hạnh phúc chung hiện tại, hạnh phúc trong quá khứ và kỳ vọng trong tương lai, đồng thời đánh giá niềm vui từ những thú vui đời thường (nói chuyện với bạn, xem tivi, ăn sáng, nghe một câu chuyện cười...). Nghiên cứu thứ hai kiểm tra xem kết quả có phải do khác biệt sẵn có giữa người mua vé số và người không mua hay không.",
+    "notes": "Không tìm được ảnh tự do đã xác minh của Brickman, Coates hoặc Janoff-Bulman nên image = null. Khái niệm 'hedonic treadmill' do Brickman & Campbell đặt ra năm 1971, còn nghiên cứu thực nghiệm với người trúng số là năm 1978 — mục này lấy năm 1978 theo brief.",
+    "researcher": "Philip Brickman, Dan Coates và Ronnie Janoff-Bulman",
+    "results": "Người trúng số không hạnh phúc hơn nhóm đối chứng, và họ cảm thấy ít vui hơn hẳn từ những thú vui đời thường — niềm vui nhỏ bị 'lu mờ' khi so với đỉnh cao trúng số. Người bị liệt cũng không kém hạnh phúc hơn nhóm đối chứng nhiều như người ta tưởng, nhưng họ có xu hướng lý tưởng hóa quá khứ của mình. Các tác giả kết luận: cả tương phản (so sánh hiện tại với một trải nghiệm cực đoan) và quen dần (habituation) đều kéo con người trở về gần mức hạnh phúc nền của mình sau những biến cố lớn, dù tốt hay xấu.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Hedonic treadmill",
+        "url": "https://en.wikipedia.org/wiki/Hedonic_treadmill"
+      },
+      {
+        "label": "PubMed — Brickman et al. (1978), J. Pers. Soc. Psychol. 36(8): 917–927",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/690806/"
+      },
+      {
+        "label": "Diener, Lucas & Scollon (2006) — Beyond the Hedonic Treadmill (PDF)",
+        "url": "https://labs.psychology.illinois.edu/~ediener/Documents/Diener-Lucas-Scollon_2006.pdf"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Nghiên cứu người trúng số và nạn nhân tai nạn của Brickman (vòng quay hưởng lạc)",
+    "year": 1978
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Tranh cãi trung bình. Flow là một khái niệm mô tả dựa trên phỏng vấn và tự báo cáo, nên việc đo lường nó còn gây tranh luận: danh sách đặc điểm của flow thay đổi theo tác giả (6 yếu tố theo Nakamura & Csikszentmihalyi, 9 yếu tố trong các mô tả khác), và ranh giới giữa flow với các trạng thái tập trung cao độ khác chưa thật rõ ràng. Phương pháp ESM tuy có tính sinh thái cao nhưng vẫn phụ thuộc vào tự báo cáo tại thời điểm bị ngắt quãng. Ngoài ra, khái niệm flow đã bị dùng lan man trong văn hóa đại chúng (sách self-help, đào tạo doanh nghiệp) vượt xa những gì dữ liệu gốc chứng minh — ví dụ, flow không phải lúc nào cũng đi kèm hiệu suất cao hay hạnh phúc dài hạn.",
+    "en_name": "Csikszentmihalyi Flow Study (Experience Sampling Method)",
+    "field": "Cam xuc, Dong luc, Nhan cach",
+    "id": "tn-49",
+    "image": {
+      "author": "Ehirsh",
+      "caption": "Mihaly Csikszentmihalyi năm 2010",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Mihaly_Csikszentmihalyi.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Mihaly_Csikszentmihalyi.jpg"
+    },
+    "lesson": "Hạnh phúc sâu sắc nhất thường không đến từ sự thư giãn thụ động, mà từ trạng thái đắm chìm hoàn toàn vào một việc vừa sức mà đầy thử thách — khi ta quên cả thời gian và quên cả chính mình. Để tìm flow trong đời sống, hãy chọn việc có mục tiêu rõ ràng, phản hồi nhanh và độ khó vừa tầm với kỹ năng của mình, rồi tăng dần độ khó khi kỹ năng tăng lên. Đây là một trong những nền tảng của tâm lý học tích cực.",
+    "method": "Csikszentmihalyi bắt đầu từ một quan sát: các họa sĩ, vận động viên leo núi, kỳ thủ cờ vua và bác sĩ phẫu thuật thường mải mê với công việc đến mức quên ăn, quên ngủ — họ làm việc vì bản thân công việc chứ không vì tiền hay danh tiếng. Trong nghiên cứu nền tảng công bố thành sách 'Beyond Boredom and Anxiety' (1975), ông phỏng vấn sâu những người chơi cờ vua, leo núi đá, nhảy múa tự do theo nhạc rock và các bác sĩ phẫu thuật về cảm giác của họ khi đang ở đỉnh cao tập trung. Để nghiên cứu trải nghiệm trong đời sống thực thay vì chỉ dựa vào hồi tưởng, ông phát triển Phương pháp lấy mẫu trải nghiệm (Experience Sampling Method, ESM): người tham gia đeo máy nhắn tin (pager), khi máy kêu vào những thời điểm ngẫu nhiên trong ngày, họ lập tức ghi lại mình đang làm gì, ở với ai, cảm thấy thế nào và đánh giá mức độ thử thách và kỹ năng của mình trên thang điểm.",
+    "notes": "Ảnh đã xác minh trực tiếp trên trang file Wikimedia Commons: tác giả Ehirsh, public domain, ảnh chụp ngày 5/6/2010. Các con số ESM (78 người, 4.791 mẫu, 54% so với 17%) lấy từ bài tổng hợp về nghiên cứu Csikszentmihalyi & LeFevre (1989).",
+    "researcher": "Mihaly Csikszentmihalyi",
+    "results": "Từ hàng nghìn mẫu trải nghiệm, Csikszentmihalyi mô tả trạng thái 'flow' (dòng chảy): sự tập trung cao độ, hành động và nhận thức hòa làm một, mất cảm giác về bản thân, cảm giác kiểm soát, thời gian như biến dạng, mục tiêu rõ ràng, phản hồi tức thì, và hoạt động tự nó đã là phần thưởng (autotelic). Flow xuất hiện khi thử thách và kỹ năng cân bằng nhau ở mức cao — thử thách quá thấp gây chán, quá cao gây lo âu. Trong một nghiên cứu ESM với 78 người tham gia (4.791 mẫu ghi nhận), người ta báo cáo trạng thái flow ở công việc nhiều gấp 3 lần so với lúc rảnh rỗi (54% số mẫu ở công việc so với 17% lúc giải trí), và khi ở trong flow họ cảm thấy mạnh mẽ, năng động, sáng tạo, tập trung và có động lực hơn.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Flow (psychology)",
+        "url": "https://en.wikipedia.org/wiki/Flow_(psychology)"
+      },
+      {
+        "label": "Wikipedia EN — Mihaly Csikszentmihalyi",
+        "url": "https://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi"
+      },
+      {
+        "label": "UChicago Magazine — What's in a game? (về Beyond Boredom and Anxiety, 1975)",
+        "url": "https://mag.uchicago.edu/education-social-service/whats-game"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Nghiên cứu dòng chảy (flow) của Csikszentmihalyi (phương pháp lấy mẫu trải nghiệm)",
+    "year": 1975
+  },
+  {
+    "controversy": "Rất cao",
+    "controversy_text": "Tranh cãi rất cao — đây là một trong những nghiên cứu bị nghi ngờ dữ liệu nặng nề nhất trong lịch sử tâm lý học. Nhà tâm thần học Robert Spitzer đã gọi nó là 'ngụy khoa học' ngay từ 1976, cho rằng kết luận vượt xa dữ liệu. Nhà báo Susannah Cahalan sau 6 năm điều tra (công bố 2019) chỉ xác minh được 2 trong số 8 bệnh nhân giả, và không tìm thấy hồ sơ của những người còn lại; sử gia Andrew Scull (2023) đi xa hơn và cho rằng nghiên cứu này là gian lận khoa học. Các nhà phê bình lưu ý: việc bác sĩ không phát hiện người giả vờ có một triệu chứng rồi sau đó cư xử bình thường không chứng minh được chẩn đoán tâm thần nói chung là vô giá trị — bệnh nhân thật cũng có thể hết triệu chứng sau khi nhập viện. Dù vậy, nghiên cứu vẫn giữ ảnh hưởng lịch sử to lớn và vẫn được dạy trong nhiều giáo trình, thường kèm cảnh báo về tính xác thực của dữ liệu.",
+    "en_name": "Rosenhan Experiment (On Being Sane in Insane Places)",
+    "field": "Cam xuc, Dong luc, Nhan cach",
+    "id": "tn-50",
+    "image": null,
+    "lesson": "Nhãn mác có sức mạnh khủng khiếp: một khi ai đó bị dán nhãn 'bệnh tâm thần', mọi hành vi bình thường của họ — kể cả việc ghi chép — đều bị diễn giải qua lăng kính của nhãn đó ('bệnh nhân có hành vi viết lách'). Nghiên cứu này góp phần thúc đẩy cải cách hệ thống bệnh viện tâm thần, phong trào chăm sóc sức khỏe tâm thần cộng đồng, và sự ra đời của các tiêu chuẩn chẩn đoán chặt chẽ hơn (DSM-III năm 1980). Bài học cho đời sống: hãy cẩn thận với nhãn mác ta gán cho người khác — nhãn có thể bóp méo cách ta nhìn mọi điều họ làm sau đó.",
+    "method": "Rosenhan, giáo sư tâm lý học và luật tại Đại học Stanford, muốn kiểm tra xem các bác sĩ tâm thần có thực sự phân biệt được người tỉnh táo với người bệnh tâm thần hay không. Ông cử 8 'bệnh nhân giả' (pseudopatients) — gồm chính ông, một nghiên cứu sinh tâm lý, ba nhà tâm lý học, một bác sĩ nhi khoa, một bác sĩ tâm thần, một họa sĩ và một nội trợ — đến 12 bệnh viện tâm thần ở 5 bang của Mỹ. Mỗi người chỉ giả vờ một triệu chứng duy nhất: nói rằng mình nghe thấy giọng nói vang lên các từ 'trống rỗng' (empty), 'rỗng tuếch' (hollow), 'thud' (tiếng thịch). Mọi thông tin khác trong tiểu sử của họ đều khai thật. Sau khi được nhận vào viện, họ lập tức ngừng giả vờ, cư xử hoàn toàn bình thường và nói rằng mình đã khỏe. Họ cũng lén không uống thuốc được kê và ghi chép bí mật về sinh hoạt trong viện. Trong nghiên cứu thứ hai, một bệnh viện giảng dạy thách thức rằng chuyện đó không thể xảy ra ở họ; Rosenhan thông báo sẽ cử bệnh nhân giả đến trong 3 tháng tới và yêu cầu nhân viên đánh giá khả năng mỗi bệnh nhân mới là giả — nhưng thực ra ông không cử ai cả.",
+    "notes": "Không tìm được ảnh tự do đã xác minh của David Rosenhan nên image = null. Con số 2,94% và 6,8 phút/ngày lấy từ bài tổng hợp Simply Psychology; các con số còn lại (8 người, 12 bệnh viện, 7–52 ngày, trung bình 19 ngày, 41/193, 35/118) khớp giữa Wikipedia EN và Simply Psychology.",
+    "researcher": "David L. Rosenhan",
+    "results": "Cả 12 lần nhập viện đều được chẩn đoán mắc bệnh tâm thần — 7 người được chẩn đoán tâm thần phân liệt, 1 người rối loạn lưỡng cực (theo cách gọi thời đó là loạn thần hưng–trầm cảm) — và không một nhân viên nào phát hiện ra sự lừa dối. Thời gian nằm viện từ 7 đến 52 ngày, trung bình 19 ngày; gần như tất cả được xuất viện với chẩn đoán 'tâm thần phân liệt đang thuyên giảm'. Các bệnh nhân giả ghi nhận: nhân viên chỉ đáp lại có ý nghĩa khoảng 2,94% yêu cầu của bệnh nhân, và thời gian tiếp xúc trung bình với bác sĩ mỗi ngày chỉ 6,8 phút. Thú vị là 35 trong số 118 bệnh nhân thật cùng nằm viện đã nghi ngờ những người mới đến không hề bị bệnh. Ở nghiên cứu thứ hai, trong 193 bệnh nhân mới, nhân viên đánh giá 41 người là bệnh nhân giả và 42 người khác là đáng ngờ — dù tất cả đều là bệnh nhân thật. Rosenhan kết luận: 'rõ ràng chúng ta không thể phân biệt người tỉnh táo với người điên trong bệnh viện tâm thần'.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Rosenhan experiment",
+        "url": "https://en.wikipedia.org/wiki/Rosenhan_experiment"
+      },
+      {
+        "label": "Simply Psychology — Rosenhan (1973) Experiment Study",
+        "url": "https://www.simplypsychology.org/rosenhan_experiment.html"
+      },
+      {
+        "label": "PubMed — Spitzer (1976), critique of Rosenhan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/938183/"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm Rosenhan (tỉnh táo trong nơi của người điên)",
+    "year": 1973
+  },
+  {
+    "controversy": "Thấp",
+    "controversy_text": "Ít tranh cãi — hiệu ứng đóng khung là một trong những phát hiện tái lập tốt nhất của tâm lý học quyết định, đã được lặp lại nhiều lần với nhiều tình huống khác nhau (tiền bạc, sức khỏe, chính sách). Tranh luận còn lại chủ yếu là về cách giải thích cơ chế (lý thuyết triển vọng so với các mô hình khác), không phải về sự tồn tại của hiệu ứng.",
+    "en_name": "Asian Disease Problem / Framing Effect",
+    "field": "Ra quyet dinh va Kinh te hanh vi",
+    "id": "tn-51",
+    "image": null,
+    "lesson": "Quyết định của con người không chỉ phụ thuộc vào kết quả khách quan mà còn phụ thuộc vào cách vấn đề được 'đóng khung' — diễn đạt theo hướng được thì người ta ngại rủi ro, diễn đạt theo hướng mất thì người ta lại liều lĩnh. Đây là một trụ cột của lý thuyết triển vọng (prospect theory). Trong đời sống, cùng một con số (ví dụ 'tỷ lệ sống sót 90%' so với 'tỷ lệ tử vong 10%') có thể dẫn tới quyết định khác nhau.",
+    "method": "Tversky và Kahneman trình bày cùng một tình huống giả định cho hai nhóm sinh viên và giảng viên Đại học Stanford: một dịch bệnh lạ dự kiến giết chết 600 người, có hai chương trình ứng phó. Một nhóm (152 người) thấy các phương án diễn đạt theo hướng 'số người được cứu sống', nhóm còn lại (155 người) thấy cùng các phương án nhưng diễn đạt theo hướng 'số người sẽ chết'. Hai phương án trong mỗi khung là tương đương nhau về mặt toán học: một phương án chắc chắn và một phương án may rủi.",
+    "notes": "Số liệu 72%/78% và cỡ mẫu N=152/N=155 lấy từ Wikipedia EN và bản PDF bài gốc. Ảnh: chưa tìm được ảnh Wikimedia Commons đã kiểm chứng (tìm kiếm ảnh bị chặn 429) nên để null.",
+    "researcher": "Amos Tversky & Daniel Kahneman",
+    "results": "Khi diễn đạt theo hướng được cứu sống, 72% chọn phương án chắc chắn (cứu được 200 người). Khi diễn đạt theo hướng số người chết, lựa chọn đảo ngược: chỉ 22% chọn phương án chắc chắn (400 người chết) và 78% chọn phương án may rủi. Cùng một kết quả khách quan nhưng cách diễn đạt khác nhau đã đảo ngược đa số lựa chọn.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Framing effect (psychology)",
+        "url": "https://en.wikipedia.org/wiki/Framing_effect_(psychology)"
+      },
+      {
+        "label": "Bài gốc: Tversky & Kahneman (1981), 'The Framing of Decisions and the Psychology of Choice', Science (PDF, Columbia)",
+        "url": "https://sites.stat.columbia.edu/gelman/surveys.course/TverskyKahneman1981.pdf"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm bài toán dịch bệnh châu Á — Hiệu ứng đóng khung",
+    "year": 1981
+  },
+  {
+    "controversy": "Thấp",
+    "controversy_text": "Ít tranh cãi — hiệu ứng mỏ neo tái lập rất tốt. Dự án Many Labs 1 (2014, lặp lại 13 phát hiện kinh điển trên 36 mẫu với 6.344 người tham gia) cho thấy cả bốn câu hỏi về mỏ neo đều cho ra hiệu ứng ở mọi mẫu, và kết luận là nghiên cứu gốc thậm chí còn đánh giá thấp hiệu ứng. Tranh luận còn lại chỉ là về cơ chế chính xác (điều chỉnh chưa đủ, kích hoạt chọn lọc, hay dùng con số làm gợi ý).",
+    "en_name": "Anchoring Effect — Wheel of Fortune Experiment",
+    "field": "Ra quyet dinh va Kinh te hanh vi",
+    "id": "tn-52",
+    "image": null,
+    "lesson": "Con người bám vào con số đầu tiên gặp được ('mỏ neo') rồi điều chỉnh chưa đủ xa khỏi nó, ngay cả khi con số đó hoàn toàn không liên quan. Bài học thực tế: giá niêm yết đầu tiên, mức lương đề xuất đầu tiên hay con số mở đầu trong đàm phán đều có sức nặng rất lớn — ai đưa ra con số đầu tiên thường định hình cả cuộc thương lượng.",
+    "method": "Trong bài báo 'Judgment under Uncertainty: Heuristics and Biases' (Science, 1974), Tversky và Kahneman làm hai thí nghiệm nổi tiếng. Thứ nhất, họ cho học sinh trung học 5 giây để ước lượng tích 1×2×3×4×5×6×7×8 hoặc theo thứ tự ngược lại 8×7×6×5×4×3×2×1. Thứ hai, họ quay một vòng quay may mắn đã được sắp đặt dừng ở 10 hoặc 65 trước mặt người tham gia, rồi hỏi họ ước lượng tỷ lệ các nước châu Phi trong Liên Hợp Quốc, trước hết trả lời cao hơn hay thấp hơn con số trên vòng quay.",
+    "notes": "Số liệu 512/2.250/40.320 và 25%/45% lấy từ Wikipedia EN và bài gốc. Kết quả Many Labs 1 lấy từ nguồn thứ cấp đã đối chiếu với Wikipedia. Ảnh: chưa tìm được ảnh Wikimedia Commons đã kiểm chứng (tìm kiếm ảnh bị chặn 429) nên để null.",
+    "researcher": "Amos Tversky & Daniel Kahneman",
+    "results": "Nhóm tính tích theo thứ tự tăng dần ước lượng trung vị là 512, nhóm theo thứ tự giảm dần ước lượng 2.250 — trong khi đáp án đúng là 40.320. Ở thí nghiệm vòng quay, nhóm thấy số 10 ước lượng trung bình 25% số nước châu Phi trong Liên Hợp Quốc, nhóm thấy số 65 ước lượng 45%. Một con số ngẫu nhiên, ai cũng biết là ngẫu nhiên, vẫn kéo ước lượng đi 20 điểm phần trăm.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Anchoring effect",
+        "url": "https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)"
+      },
+      {
+        "label": "Bài gốc: Tversky & Kahneman (1974), 'Judgment under Uncertainty: Heuristics and Biases', Science (PDF)",
+        "url": "https://bear.warrington.ufl.edu/brenner/mar7588/Papers/tversky-kahneman-science-1974.pdf"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm hiệu ứng mỏ neo — Vòng quay may mắn",
+    "year": 1974
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Tranh cãi ở mức trung bình. Hiệu ứng đã được quan sát với nhiều loại hàng hóa và nhiều quần thể khác nhau (kể cả trẻ em và linh trưởng), nhưng còn tranh luận về cơ chế giải thích (sợ mất mát hay gắn bó với vật sở hữu) và về phạm vi: hiệu ứng thu hẹp rõ rệt ở những người giao dịch có kinh nghiệm và với hàng hóa mua thuần để bán lại. Thuật ngữ 'endowment effect' do Richard Thaler đặt ra năm 1980; thí nghiệm cốc nổi tiếng công bố năm 1990.",
+    "en_name": "Endowment Effect — Cornell Coffee Mug Experiment",
+    "field": "Ra quyet dinh va Kinh te hanh vi",
+    "id": "tn-53",
+    "image": null,
+    "lesson": "Chỉ riêng việc sở hữu một món đồ đã làm ta định giá nó cao hơn hẳn — mất đi thứ mình có đau hơn niềm vui có được thứ tương đương. Đây là biểu hiện của tâm lý sợ mất mát (loss aversion). Ứng dụng thực tế: dùng thử miễn phí, 'mua trước trả sau', hay việc khó bán nhà vì chủ nhà định giá cao hơn thị trường, đều vận hành trên cùng một cơ chế.",
+    "method": "Kahneman, Knetsch và Thaler (1990, Journal of Political Economy) phát ngẫu nhiên cốc cà phê Cornell (giá bán ở cửa hàng trong trường là 6 đô la) cho một nửa sinh viên trong lớp, nửa còn lại không có cốc. Người có cốc đóng vai người bán (nêu giá thấp nhất chịu bán — willingness to accept), người không có cốc đóng vai người mua (nêu giá cao nhất chịu mua — willingness to pay). Theo định lý Coase của kinh tế học chuẩn, khoảng một nửa số cốc sẽ đổi chủ. Trong thí nghiệm thứ năm, giá được bốc thăm ngẫu nhiên để loại trừ khả năng người tham gia cố tình khai giá chiến lược.",
+    "notes": "Số liệu thí nghiệm thứ năm (5,75/2,25 đô la; 6 so với 14,5 giao dịch) lấy từ bài gốc và tóm tắt đã đối chiếu. Ảnh: chưa tìm được ảnh Wikimedia Commons đã kiểm chứng (tìm kiếm ảnh bị chặn 429) nên để null.",
+    "researcher": "Daniel Kahneman, Jack Knetsch & Richard Thaler",
+    "results": "Giá bán trung vị của người sở hữu cốc cao gấp hơn hai lần giá mua trung vị của người không có cốc. Trong thí nghiệm thứ năm (30 người bán, 29 người mua), giá bán trung vị là 5,75 đô la, giá mua trung vị là 2,25 đô la; lẽ ra có khoảng 14,5 giao dịch nếu giao dịch diễn ra theo lý thuyết, nhưng thực tế chỉ có 6 giao dịch được chỉ định. Người ta không chịu đổi cốc lấy một cây bút có giá trị tương đương, và ngược lại.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Endowment effect",
+        "url": "https://en.wikipedia.org/w/index.php?title=Endowment_effect&mobileaction=toggle_view_mobile"
+      },
+      {
+        "label": "Bài gốc: Kahneman, Knetsch & Thaler (1990), 'Experimental Tests of the Endowment Effect and the Coase Theorem' (PDF, MIT)",
+        "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_et_al_1990_Experimental_tests.pdf?ref=ghost.taooffounders.com"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm hiệu ứng sở hữu — Cốc cà phê Cornell",
+    "year": 1990
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Tranh cãi ở mức trung bình, nhưng không phải về việc đa số người trả lời sai — điều đó tái lập rất vững. Tranh luận nằm ở cách diễn giải: Gerd Gigerenzer và các nhà phê bình cho rằng cách đặt câu hỏi ('có khả năng hơn' — probable) mơ hồ, và khi diễn đạt bài toán bằng tần suất ('trong 100 người giống Linda, có bao nhiêu người là...') thì tỷ lệ mắc lỗi giảm mạnh. Nói cách khác, đây có thể là lỗi diễn đạt và giao tiếp nhiều hơn là lỗi tư duy thuần túy.",
+    "en_name": "Linda Problem / Conjunction Fallacy",
+    "field": "Ra quyet dinh va Kinh te hanh vi",
+    "id": "tn-54",
+    "image": null,
+    "lesson": "Não bộ thường thay câu hỏi khó ('cái nào có xác suất cao hơn?') bằng câu hỏi dễ hơn ('cái nào giống với mô tả hơn?') — đây là heuristic tính đại diện (representativeness). Một câu chuyện chi tiết, hợp lý nghe có vẻ 'đúng' hơn một sự thật đơn giản, dù về mặt toán học nó ít khả năng xảy ra hơn. Bài học: khi đánh giá khả năng, hãy tách riêng 'nghe có vẻ hợp' khỏi 'xác suất thực sự'.",
+    "method": "Tversky và Kahneman mô tả một nhân vật giả định: 'Linda 31 tuổi, độc thân, thẳng thắn và rất thông minh. Cô học triết học. Khi còn là sinh viên, cô rất quan tâm tới các vấn đề phân biệt đối xử và công bằng xã hội, và tham gia biểu tình chống hạt nhân.' Sau đó họ hỏi người tham gia: điều nào có khả năng đúng hơn — (1) Linda là nhân viên ngân hàng, hay (2) Linda là nhân viên ngân hàng và tích cực trong phong trào nữ quyền? Bài toán gốc xuất hiện năm 1982, được mở rộng hệ thống trong bài báo năm 1983 với hàng chục biến thể.",
+    "notes": "Số liệu 85% trong 142 người lấy từ bài phê bình của Gigerenzer trích dẫn Tversky & Kahneman (1983). Năm ghi trong mục là 1983 (bài báo hệ thống); bài toán Linda xuất hiện lần đầu năm 1982 — đã ghi rõ trong method. Ảnh: chưa tìm được ảnh Wikimedia Commons đã kiểm chứng (tìm kiếm ảnh bị chặn 429) nên để null.",
+    "researcher": "Amos Tversky & Daniel Kahneman",
+    "results": "Đa số người được hỏi chọn phương án (2). Trong một mẫu được trích dẫn, 85% trong số 142 người chọn 'Linda là nhân viên ngân hàng và hoạt động nữ quyền'. Điều này vi phạm logic xác suất: xác suất của hai sự kiện cùng xảy ra không bao giờ lớn hơn xác suất của một trong hai sự kiện đó — nếu Linda vừa là nhân viên ngân hàng vừa hoạt động nữ quyền thì cô chắc chắn là nhân viên ngân hàng.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Conjunction fallacy",
+        "url": "https://en.wikipedia.org/wiki/Conjunction_fallacy"
+      },
+      {
+        "label": "Phê bình: Gigerenzer (1991), 'How to Make Cognitive Illusions Disappear' (PDF, Columbia) — trích số liệu 85% / 142 người",
+        "url": "http://www.stat.columbia.edu/~gelman/communication/Gigerenzer1991.pdf"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Bài toán Linda — Ngụy biện hợp (conjunction fallacy)",
+    "year": 1983
+  },
+  {
+    "controversy": "Trung bình",
+    "controversy_text": "Tranh cãi ở mức trung bình. Hiện tượng người yếu tự đánh giá quá cao đã được ghi nhận ở nhiều lĩnh vực (lái xe, y khoa, kinh doanh, chính trị), nhưng còn tranh luận học thuật về cách đo và diễn giải: một phần của đồ thị nổi tiếng có thể là hệ quả thống kê của việc chia nhóm theo quartile và hồi quy về trung bình, chứ không chỉ là 'ảo tưởng' thuần túy. Lưu ý: phần tranh luận thống kê chi tiết này CHƯA được kiểm chứng đầy đủ trong đợt nghiên cứu này (lượt tìm kiếm bổ sung bị chặn 429), nên mục này chỉ khẳng định phần cốt lõi đã có nguồn.",
+    "en_name": "Dunning–Kruger Effect",
+    "field": "Ra quyet dinh va Kinh te hanh vi",
+    "id": "tn-55",
+    "image": null,
+    "lesson": "Kỹ năng cần để làm tốt một việc cũng chính là kỹ năng cần để nhận ra mình làm việc đó dở đến đâu — người kém nhất lại thiếu đúng công cụ để phát hiện ra mình kém. Bài học thực tế: đừng tin hoàn toàn vào cảm giác 'mình làm tốt lắm' ở lĩnh vực mình mới học; hãy tìm phản hồi khách quan, bài kiểm tra chuẩn, hoặc người giỏi hơn soi xét.",
+    "method": "Dunning và Kruger (Đại học Cornell) làm bốn nghiên cứu trên sinh viên đại học, đo năng lực thực tế và khả năng tự đánh giá ở ba lĩnh vực: suy luận logic, ngữ pháp tiếng Anh và cảm nhận hài hước. Người tham gia làm bài kiểm tra, sau đó tự xếp hạng năng lực của mình so với các bạn cùng lớp. Ý tưởng nghiên cứu nảy ra sau vụ tên cướp ngân hàng McArthur Wheeler bôi nước chanh lên mặt vì tin rằng nước chanh (dùng làm mực tàng hình) sẽ khiến camera an ninh không ghi được mặt hắn.",
+    "notes": "CHƯA KIỂM CHỨNG ĐẦY ĐỦ: phần tranh luận thống kê chi tiết (Gignac & Zajenkowski và các phê bình về phương pháp) chưa tra được do tìm kiếm bị chặn 429 — controversy_text đã ghi rõ giới hạn này. Số liệu cốt lõi (phân vị 12 so với tự xếp 62; 4 nghiên cứu; Ig Nobel 2000) lấy từ Wikipedia EN. Ảnh: chưa tìm được ảnh Wikimedia Commons đã kiểm chứng nên để null.",
+    "researcher": "David Dunning & Justin Kruger",
+    "results": "Người ở nhóm yếu nhất (quartile dưới cùng) đánh giá bản thân quá cao một cách hệ thống: điểm thực tế của họ chỉ ở phân vị thứ 12, nhưng họ tự xếp mình ở phân vị thứ 62. Ngược lại, người giỏi nhất có xu hướng đánh giá thấp bản thân đôi chút. Sau khi được huấn luyện về kỹ năng đó, người yếu bắt đầu đánh giá mình chính xác hơn. Nghiên cứu đoạt giải Ig Nobel Tâm lý học năm 2000.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Dunning–Kruger effect",
+        "url": "http://en.wikipedia.org/wiki/Dunning-Kruger_effect"
+      },
+      {
+        "label": "Wikipedia EN — David Dunning (tiểu sử, bài báo gốc Kruger & Dunning 1999)",
+        "url": "https://en.wikipedia.org/wiki/David_Dunning"
+      }
+    ],
+    "verified": false,
+    "vi_name": "Hiệu ứng Dunning–Kruger — Kém mà tưởng giỏi",
+    "year": 1999
+  },
+  {
+    "controversy": "Rất cao",
+    "controversy_text": "Rất cao — đây là một trong những ca tái lập thất bại nổi tiếng nhất của tâm lý học. Doyen và cộng sự (2012) không tái lập được hiệu ứng; các nghiên cứu độc lập có đăng ký trước sau đó cũng không tìm thấy hiệu ứng đáng kể, và các nhà lý thuyết về mồi hành vi phần lớn đã bỏ hướng nghiên cứu này. Đáng chú ý, Doyen và cộng sự còn phát hiện hiệu ứng chỉ xuất hiện khi người làm thí nghiệm biết trước kết quả kỳ vọng (kỳ vọng của người thí nghiệm ảnh hưởng tới đo lường). Ngay từ 1998, Dijksterhuis và cộng sự cũng chỉ tìm thấy hiệu ứng cỡ khoảng một phần tư độ lệch chuẩn, không có ý nghĩa thống kê. Đến nay chưa có nghiên cứu tái lập có đăng ký trước nào thành công.",
+    "en_name": "Elderly Priming / Automaticity of Social Behavior — Bargh Experiment",
+    "field": "Ra quyet dinh va Kinh te hanh vi",
+    "id": "tn-56",
+    "image": null,
+    "lesson": "Bài học lớn nhất của thí nghiệm này ngày nay không còn là 'từ ngữ điều khiển hành vi' mà là bài học về phương pháp khoa học: một kết quả ngoạn mục trên mẫu nhỏ, nếu không ai tái lập được, thì không thể coi là sự thật đã xác lập. Nó trở thành biểu tượng của khủng hoảng tái lập (replication crisis) trong tâm lý học và là lý do các nghiên cứu ngày nay phải đăng ký trước (preregistration) và dùng mẫu lớn.",
+    "method": "Bargh, Chen và Burrows (1996, Journal of Personality and Social Psychology) cho sinh viên làm bài tập sắp xếp câu lộn xộn. Ở nhóm thí nghiệm, một số từ trong bài gắn với khuôn mẫu người già (ví dụ 'Florida', 'bingo', 'cô đơn', 'hay quên'); nhóm đối chứng làm bài với từ trung tính. Người tham gia không được cho biết mục đích thật. Sau đó họ được bảo sang phòng khác làm nghiên cứu thứ hai, và các nhà nghiên cứu bí mật đo tốc độ đi bộ của họ trên hành lang.",
+    "notes": "Số liệu d và cỡ mẫu 30 người/nghiên cứu, Doyen 2012, Dijksterhuis 1998 lấy từ Replication Index và Wikipedia EN. Ảnh: chưa tìm được ảnh Wikimedia Commons đã kiểm chứng (tìm kiếm ảnh bị chặn 429) nên để null.",
+    "researcher": "John A. Bargh, Mark Chen & Lara Burrows",
+    "results": "Theo báo cáo gốc, sinh viên được mồi bằng từ ngữ về người già đi chậm hơn hẳn nhóm đối chứng, với cỡ hiệu ứng lớn (d = 1,04 và 0,79) trong hai nghiên cứu, mỗi nghiên cứu chỉ có 30 người tham gia. Bài báo trở thành một trụ cột của nghiên cứu mồi hành vi (behavioral priming) và được trích dẫn hơn 5.000 lần.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — John Bargh (mục về thí nghiệm và tranh cãi tái lập)",
+        "url": "https://en.wikipedia.org/wiki/John_Bargh"
+      },
+      {
+        "label": "Replication Index — John A. Bargh (phân tích cỡ hiệu ứng d = 1,04/0,79 và lịch sử tái lập)",
+        "url": "https://replicationindex.com/category/john-a-bargh/"
+      },
+      {
+        "label": "Stanford BPS — Science Correcting Itself: Replication Failures (Doyen et al. 2012)",
+        "url": "http://bps.stanford.edu/home/science-correcting-itself/science-correcting-itself-replication-failures"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm mồi người già — Bargh: từ ngữ làm người ta đi chậm lại",
+    "year": 1996
+  },
+  {
+    "controversy": "Rất cao",
+    "controversy_text": "Rất cao — ví dụ điển hình của khủng hoảng tái lập. Nghiên cứu tái lập lớn của Ranehill và cộng sự (2015, Psychological Science) với 200 người tham gia và thiết kế mù đôi chỉ tái lập được phần 'cảm thấy quyền lực hơn', hoàn toàn không tìm thấy tác động lên hormone hay mức chịu rủi ro. Phân tích p-curve của Simmons và Simonsohn (2017) trên 33 nghiên cứu ủng hộ kết luận rằng không có bằng chứng về hiệu ứng thực khi đã tính đến báo cáo chọn lọc. Năm 2016, chính Dana Carney — tác giả đầu tiên của bài gốc — ra tuyên bố công khai: 'Tôi không tin hiệu ứng tư thế quyền lực là có thật', và chỉ ra mẫu nghiên cứu gốc quá nhỏ. Amy Cuddy vẫn tiếp tục bảo vệ phiên bản yếu hơn (chỉ còn cảm giác quyền lực).",
+    "en_name": "Power Posing Experiment",
+    "field": "Ra quyet dinh va Kinh te hanh vi",
+    "id": "tn-57",
+    "image": null,
+    "lesson": "Tư thế có thể khiến ta cảm thấy tự tin hơn trong chốc lát — nhưng cảm giác tự tin không đồng nghĩa với thay đổi hormone hay thay đổi hành vi thật. Bài học lớn hơn: một nghiên cứu nhỏ (42 người) với kết quả bắt mắt, lan truyền mạnh qua truyền thông, vẫn có thể sai; và ngay cả tác giả gốc cũng có thể công khai rút lại niềm tin vào kết quả của mình khi bằng chứng mới xuất hiện.",
+    "method": "Carney, Cuddy và Yap (2010, Psychological Science) cho 42 người tham gia giữ trong hai phút các tư thế 'quyền lực cao' (dang rộng, chiếm nhiều không gian — ví dụ ngồi ngả người, chân gác lên bàn, tay để sau đầu) hoặc tư thế 'quyền lực thấp' (co người lại, khoanh tay ôm lấy mình). Trước và sau khi tạo dáng, họ đo nồng độ testosterone và cortisol trong nước bọt, hỏi người tham gia cảm thấy mình quyền lực đến đâu, và cho họ chơi một trò đánh bạc để đo mức chịu rủi ro.",
+    "notes": "Số liệu N=42, Ranehill N=200, 86% so với 60% lấy từ Wikipedia EN và các tóm tắt đã đối chiếu. Ảnh: chưa tìm được ảnh Wikimedia Commons đã kiểm chứng (tìm kiếm ảnh bị chặn 429) nên để null.",
+    "researcher": "Dana Carney, Amy Cuddy & Andy Yap",
+    "results": "Theo báo cáo gốc, nhóm tư thế quyền lực cao tăng testosterone, giảm cortisol, cảm thấy quyền lực hơn và chấp nhận rủi ro nhiều hơn (86% chấp nhận đánh bạc so với 60% ở nhóm tư thế thấp). Bài báo nổi tiếng toàn cầu sau bài TED Talk của Amy Cuddy năm 2012, một trong những TED Talk được xem nhiều nhất mọi thời đại, và Cuddy viết cả sách self-help dựa trên ý tưởng này.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Power posing",
+        "url": "https://en.wikipedia.org/wiki/Power_posing"
+      },
+      {
+        "label": "FORRT Open Social Psychology — Power Posing (tóm tắt nghiên cứu gốc, tái lập Ranehill 2015, tuyên bố của Carney 2016)",
+        "url": "https://forrt.org/open-social-psychology/chapter27.html"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Thí nghiệm tư thế quyền lực (power posing)",
+    "year": 2010
+  },
+  {
+    "controversy": "Cao",
+    "controversy_text": "Cao — tuyên bố mạnh ban đầu đã không đứng vững trước kiểm tra. Phân tích gộp năm 2010 trên 198 kiểm tra từng cho hiệu ứng trung bình, nhưng các phân tích hiệu chỉnh thiên lệch đã thu hiệu ứng về gần bằng không. Năm 2016, 23 phòng thí nghiệm cùng tái lập một lúc trên hơn 2.000 người và không tìm thấy gì; năm 2021, dự án đa phòng thí nghiệm có đăng ký trước trên 36 phòng thí nghiệm cũng không tìm thấy bằng chứng trong các phân tích xác nhận. Một số dự án khác tìm thấy hiệu ứng nhỏ, và một dự án năm 2025 với nhiệm vụ rất nặng báo cáo hiệu ứng khoảng d = 0,3 nhưng vẫn chờ tái lập độc lập. Kết luận hiện tại: ego depletion là giả thuyết còn tranh cãi, không phải sự thật đã xác lập.",
+    "en_name": "Ego Depletion — Radish and Chocolate Experiment",
+    "field": "Ra quyet dinh va Kinh te hanh vi",
+    "id": "tn-58",
+    "image": null,
+    "lesson": "Ý tưởng 'ý chí là tài nguyên hữu hạn' nghe rất hợp lý và từng được đưa vào vô số sách self-help, sách kinh doanh và hệ thống năng suất. Bài học thực tế thận trọng hơn: sau một việc tốn nhiều tự kiểm soát (kiêng ăn, họp căng thẳng, ra quyết định khó), ta dễ buông xuôi ở việc tiếp theo — nhưng đừng coi đó là quy luật sắt; nghỉ ngơi, ngủ đủ và giảm tải quyết định vẫn là cách phục hồi thực tế nhất.",
+    "method": "Baumeister và cộng sự (1998, Journal of Personality and Social Psychology) làm bốn thí nghiệm theo mô hình 'hai nhiệm vụ liên tiếp'. Thí nghiệm nổi tiếng nhất: 67 sinh viên đang đói ngồi trong phòng thơm mùi bánh sô-cô-la mới nướng, trước mặt có hai bát — một bát bánh quy sô-cô-la, một bát củ cải. Một nhóm chỉ được ăn củ cải và phải cưỡng lại bánh; nhóm khác được ăn bánh, hoặc không ăn gì. Sau đó tất cả làm các câu đố không có lời giải, và các nhà nghiên cứu đo thời gian họ kiên trì trước khi bỏ cuộc.",
+    "notes": "CHƯA KIỂM CHỨNG ĐẦY ĐỦ: trang Wikipedia EN về Ego depletion chưa mở được do tìm kiếm bị chặn 429 — nguồn dùng ở đây là Simply Psychology và FourWeekMBA (nguồn thứ cấp tóm tắt bài gốc Baumeister et al. 1998 và các tái lập Vohs et al. 2021); số liệu bảng (8,35/18,90/20,86 phút) trích từ Bảng 1 của bài gốc 1998 qua các tóm tắt này. Cần đối chiếu lại với Wikipedia EN / bài gốc trước khi coi mục này là đã kiểm chứng hoàn toàn. Ảnh: chưa tìm được ảnh Wikimedia Commons đã kiểm chứng nên để null.",
+    "researcher": "Roy Baumeister, Ellen Bratslavsky, Mark Muraven & Dianne Tice",
+    "results": "Nhóm phải cưỡng lại sô-cô-la chỉ kiên trì với câu đố khoảng 8,35 phút (trung bình 19,4 lần thử), trong khi nhóm ăn sô-cô-la kiên trì 18,9 phút (34,3 lần thử) và nhóm đối chứng không ăn gì kiên trì 20,86 phút (32,8 lần thử). Ba thí nghiệm còn lại mở rộng kết quả: đưa ra lựa chọn cá nhân có ý nghĩa, kìm nén cảm xúc khi xem phim, hay kìm nén suy nghĩ cũng đều làm giảm hiệu suất ở nhiệm vụ tự kiểm soát tiếp theo. Từ đó ra đời 'mô hình sức mạnh' (strength model): ý chí như một cơ bắp, dùng nhiều sẽ mệt và cần nghỉ để hồi phục.",
+    "sources": [
+      {
+        "label": "Simply Psychology — Ego Depletion Theory (tóm tắt thí nghiệm củ cải, bảng số liệu bài gốc 1998, lịch sử tái lập)",
+        "url": "https://www.simplypsychology.org/ego-depletion.html"
+      },
+      {
+        "label": "FourWeekMBA — Ego Depletion (Vohs et al. 2021, 36 phòng thí nghiệm)",
+        "url": "https://fourweekmba.com/ego-depletion/"
+      }
+    ],
+    "verified": false,
+    "vi_name": "Thí nghiệm cạn kiệt ý chí — Củ cải và sô-cô-la (ego depletion)",
+    "year": 1998
+  },
+  {
+    "controversy": "Cao",
+    "controversy_text": "Cao — phiên bản chuyện kể trong sách giáo khoa ('bất kỳ thay đổi nào cũng làm tăng năng suất') có bằng chứng gốc yếu hơn nhiều so với độ phổ biến của nó. Phân tích lại dữ liệu gốc của Levitt và List (2011) cho thấy mô hình kịch tính đó phần lớn không xuất hiện trong dữ liệu thô; nghiên cứu phòng lắp ráp rơ-le cũng là nghiên cứu nhỏ, không có đối chứng chặt chẽ, từ đó không thể rút kết luận chắc chắn. Một số học giả thậm chí cho rằng một số mô tả về nghiên cứu gốc là hư cấu. Hiệu ứng 'phản ứng với việc bị quan sát' nói chung vẫn có thật, nhưng câu chuyện Hawthorne cụ thể thì không vững như vẫn được kể.",
+    "en_name": "Hawthorne Effect / Hawthorne Studies",
+    "field": "Ra quyet dinh va Kinh te hanh vi",
+    "id": "tn-59",
+    "image": null,
+    "lesson": "Con người thay đổi hành vi chỉ vì biết mình đang bị quan sát — đây là bài học nền tảng về thiết kế nghiên cứu (cần nhóm đối chứng, cần mù đôi, cần đo lường khách quan) và về quản lý: sự quan tâm, lắng nghe và cảm giác được coi trọng có thể tác động tới hiệu suất không kém gì điều kiện vật chất. Đồng thời đây cũng là lời cảnh báo: đừng vội tin vào câu chuyện giáo khoa kể lại.",
+    "method": "Chuỗi nghiên cứu diễn ra tại nhà máy Hawthorne của Western Electric ở Cicero, Illinois, từ 1924 đến 1932, gồm bốn giai đoạn. Thí nghiệm chiếu sáng (1924–1927, do George Pennock chủ trì cùng Hội đồng Nghiên cứu Quốc gia) thay đổi độ sáng ở phòng thí nghiệm và so với phòng đối chứng giữ nguyên. Thí nghiệm phòng lắp ráp rơ-le (1927–1932, nhóm Elton Mayo) thay đổi lần lượt giờ nghỉ, độ dài ngày làm việc và tiền thưởng cho một nhóm nhỏ công nhân nữ lắp ráp rơ-le điện thoại trong một phòng riêng, có nhà nghiên cứu hiện diện. Sau đó là phỏng vấn hàng chục nghìn công nhân (1928–1930) và quan sát phòng nối dây ngân hàng (1931–1932). Thuật ngữ 'Hawthorne effect' được đặt ra năm 1953 (John R. P. French; một số nguồn ghi Henry Landsberger phổ biến hóa thuật ngữ năm 1958 khi đánh giá lại các nghiên cứu).",
+    "notes": "Năm trong mục ghi 1924 (năm bắt đầu chuỗi nghiên cứu 1924–1932). Có mâu thuẫn nhỏ giữa các nguồn về số công nhân nữ ở phòng lắp ráp rơ-le (Wikipedia ghi nhóm 6 người, Simply Psychology ghi 5 người) nên method chỉ ghi 'một nhóm nhỏ' và không nêu con số. Năm đặt tên hiệu ứng: Wikipedia ghi 1953 (French), Simply Psychology ghi 1958 (Landsberger phổ biến hóa) — đã ghi cả hai cách diễn đạt trong method. Ảnh: chưa tìm được ảnh Wikimedia Commons đã kiểm chứng (tìm kiếm ảnh bị chặn 429) nên để null — lưu ý Wikipedia có ảnh chụp nhà máy Hawthorne khoảng 1925, coordinator có thể kiểm tra lại và bổ sung.",
+    "researcher": "Elton Mayo, Fritz Roethlisberger & William Dickson; George A. Pennock (thí nghiệm chiếu sáng)",
+    "results": "Kết quả được kể lại trong sách giáo khoa: năng suất tăng lên sau hầu như mọi thay đổi về ánh sáng — sáng hơn hay tối hơn — và tăng ở cả phòng thí nghiệm lẫn phòng đối chứng; khi nghiên cứu kết thúc, năng suất trở về mức cũ. Các nhà nghiên cứu kết luận rằng chính việc được quan sát và được quan tâm, chứ không phải ánh sáng, đã làm tăng năng suất. Từ đó ra đời ngành xã hội học công nghiệp và nhận thức về vai trò của yếu tố xã hội nơi làm việc.",
+    "sources": [
+      {
+        "label": "Wikipedia EN — Hawthorne effect",
+        "url": "http://en.wikipedia.org/w/index.php?title=Hawthorne_effect&mobileaction=toggle_view_mobile"
+      },
+      {
+        "label": "Simply Psychology — Hawthorne Effect in Psychology (Levitt & List 2011, 4 giai đoạn)",
+        "url": "https://www.simplypsychology.org/hawthorne-effect.html"
+      },
+      {
+        "label": "CASRAI — Hawthorne Effect in Research: Meaning & Evidence (phân tích lại dữ liệu gốc)",
+        "url": "https://casrai.org/guides/hawthorne-effect"
+      }
+    ],
+    "verified": true,
+    "vi_name": "Hiệu ứng Hawthorne — Các nghiên cứu ở nhà máy Hawthorne",
+    "year": 1924
+  },
+  {
+    "controversy": "Rất cao",
+    "controversy_text": "Rất cao — gần như không còn ai trong giới chính thống coi đây là bằng chứng cho tiên tri. Các phê bình chỉ ra: dùng kiểm định một phía trong khi phải dùng hai phía, phân tích khám phá được trình bày như phân tích xác nhận, và khả năng 'ngăn kéo hồ sơ' (file drawer). Ritchie, Wiseman và French (2012) chạy ba tái lập có đăng ký trước (mỗi nơi 50 người, dùng đúng chương trình và danh sách từ của Bem) và không tìm thấy gì (p gộp = 0,83). Galak và cộng sự (2012) chạy bảy thí nghiệm trên 3.289 người: hiệu ứng gộp -0,04%, Bayes factor 70,48 ủng hộ giả thuyết không có hiệu ứng; phân tích gộp 19 thí nghiệm, 4.091 người cho d ≈ 0,04, không khác không có ý nghĩa. Dự án Transparent Psi Project (2023, 10 phòng thí nghiệm) cũng cho tỷ lệ đoán đúng 49,89% — đúng như may rủi. Bem và cộng sự đáp lại bằng một phân tích gộp năm 2015 trên 90 thí nghiệm vẫn cho kết quả có ý nghĩa, nhưng giới phê bình cho rằng phân tích này không loại được thiên lệch xuất bản.",
+    "en_name": "Feeling the Future — Bem Precognition Experiments",
+    "field": "Ra quyet dinh va Kinh te hanh vi",
+    "id": "tn-60",
+    "image": null,
+    "lesson": "Giá trị thật của nghiên cứu Bem không nằm ở tiên tri — mà ở chỗ nó phơi bày điểm yếu của phương pháp chuẩn trong tâm lý học: một bài báo dùng đúng các công cụ thống kê thông thường, qua phản biện của tạp chí hàng đầu, vẫn có thể cho ra kết quả sai. Vụ việc trở thành một trong những cú hích trực tiếp dẫn tới khủng hoảng tái lập và các cải cách sau đó: đăng ký trước, mẫu lớn, báo cáo đầy đủ, thống kê Bayes.",
+    "method": "Daryl Bem (Đại học Cornell) lấy chín hiệu ứng tâm lý đã được xác nhận và chạy ngược chúng theo thời gian: kích thích gây ảnh hưởng xuất hiện SAU khi người tham gia đã phản ứng, thay vì trước. Ví dụ thí nghiệm 1 (bức màn): người tham gia đoán bức tranh nằm sau bức màn trái hay phải, rồi máy tính mới chọn ngẫu nhiên vị trí bức tranh; thí nghiệm 9 (học ngược): người tham gia học thuộc một danh sách từ, làm bài kiểm tra nhớ, rồi sau đó mới luyện tập lại một nửa số từ được chọn ngẫu nhiên — câu hỏi là liệu những từ được luyện tập sau đó có được nhớ tốt hơn ngay từ trước đó hay không. Tổng cộng chín thí nghiệm, hơn 1.000 người tham gia, đăng trên Journal of Personality and Social Psychology (2011).",
+    "notes": "CHƯA KIỂM CHỨNG ĐẦY ĐỦ: chưa mở được trang Wikipedia EN về Daryl Bem / Feeling the Future do tìm kiếm bị chặn 429 — nguồn dùng là PSI Encyclopedia, Bias Atlas và RationalWiki (nguồn thứ cấp, đã đối chiếu chéo nhau về các con số chính: 9 thí nghiệm, 8/9 có ý nghĩa, 53,1%/49,8%, Galak 3.289 người). Cần đối chiếu lại với Wikipedia EN / bài gốc JPSP 2011 trước khi coi mục này là đã kiểm chứng hoàn toàn. Số liệu Transparent Psi Project 2023 (49,89%) lấy từ một nguồn thứ cấp, chưa kiểm chứng độc lập. Ảnh: chưa tìm được ảnh Wikimedia Commons đã kiểm chứng nên để null.",
+    "researcher": "Daryl Bem",
+    "results": "Tám trong chín thí nghiệm đạt ý nghĩa thống kê theo chuẩn thông thường, với xác suất gộp rất nhỏ (p = 6,66 × 10⁻¹¹) và cỡ hiệu ứng trung bình d = 0,22. Ở thí nghiệm bức màn, với ảnh gợi cảm, người tham gia đoán đúng 53,1% (so với 50% của may rủi); với ảnh trung tính, tỷ lệ đúng là 49,8% — đúng như ngẫu nhiên. Bem kết luận đây là bằng chứng thực nghiệm cho tiên tri (precognition).",
+    "sources": [
+      {
+        "label": "PSI Encyclopedia — Daryl Bem (9 thí nghiệm, 8/9 có ý nghĩa, tranh luận thống kê)",
+        "url": "https://psi-encyclopedia.spr.ac.uk/articles/daryl-bem/"
+      },
+      {
+        "label": "Bias Atlas — Feeling the Future (Ritchie 2012, Galak 2012, phân tích gộp d = 0,02–0,04)",
+        "url": "https://www.conyso.com/biases/bias/feeling-the-future/"
+      },
+      {
+        "label": "RationalWiki — Feeling the Future (tóm tắt tái lập Galak & Ritchie)",
+        "url": "https://rationalwiki.org/wiki/Feeling_the_Future"
+      }
+    ],
+    "verified": false,
+    "vi_name": "Thí nghiệm tiên tri của Bem — 'Cảm nhận tương lai'",
+    "year": 2011
+  }
+]
