@@ -1,0 +1,731 @@
+[
+ {
+  "id": "cho-dachshund",
+  "anh_phu": [
+   {
+    "file": "photos/dachshund-2.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3A-2018-04-22-_Cadu_01_%2840923544544%29.jpg",
+    "license": "CC BY 2.0",
+    "tac_gia": "Romerito Pontes from São Carlos"
+   },
+   {
+    "file": "photos/dachshund-3.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3ADachshund_wire.JPG",
+    "license": "CC BY 3.0",
+    "tac_gia": "Szabi237"
+   },
+   {
+    "file": "photos/dachshund-4.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3ADachshundstandard-longhair.jpg",
+    "license": "CC BY-SA 4.0",
+    "tac_gia": "Canarian"
+   }
+  ],
+  "video": null,
+  "nguon_goc": {
+   "xuat_xu": "Đức",
+   "lich_su": "\"Dachshund\" ghép từ \"dachs\" (lửng) và \"hund\" (chó): giống được lai tạo ở Đức thế kỷ 18 để săn lửng. Tổ tiên là chó Bracken săn dưới đất, đã được biết từ thời Trung cổ; câu lạc bộ Teckel Đức (Deutsche Teckelklub) thành lập năm 1888. Ngày nay giống được nuôi theo 3 cỡ (chuẩn, miniature, thỏ) và 3 loại lông (ngắn, dài, cứng) — chuẩn FCI số 148.",
+   "muc_dich_ban_dau": "Săn lửng và thú trong hang, cả trên và dưới mặt đất; nay chủ yếu nuôi làm thú cưng trong nhà."
+  },
+  "ngoai_hinh": {
+   "long": "Ba loại lông: ngắn (mượt, bóng, ôm sát), dài (mềm, hơi gợn sóng, dài hơn ở cổ, ngực và mặt dưới), cứng (thô, dày, có râu và lông mày rậm).",
+   "mau_pho_bien": [
+    "Đỏ",
+    "Đen - nâu vàng",
+    "Sô-cô-la - nâu vàng",
+    "Kem",
+    "Vện (brindle)",
+    "Đốm (dapple)",
+    "Piebald"
+   ],
+   "tai": "Tai dài, rủ xuống, đặt cao, mép trước ôm sát má, dài tới mép môi (chuẩn FCI 148).",
+   "duoi": "Đuôi là phần nối tiếp hài hòa của đường lưng, hơi chúc xuống, cong nhẹ ở 1/3 cuối (chuẩn FCI 148).",
+   "dac_diem_nhan_dang": "Thân dài, chân ngắn, ngực sâu hình oval; đầu dài, mõm thuôn. Cỡ chuẩn nặng 7-14 kg, cao 20-23 cm; cỡ miniature dưới 5 kg, cao 13-15 cm (PetMD)."
+  },
+  "tinh_cach_chi_tiet": "Dachshund thông minh, lanh lợi và dũng cảm tới mức liều lĩnh theo chuẩn AKC; bướng bỉnh và độc lập vì vốn được lai tạo làm thợ săn độc lập trong hang — Wikipedia ghi chúng \"thường bướng bỉnh, khó huấn luyện\". Chúng gắn bó với chủ, ham chơi, nghịch ngợm nhưng cũng hay sủa và có thể xa cách với người lạ. Nghiên cứu Đại học Pennsylvania 2008 trên 6.000 chủ chó ghi nhận Dachshund có tỷ lệ cắn người lạ cao nhất trong các giống khảo sát (20%), phần lớn là cắn nhẹ không gây thương tích nặng.",
+  "than_thien_tre_em": {
+   "muc": "Trung bình",
+   "ghi_chu": "PetMD: chơi với trẻ cần giám sát vì Dachshund ham chơi có thể chơi quá mạnh với trẻ nhỏ; cần dạy trẻ cách tiếp xúc an toàn với chó."
+  },
+  "than_thien_vat_khac": {
+   "muc": "Trung bình",
+   "ghi_chu": "Bản năng săn thú nhỏ rất mạnh (Wikipedia) nên có thể không hợp với thú nhỏ như thỏ, chuột; với chó lớn hơn, Dachshund vẫn dám thách thức nên cần xã hội hóa sớm."
+  },
+  "than_thien_nguoi_la": {
+   "muc": "Trung bình",
+   "ghi_chu": "Wikipedia: có thể xa cách (standoffish) với người lạ; nghiên cứu Nhật Bản ghi nhận giống miniature hay sủa người lạ tới nhà."
+  },
+  "muc_do_sua": {
+   "muc": "Nhiều",
+   "ghi_chu": "Wikipedia: tiếng sủa lớn, có con sủa rất nhiều và cần huấn luyện mới giảm; PetMD: giống có xu hướng sủa nhiều, huấn luyện giúp kiểm soát."
+  },
+  "huan_luyen": "Khó huấn luyện hơn nhiều giống khác vì bướng bỉnh và độc lập (Wikipedia); nhà tâm lý học chó Stanley Coren xếp Dachshund ở mức trung bình — nghe lệnh đúng từ 50% trở lên. Cần bắt đầu sớm, nhất quán, buổi tập ngắn và dùng thưởng; tránh ép buộc vì chó sẽ càng lì.",
+  "van_dong_phut_ngay": {
+   "phut_toi_thieu": null,
+   "hoat_dong_goi_y": "Đi bộ hằng ngày, trò chơi đánh hơi (scent walks, nose work), đồ chơi trí tuệ, earthdog, trốn tìm với đồ ăn (PetMD).",
+   "ghi_chu": "PetMD: cần vận động đều đặn để giữ thể lực và cơ bắp bảo vệ lưng; KHÔNG có số phút chuẩn từ nguồn nên không ghi số. Tránh nhảy nhiều, leo cầu thang và vận động mạnh gây xoắn lưng — dùng ramp/cầu thang cho thú cưng lên giường, ghế."
+  },
+  "cham_soc_long": "Tùy loại lông (PetMD): lông ngắn ít phải chăm nhất, chỉ cần lau bằng găng tay chải lông; lông dài cần chải thường xuyên vì dễ rối; lông cứng cần chải vài lần/tuần và tỉa lông 2 lần/năm để giữ kết cấu thô. Răng cần đánh hằng ngày vì giống nhỏ dễ bệnh răng miệng (PetMD).",
+  "suc_khoe": {
+   "benh_thuong_gap": [
+    {
+     "benh": "Bệnh đĩa đệm cột sống (IVDD)",
+     "ghi_chu": "Bệnh số 1 của giống: khoảng 20-25% mắc trong đời, có thể liệt vĩnh viễn nếu không điều trị kịp (PetMD, Wikipedia). Nguy cơ tăng khi béo phì, nhảy nhiều hoặc vận động mạnh."
+    },
+    {
+     "benh": "Béo phì",
+     "ghi_chu": "Giống dễ béo vì nhỏ và phải hạn chế một số vận động; thừa cân làm tăng nguy cơ chấn thương lưng (PetMD)."
+    },
+    {
+     "benh": "Trật xương bánh chè (luxating patella)",
+     "ghi_chu": "Thường gặp ở chó nhỏ, có thể đi khập khiễng hoặc nhảy lò cò; nặng cần phẫu thuật (PetMD)."
+    },
+    {
+     "benh": "Điếc (ở chó dapple hai gen)",
+     "ghi_chu": "Chó dapple sinh ra từ cả bố và mẹ đều dapple có thể điếc bẩm sinh, kèm dị tật mắt; không chữa được nhưng chó vẫn sống khỏe (PetMD, Wikipedia)."
+    },
+    {
+     "benh": "Bệnh răng miệng",
+     "ghi_chu": "Giống nhỏ dễ tích cao răng, viêm nướu, rụng răng; cần đánh răng hằng ngày (PetMD)."
+    },
+    {
+     "benh": "Động kinh vô căn",
+     "ghi_chu": "Cơn co giật không rõ nguyên nhân, thường khởi phát lúc 1-5 tuổi, được cho là di truyền; kiểm soát bằng thuốc chống co giật (PetMD)."
+    },
+    {
+     "benh": "Bệnh mắt (đục thủy tinh thể, tăng nhãn áp, PRA)",
+     "ghi_chu": "Đều phổ biến ở giống và có thể gây mù; PRA không chữa được, đục thủy tinh thể phẫu thuật được (PetMD)."
+    },
+    {
+     "benh": "Bệnh xương thủy tinh (osteogenesis imperfecta)",
+     "ghi_chu": "Chủ yếu ở lông cứng, 17% mang gen; có xét nghiệm gen để tránh phối giống hai con mang gen (Wikipedia)."
+    }
+   ],
+   "ghi_chu": "Tuổi thọ 12-16 năm (PetMD)."
+  },
+  "an_uong": "Thức ăn đạt chuẩn AAFCO theo giai đoạn (chó con/trưởng thành/senior); chó con ăn 3-4 bữa/ngày, trưởng thành 2 bữa/ngày (PetMD). Không cho ăn quá nhiều — thừa cân làm tăng nguy cơ chấn thương lưng; bác sĩ thú y có thể đề nghị bổ sung glucosamine/chondroitin/MSM và omega-3 để hỗ trợ khớp và lưng (PetMD).",
+  "hop_voi_ai": {
+   "phu_hop": "Người thích chó nhỏ, có kinh nghiệm hoặc kiên nhẫn huấn luyện, nhà có sân hoặc chung cư (PetMD: hợp chung cư), người sẵn sàng kiểm soát cân nặng và bảo vệ lưng cho chó.",
+   "can_nhac_ky": "Người muốn chó yên tĩnh (giống sủa nhiều); gia đình có trẻ rất nhỏ (cần giám sát khi chơi); người không có thời gian huấn luyện (chó bướng bỉnh, dễ thành nếp xấu)."
+  },
+  "luu_y_viet_nam": {
+   "trang_thai": "chua-kiem-chung",
+   "noi_dung": "CHƯA KIỂM CHỨNG. Không có nguồn nào nói riêng về nuôi Dachshund ở khí hậu nóng ẩm Việt Nam. Căn cứ gián tiếp: giống nhỏ, dữ liệu v1 xếp 'hợp chung cư'; lông ngắn chịu nóng tốt hơn lông dài và lông cứng (suy luận). Cần hỏi bác sĩ thú y về chống nóng, kiểm soát cân nặng và bảo vệ lưng khi nuôi ở nhà chung cư, sàn trơn."
+  },
+  "nguon_moi": [
+   "https://en.wikipedia.org/wiki/Dachshund",
+   "https://www.petmd.com/dog/breeds/dachshund",
+   "https://www.fci.be/Nomenclature/Standards/148g04-en.pdf"
+  ],
+  "trang_thai_moi": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: (1) toàn bộ mục luu_y_viet_nam — không có nguồn nào nói riêng về nuôi giống này ở khí hậu Việt Nam; (2) số phút vận động/ngày — không có số chuẩn từ nguồn nên để trống; (3) mức thân thiện với trẻ em/vật khác/người lạ là đánh giá từ mô tả tính cách, không có thang đo trực tiếp từ nguồn."
+ },
+ {
+  "id": "cho-cardigan-welsh-corgi",
+  "anh_phu": [
+   {
+    "file": "photos/cardigan-welsh-corgi-2.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3ACardigan_Welsh_Corgi%27s.JPG",
+    "license": "CC BY-SA 3.0",
+    "tac_gia": "RdRnnr"
+   },
+   {
+    "file": "photos/cardigan-welsh-corgi-3.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3ACardigan_Welsh_Corgi_%28Cadan%29.jpg",
+    "license": "CC BY-SA 4.0",
+    "tac_gia": "Absintalsem"
+   },
+   {
+    "file": "photos/cardigan-welsh-corgi-4.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3ACardigan_Welsh_Corgi_Face.JPG",
+    "license": "CC BY-SA 3.0",
+    "tac_gia": "Wikimaster97commons"
+   }
+  ],
+  "video": null,
+  "nguon_goc": {
+   "xuat_xu": "Xứ Wales, Vương quốc Anh (vùng Cardiganshire/Ceredigion)",
+   "lich_su": "\"Corgi\" từ tiếng Wales \"cor gi\" nghĩa là \"chó lùn\"; một trong những giống chó cổ nhất quần đảo Anh. Hai giống Corgi từng được Kennel Club (Anh) gộp chung tới 1928, tách riêng hoàn toàn năm 1934; tên chính thức đổi thành Cardigan Welsh Corgi năm 2006. Đưa sang Mỹ lần đầu tháng 6/1931 (Wikipedia).",
+   "muc_dich_ban_dau": "Chăn và lùa gia súc (từ gia cầm tới bò, cừu), canh giữ trang trại, diệt chuột; nay chủ yếu làm thú cưng bầu bạn."
+  },
+  "ngoai_hinh": {
+   "long": "Lông hai lớp (lớp ngoài dài vừa, lớp lót dày), rụng nhiều.",
+   "mau_pho_bien": [
+    "Đỏ",
+    "Sable",
+    "Vện (brindle)",
+    "Đen (có/không nâu vàng)",
+    "Blue merle (hiếm)",
+    "Trắng đốm kiểu 'Irish pattern' ở cổ, ngực, chân, mõm, đầu đuôi"
+   ],
+   "tai": "Tai lớn, dựng đứng, hình tam giác.",
+   "duoi": "Đuôi dài như đuôi cáo, xù lông — khác Pembroke (đuôi có thể ngắn tự nhiên hoặc cắt ngắn).",
+   "dac_diem_nhan_dang": "Thân dài, chân ngắn, ngực sâu; đực 14-17 kg, cái 11-15 kg; cao 25-33 cm (Wikipedia). Cardigan lớn hơn Pembroke và có đuôi dài."
+  },
+  "tinh_cach_chi_tiet": "Cardigan trung thành, thông minh và ham học, tình cảm và gắn bó với gia đình (PetMD, Wikipedia). Tính cách điềm tĩnh, thư thái; cảnh giác với người lạ nhưng khi đã quen thì vui vẻ, nghịch ngợm. Bản năng chăn gia súc còn rõ: hay lùa trẻ con đang chạy và vật nuôi khác, cần huấn luyện để không cắn nhẹ khi lùa. Chúng coi mình là thành viên trong 'bầy' và xem người là thủ lĩnh (Wikipedia).",
+  "than_thien_tre_em": {
+   "muc": "Tốt",
+   "ghi_chu": "PetMD: sống tốt với trẻ em, đặc biệt khi lớn lên cùng nhau và được xã hội hóa đúng cách; lưu ý bản năng lùa trẻ đang chạy nên cần dạy chó không lùa trẻ."
+  },
+  "than_thien_vat_khac": {
+   "muc": "Tốt",
+   "ghi_chu": "PetMD: sống tốt với vật nuôi khác khi được xã hội hóa; tuy vậy bản năng chăn gia súc có thể khiến chúng lùa chó/mèo khác."
+  },
+  "than_thien_nguoi_la": {
+   "muc": "Trung bình",
+   "ghi_chu": "Wikipedia: dè chừng người lạ, tính cách chỉ bộc lộ khi đã thoải mái; PetMD: cảnh giác và sủa khi thấy thay đổi hoặc mối đe dọa."
+  },
+  "muc_do_sua": {
+   "muc": "Trung bình",
+   "ghi_chu": "PetMD: là chó cảnh giác, hay sủa khi thấy mối đe dọa hoặc thay đổi xung quanh; có thể lo âu khi ở một mình lâu."
+  },
+  "huan_luyen": "Rất thông minh, ham học và muốn làm hài lòng chủ nên học nhanh, đáp ứng tốt với củng cố tích cực (PetMD). Thi đấu tốt ở agility, obedience, rally, flyball và herding trials (Wikipedia). Cần kích thích tinh thần (đồ chơi trí tuệ) kèm vận động thể chất.",
+  "van_dong_phut_ngay": {
+   "phut_toi_thieu": 20,
+   "hoat_dong_goi_y": "Đi bộ 20-30 phút mỗi ngày (PetMD), kèm chơi ném bắt, đi bộ đường dài, bơi, agility, herding trials.",
+   "ghi_chu": "PetMD: năng lượng trung bình, cần đi bộ hằng ngày; không cần vận động quá sức."
+  },
+  "cham_soc_long": "Lông hai lớp, rụng nhiều: chải thường xuyên để giữ lông khỏe, ngừa rối và giảm lông rụng trong nhà (PetMD). Kiểm tra mắt thường xuyên (dễ có vết nước mắt), vệ sinh tai định kỳ, chăm sóc răng (PetMD).",
+  "suc_khoe": {
+   "benh_thuong_gap": [
+    {
+     "benh": "Bệnh đĩa đệm cột sống (IVDD)",
+     "ghi_chu": "Lưng dài khiến giống dễ thoát vị đĩa đệm; gây đau, tổn thương thần kinh, có thể liệt nếu không phát hiện sớm; điều trị từ dùng thuốc tới phẫu thuật (PetMD, Wikipedia)."
+    },
+    {
+     "benh": "Loạn sản xương hông",
+     "ghi_chu": "Khớp hông phát triển không đúng, lỏng lẻo, gây đau và viêm khớp; nhẹ kiểm soát bằng giảm cân, thuốc giảm đau, bổ sung khớp; nặng cần phẫu thuật (PetMD)."
+    },
+    {
+     "benh": "Teo võng mạc tiến triển (PRA)",
+     "ghi_chu": "Nhóm bệnh mắt gây mất thị lực: đầu tiên là quáng gà, dần mù hoàn toàn; không có cách chữa (PetMD, Wikipedia)."
+    },
+    {
+     "benh": "Thoái hóa tủy (degenerative myelopathy)",
+     "ghi_chu": "Phá hủy dần dây thần kinh tủy sống, gây liệt dần hai chân sau, chủ yếu ở chó già (PetMD)."
+    }
+   ],
+   "ghi_chu": "Tuổi thọ: nghiên cứu Anh 2024 ghi 13,1 năm (Wikipedia); PetMD ghi 12-15 năm, câu lạc bộ giống ghi có thể tới 16-17 năm. Nguyên nhân tử vong hàng đầu (Khảo sát Kennel Club 2004): ung thư 28,3%, tuổi già 24,6%, bệnh thần kinh 15,2%."
+  },
+  "an_uong": "Thức ăn đạt chuẩn AAFCO, protein chất lượng (gà, bò, cừu, cá) là thành phần chính (PetMD); trưởng thành ăn 2 bữa/ngày, chó con tới 4 bữa/ngày; chia khẩu phần để tránh béo phì. Có thể bổ sung omega-3, probiotics, glucosamine/chondroitin theo chỉ định bác sĩ thú y (PetMD).",
+  "hop_voi_ai": {
+   "phu_hop": "Gia đình, kể cả người nuôi chó lần đầu (PetMD), nhà nông thôn hoặc chung cư thành phố (thích nghi tốt), người có thời gian đi bộ và chơi cùng mỗi ngày.",
+   "can_nhac_ky": "Người thường vắng nhà lâu (dễ lo âu xa cách); nhà có trẻ nhỏ hay chạy nhảy (bản năng lùa, cần huấn luyện); người muốn chó ít rụng lông (giống rụng nhiều)."
+  },
+  "luu_y_viet_nam": {
+   "trang_thai": "chua-kiem-chung",
+   "noi_dung": "CHƯA KIỂM CHỨNG. Không có nguồn nào nói riêng về nuôi Cardigan Welsh Corgi ở khí hậu nóng ẩm Việt Nam. Căn cứ gián tiếp: giống thích nghi tốt với cả chung cư thành phố (PetMD) và có lông hai lớp rụng nhiều nên cần chải thường xuyên. Mọi lưu ý riêng về nóng ẩm đều là suy luận — cần hỏi bác sĩ thú y."
+  },
+  "nguon_moi": [
+   "https://en.wikipedia.org/wiki/Cardigan_Welsh_Corgi",
+   "https://www.petmd.com/dog/breeds/cardigan-welsh-corgi"
+  ],
+  "trang_thai_moi": "da-kiem-chung",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: (1) toàn bộ mục luu_y_viet_nam — không có nguồn nào nói riêng về nuôi giống này ở khí hậu Việt Nam; (2) mức thân thiện với người lạ là đánh giá từ mô tả tính cách, không có thang đo trực tiếp từ nguồn."
+ },
+ {
+  "id": "cho-austrian-pinscher",
+  "anh_phu": [
+   {
+    "file": "photos/austrian-pinscher-2.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3AAustrianpinscherosterreich1.jpg",
+    "license": "CC BY-SA 4.0",
+    "tac_gia": "Canarian"
+   },
+   {
+    "file": "photos/austrian-pinscher-3.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3AAustrianpinscherosterreich3.jpg",
+    "license": "CC BY-SA 4.0",
+    "tac_gia": "Canarian"
+   },
+   {
+    "file": "photos/austrian-pinscher-4.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3AItavallanpinseri1.jpg",
+    "license": "CC BY 4.0",
+    "tac_gia": "Canarian"
+   }
+  ],
+  "video": null,
+  "nguon_goc": {
+   "xuat_xu": "Áo",
+   "lich_su": "Chó nông trại Áo cổ, bắt chuột trong chuồng, canh nhà, chăn gia súc. Cuối thế kỷ 19, chó nông trại dần biến mất khi công việc không còn cần; từ 1921 Emil Hauck bắt đầu phục hồi giống từ những con chó nông trại còn sót. Kennel Club Áo công nhận lần đầu năm 1928 với tên Österreichischer Kurzhaarpinscher. Sau Thế chiến II giống gần như tuyệt chủng — thập niên 1970 chỉ còn 1 con đăng ký (Diokles of Angern); lai với chó pinscher địa phương ('Landpinschern') để khôi phục. Hiện vẫn cực hiếm: Ark Austria ghi chỉ 6-12 con giống (Wikipedia). FCI công nhận (nhóm 2), UKC (Mỹ) công nhận 2006.",
+   "muc_dich_ban_dau": "Bắt chuột, canh nhà, chăn gia súc, làm bạn đồng hành."
+  },
+  "ngoai_hinh": {
+   "long": "Lông đôi, ngắn đến trung bình.",
+   "mau_pho_bien": [
+    "Vàng",
+    "Đỏ",
+    "Đen - nâu vàng",
+    "Thường có đốm trắng ở mặt, ngực, chân, đầu đuôi"
+   ],
+   "tai": "Tai nút (button ears).",
+   "duoi": "Đuôi dài, mang cao.",
+   "dac_diem_nhan_dang": "Cao 42-50 cm; thân hình cân đối, khỏe mạnh, chắc nịch; đầu hình quả lê; trông nặng nề, góc cạnh và hình chữ nhật hơn German Pinscher (Wikipedia). Cân nặng: chưa kiểm chứng (không có số liệu trong nguồn)."
+  },
+  "tinh_cach_chi_tiet": "Chuẩn giống mô tả là vui vẻ, không có xu hướng săn mồi, và là 'người gác không thể mua chuộc' (incorruptible guard); Wikipedia gọi là 'người bạn đồng hành dễ chịu' cho vùng nông thôn và ngoại ô. Ngoại hình và tính cách có thể khác nhau khá nhiều giữa các cá thể vì vốn là chó làm việc, không phải chó cảnh.",
+  "than_thien_tre_em": {
+   "muc": null,
+   "ghi_chu": "Chưa kiểm chứng: không có nguồn nào nói về mức thân thiện với trẻ em."
+  },
+  "than_thien_vat_khac": {
+   "muc": null,
+   "ghi_chu": "Chưa kiểm chứng: không có nguồn nào nói về mức thân thiện với vật nuôi khác."
+  },
+  "than_thien_nguoi_la": {
+   "muc": null,
+   "ghi_chu": "Chưa kiểm chứng trực tiếp; chuẩn giống mô tả là 'người gác không thể mua chuộc' (Wikipedia) — gợi ý cảnh giác với người lạ, nhưng không có thang đo."
+  },
+  "muc_do_sua": {
+   "muc": null,
+   "ghi_chu": "Chưa kiểm chứng: không có nguồn nào nói về mức độ sủa."
+  },
+  "huan_luyen": "Chưa kiểm chứng: không có nguồn nào nói về độ dễ huấn luyện hay trí thông minh của giống.",
+  "van_dong_phut_ngay": {
+   "phut_toi_thieu": null,
+   "hoat_dong_goi_y": "Đi bộ hằng ngày, chơi ngoài sân, làm việc canh giữ trang trại.",
+   "ghi_chu": "Chưa kiểm chứng: không có số phút vận động chuẩn từ nguồn; hoạt động gợi ý là suy luận từ mục đích gốc (chó nông trại năng động)."
+  },
+  "cham_soc_long": "Lông ngắn đến trung bình, lông đôi: chải định kỳ để giữ lông khỏe. Tần suất chải cụ thể chưa kiểm chứng (không có nguồn).",
+  "suc_khoe": {
+   "benh_thuong_gap": [],
+   "ghi_chu": "Wikipedia: 'Chưa có dữ liệu nào được thu thập về sức khỏe của giống'; sức khỏe tốt là mục tiêu của chương trình phục hồi giống ở Áo. Không có bệnh cụ thể nào được nguồn nêu tên — không ghi bệnh suy đoán."
+  },
+  "an_uong": "Chưa kiểm chứng: không có nguồn nào nói về chế độ ăn riêng của giống. Cho ăn theo chuẩn chung (thức ăn đạt chuẩn AAFCO, chia bữa, hỏi bác sĩ thú y) — đây là khuyến nghị chung, không phải thông tin riêng của giống.",
+  "hop_voi_ai": {
+   "phu_hop": "Người sống ở nông thôn hoặc ngoại ô, muốn chó canh nhà trung thành, yêu thích giống hiếm và sẵn sàng tìm nguồn giống khó (Wikipedia: 'người bạn đồng hành dễ chịu' cho vùng nông thôn/ngoại ô).",
+   "can_nhac_ky": "Người muốn chó phổ biến, dễ mua (giống cực hiếm, chỉ 6-12 con giống); người nuôi chung cư nhỏ ở thành phố (chưa có dữ liệu về độ hợp chung cư — dữ liệu v1 xếp 'Hạn chế')."
+  },
+  "luu_y_viet_nam": {
+   "trang_thai": "chua-kiem-chung",
+   "noi_dung": "CHƯA KIỂM CHỨNG. Không có nguồn nào nói riêng về nuôi Austrian Pinscher ở khí hậu nóng ẩm Việt Nam; giống lại cực hiếm, gần như không có ở Việt Nam. Mọi lưu ý đều là suy luận — cần hỏi bác sĩ thú y."
+  },
+  "nguon_moi": [
+   "https://en.wikipedia.org/wiki/Austrian_Pinscher",
+   "https://www.fci.be/en/nomenclature/AUSTRIAN-PINSCHER-64.html"
+  ],
+  "trang_thai_moi": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: mức thân thiện với trẻ em/vật khác/người lạ, mức độ sủa, độ dễ huấn luyện, số phút vận động/ngày, tần suất chải lông, chế độ ăn riêng, dữ liệu sức khỏe (Wikipedia ghi rõ chưa có dữ liệu sức khỏe được thu thập), cân nặng, tuổi thọ, toàn bộ mục luu_y_viet_nam."
+ },
+ {
+  "id": "cho-dutch-smoushond",
+  "anh_phu": [
+   {
+    "file": "photos/dutch-smoushond-2.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3AHollandsche_smoushonden_2.JPG",
+    "license": "CC BY-SA 3.0",
+    "tac_gia": "Jovare at Dutch Wikipedia"
+   },
+   {
+    "file": "photos/dutch-smoushond-3.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3AHollandse_Smoushond_01.jpg",
+    "license": "CC BY 2.0",
+    "tac_gia": "Zepp Web"
+   },
+   {
+    "file": "photos/dutch-smoushond-4.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3AHollandse_Smoushond_02.jpg",
+    "license": "CC BY 2.0",
+    "tac_gia": "Zepp Web"
+   }
+  ],
+  "video": null,
+  "nguon_goc": {
+   "xuat_xu": "Hà Lan",
+   "lich_su": "Chó bắt chuột nhỏ trong chuồng ngựa, họ hàng với Pinscher và Schnauzer. Câu lạc bộ Smoushond Hà Lan thành lập 1905 để ghi chép và đăng ký giống khi chúng có nguy cơ biến mất; tổ tiên có thể là Schnauzer màu vàng 'sai màu'. Gần như biến mất trong Thế chiến II; từ 1973 các nhà nhân giống tái tạo giống từ số ít chó còn lại, chủ yếu dùng chó Border Terrier lai. FCI công nhận chính thức năm 1981 (Wikipedia).",
+   "muc_dich_ban_dau": "Bắt chuột trong chuồng ngựa; nay làm thú cưng bầu bạn."
+  },
+  "ngoai_hinh": {
+   "long": "Lông thô, xù, không thấm nước, dài 4-7 cm, có lớp lót; lông xoăn hoặc len và dễ rối là không mong muốn (chuẩn FCI 308).",
+   "mau_pho_bien": [
+    "Vàng mọi sắc, ưa vàng rơm đậm",
+    "Tai, ria, râu và lông mày có thể đậm hơn"
+   ],
+   "tai": "Tai nhỏ, rủ xuống, đặt cao; khi cảnh giác, đầu tai hơi hướng về phía trước.",
+   "duoi": "Đuôi khá ngắn, lông rậm (chuẩn FCI 308).",
+   "dac_diem_nhan_dang": "Nhỏ: đực cao 37-42 cm, cái 35-40 cm, nặng 7-11 kg (chuẩn FCI 308); đầu rộng và ngắn, mõm rộng, mắt nâu đậm to tròn, biểu cảm thân thiện và sôi nổi."
+  },
+  "tinh_cach_chi_tiet": "Chuẩn FCI 308: 'tình cảm, vui vẻ, thân thiện và phóng khoáng bẩm sinh; sôi nổi nhưng không quá khích, không dễ sợ hãi'. Đây là giống chó nhỏ vui vẻ, gắn bó với chủ.",
+  "than_thien_tre_em": {
+   "muc": null,
+   "ghi_chu": "Chưa kiểm chứng trực tiếp; tính cách 'thân thiện, tình cảm' theo chuẩn FCI gợi ý hợp gia đình, nhưng không có thang đo với trẻ em."
+  },
+  "than_thien_vat_khac": {
+   "muc": null,
+   "ghi_chu": "Chưa kiểm chứng: không có nguồn nào nói về mức thân thiện với vật nuôi khác."
+  },
+  "than_thien_nguoi_la": {
+   "muc": null,
+   "ghi_chu": "Chưa kiểm chứng; chuẩn FCI mô tả 'không dễ sợ hãi' và thân thiện — gợi ý không quá dè chừng người lạ, nhưng không có thang đo."
+  },
+  "muc_do_sua": {
+   "muc": null,
+   "ghi_chu": "Chưa kiểm chứng: không có nguồn nào nói về mức độ sủa."
+  },
+  "huan_luyen": "Chưa kiểm chứng: không có nguồn nào nói về độ dễ huấn luyện hay trí thông minh của giống.",
+  "van_dong_phut_ngay": {
+   "phut_toi_thieu": null,
+   "hoat_dong_goi_y": "Đi bộ hằng ngày, chơi ngoài sân.",
+   "ghi_chu": "Chưa kiểm chứng: không có số phút vận động chuẩn từ nguồn; hoạt động gợi ý là suy luận từ vóc dáng và tính cách sôi nổi."
+  },
+  "cham_soc_long": "Lông thô xù 4-7 cm: chải thường xuyên để tránh rối; lông xoăn/len và dễ rối là lỗi theo chuẩn FCI 308. Tần suất chải cụ thể (mấy lần/tuần) chưa kiểm chứng.",
+  "suc_khoe": {
+   "benh_thuong_gap": [],
+   "ghi_chu": "Chưa có dữ liệu bệnh cụ thể trong các nguồn đã tra (Wikipedia, chuẩn FCI 308 không nêu bệnh); không ghi bệnh suy đoán. Tuổi thọ: chưa kiểm chứng."
+  },
+  "an_uong": "Chưa kiểm chứng: không có nguồn nào nói về chế độ ăn riêng của giống.",
+  "hop_voi_ai": {
+   "phu_hop": "Người muốn chó nhỏ thân thiện, sống chung cư (dữ liệu v1 xếp 'hợp chung cư'), yêu giống hiếm.",
+   "can_nhac_ky": "Người muốn chó phổ biến dễ mua (hiếm, ít người biết ngoài Hà Lan — Wikipedia)."
+  },
+  "luu_y_viet_nam": {
+   "trang_thai": "chua-kiem-chung",
+   "noi_dung": "CHƯA KIỂM CHỨNG. Không có nguồn nào nói riêng về nuôi Dutch Smoushond ở khí hậu nóng ẩm Việt Nam; giống lại hiếm, gần như không có ở Việt Nam. Mọi lưu ý đều là suy luận — cần hỏi bác sĩ thú y."
+  },
+  "nguon_moi": [
+   "https://en.wikipedia.org/wiki/Dutch_Smoushond",
+   "https://www.fci.be/Nomenclature/Standards/308g02-en.pdf"
+  ],
+  "trang_thai_moi": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: mức thân thiện với trẻ em/vật khác/người lạ, mức độ sủa, độ dễ huấn luyện, số phút vận động/ngày, tần suất chải lông, chế độ ăn riêng, dữ liệu bệnh và tuổi thọ, toàn bộ mục luu_y_viet_nam."
+ },
+ {
+  "id": "cho-hokkaido",
+  "anh_phu": [
+   {
+    "file": "photos/hokkaido-2.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3AHokkaido-white.jpg",
+    "license": "CC BY-SA 4.0",
+    "tac_gia": "Canarian"
+   },
+   {
+    "file": "photos/hokkaido-3.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3AHokkaido_Inu_3.JPG",
+    "license": "CC BY 3.0",
+    "tac_gia": "Midori"
+   },
+   {
+    "file": "photos/hokkaido-4.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3AJapaneseHokkaido1.jpg",
+    "license": "CC BY-SA 4.0",
+    "tac_gia": "Canarian"
+   }
+  ],
+  "video": null,
+  "nguon_goc": {
+   "xuat_xu": "Đảo Hokkaido, Nhật Bản",
+   "lich_su": "Tổ tiên từ chó thời Jomon; được cho là từ chó cỡ vừa do người từ Honshu đưa tới năm 1140. Năm 1869 nhà động vật học Thomas W. Blakiston đặt tên 'Hokkaido'. Giống có ích trong việc tìm người sống sót sau bão tuyết ở núi Hakkoda năm 1902. Năm 1937 được Nhật Bản công nhận là 'di sản thiên nhiên sống' và loài hiếm được pháp luật bảo vệ; tên chính thức Hokkaido-Inu. Cực hiếm ngoài Nhật Bản (Wikipedia).",
+   "muc_dich_ban_dau": "Săn bắn, tìm kiếm cứu hộ, canh giữ; nay làm thú cưng và chó săn."
+  },
+  "ngoai_hinh": {
+   "long": "Lông hai lớp: ngoài thô và thẳng, lót mềm và dày; lông đuôi khá dài và dựng (chuẩn FCI 261).",
+   "mau_pho_bien": [
+    "Đỏ",
+    "Trắng",
+    "Đen",
+    "Vện (brindle)",
+    "Sesame",
+    "Đen - nâu vàng",
+    "Xám sói"
+   ],
+   "tai": "Tai nhỏ, hình tam giác, dựng đứng, hơi nghiêng về phía trước.",
+   "duoi": "Đuôi dày, đặt cao, cuộn trên lưng hoặc cong lưỡi liềm.",
+   "dac_diem_nhan_dang": "Cỡ vừa; đực cao 48,5-51,5 cm, cái 45,5-48,5 cm (chuẩn FCI 261); nặng khoảng 20 kg (Wikipedia); mắt gần như hình tam giác, màu nâu đậm, góc ngoài hơi xếch."
+  },
+  "tinh_cach_chi_tiet": "Chuẩn FCI 261: 'trung thành, ngoan ngoãn, rất cảnh giác và dũng cảm; phán đoán chính xác và sức bền lớn'; 'chó có sức bền đáng kể, thể hiện phẩm giá và cảm giác ngây thơ'. Đây là giống chó Nhật cổ điềm tĩnh, dũng cảm và rất gắn bó với chủ.",
+  "than_thien_tre_em": {
+   "muc": null,
+   "ghi_chu": "Chưa kiểm chứng: không có nguồn nào nói về mức thân thiện với trẻ em."
+  },
+  "than_thien_vat_khac": {
+   "muc": null,
+   "ghi_chu": "Chưa kiểm chứng: không có nguồn nào nói về mức thân thiện với vật nuôi khác."
+  },
+  "than_thien_nguoi_la": {
+   "muc": null,
+   "ghi_chu": "Chưa kiểm chứng trực tiếp; chuẩn FCI mô tả 'rất cảnh giác' — gợi ý dè chừng người lạ, nhưng không có thang đo."
+  },
+  "muc_do_sua": {
+   "muc": null,
+   "ghi_chu": "Chưa kiểm chứng: không có nguồn nào nói về mức độ sủa."
+  },
+  "huan_luyen": "Chưa kiểm chứng: không có nguồn nào nói về độ dễ huấn luyện hay xếp hạng trí thông minh của giống.",
+  "van_dong_phut_ngay": {
+   "phut_toi_thieu": null,
+   "hoat_dong_goi_y": "Đi bộ dài, chạy, leo núi, trò chơi vận động — giống săn bền bỉ.",
+   "ghi_chu": "Chưa kiểm chứng số phút; nhu cầu vận động cao (dữ liệu v1 xếp 'Cao') dựa trên nguồn gốc chó săn bền bỉ."
+  },
+  "cham_soc_long": "Lông dày hai lớp, rụng nhiều theo mùa: chải thường xuyên để giảm rụng và ngừa rối. Tần suất chải cụ thể (mấy lần/tuần) chưa kiểm chứng.",
+  "suc_khoe": {
+   "benh_thuong_gap": [
+    {
+     "benh": "Dị tật mắt Collie (Collie eye anomaly - CEA)",
+     "ghi_chu": "Tỷ lệ rất cao: khoảng 1/3 mắc bệnh, 2/3 mang gen (Wikipedia, nghiên cứu 2014 trên Veterinary Record)."
+    }
+   ],
+   "ghi_chu": "Tuổi thọ: chưa kiểm chứng. Ngoài CEA, không có bệnh cụ thể nào khác được nguồn nêu tên."
+  },
+  "an_uong": "Chưa kiểm chứng: không có nguồn nào nói về chế độ ăn riêng của giống.",
+  "hop_voi_ai": {
+   "phu_hop": "Người có kinh nghiệm nuôi chó, nhà có sân, sống ở vùng khí hậu mát, yêu thích chó Nhật cổ và sẵn sàng chăm sóc lông dày.",
+   "can_nhac_ky": "Người nuôi lần đầu; nhà chung cư nhỏ (dữ liệu v1 xếp 'không hợp chung cư'); người ở vùng nóng ẩm (lông dày hai lớp vốn thích nghi lạnh)."
+  },
+  "luu_y_viet_nam": {
+   "trang_thai": "chua-kiem-chung",
+   "noi_dung": "CHƯA KIỂM CHỨNG. Không có nguồn nào nói riêng về nuôi Hokkaido ở khí hậu nóng ẩm Việt Nam. Căn cứ gián tiếp: lông dày hai lớp vốn thích nghi với lạnh sâu ở đảo Hokkaido (Wikipedia) nên việc chống nóng cần hỏi bác sĩ thú y; mọi lưu ý cụ thể đều là suy luận."
+  },
+  "nguon_moi": [
+   "https://en.wikipedia.org/wiki/Hokkaido_(dog_breed)",
+   "https://www.fci.be/Nomenclature/Standards/261g05-en.pdf"
+  ],
+  "trang_thai_moi": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: mức thân thiện với trẻ em/vật khác/người lạ, mức độ sủa, độ dễ huấn luyện, số phút vận động/ngày, tần suất chải lông, chế độ ăn riêng, tuổi thọ, toàn bộ mục luu_y_viet_nam."
+ },
+ {
+  "id": "cho-taiwan-dog",
+  "anh_phu": [
+   {
+    "file": "photos/taiwan-dog-2.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3ABlack_8_Year_Taiwan_Dog.jpg",
+    "license": "CC BY-SA 4.0",
+    "tac_gia": "KatieHuang"
+   },
+   {
+    "file": "photos/taiwan-dog-3.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3AFormosa_Appearance.JPG",
+    "license": "Public domain",
+    "tac_gia": "Stanley"
+   },
+   {
+    "file": "photos/taiwan-dog-4.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3ATaiwandog-black1.jpg",
+    "license": "CC BY 4.0",
+    "tac_gia": "Canarian"
+   }
+  ],
+  "video": null,
+  "nguon_goc": {
+   "xuat_xu": "Đài Loan",
+   "lich_su": "Chó núi Formosan, một trong những giống chó cổ nhất thế giới. Tổ tiên là chó bản địa Đài Loan, lai với chó săn Hà Lan ('Flying Dog') từ thế kỷ 17; trải qua 4 thảm họa lớn (thời Hà Lan, thời Nhật, Thế chiến II, thời Quốc dân đảng) làm suy giảm quần thể. Từ chó bán hoang dã, giống được thuần hóa làm chó săn, chó canh và chó cứu hộ (Wikipedia).",
+   "muc_dich_ban_dau": "Săn bắn, canh giữ, cứu hộ; nay làm thú cưng và chó nghiệp vụ."
+  },
+  "ngoai_hinh": {
+   "long": "Lông ngắn và cứng, ôm sát thân, dài 1,5-3 cm (chuẩn FCI 348).",
+   "mau_pho_bien": [
+    "Đen",
+    "Vện (brindle)",
+    "Nâu vàng (fawn)",
+    "Trắng",
+    "Trắng - đen",
+    "Trắng - nâu vàng",
+    "Trắng - vện"
+   ],
+   "tai": "Tai dựng, đặt hai bên đầu nghiêng 45°.",
+   "duoi": "Đuôi hình lưỡi liềm, đặt cao, mang dựng, đầu cong về phía trước.",
+   "dac_diem_nhan_dang": "Thân gần vuông, cơ bắp; đực cao 48-53 cm, cái 43-48 cm; đực nặng 14-18 kg, cái 12-16 kg (chuẩn FCI 348); mắt hạnh nhân màu nâu đậm."
+  },
+  "tinh_cach_chi_tiet": "Học rất nhanh (Wikipedia). Cảnh giác cao với người lạ và tiếng động; trong tình huống lạ có thể sợ hãi và tấn công vì sợ, cần vài ngày mới bình tĩnh lại. Khi đã quen và được huấn luyện tốt, chúng thân thiện với người và vật khác, nhưng vẫn hơi xa cách với người lạ sau khi đã gắn bó với chủ. Thường gắn bó mạnh với một thành viên trong gia đình ('one-person dog'), cực kỳ trung thành và tình cảm với người đó. Nhờ cảnh giác cao, chúng làm chó canh tốt; nếu huấn luyện kém có thể bảo vệ quá mức và hung dữ với người lạ.",
+  "than_thien_tre_em": {
+   "muc": null,
+   "ghi_chu": "Chưa kiểm chứng trực tiếp; tính cách cảnh giác và có thể sợ hãi-tấn công khi chưa quen (Wikipedia) nên cần thận trọng với trẻ nhỏ — đây là lưu ý an toàn, không phải thang đo."
+  },
+  "than_thien_vat_khac": {
+   "muc": "Tốt",
+   "ghi_chu": "Wikipedia: khi thoải mái và được huấn luyện tốt, chúng thân thiện với người và vật khác."
+  },
+  "than_thien_nguoi_la": {
+   "muc": "Cẩn thận",
+   "ghi_chu": "Wikipedia: dè chừng, xa cách với người lạ; có thể sợ hãi-tấn công trong tình huống lạ; khi đã gắn bó với chủ thì càng dè chừng người ngoài."
+  },
+  "muc_do_sua": {
+   "muc": null,
+   "ghi_chu": "Chưa kiểm chứng: không có nguồn nào nêu mức độ sủa; giống cảnh giác cao và làm chó canh (Wikipedia) nên có thể sủa cảnh báo — đây là suy luận."
+  },
+  "huan_luyen": "Học rất nhanh (Wikipedia); cần xã hội hóa sớm và huấn luyện nhất quán để giảm sợ hãi-tấn công; huấn luyện kém có thể khiến chó bảo vệ quá mức.",
+  "van_dong_phut_ngay": {
+   "phut_toi_thieu": null,
+   "hoat_dong_goi_y": "Đi bộ dài, chạy, leo núi, trò chơi đánh hơi và săn mồi.",
+   "ghi_chu": "Chưa kiểm chứng số phút; nhu cầu vận động cao (dữ liệu v1 xếp 'Cao') dựa trên nguồn gốc chó săn nhanh nhẹn."
+  },
+  "cham_soc_long": "Lông ngắn cứng, ít cần chăm sóc cầu kỳ; chải định kỳ. Tần suất cụ thể chưa kiểm chứng.",
+  "suc_khoe": {
+   "benh_thuong_gap": [],
+   "ghi_chu": "Chưa có dữ liệu bệnh cụ thể trong các nguồn đã tra (Wikipedia, chuẩn FCI 348 không nêu bệnh); không ghi bệnh suy đoán. Tuổi thọ: chưa kiểm chứng."
+  },
+  "an_uong": "Chưa kiểm chứng: không có nguồn nào nói về chế độ ăn riêng của giống.",
+  "hop_voi_ai": {
+   "phu_hop": "Người có kinh nghiệm, kiên nhẫn xã hội hóa sớm, nhà có sân, cần chó canh trung thành.",
+   "can_nhac_ky": "Người nuôi lần đầu; gia đình có trẻ nhỏ hoặc khách ra vào thường xuyên (chó cảnh giác, có thể sợ hãi-tấn công); chung cư đông người (dữ liệu v1 xếp 'Hạn chế')."
+  },
+  "luu_y_viet_nam": {
+   "trang_thai": "chua-kiem-chung",
+   "noi_dung": "CHƯA KIỂM CHỨNG. Không có nguồn nào nói riêng về nuôi Taiwan Dog ở khí hậu nóng ẩm Việt Nam. Căn cứ gián tiếp: lông ngắn, giống thích nghi với khí hậu cận nhiệt đới Đài Loan (suy luận). Mọi lưu ý cụ thể đều là suy luận — cần hỏi bác sĩ thú y."
+  },
+  "nguon_moi": [
+   "https://en.wikipedia.org/wiki/Taiwan_Dog",
+   "https://www.fci.be/Nomenclature/Standards/348g05-en.pdf"
+  ],
+  "trang_thai_moi": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: mức thân thiện với trẻ em, mức độ sủa, số phút vận động/ngày, tần suất chải lông, chế độ ăn riêng, dữ liệu bệnh và tuổi thọ, toàn bộ mục luu_y_viet_nam."
+ },
+ {
+  "id": "cho-deutsch-stichelhaar",
+  "anh_phu": [
+   {
+    "file": "photos/deutsch-stichelhaar-2.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3AHiska_vom_Greifenhagen.jpg",
+    "license": "CC BY-SA 3.0",
+    "tac_gia": "Lunsenberg"
+   },
+   {
+    "file": "photos/deutsch-stichelhaar-3.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3ASz%C3%A1lk%C3%A1ssz%C5%91r%C5%B1_n%C3%A9met_vizsla.jpg",
+    "license": "Public domain",
+    "tac_gia": "Farkas Attila"
+   }
+  ],
+  "video": null,
+  "nguon_goc": {
+   "xuat_xu": "Đức",
+   "lich_su": "Giống chó săn lông cứng lâu đời nhất của Đức; chó kiểu này đã xuất hiện từ thế kỷ 16 (tranh khắc gỗ, tranh đồng). Năm 1888, nhà khuyển học Hans von Kadisch chứng minh đây là dạng lông cứng của chó săn gà Đức (Hühnerhund), không phải biến thể của chó săn lông ngắn; từ đó giống được tái lập từ số ít cá thể còn lại. Club Stichelhaar thành lập 1892; sau Thế chiến II và chia cắt Đức, vùng nhân giống bị mất; tái lập từ 1945 ở Ostfriesland (Wikipedia tiếng Đức, chuẩn FCI 232).",
+   "muc_dich_ban_dau": "Chó săn đa năng (săn trước và sau phát súng), làm việc trên đồng, nước và rừng, tìm dấu vết; nay chủ yếu trong tay thợ săn."
+  },
+  "ngoai_hinh": {
+   "long": "Lông cứng, thô và xù, dài khoảng 4 cm, ôm lỏng vào thân; mõm có râu vừa phải, lông mày rậm và cứng (chuẩn FCI 232).",
+   "mau_pho_bien": [
+    "Nâu (có/không đốm trắng ngực)",
+    "Nâu đốm (Braunschimmel, có/không mảng nâu)",
+    "Nâu nhạt đốm (Hellschimmel, có/không mảng nâu)"
+   ],
+   "tai": "Tai trung bình, không quá rộng ở gốc, đầu tròn, đặt cao, rủ xuống ôm sát đầu.",
+   "duoi": "Đuôi trung bình, khỏe, thẳng, mang ngang khi di chuyển.",
+   "dac_diem_nhan_dang": "Đực cao 60-70 cm, cái 58-68 cm (chuẩn FCI 232); thân hình khỏe, cân đối, ngực sâu rộng, lưng thẳng và chắc; mắt nâu hình oval."
+  },
+  "tinh_cach_chi_tiet": "Chuẩn FCI 232: 'cân bằng, điềm tĩnh, bền bỉ, dũng cảm nhưng tự chủ; không nhút nhát cũng không hung dữ'. Wikipedia tiếng Đức: điềm tĩnh, cân bằng, dễ dắt, trung thành với chủ và ham học; cảnh giác, bản năng bảo vệ rõ nhưng kiểm soát được; trong bầy thì hòa đồng, không nhút nhát hay hung dữ; trong gia đình hòa nhập tốt nhưng cần được giao việc.",
+  "than_thien_tre_em": {
+   "muc": "Tốt",
+   "ghi_chu": "Wikipedia tiếng Đức: trong gia đình, chó hòa nhập tốt và là thành viên điềm tĩnh, thân thiện; tuy nhiên không có thang đo trực tiếp với trẻ em."
+  },
+  "than_thien_vat_khac": {
+   "muc": "Tốt",
+   "ghi_chu": "Wikipedia tiếng Đức: trong bầy chó cùng loài thì hòa đồng, không nhút nhát hay hung dữ."
+  },
+  "than_thien_nguoi_la": {
+   "muc": "Trung bình",
+   "ghi_chu": "Wikipedia tiếng Đức: cảnh giác và bản năng bảo vệ rõ nhưng kiểm soát được; chuẩn FCI: không nhút nhát cũng không hung dữ."
+  },
+  "muc_do_sua": {
+   "muc": null,
+   "ghi_chu": "Chưa kiểm chứng: không có nguồn nào nêu mức độ sủa."
+  },
+  "huan_luyen": "Dễ huấn luyện, ham học (Wikipedia tiếng Đức: 'leichtführig, lernwillig'); giai đoạn huấn luyện rất hăng hái học; cần việc làm thường xuyên — chó săn làm việc bền bỉ cả ngày dài trong điều kiện khắc nghiệt.",
+  "van_dong_phut_ngay": {
+   "phut_toi_thieu": null,
+   "hoat_dong_goi_y": "Săn bắn, tìm dấu vết (Schweißarbeit), làm việc đồng/nước/rừng, đi bộ đường dài.",
+   "ghi_chu": "Chưa kiểm chứng số phút; nhu cầu vận động rất cao (dữ liệu v1 xếp 'Cao') — giống săn làm việc, đứng vững cả ngày dài (Wikipedia tiếng Đức)."
+  },
+  "cham_soc_long": "Lông cứng 4 cm, ít cần chăm sóc cầu kỳ; chải định kỳ, chú ý râu và lông mày. Tần suất cụ thể chưa kiểm chứng.",
+  "suc_khoe": {
+   "benh_thuong_gap": [],
+   "ghi_chu": "Chưa có dữ liệu bệnh cụ thể trong các nguồn đã tra (chuẩn FCI 232, Wikipedia tiếng Đức không nêu bệnh); không ghi bệnh suy đoán. Tuổi thọ: chưa kiểm chứng."
+  },
+  "an_uong": "Chưa kiểm chứng: không có nguồn nào nói về chế độ ăn riêng của giống.",
+  "hop_voi_ai": {
+   "phu_hop": "Thợ săn có kinh nghiệm, người năng động ngoài trời, nhà có sân rộng, muốn chó săn đa năng điềm tĩnh.",
+   "can_nhac_ky": "Người nuôi lần đầu, chung cư (dữ liệu v1 xếp 'không hợp chung cư'), người ít vận động (chó cần việc làm; buồn chán sẽ khó chịu)."
+  },
+  "luu_y_viet_nam": {
+   "trang_thai": "chua-kiem-chung",
+   "noi_dung": "CHƯA KIỂM CHỨNG. Không có nguồn nào nói riêng về nuôi Deutsch Stichelhaar ở khí hậu nóng ẩm Việt Nam; giống lại hiếm, gần như không có ở Việt Nam. Mọi lưu ý đều là suy luận — cần hỏi bác sĩ thú y."
+  },
+  "nguon_moi": [
+   "https://www.fci.be/Nomenclature/Standards/232g07-en.pdf",
+   "https://de.wikipedia.org/wiki/Deutsch_Stichelhaar"
+  ],
+  "trang_thai_moi": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: mức độ sủa, số phút vận động/ngày, tần suất chải lông, chế độ ăn riêng, dữ liệu bệnh và tuổi thọ, toàn bộ mục luu_y_viet_nam. Lưu ý: không có bài Wikipedia tiếng Anh riêng cho giống này — dữ liệu theo chuẩn FCI 232 và Wikipedia tiếng Đức."
+ },
+ {
+  "id": "cho-phu-quoc-ridgeback",
+  "anh_phu": [
+   {
+    "file": "photos/phu-quoc-ridgeback-2.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3AA_pair_of_PQ_dogs.JPG",
+    "license": "CC BY 3.0",
+    "tac_gia": "Ngô Trung"
+   },
+   {
+    "file": "photos/phu-quoc-ridgeback-3.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3APhu_Quoc_ridgeback.jpg",
+    "license": "CC BY-SA 3.0",
+    "tac_gia": "Lưu Ly at Vietnamese Wikipedia"
+   },
+   {
+    "file": "photos/phu-quoc-ridgeback-4.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File%3ACh%C3%B3_Ph%C3%BA_Qu%E1%BB%91c_gi%E1%BB%AF_nh%C3%A0.jpg",
+    "license": "CC BY-SA 3.0",
+    "tac_gia": "Ngô Trung"
+   }
+  ],
+  "video": null,
+  "nguon_goc": {
+   "xuat_xu": "Đảo Phú Quốc, tỉnh Kiên Giang, Việt Nam",
+   "lich_su": "Một trong 3 giống chó xoáy lưng trên thế giới (cùng Rhodesian và Thai Ridgeback) và một trong 4 giống chó bản địa Việt Nam. Vốn là landrace bán hoang dã, sống cùng người dân đảo để săn mồi và canh nhà; người Pháp nhận diện là giống riêng từ thế kỷ 19. Suýt tuyệt chủng đầu thế kỷ 20 do chó ngoại lai tràn vào; nghiên cứu gen cho thấy gần nhất với chó Pungsan (Hàn Quốc), không phải Thai Ridgeback như từng nghĩ. Thắng giải chó đẹp Hà Nội 2013; làm linh vật đường hoa Nguyễn Huệ 2018; theo truyền thuyết, 4 chó Phú Quốc từng cứu vua Gia Long và được phong 'Thần khuyển đại tướng quân' (Wikipedia).",
+   "muc_dich_ban_dau": "Săn mồi đa năng (chuột, cá, hươu, trâu nước), canh nhà, bầu bạn."
+  },
+  "ngoai_hinh": {
+   "long": "Lông ngắn, ôm sát.",
+   "mau_pho_bien": [
+    "Vàng",
+    "Đen",
+    "Vện (brindle)"
+   ],
+   "tai": "Tai dựng đứng, hình tam giác (theo ảnh thực tế của giống; tiêu chuẩn VKA mô tả tai dựng — chưa đối chiếu trực tiếp bản tiêu chuẩn vì link VKA không tải được file).",
+   "duoi": "Đuôi dài, thon dần về chóp, thường mang cong nhẹ lên (theo ảnh thực tế của giống; chưa đối chiếu trực tiếp bản tiêu chuẩn VKA).",
+   "dac_diem_nhan_dang": "Cỡ vừa, dáng chó săn, đầu lớn, cơ bắp phát triển; lưỡi xanh (một phần hoặc toàn bộ) và chân có màng — dấu hiệu đặc trưng của giống (Wikipedia). Xoáy lưng có 5 dạng chính: nốt nhạc, kiếm, yên ngựa, nửa yên, mũi tên."
+  },
+  "tinh_cach_chi_tiet": "Nhanh nhẹn, cảnh giác, đa năng và dũng cảm; Wikipedia: săn mồi đa năng, làm việc độc lập hoặc theo bầy, chó canh tốt, cảnh báo kẻ xâm nhập. Chó chạy nhanh, bơi giỏi, đánh hơi tốt cả dấu nóng lẫn dấu lạnh. Tính cách chi tiết (mức thân thiện, độ dễ huấn luyện) chưa có nguồn mô tả trực tiếp.",
+  "than_thien_tre_em": {
+   "muc": null,
+   "ghi_chu": "Chưa kiểm chứng: không có nguồn nào nói về mức thân thiện với trẻ em."
+  },
+  "than_thien_vat_khac": {
+   "muc": null,
+   "ghi_chu": "Chưa kiểm chứng: không có nguồn nào nói về mức thân thiện với vật nuôi khác; giống săn theo bầy (Wikipedia) gợi ý hợp tác tốt với chó khác khi đi săn — đây là suy luận."
+  },
+  "than_thien_nguoi_la": {
+   "muc": null,
+   "ghi_chu": "Chưa kiểm chứng trực tiếp; giống làm chó canh tốt và cảnh báo kẻ xâm nhập (Wikipedia) — gợi ý cảnh giác với người lạ, nhưng không có thang đo."
+  },
+  "muc_do_sua": {
+   "muc": null,
+   "ghi_chu": "Chưa kiểm chứng: không có nguồn nào nêu mức độ sủa."
+  },
+  "huan_luyen": "Chưa kiểm chứng: không có nguồn nào nói về độ dễ huấn luyện hay trí thông minh của giống.",
+  "van_dong_phut_ngay": {
+   "phut_toi_thieu": null,
+   "hoat_dong_goi_y": "Chạy, bơi, đi bộ dài, trò chơi đánh hơi.",
+   "ghi_chu": "Chưa kiểm chứng số phút; nhu cầu cao (dữ liệu v1 xếp 'Cao') dựa trên khả năng chạy nhanh, bơi giỏi, săn đa năng (Wikipedia)."
+  },
+  "cham_soc_long": "Lông ngắn: chải ít, ít cần chăm sóc cầu kỳ. Tần suất cụ thể chưa kiểm chứng.",
+  "suc_khoe": {
+   "benh_thuong_gap": [],
+   "ghi_chu": "Chưa có dữ liệu bệnh cụ thể trong các nguồn đã tra; nghiên cứu gen ghi quần thể đa dạng về mặt di truyền (Wikipedia). Tuổi thọ: chưa kiểm chứng."
+  },
+  "an_uong": "Chưa kiểm chứng: không có nguồn nào nói về chế độ ăn riêng của giống.",
+  "hop_voi_ai": {
+   "phu_hop": "Người Việt Nam muốn nuôi quốc khuyển, nhà có sân, người năng động, thích chó săn/canh đa năng.",
+   "can_nhac_ky": "Người nuôi lần đầu thiếu kinh nghiệm với chó săn độc lập; chung cư nhỏ (dữ liệu v1 xếp 'Hạn chế')."
+  },
+  "luu_y_viet_nam": {
+   "trang_thai": "chua-kiem-chung-phan",
+   "noi_dung": "Là giống bản địa đảo Phú Quốc nên vốn sống trong khí hậu nhiệt đới ẩm của Việt Nam (Wikipedia); lông ngắn, bơi giỏi, chân có màng. Cần sân chơi và vận động nhiều mỗi ngày; chưa có nguồn hướng dẫn chăm sóc riêng cho nuôi chung cư hay khí hậu miền Bắc — hỏi bác sĩ thú y."
+  },
+  "nguon_moi": [
+   "https://en.wikipedia.org/wiki/Phu_Quoc_Ridgeback",
+   "http://vka.vn/sdm_downloads/cho-phu-quoc-ban-tieu-chuan-so-001vn20-09-2009-cua-vka/"
+  ],
+  "trang_thai_moi": "chua-kiem-chung-phan",
+  "ghi_chu_chua_kiem_chung": "Chưa kiểm chứng: màu lông phổ biến và chi tiết tai/đuôi chưa đối chiếu trực tiếp với bản tiêu chuẩn VKA (link VKA không tải được file); mức thân thiện với trẻ em/vật khác/người lạ, mức độ sủa, độ dễ huấn luyện, số phút vận động/ngày, tần suất chải lông, chế độ ăn riêng, dữ liệu bệnh và tuổi thọ."
+ }
+]
