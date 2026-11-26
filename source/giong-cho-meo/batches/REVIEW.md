@@ -128,3 +128,7 @@
 - DGAP 8/8 (23 ảnh, 0 video) | D1 60/60 (177 ảnh sau khi gỡ 2 minh họa, 3 video) | D2 60/60 (230 ảnh, 3 video) | D3 60/60 (181 ảnh, 3 video) | D4 59/59 (216 ảnh, 2 video) | D5 60/60 (196 ảnh, 1 video) | D6 57/57 (215 ảnh, 7 video) | C1 51/51 (183 ảnh, 1 video) | C2 43/43 (126 ảnh sau khi gỡ minh họa Thai, 3 video)
 - Tổng ảnh phụ mới: 1.547 (sau khi gỡ 3 minh họa) | Tổng video: 23 | Tất cả file đã kiểm tra tồn tại trên đĩa, giấy phép tự do, tiền tố 'photos/' đúng quy ước v1.
 - Bước tiếp: nén ảnh → merge → rebuild HTML → QA → upload.
+
+## Sửa video v2.1 (27/11/2026, sau kiểm chứng live lần 1)
+- Lần kiểm tra live đầu (00:35–00:41 27/11): video hiện 0:00 lâu ở lần bấm đầu (preload="none" + metadata tải chậm), kiểm tra lại (00:43–00:48) cả 3 video thử (Akita, Basset Hound, Husky) đều phát hết — tệp không hỏng, chỉ tải metadata chậm.
+- Sửa: (1) preload="none" → preload="metadata" trong build_html.py để trình phát hiện thời lượng ngay khi cuộn tới; (2) chuyển 5 video .ogv (Theora — Safari không phát được) sang .webm VP9 bằng ffmpeg, dung lượng giữ nguyên thời lượng: basset-hound 27,7s (3,0→1,9 MB), dalmatian 82,7s (11,8→6,8 MB), sarplaninac 17,4s (1,3 MB), white-swiss 49,9s (10,3→1,7 MB), yorkshire 8,1s (13,2→1,8 MB). Cập nhật video.file trong data/breeds.json + batches/v2-D1, v2-D2, v2-D6 + rebuild HTML. 5 file .ogv cũ vẫn nằm trên GitHub (chưa xóa, không còn được trang tham chiếu).
